@@ -1,0 +1,10 @@
+# BORI Critical Edition electronic text: "for reference purposes only".
+# Fetched on demand by tools/fetch_sources.sh; never committed.
+sources/ce/
+# Parsed caches, rebuilt by `tools/mbh.py build-cache`.
+sources/cache/
+# Compiled manuscript outputs (rebuilt by tools/compile_novel.py).
+build/
+__pycache__/
+*.pyc
+.DS_Store

@@ -1,0 +1,5 @@
+# Keep the public-domain source files byte-identical so checksums verify.
+sources/ganguli/*.txt -text
+*.md text eol=lf
+*.py text eol=lf
+*.sh text eol=lf
