@@ -853,6 +853,309 @@
    "dialogue": [],
    "flag": [],
    "ref": ""
+  },
+  {
+   "name": "Rama Jamadagnya",
+   "iast": "Rāma Jāmadagnya",
+   "group": "Seer",
+   "who": "son of Jamadagni, the Bhrigu warrior-brahmin who destroyed the kshatriyas and made the five lakes of blood; later Bhishma's opponent and Karna's teacher. The CE never calls him 'Parashurama' (ledger L-62): write 'Rama, son of Jamadagni', 'Rama Jamadagnya' or 'Bhargava Rama'",
+   "aka": [
+    "Bhargava Rama"
+   ],
+   "dialogue": [
+    "Jamadagnya"
+   ],
+   "flag": [
+    "Parashuram",
+    "Parashurama",
+    "Parasurama",
+    "Parshuram"
+   ],
+   "ref": "1.2.3"
+  },
+  {
+   "name": "Sarama",
+   "iast": "Saramā",
+   "group": "Gods",
+   "who": "the dog of the gods, who curses Janamejaya",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.3.7"
+  },
+  {
+   "name": "Somashravas",
+   "iast": "Somaśravas",
+   "group": "Seer",
+   "who": "Janamejaya's family priest, son of Shrutashravas by a snake-woman",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.3.12"
+  },
+  {
+   "name": "Shrutashravas",
+   "iast": "Śrutaśravas",
+   "group": "Seer",
+   "who": "seer, father of Somashravas",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.3.12"
+  },
+  {
+   "name": "Dhaumya of the Ayodas",
+   "iast": "Dhaumya Āyoda",
+   "group": "Seer",
+   "who": "teacher of Aruni, Upamanyu and Veda. NOT the Dhaumya who becomes the Pandavas' priest (1.174)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.3.19"
+  },
+  {
+   "name": "Aruni",
+   "iast": "Āruṇi Pāñcālya",
+   "group": "Seer",
+   "who": "Dhaumya's pupil, renamed Uddalaka",
+   "aka": [
+    "Uddalaka"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.3.20"
+  },
+  {
+   "name": "Upamanyu",
+   "iast": "Upamanyu",
+   "group": "Seer",
+   "who": "Dhaumya's pupil who praised the Ashvins",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.3.32"
+  },
+  {
+   "name": "Veda",
+   "iast": "Veda",
+   "group": "Seer",
+   "who": "Dhaumya's pupil, later teacher of Uttanka and priest of Janamejaya and Paushya",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.3.79"
+  },
+  {
+   "name": "Paushya",
+   "iast": "Pauṣya",
+   "group": "King",
+   "who": "king whose queen gives her earrings to Uttanka",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.3.85"
+  },
+  {
+   "name": "Bhrigu",
+   "iast": "Bhṛgu",
+   "group": "Seer",
+   "who": "seer, son of Brahma, ancestor of the Bhargavas (Shaunaka's line)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.5.5"
+  },
+  {
+   "name": "Puloma",
+   "iast": "Pulomā",
+   "group": "Seer",
+   "who": "Bhrigu's wife, mother of Chyavana (the rakshasa is Puloman)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.5.11"
+  },
+  {
+   "name": "Puloman",
+   "iast": "Puloman (Pulomā, m.)",
+   "group": "Rakshasa",
+   "who": "the rakshasa who carries off Bhrigu's wife",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.5.13"
+  },
+  {
+   "name": "Chyavana",
+   "iast": "Cyavana",
+   "group": "Seer",
+   "who": "son of Bhrigu, 'the Fallen One'",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Chyavan"
+   ],
+   "ref": "1.6.2"
+  },
+  {
+   "name": "Pramati",
+   "iast": "Pramati",
+   "group": "Seer",
+   "who": "son of Chyavana and Sukanya; father of Ruru",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.5.7"
+  },
+  {
+   "name": "Ruru",
+   "iast": "Ruru",
+   "group": "Seer",
+   "who": "son of Pramati; gives half his life to Pramadvara",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.5.7"
+  },
+  {
+   "name": "Pramadvara",
+   "iast": "Pramadvarā",
+   "group": "Seer",
+   "who": "daughter of Vishvavasu and Menaka, raised by Sthulakesha; Ruru's wife",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.8.10"
+  },
+  {
+   "name": "Shunaka",
+   "iast": "Śunaka",
+   "group": "Seer",
+   "who": "son of Ruru; ancestor of Shaunaka",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Sunaka"
+   ],
+   "ref": "1.5.8"
+  },
+  {
+   "name": "Sthulakesha",
+   "iast": "Sthūlakeśa",
+   "group": "Seer",
+   "who": "seer who raised Pramadvara",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.8.4"
+  },
+  {
+   "name": "Menaka",
+   "iast": "Menakā",
+   "group": "Apsaras",
+   "who": "an apsaras; mother of Pramadvara (and, later, of Shakuntala)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.8.5"
+  },
+  {
+   "name": "Vishvavasu",
+   "iast": "Viśvāvasu",
+   "group": "Gandharva",
+   "who": "king of the gandharvas, father of Pramadvara",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.8.5"
+  },
+  {
+   "name": "Sahasrapat",
+   "iast": "Sahasrapād",
+   "group": "Seer",
+   "who": "seer cursed to be a dundubha snake",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.10.7"
+  },
+  {
+   "name": "Khagama",
+   "iast": "Khagama",
+   "group": "Seer",
+   "who": "brahmin who cursed his friend Sahasrapat",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.11.1"
+  },
+  {
+   "name": "Agni",
+   "iast": "Agni",
+   "group": "Gods",
+   "who": "the fire god",
+   "aka": [
+    "Pavaka",
+    "Jatavedas",
+    "Vibhavasu",
+    "Hutashana"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": ""
+  },
+  {
+   "name": "Indra",
+   "iast": "Indra",
+   "group": "Gods",
+   "who": "king of the gods",
+   "aka": [
+    "Shakra",
+    "Purandara",
+    "Vasava",
+    "Maghavat"
+   ],
+   "dialogue": [
+    "Shakra"
+   ],
+   "flag": [],
+   "ref": ""
+  },
+  {
+   "name": "Brahma",
+   "iast": "Brahmā",
+   "group": "Gods",
+   "who": "the creator, grandfather of the worlds",
+   "aka": [
+    "Pitamaha",
+    "Prajapati"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.1.30"
+  },
+  {
+   "name": "Yama",
+   "iast": "Yama",
+   "group": "Gods",
+   "who": "lord of the dead, also called king of dharma",
+   "aka": [
+    "Dharmaraja",
+    "Vaivasvata"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.9.12"
+  },
+  {
+   "name": "Kashyapa",
+   "iast": "Kāśyapa",
+   "group": "Seer",
+   "who": "the brahmin healer whom Takshaka turned back from saving Parikshit (1.38-40)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.3.189"
   }
  ],
  "not_vyasa": [

@@ -6,11 +6,18 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 
 | Name | IAST | Who | Also called (in the text) | Dialogue | Never write |
 |------|------|-----|---------------------------|----------|-------------|
+| **Menaka** | Menakā | an apsaras; mother of Pramadvara (and, later, of Shakuntala) |  |  |  |
 | **Lomaharshana** | Lomaharṣaṇa | father of Ugrashravas, a bard |  |  | Lomaharsana |
 | **Shaunaka** | Śaunaka | head of the household of sages in the Naimisha forest | kulapati |  | Saunaka |
 | **Ugrashravas** | Ugraśravas | the bard, son of Lomaharshana, who tells the epic in the Naimisha forest | Sauti, Lomaharshani | Sauti | Ugrasrava, Ugrasravas |
 | **Vaishampayana** | Vaiśaṃpāyana | Vyasa's pupil, who tells the epic to Janamejaya |  |  | Vaisampayana, Vaishampayan |
 | **Shakuni** | Śakuni | Gandhari's brother, son of Subala; the dice player | Saubala | Saubala | Sakuni, Shakunee |
+| **Vishvavasu** | Viśvāvasu | king of the gandharvas, father of Pramadvara |  |  |  |
+| **Agni** | Agni | the fire god | Pavaka, Jatavedas, Vibhavasu, Hutashana |  |  |
+| **Brahma** | Brahmā | the creator, grandfather of the worlds | Pitamaha, Prajapati |  |  |
+| **Indra** | Indra | king of the gods | Shakra, Purandara, Vasava, Maghavat | Shakra |  |
+| **Sarama** | Saramā | the dog of the gods, who curses Janamejaya |  |  |  |
+| **Yama** | Yama | lord of the dead, also called king of dharma | Dharmaraja, Vaivasvata |  |  |
 | **Amba** | Ambā | eldest princess of Kashi, carried off by Bhishma |  |  |  |
 | **Duhshala** | Duḥśalā | Dhritarashtra and Gandhari's one daughter; wife of Jayadratha |  |  | Dushala, Dussala |
 | **Duhshasana** | Duḥśāsana | second son of Dhritarashtra and Gandhari |  |  | Dushasana, Dussasana, Dushashan, Dushshasana |
@@ -21,6 +28,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Jayadratha** | Jayadratha | king of the Sindhus; Duhshala's husband | Saindhava |  |  |
 | **Karna** | Karṇa | Kunti's first son, by the Sun, born with armour and earrings; raised by the charioteer Adhiratha and Radha | Vasusena, Radheya, Vaikartana, Suta's son | Radheya | Karan, Karn |
 | **Radha** | Rādhā | Adhiratha's wife, Karna's foster mother. The only Radha in the epic (see ledger L-58) |  |  |  |
+| **Paushya** | Pauṣya | king whose queen gives her earrings to Uttanka |  |  |  |
 | **Ambalika** | Ambālikā | princess of Kashi; Vichitravirya's wife; mother of Pandu |  |  |  |
 | **Ambika** | Ambikā | princess of Kashi; Vichitravirya's wife; mother of Dhritarashtra |  |  |  |
 | **Ashvatthama** | Aśvatthāman | son of Drona and Kripi | Drauni | Drauni | Ashwatthama, Aswatthama, Ashwathama, Ashvathama |
@@ -58,8 +66,27 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sahadeva** | Sahadeva | younger of Madri's twin sons, by the Ashvins |  |  | Sahdev, Sahadev |
 | **Yudhishthira** | Yudhiṣṭhira | eldest son of Kunti, by Dharma; the dharma king | Ajatashatru, Dharmaraja, Kaunteya, Partha | Ajatashatru | Yudhistira, Yudhishtira, Yudhisthira, Yudhishthir, Yudhisthir |
 | **Hidimba** | Hiḍimba / Hiḍimbā | a rakshasa brother and sister of the forest. Bhima kills the brother and marries the sister. In English the names collide, so give context until the brother is dead |  |  | Hidimbi, Hidimbaa |
+| **Puloman** | Puloman (Pulomā, m.) | the rakshasa who carries off Bhrigu's wife |  |  |  |
+| **Aruni** | Āruṇi Pāñcālya | Dhaumya's pupil, renamed Uddalaka | Uddalaka |  |  |
 | **Astika** | Āstīka | son of Jaratkaru and Vasuki's sister; he stops the snake sacrifice |  |  |  |
+| **Bhrigu** | Bhṛgu | seer, son of Brahma, ancestor of the Bhargavas (Shaunaka's line) |  |  |  |
+| **Chyavana** | Cyavana | son of Bhrigu, 'the Fallen One' |  |  | Chyavan |
+| **Dhaumya of the Ayodas** | Dhaumya Āyoda | teacher of Aruni, Upamanyu and Veda. NOT the Dhaumya who becomes the Pandavas' priest (1.174) |  |  |  |
+| **Kashyapa** | Kāśyapa | the brahmin healer whom Takshaka turned back from saving Parikshit (1.38-40) |  |  |  |
+| **Khagama** | Khagama | brahmin who cursed his friend Sahasrapat |  |  |  |
+| **Pramadvara** | Pramadvarā | daughter of Vishvavasu and Menaka, raised by Sthulakesha; Ruru's wife |  |  |  |
+| **Pramati** | Pramati | son of Chyavana and Sukanya; father of Ruru |  |  |  |
+| **Puloma** | Pulomā | Bhrigu's wife, mother of Chyavana (the rakshasa is Puloman) |  |  |  |
+| **Rama Jamadagnya** | Rāma Jāmadagnya | son of Jamadagni, the Bhrigu warrior-brahmin who destroyed the kshatriyas and made the five lakes of blood; later Bhishma's opponent and Karna's teacher. The CE never calls him 'Parashurama' (ledger L-62): write 'Rama, son of Jamadagni', 'Rama Jamadagnya' or 'Bhargava Rama' | Bhargava Rama | Jamadagnya | Parashuram, Parashurama, Parasurama, Parshuram |
+| **Ruru** | Ruru | son of Pramati; gives half his life to Pramadvara |  |  |  |
+| **Sahasrapat** | Sahasrapād | seer cursed to be a dundubha snake |  |  |  |
+| **Shrutashravas** | Śrutaśravas | seer, father of Somashravas |  |  |  |
+| **Shunaka** | Śunaka | son of Ruru; ancestor of Shaunaka |  |  | Sunaka |
+| **Somashravas** | Somaśravas | Janamejaya's family priest, son of Shrutashravas by a snake-woman |  |  |  |
+| **Sthulakesha** | Sthūlakeśa | seer who raised Pramadvara |  |  |  |
+| **Upamanyu** | Upamanyu | Dhaumya's pupil who praised the Ashvins |  |  |  |
 | **Uttanka** | Uttaṅka | pupil of Veda who fetches the queen's earrings and urges Janamejaya to take revenge |  |  | Utanka |
+| **Veda** | Veda | Dhaumya's pupil, later teacher of Uttanka and priest of Janamejaya and Paushya |  |  |  |
 | **Vyasa** | Vyāsa | Krishna Dvaipayana, son of Parashara and Satyavati; maker of the epic and father of Dhritarashtra, Pandu and Vidura | Krishna Dvaipayana, Dvaipayana, Parasharya | Dvaipayana | Vyas, Ved Vyas |
 | **Balarama** | Balarāma | Krishna's elder brother, the plough-bearer | Baladeva, Rama, Samkarshana, Halayudha | Baladeva | Balram, Balaram |
 | **Krishna** | Kṛṣṇa | son of Vasudeva and Devaki, of the Vrishni clan; Arjuna's friend and charioteer | Vasudeva, Keshava, Madhava, Govinda, Janardana, Hrishikesha, Madhusudana, Achyuta, Varshneya, Dasharha | Keshava, Madhava, Govinda, Janardana, Vasudeva | Krishn, Krsna |

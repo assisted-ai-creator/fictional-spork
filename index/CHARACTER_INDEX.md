@@ -8,16 +8,22 @@ Where each person in `workbook/names.json` appears (name or dialogue name). Coun
 |--------|---------------------|---------------|
 | Abhimanyu | 1.2 (2), 1.3 (6) | 1.2 |
 | Adhiratha | not yet | — |
+| Agni | 1.3 (1), 1.5 (1), 1.6 (18) | 1.3 |
 | Amba | 1.3 (2) | 1.3 |
 | Ambalika | not yet | — |
 | Ambika | not yet | — |
 | Arjuna | 1.1 (4), 1.2 (26), 1.3 (24) | 1.1 |
+| Aruni | 1.4 (8) | 1.4 |
 | Ashvatthama | 1.2 (2), 1.3 (1) | 1.2 |
-| Astika | 1.1 (1), 1.3 (2) | 1.1 |
+| Astika | 1.1 (1), 1.3 (2), 1.7 (3) | 1.1 |
 | Balarama | 1.3 (2) | 1.3 |
 | Bhima | 1.1 (4), 1.2 (3), 1.3 (6), 1.4 (1) | 1.1 |
 | Bhishma | 1.1 (2), 1.2 (6), 1.3 (9) | 1.1 |
+| Bhrigu | 1.3 (1), 1.6 (22), 1.7 (1) | 1.3 |
+| Brahma | 1.1 (1), 1.2 (1), 1.6 (2) | 1.1 |
 | Chitrangada | 1.3 (3) | 1.3 |
+| Chyavana | 1.3 (1), 1.6 (8), 1.7 (1) | 1.3 |
+| Dhaumya of the Ayodas | 1.4 (3) | 1.4 |
 | Dhrishtadyumna | 1.2 (1), 1.3 (1) | 1.2 |
 | Dhritarashtra | 1.1 (7), 1.2 (2), 1.3 (6), 1.5 (1) | 1.1 |
 | Draupadi | 1.1 (1), 1.2 (3), 1.3 (10) | 1.1 |
@@ -30,39 +36,60 @@ Where each person in `workbook/names.json` appears (name or dialogue name). Coun
 | Ganga | 1.2 (1), 1.3 (2), 1.5 (1) | 1.2 |
 | Ghatotkacha | 1.2 (2), 1.3 (3) | 1.2 |
 | Hidimba | 1.3 (2) | 1.3 |
+| Indra | 1.1 (1), 1.2 (4), 1.3 (4), 1.5 (2), 1.6 (1) | 1.1 |
 | Iravan | not yet | — |
-| Janamejaya | 1.1 (3), 1.3 (1), 1.4 (10), 1.5 (2) | 1.1 |
+| Janamejaya | 1.1 (3), 1.3 (1), 1.4 (10), 1.5 (2), 1.7 (2) | 1.1 |
 | Jayadratha | 1.2 (3), 1.3 (4) | 1.2 |
 | Karna | 1.1 (2), 1.2 (9), 1.3 (11) | 1.1 |
+| Kashyapa | 1.5 (1) | 1.5 |
+| Khagama | 1.7 (1) | 1.7 |
 | Kripa | 1.1 (1), 1.2 (2), 1.3 (2) | 1.1 |
 | Kripi | not yet | — |
 | Krishna | 1.1 (7), 1.2 (19), 1.3 (23) | 1.1 |
 | Kritavarma | 1.2 (2), 1.3 (2) | 1.2 |
 | Kunti | 1.1 (3), 1.2 (3), 1.3 (2) | 1.1 |
-| Lomaharshana | 1.1 (1), 1.3 (1) | 1.1 |
+| Lomaharshana | 1.1 (1), 1.3 (1), 1.6 (3) | 1.1 |
 | Madri | 1.1 (1), 1.2 (1) | 1.1 |
+| Menaka | 1.7 (2) | 1.7 |
 | Nakula | 1.2 (1) | 1.2 |
 | Pandu | 1.1 (7), 1.3 (1) | 1.1 |
 | Parikshit | 1.1 (1), 1.3 (2), 1.4 (2) | 1.1 |
+| Paushya | 1.3 (2), 1.5 (16) | 1.3 |
+| Pramadvara | 1.6 (1), 1.7 (11) | 1.6 |
+| Pramati | 1.6 (2), 1.7 (6) | 1.6 |
+| Puloma | 1.6 (6) | 1.6 |
+| Puloman | 1.6 (2) | 1.6 |
 | Radha | not yet | — |
+| Rama Jamadagnya | not yet | — |
+| Ruru | 1.6 (2), 1.7 (31) | 1.6 |
 | Sahadeva | 1.2 (1) | 1.2 |
+| Sahasrapat | 1.7 (1) | 1.7 |
 | Sanjaya | 1.1 (3), 1.2 (58), 1.3 (5) | 1.1 |
+| Sarama | 1.4 (3) | 1.4 |
 | Satyaki | 1.2 (1), 1.3 (1) | 1.2 |
 | Satyavati | 1.1 (1) | 1.1 |
 | Shakuni | 1.1 (3), 1.2 (2), 1.3 (1) | 1.1 |
 | Shalya | 1.3 (5) | 1.3 |
 | Shantanu | 1.2 (1), 1.3 (1) | 1.2 |
-| Shaunaka | 1.1 (1), 1.3 (1) | 1.1 |
+| Shaunaka | 1.1 (1), 1.3 (1), 1.6 (4) | 1.1 |
 | Shikhandi | 1.2 (1), 1.3 (1) | 1.2 |
+| Shrutashravas | 1.4 (1) | 1.4 |
+| Shunaka | 1.6 (1), 1.7 (1) | 1.6 |
+| Somashravas | 1.4 (1) | 1.4 |
+| Sthulakesha | 1.7 (5) | 1.7 |
 | Subhadra | 1.2 (2), 1.3 (4) | 1.2 |
 | Takshaka | 1.5 (11) | 1.5 |
-| Ugrashravas | 1.1 (4), 1.2 (1), 1.3 (3) | 1.1 |
+| Ugrashravas | 1.1 (4), 1.2 (1), 1.3 (3), 1.6 (2) | 1.1 |
+| Upamanyu | 1.4 (23) | 1.4 |
 | Uttanka | 1.3 (1), 1.5 (51) | 1.3 |
-| Vaishampayana | 1.1 (4) | 1.1 |
+| Vaishampayana | 1.1 (4), 1.6 (1) | 1.1 |
+| Veda | 1.1 (4), 1.2 (4), 1.3 (2), 1.4 (9), 1.5 (3), 1.6 (1), 1.7 (1) | 1.1 |
 | Vichitravirya | 1.1 (1), 1.3 (1) | 1.1 |
 | Vidura | 1.1 (3), 1.3 (6) | 1.1 |
 | Vikarna | not yet | — |
 | Virata | 1.2 (2), 1.3 (7) | 1.2 |
+| Vishvavasu | 1.7 (1) | 1.7 |
 | Vyasa | 1.1 (9), 1.2 (4), 1.3 (10) | 1.1 |
+| Yama | 1.7 (1) | 1.7 |
 | Yudhishthira | 1.1 (3), 1.2 (3), 1.3 (8) | 1.1 |
 | Yuyutsu | not yet | — |

@@ -6,6 +6,28 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Novel: Book 1 (Adi Parva), chapters 1–7 drafted
+- Ch 1 *The Storyteller in the Forest* (CE 1.1.1–101); Ch 2 *When I Heard*
+  (1.1.102–210); Ch 3 *The Hundred Parts* (1.2); Ch 4 *The Teacher's Pupils*
+  (1.3.1–84); Ch 5 *The Queen's Earrings* (1.3.85–195); Ch 6 *The Fire's
+  Witness* (1.4–7); Ch 7 *Half a Life* (1.8–12). About 18,900 words, all
+  style-checked. Each chapter has a verse-level source map and notes on
+  divergences and reading choices.
+- Fidelity catches recorded in chapter notes: Agni's reply to Puloman is only
+  a rejected star passage (\*220), so the novel gives no invented speech;
+  the lament verses found only in the vulgate are left out; the number of
+  snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
+
+### Reference
+- Ledger **L-62**: "Parashurama" never appears in the CE. The CE calls him Rama
+  Jamadagnya or Bhargava Rama.
+
+### Workbook
+- `names.json`: +27 people (frame, Paushya and Pauloma stories, gods), including
+  two distinct Dhaumyas.
+- `NOVEL_PLAN.md`: the CE's own list of the hundred parts (1.2.34–69);
+  chapter rows for chapters 1–3 updated to their actual ranges.
+
 ## [0.1.0] - 2026-09-22
 
 The foundation: sources, tools, canon rules, the verified ledger, the house

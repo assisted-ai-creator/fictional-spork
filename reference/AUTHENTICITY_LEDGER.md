@@ -120,6 +120,7 @@ well-known story. See [How to add an entry](#how-to-add-an-entry).
 | L-59 | **Vṛṣālī (Vrushali)**, Karṇa's wife | ❌ | Not in the CE or G. The only close hits are the common noun *vṛṣalīpati* ("husband of a śūdra woman"), e.g. 5.37.11. | Coined by Shivaji Sawant in the Marathi novel *Mrityunjaya* |
 | L-60 | **Bhānumatī**, Duryodhana's wife | ❌ | Duryodhana's wife is never named in the CE. The CE's Bhānumatīs are other women (e.g. 1.90.15). | Bhaṭṭa Nārāyaṇa's play *Veṇīsaṃhāra* |
 | L-61 | Balarāma meant **Subhadrā to marry Duryodhana**. | ❌ | Not in the CE or G. In the CE, Balarāma is only enraged at the abduction (1.212.31) and is then calmed (1.212). | Later Purāṇic and folk tradition |
+| L-62 | The Bhrigu warrior-sage is called **Parashurama** ("Rama of the axe"). | 🔶 (name) | The name *Paraśurāma* occurs **nowhere** in the CE or its apparatus lines (0 hits). The CE calls him *Rāma Jāmadagnya* (e.g. 1.2.116, 1.58.4, 1.61.70), *Bhārgava Rāma*, or simply *Rāma*. In Ganguli "Parasurama" appears mostly as the translator's own gloss ("the son of Jamadagni (Parasurama)", G 1.64, 1.66). | The novel writes "Rama, son of Jamadagni" or "Rama Jamadagnya". |
 
 ---
 
