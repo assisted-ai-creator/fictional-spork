@@ -1,0 +1,902 @@
+{
+ "_about": "Source of truth for name spellings in the novel. tools/style_check.py flags 'flag' variants and 'not_vyasa' names; tools/build_index.py renders workbook/NAMES.md and index/CHARACTER_INDEX.md from this file. Rules: ś/ṣ -> sh, c -> ch, ṛ -> ri, no diacritics in the novel, v not w, n-stems and -mat/-vat stems in their familiar nominative (Shikhandi, Ashvatthama, Iravan, Hanuman). 'dialogue' lists alternates a character may use in speech; the narrator always uses 'name'. Add people as they enter the story.",
+ "people": [
+  {
+   "name": "Ugrashravas",
+   "iast": "Ugraśravas",
+   "group": "Frame",
+   "who": "the bard, son of Lomaharshana, who tells the epic in the Naimisha forest",
+   "aka": [
+    "Sauti",
+    "Lomaharshani"
+   ],
+   "dialogue": [
+    "Sauti"
+   ],
+   "flag": [
+    "Ugrasrava",
+    "Ugrasravas"
+   ],
+   "ref": "1.1.1"
+  },
+  {
+   "name": "Shaunaka",
+   "iast": "Śaunaka",
+   "group": "Frame",
+   "who": "head of the household of sages in the Naimisha forest",
+   "aka": [
+    "kulapati"
+   ],
+   "dialogue": [],
+   "flag": [
+    "Saunaka"
+   ],
+   "ref": "1.1.1"
+  },
+  {
+   "name": "Lomaharshana",
+   "iast": "Lomaharṣaṇa",
+   "group": "Frame",
+   "who": "father of Ugrashravas, a bard",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Lomaharsana"
+   ],
+   "ref": "1.1.1"
+  },
+  {
+   "name": "Janamejaya",
+   "iast": "Janamejaya",
+   "group": "Kuru",
+   "who": "king of the Kurus, great-grandson of Arjuna; the snake sacrifice is his",
+   "aka": [
+    "Parikshita (son of Parikshit)"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.1.8"
+  },
+  {
+   "name": "Vaishampayana",
+   "iast": "Vaiśaṃpāyana",
+   "group": "Frame",
+   "who": "Vyasa's pupil, who tells the epic to Janamejaya",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Vaisampayana",
+    "Vaishampayan"
+   ],
+   "ref": "1.1.9"
+  },
+  {
+   "name": "Vyasa",
+   "iast": "Vyāsa",
+   "group": "Seer",
+   "who": "Krishna Dvaipayana, son of Parashara and Satyavati; maker of the epic and father of Dhritarashtra, Pandu and Vidura",
+   "aka": [
+    "Krishna Dvaipayana",
+    "Dvaipayana",
+    "Parasharya"
+   ],
+   "dialogue": [
+    "Dvaipayana"
+   ],
+   "flag": [
+    "Vyas",
+    "Ved Vyas"
+   ],
+   "ref": "1.1.9"
+  },
+  {
+   "name": "Parikshit",
+   "iast": "Parikṣit",
+   "group": "Kuru",
+   "who": "son of Abhimanyu and Uttara; father of Janamejaya; killed by the snake Takshaka",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Parikshith",
+    "Parikshita",
+    "Pariksit"
+   ],
+   "ref": ""
+  },
+  {
+   "name": "Shantanu",
+   "iast": "Śaṃtanu",
+   "group": "Kuru",
+   "who": "king of Hastinapura; husband of Ganga, then of Satyavati; father of Bhishma",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Santanu",
+    "Shantnu"
+   ],
+   "ref": ""
+  },
+  {
+   "name": "Ganga",
+   "iast": "Gaṅgā",
+   "group": "Kuru",
+   "who": "the river goddess; Shantanu's first wife; Bhishma's mother",
+   "aka": [
+    "Jahnavi"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": ""
+  },
+  {
+   "name": "Bhishma",
+   "iast": "Bhīṣma",
+   "group": "Kuru",
+   "who": "Devavrata, son of Shantanu and Ganga, who vowed never to marry or rule",
+   "aka": [
+    "Devavrata",
+    "Gangeya",
+    "Shantanava"
+   ],
+   "dialogue": [
+    "Gangeya",
+    "Devavrata"
+   ],
+   "flag": [
+    "Bheeshma",
+    "Bhisma",
+    "Bhishm"
+   ],
+   "ref": "1.94.88"
+  },
+  {
+   "name": "Satyavati",
+   "iast": "Satyavatī",
+   "group": "Kuru",
+   "who": "the fisherman's adopted daughter who became Shantanu's queen; mother of Vyasa",
+   "aka": [
+    "Kali",
+    "Gandhavati",
+    "Yojanagandha",
+    "Matsyagandha"
+   ],
+   "dialogue": [],
+   "flag": [
+    "Satyawati"
+   ],
+   "ref": "1.57"
+  },
+  {
+   "name": "Chitrangada",
+   "iast": "Citrāṅgada",
+   "group": "Kuru",
+   "who": "elder son of Shantanu and Satyavati (not the Manipur princess Chitrangada)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": ""
+  },
+  {
+   "name": "Vichitravirya",
+   "iast": "Vicitravīrya",
+   "group": "Kuru",
+   "who": "younger son of Shantanu and Satyavati; husband of Ambika and Ambalika",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Vichitraveerya"
+   ],
+   "ref": ""
+  },
+  {
+   "name": "Amba",
+   "iast": "Ambā",
+   "group": "Kashi",
+   "who": "eldest princess of Kashi, carried off by Bhishma",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": ""
+  },
+  {
+   "name": "Ambika",
+   "iast": "Ambikā",
+   "group": "Kuru",
+   "who": "princess of Kashi; Vichitravirya's wife; mother of Dhritarashtra",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": ""
+  },
+  {
+   "name": "Ambalika",
+   "iast": "Ambālikā",
+   "group": "Kuru",
+   "who": "princess of Kashi; Vichitravirya's wife; mother of Pandu",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": ""
+  },
+  {
+   "name": "Dhritarashtra",
+   "iast": "Dhṛtarāṣṭra",
+   "group": "Kuru",
+   "who": "blind elder son of Vyasa and Ambika; father of Duryodhana and his brothers",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Dhritrashtra",
+    "Dhritarashtr",
+    "Dhrutarashtra"
+   ],
+   "ref": ""
+  },
+  {
+   "name": "Pandu",
+   "iast": "Pāṇḍu",
+   "group": "Kuru",
+   "who": "pale son of Vyasa and Ambalika; king; father of the Pandavas",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": ""
+  },
+  {
+   "name": "Vidura",
+   "iast": "Vidura",
+   "group": "Kuru",
+   "who": "son of Vyasa and a serving woman; Dharma born as a man; wise counsellor",
+   "aka": [
+    "Kshattri"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": ""
+  },
+  {
+   "name": "Gandhari",
+   "iast": "Gāndhārī",
+   "group": "Kuru",
+   "who": "princess of Gandhara; Dhritarashtra's wife, who bound her own eyes",
+   "aka": [
+    "Saubali"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": ""
+  },
+  {
+   "name": "Shakuni",
+   "iast": "Śakuni",
+   "group": "Gandhara",
+   "who": "Gandhari's brother, son of Subala; the dice player",
+   "aka": [
+    "Saubala"
+   ],
+   "dialogue": [
+    "Saubala"
+   ],
+   "flag": [
+    "Sakuni",
+    "Shakunee"
+   ],
+   "ref": "1.61.72"
+  },
+  {
+   "name": "Kunti",
+   "iast": "Kuntī",
+   "group": "Pandava",
+   "who": "Pritha, daughter of Shura, adopted by Kuntibhoja; Pandu's senior wife; mother of Karna, Yudhishthira, Bhima and Arjuna",
+   "aka": [
+    "Pritha"
+   ],
+   "dialogue": [
+    "Pritha"
+   ],
+   "flag": [
+    "Kunthi"
+   ],
+   "ref": ""
+  },
+  {
+   "name": "Madri",
+   "iast": "Mādrī",
+   "group": "Pandava",
+   "who": "princess of Madra, Shalya's sister; Pandu's second wife; mother of Nakula and Sahadeva",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": ""
+  },
+  {
+   "name": "Karna",
+   "iast": "Karṇa",
+   "group": "Kaurava side",
+   "who": "Kunti's first son, by the Sun, born with armour and earrings; raised by the charioteer Adhiratha and Radha",
+   "aka": [
+    "Vasusena",
+    "Radheya",
+    "Vaikartana",
+    "Suta's son"
+   ],
+   "dialogue": [
+    "Radheya"
+   ],
+   "flag": [
+    "Karan",
+    "Karn"
+   ],
+   "ref": ""
+  },
+  {
+   "name": "Adhiratha",
+   "iast": "Adhiratha",
+   "group": "Kaurava side",
+   "who": "the charioteer (suta) who raised Karna",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": ""
+  },
+  {
+   "name": "Radha",
+   "iast": "Rādhā",
+   "group": "Kaurava side",
+   "who": "Adhiratha's wife, Karna's foster mother. The only Radha in the epic (see ledger L-58)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.293.2"
+  },
+  {
+   "name": "Yudhishthira",
+   "iast": "Yudhiṣṭhira",
+   "group": "Pandava",
+   "who": "eldest son of Kunti, by Dharma; the dharma king",
+   "aka": [
+    "Ajatashatru",
+    "Dharmaraja",
+    "Kaunteya",
+    "Partha"
+   ],
+   "dialogue": [
+    "Ajatashatru"
+   ],
+   "flag": [
+    "Yudhistira",
+    "Yudhishtira",
+    "Yudhisthira",
+    "Yudhishthir",
+    "Yudhisthir"
+   ],
+   "ref": ""
+  },
+  {
+   "name": "Bhima",
+   "iast": "Bhīma",
+   "group": "Pandava",
+   "who": "second son of Kunti, by Vayu the wind; immensely strong",
+   "aka": [
+    "Bhimasena",
+    "Vrikodara"
+   ],
+   "dialogue": [
+    "Bhimasena",
+    "Vrikodara"
+   ],
+   "flag": [
+    "Bheem",
+    "Bheema",
+    "Bhim"
+   ],
+   "ref": ""
+  },
+  {
+   "name": "Arjuna",
+   "iast": "Arjuna",
+   "group": "Pandava",
+   "who": "third son of Kunti, by Indra; the great archer",
+   "aka": [
+    "Partha",
+    "Dhananjaya",
+    "Phalguna",
+    "Kiritin",
+    "Bibhatsu",
+    "Savyasachin",
+    "Gudakesha",
+    "Jishnu",
+    "Vijaya"
+   ],
+   "dialogue": [
+    "Partha",
+    "Dhananjaya"
+   ],
+   "flag": [
+    "Arjun"
+   ],
+   "ref": ""
+  },
+  {
+   "name": "Nakula",
+   "iast": "Nakula",
+   "group": "Pandava",
+   "who": "elder of Madri's twin sons, by the Ashvins",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Nakul"
+   ],
+   "ref": ""
+  },
+  {
+   "name": "Sahadeva",
+   "iast": "Sahadeva",
+   "group": "Pandava",
+   "who": "younger of Madri's twin sons, by the Ashvins",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Sahdev",
+    "Sahadev"
+   ],
+   "ref": ""
+  },
+  {
+   "name": "Draupadi",
+   "iast": "Draupadī",
+   "group": "Pandava",
+   "who": "daughter of Drupada, born from the sacrificial altar; wife of the five Pandavas",
+   "aka": [
+    "Krishnaa",
+    "Panchali",
+    "Yajnaseni"
+   ],
+   "dialogue": [
+    "Panchali"
+   ],
+   "flag": [
+    "Draupdi",
+    "Dropadi"
+   ],
+   "ref": ""
+  },
+  {
+   "name": "Duryodhana",
+   "iast": "Duryodhana",
+   "group": "Kaurava",
+   "who": "eldest son of Dhritarashtra and Gandhari; born of a portion of Kali",
+   "aka": [
+    "Suyodhana"
+   ],
+   "dialogue": [
+    "Suyodhana"
+   ],
+   "flag": [
+    "Duryodhan",
+    "Duryodan"
+   ],
+   "ref": "1.61.80"
+  },
+  {
+   "name": "Duhshasana",
+   "iast": "Duḥśāsana",
+   "group": "Kaurava",
+   "who": "second son of Dhritarashtra and Gandhari",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Dushasana",
+    "Dussasana",
+    "Dushashan",
+    "Dushshasana"
+   ],
+   "ref": ""
+  },
+  {
+   "name": "Vikarna",
+   "iast": "Vikarṇa",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra who speaks for Draupadi in the hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": ""
+  },
+  {
+   "name": "Duhshala",
+   "iast": "Duḥśalā",
+   "group": "Kaurava",
+   "who": "Dhritarashtra and Gandhari's one daughter; wife of Jayadratha",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Dushala",
+    "Dussala"
+   ],
+   "ref": ""
+  },
+  {
+   "name": "Yuyutsu",
+   "iast": "Yuyutsu",
+   "group": "Kaurava",
+   "who": "Dhritarashtra's son by a vaishya woman",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": ""
+  },
+  {
+   "name": "Jayadratha",
+   "iast": "Jayadratha",
+   "group": "Kaurava side",
+   "who": "king of the Sindhus; Duhshala's husband",
+   "aka": [
+    "Saindhava"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": ""
+  },
+  {
+   "name": "Kripa",
+   "iast": "Kṛpa",
+   "group": "Kuru",
+   "who": "teacher of the princes; son of Sharadvat",
+   "aka": [
+    "Gautama",
+    "Sharadvata"
+   ],
+   "dialogue": [],
+   "flag": [
+    "Kripacharya"
+   ],
+   "ref": ""
+  },
+  {
+   "name": "Kripi",
+   "iast": "Kṛpī",
+   "group": "Kuru",
+   "who": "Kripa's twin sister; Drona's wife",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.121.11"
+  },
+  {
+   "name": "Drona",
+   "iast": "Droṇa",
+   "group": "Kuru",
+   "who": "Brahmin master of arms, son of Bharadvaja, born in a pot",
+   "aka": [
+    "Bharadvaja (son of)"
+   ],
+   "dialogue": [],
+   "flag": [
+    "Dronacharya",
+    "Dron"
+   ],
+   "ref": "1.121.5"
+  },
+  {
+   "name": "Ashvatthama",
+   "iast": "Aśvatthāman",
+   "group": "Kuru",
+   "who": "son of Drona and Kripi",
+   "aka": [
+    "Drauni"
+   ],
+   "dialogue": [
+    "Drauni"
+   ],
+   "flag": [
+    "Ashwatthama",
+    "Aswatthama",
+    "Ashwathama",
+    "Ashvathama"
+   ],
+   "ref": ""
+  },
+  {
+   "name": "Drupada",
+   "iast": "Drupada",
+   "group": "Panchala",
+   "who": "king of the Panchalas, Drona's childhood friend and enemy",
+   "aka": [
+    "Yajnasena"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": ""
+  },
+  {
+   "name": "Dhrishtadyumna",
+   "iast": "Dhṛṣṭadyumna",
+   "group": "Panchala",
+   "who": "Drupada's son, born from the sacrificial fire to kill Drona",
+   "aka": [
+    "Parshata"
+   ],
+   "dialogue": [],
+   "flag": [
+    "Dhristadyumna",
+    "Drishtadyumna"
+   ],
+   "ref": ""
+  },
+  {
+   "name": "Shikhandi",
+   "iast": "Śikhaṇḍin",
+   "group": "Panchala",
+   "who": "Drupada's child, born a daughter, who became a man; Amba reborn",
+   "aka": [
+    "Shikhandini (as a girl)"
+   ],
+   "dialogue": [],
+   "flag": [
+    "Shikhandin",
+    "Sikhandi",
+    "Shikhandee"
+   ],
+   "ref": ""
+  },
+  {
+   "name": "Krishna",
+   "iast": "Kṛṣṇa",
+   "group": "Vrishni",
+   "who": "son of Vasudeva and Devaki, of the Vrishni clan; Arjuna's friend and charioteer",
+   "aka": [
+    "Vasudeva",
+    "Keshava",
+    "Madhava",
+    "Govinda",
+    "Janardana",
+    "Hrishikesha",
+    "Madhusudana",
+    "Achyuta",
+    "Varshneya",
+    "Dasharha"
+   ],
+   "dialogue": [
+    "Keshava",
+    "Madhava",
+    "Govinda",
+    "Janardana",
+    "Vasudeva"
+   ],
+   "flag": [
+    "Krishn",
+    "Krsna"
+   ],
+   "ref": ""
+  },
+  {
+   "name": "Balarama",
+   "iast": "Balarāma",
+   "group": "Vrishni",
+   "who": "Krishna's elder brother, the plough-bearer",
+   "aka": [
+    "Baladeva",
+    "Rama",
+    "Samkarshana",
+    "Halayudha"
+   ],
+   "dialogue": [
+    "Baladeva"
+   ],
+   "flag": [
+    "Balram",
+    "Balaram"
+   ],
+   "ref": ""
+  },
+  {
+   "name": "Satyaki",
+   "iast": "Sātyaki",
+   "group": "Vrishni",
+   "who": "Vrishni hero, Arjuna's pupil and ally",
+   "aka": [
+    "Yuyudhana",
+    "Shaineya"
+   ],
+   "dialogue": [
+    "Yuyudhana"
+   ],
+   "flag": [],
+   "ref": ""
+  },
+  {
+   "name": "Kritavarma",
+   "iast": "Kṛtavarman",
+   "group": "Vrishni",
+   "who": "Bhoja/Vrishni warrior who fights for the Kauravas",
+   "aka": [
+    "Hardikya"
+   ],
+   "dialogue": [],
+   "flag": [
+    "Kritavarman",
+    "Kritvarma"
+   ],
+   "ref": ""
+  },
+  {
+   "name": "Subhadra",
+   "iast": "Subhadrā",
+   "group": "Vrishni",
+   "who": "Krishna's sister; Arjuna's wife; mother of Abhimanyu",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": ""
+  },
+  {
+   "name": "Abhimanyu",
+   "iast": "Abhimanyu",
+   "group": "Pandava",
+   "who": "son of Arjuna and Subhadra",
+   "aka": [
+    "Saubhadra"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": ""
+  },
+  {
+   "name": "Ghatotkacha",
+   "iast": "Ghaṭotkaca",
+   "group": "Pandava",
+   "who": "son of Bhima and the rakshasi Hidimba",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Ghatotkach"
+   ],
+   "ref": ""
+  },
+  {
+   "name": "Hidimba",
+   "iast": "Hiḍimba / Hiḍimbā",
+   "group": "Rakshasa",
+   "who": "a rakshasa brother and sister of the forest. Bhima kills the brother and marries the sister. In English the names collide, so give context until the brother is dead",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Hidimbi",
+    "Hidimbaa"
+   ],
+   "ref": ""
+  },
+  {
+   "name": "Virata",
+   "iast": "Virāṭa",
+   "group": "Matsya",
+   "who": "king of the Matsyas, host of the Pandavas' year in hiding",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Viraat"
+   ],
+   "ref": ""
+  },
+  {
+   "name": "Shalya",
+   "iast": "Śalya",
+   "group": "Madra",
+   "who": "king of Madra, Madri's brother",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Salya"
+   ],
+   "ref": ""
+  },
+  {
+   "name": "Sanjaya",
+   "iast": "Saṃjaya",
+   "group": "Kuru",
+   "who": "Dhritarashtra's charioteer and counsellor, given divine sight by Vyasa",
+   "aka": [
+    "Gavalgani"
+   ],
+   "dialogue": [],
+   "flag": [
+    "Sanjay"
+   ],
+   "ref": "1.1.101"
+  },
+  {
+   "name": "Iravan",
+   "iast": "Irāvān (Irāvat)",
+   "group": "Pandava",
+   "who": "Arjuna's son by the Naga princess Ulupi; dies in battle (not a self-sacrifice: ledger L-37)",
+   "aka": [
+    "Iravat"
+   ],
+   "dialogue": [],
+   "flag": [
+    "Aravan",
+    "Iravat"
+   ],
+   "ref": "6.86.6"
+  },
+  {
+   "name": "Takshaka",
+   "iast": "Takṣaka",
+   "group": "Naga",
+   "who": "the snake king who kills Parikshit",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Taksaka"
+   ],
+   "ref": ""
+  },
+  {
+   "name": "Uttanka",
+   "iast": "Uttaṅka",
+   "group": "Seer",
+   "who": "pupil of Veda who fetches the queen's earrings and urges Janamejaya to take revenge",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Utanka"
+   ],
+   "ref": "1.3"
+  },
+  {
+   "name": "Astika",
+   "iast": "Āstīka",
+   "group": "Seer",
+   "who": "son of Jaratkaru and Vasuki's sister; he stops the snake sacrifice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": ""
+  }
+ ],
+ "not_vyasa": [
+  {
+   "name": "Vrishali",
+   "match": "Vri?u?shali|Vrushali|Vrishaali",
+   "ledger": "L-59",
+   "note": "Karna's wife in Sawant's Mrityunjaya; not in the epic"
+  },
+  {
+   "name": "Bhanumati",
+   "match": "Bhanumati",
+   "ledger": "L-60",
+   "note": "Duryodhana's wife is unnamed in the CE; other Bhanumatis exist (1.90.15). Check context"
+  },
+  {
+   "name": "Barbarika",
+   "match": "Barbari[kc]a|Barbareek",
+   "ledger": "L-38",
+   "note": "Skanda Purana"
+  },
+  {
+   "name": "Nalayani",
+   "match": "Nalayani|Nalaayani",
+   "ledger": "L-15",
+   "note": "name only in CE App. I No. 100"
+  },
+  {
+   "name": "Aravan",
+   "match": "Aravan",
+   "ledger": "L-37",
+   "note": "Tamil form; the epic's Iravan dies in battle"
+  },
+  {
+   "name": "Khatushyam",
+   "match": "Khatu ?Shyam",
+   "ledger": "L-38",
+   "note": "later cult of Barbarika"
+  },
+  {
+   "name": "Radha (as Krishna's beloved)",
+   "match": "Radha.{0,80}Krishna|Krishna.{0,80}Radha",
+   "ledger": "L-58",
+   "note": "the only Radha is Karna's foster mother. Check context"
+  }
+ ]
+}

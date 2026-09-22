@@ -123,13 +123,16 @@ def _classify(suffix: str) -> str:
     return "main"
 
 
+_skipped: list[str] = []   # malformed upstream lines (see sources/README.md)
+
+
 def parse_ce_file(path: Path):
     for raw in path.read_text(encoding="utf-8").splitlines():
         line = html.unescape(re.sub(r"<[^>]+>", "", raw.replace("<>", "\t"))).rstrip()
         m = _CE_LINE.match(line)
         if not m:
             if _CE_ID.match(line) and line.strip() != _CE_ID.match(line).group(0):
-                print(f"warning: unparsed CE line in {path.name}: {line[:80]}", file=sys.stderr)
+                _skipped.append(f"{path.name}: {line[:60]}")
             continue
         book, adh, verse, suffix, text = m.groups()
         yield CELine(int(book), int(adh), int(verse), suffix, _classify(suffix), text.strip())
@@ -146,6 +149,9 @@ def build_ce_cache() -> int:
             for ln in parse_ce_file(f):
                 out.write(f"{ln.book}\t{ln.adhyaya}\t{ln.verse}\t{ln.suffix}\t{ln.kind}\t{ln.text}\n")
                 n += 1
+    if _skipped:
+        print(f"note: skipped {len(_skipped)} malformed upstream apparatus line(s); "
+              "see sources/README.md", file=sys.stderr)
     return n
 
 
