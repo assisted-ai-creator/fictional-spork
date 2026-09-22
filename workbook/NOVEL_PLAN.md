@@ -84,9 +84,9 @@ against the CE when the Book is drafted.
 
 | Ch | Title (working) | CE | Notes |
 |----|-----------------|----|-------|
-| 1 | The Storyteller in the Forest | 1.1.1–1.1.100 | Frame. Ugraśravas; how Vyāsa made the poem; the story in brief. |
-| 2 | When I Heard | 1.1.101–1.1.191 | Dhṛtarāṣṭra's lament to Sañjaya; Sañjaya's answer. Ends the prologue. |
-| 3 | The Hundred Parts | 1.2 | Samantapañcaka; the akṣauhiṇī; the shape of the whole epic. |
+| 1 | The Storyteller in the Forest | 1.1.1–101 | ✅ drafted. Frame; how Vyāsa made the poem; the story in brief; Dhṛtarāṣṭra turns to Sañjaya. |
+| 2 | When I Heard | 1.1.102–210 | ✅ drafted. The lament; Sañjaya on Time; the bard on the poem's worth. |
+| 3 | The Hundred Parts | 1.2 | ✅ drafted. Samantapañcaka; the akṣauhiṇī; the whole epic book by book. |
 | 4 | The Teacher's Pupils | 1.3 (first half) | Saramā; Āruṇi, Upamanyu, Veda. |
 | 5 | The Queen's Earrings | 1.3 (second half) | Uttaṅka's quest; the snake Takṣaka; the call for revenge. |
 | 6 | The Fire's Witness | 1.4–1.7 | Bhṛgu, Pulomā, Agni's curse. |

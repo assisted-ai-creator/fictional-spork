@@ -15,11 +15,11 @@ Where each person in `workbook/names.json` appears (name or dialogue name). Coun
 | Ashvatthama | 1.2 (2), 1.3 (1) | 1.2 |
 | Astika | 1.1 (1), 1.3 (2) | 1.1 |
 | Balarama | 1.3 (2) | 1.3 |
-| Bhima | 1.1 (4), 1.2 (3), 1.3 (6) | 1.1 |
+| Bhima | 1.1 (4), 1.2 (3), 1.3 (6), 1.4 (1) | 1.1 |
 | Bhishma | 1.1 (2), 1.2 (6), 1.3 (9) | 1.1 |
 | Chitrangada | 1.3 (3) | 1.3 |
 | Dhrishtadyumna | 1.2 (1), 1.3 (1) | 1.2 |
-| Dhritarashtra | 1.1 (7), 1.2 (2), 1.3 (6) | 1.1 |
+| Dhritarashtra | 1.1 (7), 1.2 (2), 1.3 (6), 1.5 (1) | 1.1 |
 | Draupadi | 1.1 (1), 1.2 (3), 1.3 (10) | 1.1 |
 | Drona | 1.1 (1), 1.2 (12), 1.3 (12) | 1.1 |
 | Drupada | 1.3 (2) | 1.3 |
@@ -27,11 +27,11 @@ Where each person in `workbook/names.json` appears (name or dialogue name). Coun
 | Duhshasana | 1.1 (1), 1.2 (1) | 1.1 |
 | Duryodhana | 1.1 (5), 1.2 (2), 1.3 (8) | 1.1 |
 | Gandhari | 1.1 (1), 1.2 (1), 1.3 (2) | 1.1 |
-| Ganga | 1.2 (1), 1.3 (2) | 1.2 |
+| Ganga | 1.2 (1), 1.3 (2), 1.5 (1) | 1.2 |
 | Ghatotkacha | 1.2 (2), 1.3 (3) | 1.2 |
 | Hidimba | 1.3 (2) | 1.3 |
 | Iravan | not yet | — |
-| Janamejaya | 1.1 (3), 1.3 (1) | 1.1 |
+| Janamejaya | 1.1 (3), 1.3 (1), 1.4 (10), 1.5 (2) | 1.1 |
 | Jayadratha | 1.2 (3), 1.3 (4) | 1.2 |
 | Karna | 1.1 (2), 1.2 (9), 1.3 (11) | 1.1 |
 | Kripa | 1.1 (1), 1.2 (2), 1.3 (2) | 1.1 |
@@ -43,7 +43,7 @@ Where each person in `workbook/names.json` appears (name or dialogue name). Coun
 | Madri | 1.1 (1), 1.2 (1) | 1.1 |
 | Nakula | 1.2 (1) | 1.2 |
 | Pandu | 1.1 (7), 1.3 (1) | 1.1 |
-| Parikshit | 1.1 (1), 1.3 (2) | 1.1 |
+| Parikshit | 1.1 (1), 1.3 (2), 1.4 (2) | 1.1 |
 | Radha | not yet | — |
 | Sahadeva | 1.2 (1) | 1.2 |
 | Sanjaya | 1.1 (3), 1.2 (58), 1.3 (5) | 1.1 |
@@ -55,9 +55,9 @@ Where each person in `workbook/names.json` appears (name or dialogue name). Coun
 | Shaunaka | 1.1 (1), 1.3 (1) | 1.1 |
 | Shikhandi | 1.2 (1), 1.3 (1) | 1.2 |
 | Subhadra | 1.2 (2), 1.3 (4) | 1.2 |
-| Takshaka | not yet | — |
+| Takshaka | 1.5 (11) | 1.5 |
 | Ugrashravas | 1.1 (4), 1.2 (1), 1.3 (3) | 1.1 |
-| Uttanka | 1.3 (1) | 1.3 |
+| Uttanka | 1.3 (1), 1.5 (51) | 1.3 |
 | Vaishampayana | 1.1 (4) | 1.1 |
 | Vichitravirya | 1.1 (1), 1.3 (1) | 1.1 |
 | Vidura | 1.1 (3), 1.3 (6) | 1.1 |

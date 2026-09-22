@@ -2,7 +2,7 @@
 
 # Contents
 
-**3 chapters, 10,543 words.** 3 drafted
+**5 chapters, 15,290 words.** 5 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -12,5 +12,7 @@
 | 1 | [The Storyteller in the Forest](../novel/book-01-adi/01-the-storyteller-in-the-forest.md) | 1.1.1-101 | drafted | 2,646 |
 | 2 | [When I Heard](../novel/book-01-adi/02-when-i-heard.md) | 1.1.102-210 | drafted | 3,092 |
 | 3 | [The Hundred Parts](../novel/book-01-adi/03-the-hundred-parts.md) | 1.2 | drafted | 4,805 |
+| 4 | [The Teacher's Pupils](../novel/book-01-adi/04-the-teachers-pupils.md) | 1.3.1-84 | drafted | 2,061 |
+| 5 | [The Queen's Earrings](../novel/book-01-adi/05-the-queens-earrings.md) | 1.3.85-195 | drafted | 2,686 |
 
-*Book 1 so far: 10,543 words.*
+*Book 1 so far: 15,290 words.*
