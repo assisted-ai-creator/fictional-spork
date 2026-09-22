@@ -95,6 +95,41 @@ against the CE when the Book is drafted.
 
 ---
 
+### The hundred parts, as the text itself names them (CE 1.2.34–69)
+
+The CE's own table of contents is the authority for sub-parva **names**
+(ranges still come from the CE when each Book is drafted):
+
+1 Anukramaṇī · 2 Parvasaṃgraha · 3 Pauṣya · 4 Pauloma · 5 Āstīka ·
+6 Ādivaṃśāvataraṇa · 7 Saṃbhava · 8 Jatugṛhadāha · 9 Haiḍimba · 10 Bakavadha ·
+11 Caitraratha · 12 Svayaṃvara · 13 Vaivāhika · 14 Vidurāgamana ·
+15 Rājyalambha · 16 Arjunavanavāsa · 17 Subhadrāharaṇa · 18 Haraṇahārika ·
+19 Khāṇḍavadāha (with Mayadarśana) · 20 Sabhā · 21 Mantra · 22 Jarāsaṃdhavadha ·
+23 Digvijaya · 24 Rājasūyika · 25 Arghābhiharaṇa · 26 Śiśupālavadha ·
+27 Dyūta · 28 Anudyūta · 29 Āraṇyaka · 30 Kirmīravadha · 31 Kairāta ·
+32 Indralokābhigamana · 33 Tīrthayātrā · 34 Jaṭāsuravadha · 35 Yakṣayuddha ·
+36 Ājagara · 37 Mārkaṇḍeyasamāsyā · 38 Draupadī-Satyabhāmā-saṃvāda ·
+39 Ghoṣayātrā · 40 Mṛgasvapnabhaya · 41 Vrīhidrauṇika · 42 Draupadīharaṇa ·
+43 Kuṇḍalāharaṇa · 44 Āraṇeya · 45 Vairāṭa · 46 Kīcakavadha · 47 Gograhaṇa ·
+48 Vaivāhika (Abhimanyu–Uttarā) · 49 Udyoga · 50 Saṃjayayāna · 51 Prajāgara ·
+52 Sānatsujāta · 53 Yānasaṃdhi · 54 Bhagavadyāna · 55 Vivāda (Karṇa) ·
+56 Niryāṇa · 57 Rathātirathasaṃkhyā · 58 Ulūkadūtāgamana · 59 Ambopākhyāna ·
+60 Bhīṣmābhiṣecana · 61 Jambūkhaṇḍavinirmāṇa · 62 Bhūmi · 63 Bhagavadgītā ·
+64 Bhīṣmavadha · 65 Droṇābhiṣeka · 66 Saṃśaptakavadha · 67 Abhimanyuvadha ·
+68 Pratijñā · 69 Jayadrathavadha · 70 Ghaṭotkacavadha · 71 Droṇavadha ·
+72 Nārāyaṇāstramokṣa · 73 Karṇa · 74 Śalya · 75 Hradapraveśa · 76 Gadāyuddha ·
+77 Sārasvata · 78 Sauptika · 79 Aiṣīka · 80 Jalapradānika · 81 Strī ·
+82 Śrāddha · 83 Ābhiṣecanika · 84 Cārvākanigraha · 85 Gṛhapravibhāga ·
+86 Śānti (Rājadharma) · 87 Āpaddharma · 88 Mokṣadharma · 89 Ānuśāsanika ·
+90 Bhīṣmasvargārohaṇa · 91 Āśvamedhika · 92 Anugītā · 93 Āśramavāsa ·
+94 Putradarśana · 95 Nāradāgamana · 96 Mausala · 97 Mahāprasthānika ·
+98 Svargārohaṇa · (khila: 99 Harivaṃśa · 100 Bhaviṣya)
+
+Note: the text counts the Harivaṃśa and the Bhaviṣya among the hundred, as
+*khila* (supplements). The novel tells the eighteen books (Canon Policy §3).
+The numbering above follows the list's order. The CE text does not number
+the parts.
+
 ## Books 2–18: provisional sub-parvas
 
 These come from Ganguli's section headings mapped to CE numbers by the

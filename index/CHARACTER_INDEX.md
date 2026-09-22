@@ -6,63 +6,63 @@ Where each person in `workbook/names.json` appears (name or dialogue name). Coun
 
 | Person | Chapters (mentions) | First appears |
 |--------|---------------------|---------------|
-| Abhimanyu | 1.2 (2) | 1.2 |
+| Abhimanyu | 1.2 (2), 1.3 (6) | 1.2 |
 | Adhiratha | not yet | — |
-| Amba | not yet | — |
+| Amba | 1.3 (2) | 1.3 |
 | Ambalika | not yet | — |
 | Ambika | not yet | — |
-| Arjuna | 1.1 (4), 1.2 (26) | 1.1 |
-| Ashvatthama | 1.2 (2) | 1.2 |
-| Astika | 1.1 (1) | 1.1 |
-| Balarama | not yet | — |
-| Bhima | 1.1 (4), 1.2 (3) | 1.1 |
-| Bhishma | 1.1 (2), 1.2 (6) | 1.1 |
-| Chitrangada | not yet | — |
-| Dhrishtadyumna | 1.2 (1) | 1.2 |
-| Dhritarashtra | 1.1 (7), 1.2 (2) | 1.1 |
-| Draupadi | 1.1 (1), 1.2 (3) | 1.1 |
-| Drona | 1.1 (1), 1.2 (12) | 1.1 |
-| Drupada | not yet | — |
+| Arjuna | 1.1 (4), 1.2 (26), 1.3 (24) | 1.1 |
+| Ashvatthama | 1.2 (2), 1.3 (1) | 1.2 |
+| Astika | 1.1 (1), 1.3 (2) | 1.1 |
+| Balarama | 1.3 (2) | 1.3 |
+| Bhima | 1.1 (4), 1.2 (3), 1.3 (6) | 1.1 |
+| Bhishma | 1.1 (2), 1.2 (6), 1.3 (9) | 1.1 |
+| Chitrangada | 1.3 (3) | 1.3 |
+| Dhrishtadyumna | 1.2 (1), 1.3 (1) | 1.2 |
+| Dhritarashtra | 1.1 (7), 1.2 (2), 1.3 (6) | 1.1 |
+| Draupadi | 1.1 (1), 1.2 (3), 1.3 (10) | 1.1 |
+| Drona | 1.1 (1), 1.2 (12), 1.3 (12) | 1.1 |
+| Drupada | 1.3 (2) | 1.3 |
 | Duhshala | not yet | — |
 | Duhshasana | 1.1 (1), 1.2 (1) | 1.1 |
-| Duryodhana | 1.1 (5), 1.2 (2) | 1.1 |
-| Gandhari | 1.1 (1), 1.2 (1) | 1.1 |
-| Ganga | 1.2 (1) | 1.2 |
-| Ghatotkacha | 1.2 (2) | 1.2 |
-| Hidimba | not yet | — |
+| Duryodhana | 1.1 (5), 1.2 (2), 1.3 (8) | 1.1 |
+| Gandhari | 1.1 (1), 1.2 (1), 1.3 (2) | 1.1 |
+| Ganga | 1.2 (1), 1.3 (2) | 1.2 |
+| Ghatotkacha | 1.2 (2), 1.3 (3) | 1.2 |
+| Hidimba | 1.3 (2) | 1.3 |
 | Iravan | not yet | — |
-| Janamejaya | 1.1 (3) | 1.1 |
-| Jayadratha | 1.2 (3) | 1.2 |
-| Karna | 1.1 (2), 1.2 (9) | 1.1 |
-| Kripa | 1.1 (1), 1.2 (2) | 1.1 |
+| Janamejaya | 1.1 (3), 1.3 (1) | 1.1 |
+| Jayadratha | 1.2 (3), 1.3 (4) | 1.2 |
+| Karna | 1.1 (2), 1.2 (9), 1.3 (11) | 1.1 |
+| Kripa | 1.1 (1), 1.2 (2), 1.3 (2) | 1.1 |
 | Kripi | not yet | — |
-| Krishna | 1.1 (7), 1.2 (19) | 1.1 |
-| Kritavarma | 1.2 (2) | 1.2 |
-| Kunti | 1.1 (3), 1.2 (3) | 1.1 |
-| Lomaharshana | 1.1 (1) | 1.1 |
+| Krishna | 1.1 (7), 1.2 (19), 1.3 (23) | 1.1 |
+| Kritavarma | 1.2 (2), 1.3 (2) | 1.2 |
+| Kunti | 1.1 (3), 1.2 (3), 1.3 (2) | 1.1 |
+| Lomaharshana | 1.1 (1), 1.3 (1) | 1.1 |
 | Madri | 1.1 (1), 1.2 (1) | 1.1 |
 | Nakula | 1.2 (1) | 1.2 |
-| Pandu | 1.1 (7) | 1.1 |
-| Parikshit | 1.1 (1) | 1.1 |
+| Pandu | 1.1 (7), 1.3 (1) | 1.1 |
+| Parikshit | 1.1 (1), 1.3 (2) | 1.1 |
 | Radha | not yet | — |
 | Sahadeva | 1.2 (1) | 1.2 |
-| Sanjaya | 1.1 (3), 1.2 (58) | 1.1 |
-| Satyaki | 1.2 (1) | 1.2 |
+| Sanjaya | 1.1 (3), 1.2 (58), 1.3 (5) | 1.1 |
+| Satyaki | 1.2 (1), 1.3 (1) | 1.2 |
 | Satyavati | 1.1 (1) | 1.1 |
-| Shakuni | 1.1 (3), 1.2 (2) | 1.1 |
-| Shalya | not yet | — |
-| Shantanu | 1.2 (1) | 1.2 |
-| Shaunaka | 1.1 (1) | 1.1 |
-| Shikhandi | 1.2 (1) | 1.2 |
-| Subhadra | 1.2 (2) | 1.2 |
+| Shakuni | 1.1 (3), 1.2 (2), 1.3 (1) | 1.1 |
+| Shalya | 1.3 (5) | 1.3 |
+| Shantanu | 1.2 (1), 1.3 (1) | 1.2 |
+| Shaunaka | 1.1 (1), 1.3 (1) | 1.1 |
+| Shikhandi | 1.2 (1), 1.3 (1) | 1.2 |
+| Subhadra | 1.2 (2), 1.3 (4) | 1.2 |
 | Takshaka | not yet | — |
-| Ugrashravas | 1.1 (4), 1.2 (1) | 1.1 |
-| Uttanka | not yet | — |
+| Ugrashravas | 1.1 (4), 1.2 (1), 1.3 (3) | 1.1 |
+| Uttanka | 1.3 (1) | 1.3 |
 | Vaishampayana | 1.1 (4) | 1.1 |
-| Vichitravirya | 1.1 (1) | 1.1 |
-| Vidura | 1.1 (3) | 1.1 |
+| Vichitravirya | 1.1 (1), 1.3 (1) | 1.1 |
+| Vidura | 1.1 (3), 1.3 (6) | 1.1 |
 | Vikarna | not yet | — |
-| Virata | 1.2 (2) | 1.2 |
-| Vyasa | 1.1 (9), 1.2 (4) | 1.1 |
-| Yudhishthira | 1.1 (3), 1.2 (3) | 1.1 |
+| Virata | 1.2 (2), 1.3 (7) | 1.2 |
+| Vyasa | 1.1 (9), 1.2 (4), 1.3 (10) | 1.1 |
+| Yudhishthira | 1.1 (3), 1.2 (3), 1.3 (8) | 1.1 |
 | Yuyutsu | not yet | — |
