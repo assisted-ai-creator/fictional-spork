@@ -18,6 +18,22 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 51–52 drafted: Drona the teacher
+- Ch 51 *The Ball in the Well* (CE 1.122) and Ch 52 *The Bird's Head* (1.123):
+  Drupada's insult; the ball drawn out with reeds; Drona made teacher; Arjuna's
+  promise; Karna comes to learn; Arjuna in the dark; Ekalavya's thumb; the test
+  with the bird; the crocodile and the Brahmashiras. About 2,850 words.
+
+### Reference
+- Ledger **L-82**: the ball in the well is CE; Drona's ring and Ashvatthama's
+  flour-water milk are later additions.
+- Ledger **L-83**: Drona did not refuse Karna as a pupil (1.122.47; 12.2.5); he
+  refused him only the Brahma weapon (12.2.9–13).
+- Ledger **L-84**: Arjuna sees the bird's **head**, not its eye (1.123.64).
+
+### Workbook
+- `names.json`: +2 (Ekalavya, Hiranyadhanus).
+
 ### Novel: Book 1, chapters 48–50 drafted: the return to the city, and the teachers
 - Ch 48 *The Return to the City* (CE 1.117–118), Ch 49 *Poison* (1.119) and Ch 50
   *Born of Reeds and a Pot* (1.120–121): the seers bring the Pandavas to

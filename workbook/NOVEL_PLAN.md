@@ -134,7 +134,9 @@ against the CE when the Book is drafted.
 | 48 | The Return to the City | 1.117–1.118 | ✅ drafted. The seers bring the Pāṇḍavas to Hāstinapura; the funeral by the Gaṅgā. |
 | 49 | Poison | 1.119 | ✅ drafted. Satyavatī goes to the forest; Bhīma's rough play; bound and drowned, bitten, poisoned (L-81). |
 | 50 | Born of Reeds and a Pot | 1.120–1.121 | ✅ drafted. Kṛpa and Kṛpī; Droṇa's birth; Aśvatthāman; Rāma Jāmadagnya's weapons. |
-| 51… | Saṃbhava (cont.) | 1.122–1.123 | Drupada's insult; the ball in the well; Droṇa becomes teacher; Ekalavya; the bird's eye. |
+| 51 | The Ball in the Well | 1.122 | ✅ drafted. Drupada's insult; the ball and the reeds; Droṇa becomes teacher; Arjuna's promise; Karṇa a pupil (L-82, L-83). |
+| 52 | The Bird's Head | 1.123 | ✅ drafted. Arjuna in the dark; Ekalavya's thumb; the bird's head; the crocodile; Brahmaśiras (L-84). |
+| 53… | Tournament and Drupada | 1.124–1.138 | The tournament; Karṇa's challenge; Drupada captured; the house of lac. |
 
 ---
 

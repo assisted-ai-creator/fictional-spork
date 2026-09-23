@@ -2376,6 +2376,26 @@
    "dialogue": [],
    "flag": [],
    "ref": "1.121.8"
+  },
+  {
+   "name": "Ekalavya",
+   "iast": "Ekalavya",
+   "group": "Nishada",
+   "who": "son of the Nishada king Hiranyadhanus; taught himself before a clay Drona and gave his thumb",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.123.10"
+  },
+  {
+   "name": "Hiranyadhanus",
+   "iast": "Hiraṇyadhanus",
+   "group": "Nishada",
+   "who": "king of the Nishadas, Ekalavya's father",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.123.10"
   }
  ],
  "not_vyasa": [

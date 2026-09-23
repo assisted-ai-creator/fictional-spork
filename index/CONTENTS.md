@@ -2,7 +2,7 @@
 
 # Contents
 
-**50 chapters, 104,269 words.** 50 drafted
+**52 chapters, 107,123 words.** 52 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -59,5 +59,7 @@
 | 48 | [The Return to the City](../novel/book-01-adi/48-the-return-to-the-city.md) | 1.117-118 | drafted | 1,361 |
 | 49 | [Poison](../novel/book-01-adi/49-poison.md) | 1.119 | drafted | 1,016 |
 | 50 | [Born of Reeds and a Pot](../novel/book-01-adi/50-born-of-reeds-and-a-pot.md) | 1.120-121 | drafted | 967 |
+| 51 | [The Ball in the Well](../novel/book-01-adi/51-the-ball-in-the-well.md) | 1.122 | drafted | 1,145 |
+| 52 | [The Bird's Head](../novel/book-01-adi/52-the-birds-head.md) | 1.123 | drafted | 1,709 |
 
-*Book 1 so far: 104,269 words.*
+*Book 1 so far: 107,123 words.*

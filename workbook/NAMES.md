@@ -123,6 +123,8 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shesha** | Śeṣa | eldest of the snakes; leaves his brothers for austerity and holds up the earth at Brahma's command | Ananta |  | Sesha, Seshanaga |
 | **Takshaka** | Takṣaka | the snake king who kills Parikshit |  |  | Taksaka |
 | **Vasuki** | Vāsuki | king of the snakes; the rope at the churning; gives his sister Jaratkaru to the seer Jaratkaru |  |  |  |
+| **Ekalavya** | Ekalavya | son of the Nishada king Hiranyadhanus; taught himself before a clay Drona and gave his thumb |  |  |  |
+| **Hiranyadhanus** | Hiraṇyadhanus | king of the Nishadas, Ekalavya's father |  |  |  |
 | **Dhrishtadyumna** | Dhṛṣṭadyumna | Drupada's son, born from the sacrificial fire to kill Drona | Parshata |  | Dhristadyumna, Drishtadyumna |
 | **Drupada** | Drupada | king of the Panchalas, Drona's childhood friend and enemy | Yajnasena |  |  |
 | **Prishata** | Pṛṣata | king of the Panchalas, Bharadvaja's friend, Drupada's father |  |  |  |
