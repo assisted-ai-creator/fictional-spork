@@ -1469,6 +1469,96 @@
    "dialogue": [],
    "flag": [],
    "ref": "1.51.6"
+  },
+  {
+   "name": "Uparichara Vasu",
+   "iast": "Uparicara Vasu",
+   "group": "King",
+   "who": "king of Chedi, Indra's friend, who rides above the earth in a crystal chariot; father of Satyavati and Matsya",
+   "aka": [
+    "Vasu",
+    "Uparichara"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.57.1"
+  },
+  {
+   "name": "Girika",
+   "iast": "Girikā",
+   "group": "King",
+   "who": "Vasu's wife, daughter of the mountain Kolahala and the river Shuktimati",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.57.35"
+  },
+  {
+   "name": "Adrika",
+   "iast": "Adrikā",
+   "group": "Apsaras",
+   "who": "an apsaras cursed to be a fish in the Yamuna; mother of Satyavati and Matsya",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.57.47"
+  },
+  {
+   "name": "Matsya",
+   "iast": "Matsya",
+   "group": "Matsya",
+   "who": "the king born with Satyavati from the fish; founder of the Matsya line",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.57.51"
+  },
+  {
+   "name": "Parashara",
+   "iast": "Parāśara",
+   "group": "Seer",
+   "who": "son of Shakti; father of Vyasa by Satyavati",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Parasara"
+   ],
+   "ref": "1.54.2"
+  },
+  {
+   "name": "Animandavya",
+   "iast": "Aṇīmāṇḍavya",
+   "group": "Seer",
+   "who": "the seer impaled as a thief who cursed Dharma to be born as Vidura",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Animandavya Rishi"
+   ],
+   "ref": "1.57.77"
+  },
+  {
+   "name": "Gavalgana",
+   "iast": "Gavalgaṇa",
+   "group": "Frame",
+   "who": "the suta, father of Sanjaya",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.57.82"
+  },
+  {
+   "name": "Shuka",
+   "iast": "Śuka",
+   "group": "Seer",
+   "who": "Vyasa's son and pupil",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Suka",
+    "Shukadeva"
+   ],
+   "ref": "1.57.74"
   }
  ],
  "not_vyasa": [

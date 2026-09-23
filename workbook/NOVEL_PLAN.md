@@ -101,7 +101,10 @@ against the CE when the Book is drafted.
 | 15 | The Snake Sacrifice | 1.45–1.47 | ✅ drafted. The ministers' account; the woodcutter witness; the vow; the builder's warning; the snakes burn. |
 | 16 | The Boy at the Gate | 1.48–1.50 | ✅ drafted. The priests named; Takṣaka with Indra; Vāsuki's plea; Āstīka's praise. |
 | 17 | Stop! | 1.51–1.53 | ✅ drafted. The boon; Takṣaka held in the air; the charm; Śaunaka asks for the Bhārata (L-67). |
-| 18… | Ādivaṃśāvataraṇa | 1.54–1.58 | Vyāsa comes to the sacrifice; Vaiśaṃpāyana begins; the story in brief; the line of descent. |
+| 18 | The Story in Brief | 1.54–1.56 | ✅ drafted. Vyāsa at the sacrifice; Vaiśaṃpāyana's summary; the praise of the work. |
+| 19 | The Fish's Daughter | 1.57 | ✅ drafted. Uparicara Vasu; Satyavatī; Parāśara; Vyāsa; the births of the heroes. |
+| 20 | The Burden of the Earth | 1.58 | ✅ drafted. The golden age after Rāma Jāmadagnya; the asuras born; the Earth to Brahmā; Hari agrees. |
+| 21… | Saṃbhava | 1.59–1.123 | Origins of beings; the gods' portions (1.61); Śakuntalā; Yayāti; the Kuru line; Śaṃtanu; the Pāṇḍavas' births. |
 
 ---
 

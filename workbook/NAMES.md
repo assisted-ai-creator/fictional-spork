@@ -6,7 +6,9 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 
 | Name | IAST | Who | Also called (in the text) | Dialogue | Never write |
 |------|------|-----|---------------------------|----------|-------------|
+| **Adrika** | Adrikā | an apsaras cursed to be a fish in the Yamuna; mother of Satyavati and Matsya |  |  |  |
 | **Menaka** | Menakā | an apsaras; mother of Pramadvara (and, later, of Shakuntala) |  |  |  |
+| **Gavalgana** | Gavalgaṇa | the suta, father of Sanjaya |  |  |  |
 | **Lohitaksha** | Lohitākṣa | the red-eyed suta, builder of Janamejaya's place of sacrifice, who foretold that a brahmin would stop the rite |  |  |  |
 | **Lomaharshana** | Lomaharṣaṇa | father of Ugrashravas, a bard |  |  | Lomaharsana |
 | **Shaunaka** | Śaunaka | head of the household of sages in the Naimisha forest | kulapati |  | Saunaka |
@@ -44,7 +46,9 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Jayadratha** | Jayadratha | king of the Sindhus; Duhshala's husband | Saindhava |  |  |
 | **Karna** | Karṇa | Kunti's first son, by the Sun, born with armour and earrings; raised by the charioteer Adhiratha and Radha | Vasusena, Radheya, Vaikartana, Suta's son | Radheya | Karan, Karn |
 | **Radha** | Rādhā | Adhiratha's wife, Karna's foster mother. The only Radha in the epic (see ledger L-58) |  |  |  |
+| **Girika** | Girikā | Vasu's wife, daughter of the mountain Kolahala and the river Shuktimati |  |  |  |
 | **Paushya** | Pauṣya | king whose queen gives her earrings to Uttanka |  |  |  |
+| **Uparichara Vasu** | Uparicara Vasu | king of Chedi, Indra's friend, who rides above the earth in a crystal chariot; father of Satyavati and Matsya | Vasu, Uparichara |  |  |
 | **Vapushtama** | Vapuṣṭamā | daughter of Suvarnavarman of Kashi; Janamejaya's wife |  |  |  |
 | **Ambalika** | Ambālikā | princess of Kashi; Vichitravirya's wife; mother of Pandu |  |  |  |
 | **Ambika** | Ambikā | princess of Kashi; Vichitravirya's wife; mother of Dhritarashtra |  |  |  |
@@ -66,6 +70,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vichitravirya** | Vicitravīrya | younger son of Shantanu and Satyavati; husband of Ambika and Ambalika |  |  | Vichitraveerya |
 | **Vidura** | Vidura | son of Vyasa and a serving woman; Dharma born as a man; wise counsellor | Kshattri |  |  |
 | **Shalya** | Śalya | king of Madra, Madri's brother |  |  | Salya |
+| **Matsya** | Matsya | the king born with Satyavati from the fish; founder of the Matsya line |  |  |  |
 | **Virata** | Virāṭa | king of the Matsyas, host of the Pandavas' year in hiding |  |  | Viraat |
 | **Airavata** | Airāvata | a chief naga, brother of Vasuki (not the elephant of the same name) |  |  |  |
 | **Elapatra** | Elāpatra | the snake who remembers Brahma's words and counsels Vasuki to give his sister to Jaratkaru |  |  |  |
@@ -88,6 +93,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Yudhishthira** | Yudhiṣṭhira | eldest son of Kunti, by Dharma; the dharma king | Ajatashatru, Dharmaraja, Kaunteya, Partha | Ajatashatru | Yudhistira, Yudhishtira, Yudhisthira, Yudhishthir, Yudhisthir |
 | **Hidimba** | Hiḍimba / Hiḍimbā | a rakshasa brother and sister of the forest. Bhima kills the brother and marries the sister. In English the names collide, so give context until the brother is dead |  |  | Hidimbi, Hidimbaa |
 | **Puloman** | Puloman (Pulomā, m.) | the rakshasa who carries off Bhrigu's wife |  |  |  |
+| **Animandavya** | Aṇīmāṇḍavya | the seer impaled as a thief who cursed Dharma to be born as Vidura |  |  | Animandavya Rishi |
 | **Aruni** | Āruṇi Pāñcālya | Dhaumya's pupil, renamed Uddalaka | Uddalaka |  |  |
 | **Astika** | Āstīka | son of Jaratkaru and Vasuki's sister; he stops the snake sacrifice |  |  |  |
 | **Bhrigu** | Bhṛgu | seer, son of Brahma, ancestor of the Bhargavas (Shaunaka's line) |  |  |  |
@@ -98,6 +104,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kashyapa** | Kāśyapa | lord of creatures, husband of Kadru and Vinata, father of the snakes, Aruna and Garuda (1.14); the same name is borne by the brahmin healer whom Takshaka turns back from saving Parikshit (1.38–39) |  |  |  |
 | **Khagama** | Khagama | brahmin who cursed his friend Sahasrapat |  |  |  |
 | **Krisha** | Kṛśa | a seer's son, Shringin's friend, whose teasing provokes the curse |  |  |  |
+| **Parashara** | Parāśara | son of Shakti; father of Vyasa by Satyavati |  |  | Parasara |
 | **Pramadvara** | Pramadvarā | daughter of Vishvavasu and Menaka, raised by Sthulakesha; Ruru's wife |  |  |  |
 | **Pramati** | Pramati | son of Chyavana and Sukanya; father of Ruru |  |  |  |
 | **Puloma** | Pulomā | Bhrigu's wife, mother of Chyavana (the rakshasa is Puloman) |  |  |  |
@@ -107,6 +114,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shamika** | Śamīka | the silent sage on whose shoulder Parikshit hangs a dead snake; father of Shringin |  |  | Samika, Shameek |
 | **Shringin** | Śṛṅgin | Shamika's hot-tempered son, who curses Parikshit |  |  | Shringi, Sringi |
 | **Shrutashravas** | Śrutaśravas | seer, father of Somashravas |  |  |  |
+| **Shuka** | Śuka | Vyasa's son and pupil |  |  | Suka, Shukadeva |
 | **Shunaka** | Śunaka | son of Ruru; ancestor of Shaunaka |  |  | Sunaka |
 | **Somashravas** | Somaśravas | Janamejaya's family priest, son of Shrutashravas by a snake-woman |  |  |  |
 | **Sthulakesha** | Sthūlakeśa | seer who raised Pramadvara |  |  |  |

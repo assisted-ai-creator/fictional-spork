@@ -121,6 +121,13 @@ the reader.
 * **Frames.** Open the book, and the war books, with the frame. Return to it
   only where the text does and where it matters (Sañjaya telling a father
   about his sons).
+* **Quotation marks and the frame.** While Ugraśravas (the bard) tells a story
+  inside his own frame (CE 1.1–1.54), his whole narration sits inside double
+  quotes, with the characters' speech in single quotes. From Vaiśaṃpāyana's
+  telling on (CE 1.57 onwards), the story is plain narrative prose with
+  ordinary double quotes for speech. The frame returns as a line of dialogue
+  only where the CE has Janamejaya ask a question or has a speaker label change
+  back to the frame.
 
 ## 8. Never write these
 

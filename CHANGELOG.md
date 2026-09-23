@@ -18,6 +18,22 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 18–20 drafted; Adivamshavatarana is complete
+- Ch 18 *The Story in Brief* (CE 1.54–56), Ch 19 *The Fish's Daughter*
+  (1.57), Ch 20 *The Burden of the Earth* (1.58). About 6,100 words, verified
+  verse by verse. Vaishampayana now narrates, and the story is told as plain
+  prose.
+- Notes: Satyavati's birth from the fish Adrika and Vasu's seed, as in the CE;
+  the Earth goes to Brahma, not Vishnu (1.58.37); Shakuni is not named at
+  1.57.93 (the vulgate names him).
+
+### Workbook
+- `STYLE_GUIDE.md` §7: a rule for quotation marks across the frames (the bard's
+  frame in double quotes to CE 1.54; plain narration from Vaishampayana's
+  telling on).
+- `names.json`: +8 (Uparichara Vasu, Girika, Adrika, Matsya, Parashara,
+  Animandavya, Gavalgana, Shuka).
+
 ### Novel: Book 1, chapters 14–17 drafted; the Astika section is complete
 - Ch 14 *The Wife Who Woke Him* (CE 1.41–44), Ch 15 *The Snake Sacrifice*
   (1.45–47), Ch 16 *The Boy at the Gate* (1.48–50), Ch 17 *Stop!* (1.51–53).

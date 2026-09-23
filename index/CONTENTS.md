@@ -2,7 +2,7 @@
 
 # Contents
 
-**17 chapters, 44,147 words.** 17 drafted
+**20 chapters, 50,295 words.** 20 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -26,5 +26,8 @@
 | 15 | [The Snake Sacrifice](../novel/book-01-adi/15-the-snake-sacrifice.md) | 1.45-47 | drafted | 2,371 |
 | 16 | [The Boy at the Gate](../novel/book-01-adi/16-the-boy-at-the-gate.md) | 1.48-50 | drafted | 1,917 |
 | 17 | [Stop!](../novel/book-01-adi/17-stop.md) | 1.51-53 | drafted | 1,977 |
+| 18 | [The Story in Brief](../novel/book-01-adi/18-the-story-in-brief.md) | 1.54-56 | drafted | 2,345 |
+| 19 | [The Fish's Daughter](../novel/book-01-adi/19-the-fishs-daughter.md) | 1.57 | drafted | 2,555 |
+| 20 | [The Burden of the Earth](../novel/book-01-adi/20-the-burden-of-the-earth.md) | 1.58 | drafted | 1,248 |
 
-*Book 1 so far: 44,147 words.*
+*Book 1 so far: 50,295 words.*
