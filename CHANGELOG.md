@@ -18,6 +18,21 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 34–35 drafted: Ganga and Bhishma
+- Ch 34 *Ganga* (CE 1.91–93) and Ch 35 *Bhishma* (1.94): Mahabhisha's curse; the
+  Vasus; Ganga and Pratipa; Shantanu's marriage and the drowned sons; the stolen
+  cow; the boy who dams the Ganga; Satyavati and the vow. About 5,200 words.
+
+### Reference
+- Ledger **L-69**: the Vasu who stole the cow is Dyaus, and the cow is unnamed in
+  the CE ("Nandini" is the vulgate's reading, and "Prabhasa" is in neither).
+- Ledger **L-70**: Bhishma's supposed vow to serve Hastinapura's throne is not
+  in the CE. His own later reason is "bound by wealth" (6.41.36).
+
+### Workbook
+- `names.json`: +5 (Mahabhisha, Pratipa, Devapi, Vasishtha, Dyaus); Bhishma
+  gets his other names, Devavrata and Gangeya.
+
 ### Novel: Book 1, chapters 32–33 drafted: the two genealogies
 - Ch 32 *The Line of Puru* (CE 1.89, verse) and Ch 33 *The Line Told Again*
   (1.90, prose). About 2,800 words. The CE's disagreements are kept and listed in

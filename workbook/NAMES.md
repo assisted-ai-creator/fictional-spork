@@ -25,6 +25,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Brahma** | Brahmā | the creator, grandfather of the worlds | Pitamaha, Prajapati |  |  |
 | **Brihaspati** | Bṛhaspati | priest and counsellor of the gods; explains the omens to Indra |  |  | Brahaspati |
 | **Dhanvantari** | Dhanvantari | the god who rises from the ocean carrying the nectar in a white pot |  |  |  |
+| **Dyaus** | Dyaus | the Vasu who stole Vasishtha's cow and was reborn as Bhishma (not 'Prabhasa'; see L-69) | Dyu |  |  |
 | **Garuda** | Garuḍa | Vinata's younger son, the destroyer of snakes | Suparna, Vainateya |  | Garud |
 | **Indra** | Indra | king of the gods | Shakra, Purandara, Vasava, Maghavat | Shakra |  |
 | **Kadru** | Kadrū | daughter of the creator, wife of Kashyapa, mother of a thousand nagas |  |  | Kadroo |
@@ -53,6 +54,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Druhyu** | Druhyu | Yayati's son by Sharmishtha |  |  |  |
 | **Dushyanta** | Duḥṣanta | Paurava king who marries Shakuntala by the gandharva rite and later denies her until a heavenly voice speaks; father of Bharata |  |  | Dushmanta, Dusyanta, Dushyant |
 | **Girika** | Girikā | Vasu's wife, daughter of the mountain Kolahala and the river Shuktimati |  |  |  |
+| **Mahabhisha** | Mahābhiṣa | a king of Ikshvaku's line in heaven, cursed by Brahma for gazing at Ganga; reborn as Shantanu |  |  |  |
 | **Manu** | Manu | Manu son of Vivasvat (through Martanda in 1.70), from whom the human race descends | Vaivasvata |  |  |
 | **Nahusha** | Nahuṣa | son of Ayus, father of Yayati; for a time he made himself Indra |  |  | Nahush |
 | **Paushya** | Pauṣya | king whose queen gives her earrings to Uttanka |  |  |  |
@@ -74,6 +76,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Ashvatthama** | Aśvatthāman | son of Drona and Kripi | Drauni | Drauni | Ashwatthama, Aswatthama, Ashwathama, Ashvathama |
 | **Bhishma** | Bhīṣma | Devavrata, son of Shantanu and Ganga, who vowed never to marry or rule | Devavrata, Gangeya, Shantanava | Gangeya, Devavrata | Bheeshma, Bhisma, Bhishm |
 | **Chitrangada** | Citrāṅgada | elder son of Shantanu and Satyavati (not the Manipur princess Chitrangada) |  |  |  |
+| **Devapi** | Devāpi | Pratipa's eldest son, who left for the forest as a boy |  |  |  |
 | **Dhritarashtra** | Dhṛtarāṣṭra | blind elder son of Vyasa and Ambika; father of Duryodhana and his brothers |  |  | Dhritrashtra, Dhritarashtr, Dhrutarashtra |
 | **Drona** | Droṇa | Brahmin master of arms, son of Bharadvaja, born in a pot | Bharadvaja (son of) |  | Dronacharya, Dron |
 | **Gandhari** | Gāndhārī | princess of Gandhara; Dhritarashtra's wife, who bound her own eyes | Saubali |  |  |
@@ -83,6 +86,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kripi** | Kṛpī | Kripa's twin sister; Drona's wife |  |  |  |
 | **Pandu** | Pāṇḍu | pale son of Vyasa and Ambalika; king; father of the Pandavas |  |  |  |
 | **Parikshit** | Parikṣit | son of Abhimanyu and Uttara; father of Janamejaya; killed by the snake Takshaka |  |  | Parikshith, Parikshita, Pariksit |
+| **Pratipa** | Pratīpa | Kuru king, father of Devapi, Shantanu and Bahlika; Ganga sat on his right thigh | Paryashravas |  |  |
 | **Sanjaya** | Saṃjaya | Dhritarashtra's charioteer and counsellor, given divine sight by Vyasa | Gavalgani |  | Sanjay |
 | **Satyavati** | Satyavatī | the fisherman's adopted daughter who became Shantanu's queen; mother of Vyasa | Kali, Gandhavati, Yojanagandha, Matsyagandha |  | Satyawati |
 | **Shantanu** | Śaṃtanu | king of Hastinapura; husband of Ganga, then of Satyavati; father of Bhishma |  |  | Santanu, Shantnu |
@@ -145,6 +149,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Supratika** | Supratīka | Vibhavasu's younger brother, who wanted their wealth divided; becomes the elephant |  |  |  |
 | **Upamanyu** | Upamanyu | Dhaumya's pupil who praised the Ashvins |  |  |  |
 | **Uttanka** | Uttaṅka | pupil of Veda who fetches the queen's earrings and urges Janamejaya to take revenge |  |  | Utanka |
+| **Vasishtha** | Vasiṣṭha | the seer, son of Varuna, also called Apava; cursed the Vasus; taught Devavrata the Vedas | Apava |  | Vashishta, Vasistha |
 | **Veda** | Veda | Dhaumya's pupil, later teacher of Uttanka and priest of Janamejaya and Paushya |  |  |  |
 | **Vibhavasu** | Vibhāvasu | an angry seer who curses his brother to become an elephant and is himself cursed to become a tortoise |  |  |  |
 | **Vishvamitra** | Viśvāmitra | a kshatriya who became a brahmin by austerity; father of Shakuntala by Menaka | Kaushika |  | Visvamitra, Viswamitra |

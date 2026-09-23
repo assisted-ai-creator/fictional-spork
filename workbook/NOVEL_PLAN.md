@@ -117,7 +117,9 @@ against the CE when the Book is drafted.
 | 31 | The Grandsons | 1.85–1.88 | ✅ drafted. Yayāti's teaching; the four grandsons offer their worlds; the golden chariots. |
 | 32 | The Line of Puru | 1.89 | ✅ drafted. Pūru to Pratīpa in verse; Saṃvaraṇa's exile; Kuru and Kurukṣetra. |
 | 33 | The Line Told Again | 1.90 | ✅ drafted. The prose genealogy from Dakṣa to Janamejaya's grandson; doublets noted. |
-| 34… | Saṃbhava (cont.) | 1.91–1.123 | Mahābhiṣa; Gaṅgā and the Vasus; Bhīṣma's vow; Satyavatī; Vyāsa's sons; the births. |
+| 34 | Ganga | 1.91–1.93 | ✅ drafted. Mahābhiṣa; the Vasus; Pratīpa's right thigh; Śaṃtanu and Gaṅgā; the seven drowned; Vasiṣṭha's cow (L-69). |
+| 35 | Bhishma | 1.94 | ✅ drafted. The boy damming the Gaṅgā; Satyavatī; the vow; death at will (L-70). |
+| 36… | Saṃbhava (cont.) | 1.95–1.123 | Citrāṅgada and Vicitravīrya; Ambā, Ambikā, Ambālikā; Vyāsa's sons; Māṇḍavya; the births of the Kauravas and Pāṇḍavas. |
 
 ---
 

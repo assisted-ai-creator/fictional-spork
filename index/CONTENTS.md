@@ -2,7 +2,7 @@
 
 # Contents
 
-**33 chapters, 78,915 words.** 33 drafted
+**35 chapters, 84,106 words.** 35 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -42,5 +42,7 @@
 | 31 | [The Grandsons](../novel/book-01-adi/31-the-grandsons.md) | 1.85-88 | drafted | 2,861 |
 | 32 | [The Line of Puru](../novel/book-01-adi/32-the-line-of-puru.md) | 1.89 | drafted | 1,185 |
 | 33 | [The Line Told Again](../novel/book-01-adi/33-the-line-told-again.md) | 1.90 | drafted | 1,635 |
+| 34 | [Ganga](../novel/book-01-adi/34-ganga.md) | 1.91-93 | drafted | 3,001 |
+| 35 | [Bhishma](../novel/book-01-adi/35-bhishma.md) | 1.94 | drafted | 2,190 |
 
-*Book 1 so far: 78,915 words.*
+*Book 1 so far: 84,106 words.*

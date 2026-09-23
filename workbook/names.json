@@ -1862,6 +1862,65 @@
     "Sibi"
    ],
    "ref": "1.88.6"
+  },
+  {
+   "name": "Mahabhisha",
+   "iast": "Mahābhiṣa",
+   "group": "King",
+   "who": "a king of Ikshvaku's line in heaven, cursed by Brahma for gazing at Ganga; reborn as Shantanu",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.91.1"
+  },
+  {
+   "name": "Pratipa",
+   "iast": "Pratīpa",
+   "group": "Kuru",
+   "who": "Kuru king, father of Devapi, Shantanu and Bahlika; Ganga sat on his right thigh",
+   "aka": [
+    "Paryashravas"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.89.52"
+  },
+  {
+   "name": "Devapi",
+   "iast": "Devāpi",
+   "group": "Kuru",
+   "who": "Pratipa's eldest son, who left for the forest as a boy",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.89.52"
+  },
+  {
+   "name": "Vasishtha",
+   "iast": "Vasiṣṭha",
+   "group": "Seer",
+   "who": "the seer, son of Varuna, also called Apava; cursed the Vasus; taught Devavrata the Vedas",
+   "aka": [
+    "Apava"
+   ],
+   "dialogue": [],
+   "flag": [
+    "Vashishta",
+    "Vasistha"
+   ],
+   "ref": "1.89.36"
+  },
+  {
+   "name": "Dyaus",
+   "iast": "Dyaus",
+   "group": "Gods",
+   "who": "the Vasu who stole Vasishtha's cow and was reborn as Bhishma (not 'Prabhasa'; see L-69)",
+   "aka": [
+    "Dyu"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.93.17"
   }
  ],
  "not_vyasa": [
