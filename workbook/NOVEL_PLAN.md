@@ -92,9 +92,10 @@ against the CE when the Book is drafted.
 | 6 | The Fire's Witness | 1.4–1.7 | ✅ drafted. Bhṛgu, Pulomā, Agni's curse. |
 | 7 | Half a Life | 1.8–1.12 | ✅ drafted. Ruru and Pramadvarā; the dundubha Sahasrapāt. |
 | 8 | The Churning of the Ocean | 1.13–1.17 | ✅ drafted. Āstīka in brief; Kadrū and Vinatā; Aruṇa; the churning (no poison: L-63). |
-| 9 | The Wager | 1.18–1.23 | The bet on the horse's tail; Kadrū's curse; Garuḍa's birth; Vinatā enslaved. |
-| 10 | Garuda | 1.24–1.30 | Garuḍa eats the Niṣādas; the elephant and tortoise; the Vālakhilyas; the theft of the nectar. |
-| 11… | Āstīka and the snakes (rest) | 1.31–1.53 | Planned in detail when drafting reaches it. |
+| 9 | The Wager | 1.18–1.23 | ✅ drafted. The bet on the horse's tail; Kadrū's curse; Garuḍa born; Vinatā enslaved; the price of freedom (L-65). |
+| 10 | The Elephant and the Tortoise | 1.24–1.26 | ✅ drafted. The Niṣādas; Vibhāvasu and Supratīka; the Vālakhilyas on the branch; the gods arm. |
+| 11 | The Nectar | 1.27–1.30 | ✅ drafted. Indra and the Vālakhilyas; the theft; Viṣṇu's boons; the feather; the split tongues. |
+| 12… | Āstīka and the snakes (rest) | 1.31–1.53 | Planned in detail when drafting reaches it. |
 
 ---
 

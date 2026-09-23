@@ -2,7 +2,7 @@
 
 # Contents
 
-**8 chapters, 22,471 words.** 8 drafted
+**11 chapters, 29,355 words.** 11 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -17,5 +17,8 @@
 | 6 | [The Fire's Witness](../novel/book-01-adi/06-the-fires-witness.md) | 1.4-7 | drafted | 1,899 |
 | 7 | [Half a Life](../novel/book-01-adi/07-half-a-life.md) | 1.8-12 | drafted | 1,746 |
 | 8 | [The Churning of the Ocean](../novel/book-01-adi/08-the-churning-of-the-ocean.md) | 1.13-17 | drafted | 3,536 |
+| 9 | [The Wager](../novel/book-01-adi/09-the-wager.md) | 1.18-23 | drafted | 2,058 |
+| 10 | [The Elephant and the Tortoise](../novel/book-01-adi/10-the-elephant-and-the-tortoise.md) | 1.24-26 | drafted | 2,290 |
+| 11 | [The Nectar](../novel/book-01-adi/11-the-nectar.md) | 1.27-30 | drafted | 2,536 |
 
-*Book 1 so far: 22,471 words.*
+*Book 1 so far: 29,355 words.*

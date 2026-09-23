@@ -17,9 +17,11 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Akupara** | Akūpāra | king of the tortoises; the base of Mandara at the churning (not called an avatar of Vishnu; see L-64) |  |  |  |
 | **Ananta** | Ananta | the mighty god who tears up Mandara for the churning |  |  |  |
 | **Aruna** | Aruṇa | Vinata's elder son, born half-formed from the broken egg; seen at dawn |  |  |  |
+| **Bhauvana** | Bhauvana | a mighty guardian of the soma, struck down by Garuda (not identified further in the CE) |  |  |  |
 | **Brahma** | Brahmā | the creator, grandfather of the worlds | Pitamaha, Prajapati |  |  |
+| **Brihaspati** | Bṛhaspati | priest and counsellor of the gods; explains the omens to Indra |  |  | Brahaspati |
 | **Dhanvantari** | Dhanvantari | the god who rises from the ocean carrying the nectar in a white pot |  |  |  |
-| **Garuda** | Garuḍa | Vinata's younger son, the destroyer of snakes |  |  | Garud |
+| **Garuda** | Garuḍa | Vinata's younger son, the destroyer of snakes | Suparna, Vainateya |  | Garud |
 | **Indra** | Indra | king of the gods | Shakra, Purandara, Vasava, Maghavat | Shakra |  |
 | **Kadru** | Kadrū | daughter of the creator, wife of Kashyapa, mother of a thousand nagas |  |  | Kadroo |
 | **Nara** | Nara | the god who fights beside Narayana with a divine bow |  |  |  |
@@ -98,9 +100,11 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shunaka** | Śunaka | son of Ruru; ancestor of Shaunaka |  |  | Sunaka |
 | **Somashravas** | Somaśravas | Janamejaya's family priest, son of Shrutashravas by a snake-woman |  |  |  |
 | **Sthulakesha** | Sthūlakeśa | seer who raised Pramadvara |  |  |  |
+| **Supratika** | Supratīka | Vibhavasu's younger brother, who wanted their wealth divided; becomes the elephant |  |  |  |
 | **Upamanyu** | Upamanyu | Dhaumya's pupil who praised the Ashvins |  |  |  |
 | **Uttanka** | Uttaṅka | pupil of Veda who fetches the queen's earrings and urges Janamejaya to take revenge |  |  | Utanka |
 | **Veda** | Veda | Dhaumya's pupil, later teacher of Uttanka and priest of Janamejaya and Paushya |  |  |  |
+| **Vibhavasu** | Vibhāvasu | an angry seer who curses his brother to become an elephant and is himself cursed to become a tortoise |  |  |  |
 | **Vyasa** | Vyāsa | Krishna Dvaipayana, son of Parashara and Satyavati; maker of the epic and father of Dhritarashtra, Pandu and Vidura | Krishna Dvaipayana, Dvaipayana, Parasharya | Dvaipayana | Vyas, Ved Vyas |
 | **Balarama** | Balarāma | Krishna's elder brother, the plough-bearer | Baladeva, Rama, Samkarshana, Halayudha | Baladeva | Balram, Balaram |
 | **Krishna** | Kṛṣṇa | son of Vasudeva and Devaki, of the Vrishni clan; Arjuna's friend and charioteer | Vasudeva, Keshava, Madhava, Govinda, Janardana, Hrishikesha, Madhusudana, Achyuta, Varshneya, Dasharha | Keshava, Madhava, Govinda, Janardana, Vasudeva | Krishn, Krsna |

@@ -393,5 +393,6 @@ Diademed One to keep."
   thousand rays", rendered "like a second sun with a hundred thousand rays".
 * 1.17.30 *kirīṭine*: "to the Diademed One". The CE does not say whether this
   is Nara (Arjuna's divine form, later called Kiritin) or Narayana. Ganguli's
-  vulgate reads "to Narayana". Left as the CE has it.
+  vulgate reads "to Narayana". Left as the CE has it. At 1.30.6 the same title
+  names Indra, but here Indra is the giver, so it cannot mean him.
 * Yojana: a measure of distance (glossary).

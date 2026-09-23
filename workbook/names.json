@@ -1219,7 +1219,10 @@
    "iast": "Garuḍa",
    "group": "Gods",
    "who": "Vinata's younger son, the destroyer of snakes",
-   "aka": [],
+   "aka": [
+    "Suparna",
+    "Vainateya"
+   ],
    "dialogue": [],
    "flag": [
     "Garud"
@@ -1313,6 +1316,48 @@
    "dialogue": [],
    "flag": [],
    "ref": "1.17.4"
+  },
+  {
+   "name": "Brihaspati",
+   "iast": "Bṛhaspati",
+   "group": "Gods",
+   "who": "priest and counsellor of the gods; explains the omens to Indra",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Brahaspati"
+   ],
+   "ref": "1.26.33"
+  },
+  {
+   "name": "Vibhavasu",
+   "iast": "Vibhāvasu",
+   "group": "Seer",
+   "who": "an angry seer who curses his brother to become an elephant and is himself cursed to become a tortoise",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.25.10"
+  },
+  {
+   "name": "Supratika",
+   "iast": "Supratīka",
+   "group": "Seer",
+   "who": "Vibhavasu's younger brother, who wanted their wealth divided; becomes the elephant",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.25.10"
+  },
+  {
+   "name": "Bhauvana",
+   "iast": "Bhauvana",
+   "group": "Gods",
+   "who": "a mighty guardian of the soma, struck down by Garuda (not identified further in the CE)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.28.3"
   }
  ],
  "not_vyasa": [

@@ -39,6 +39,7 @@ import html
 import json
 import math
 import re
+import signal
 import sys
 import unicodedata
 from collections import Counter, defaultdict
@@ -710,4 +711,5 @@ def main(argv=None):
 
 
 if __name__ == "__main__":
+    signal.signal(signal.SIGPIPE, signal.SIG_DFL)  # quiet exit when piped to head
     main()

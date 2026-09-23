@@ -18,6 +18,28 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 9–11 drafted
+- Ch 9 *The Wager* (CE 1.18–23), Ch 10 *The Elephant and the Tortoise*
+  (1.24–26), Ch 11 *The Nectar* (1.27–30): the wager, Vinata's slavery,
+  Garuda's birth and his theft of the nectar. About 6,900 words, verified
+  verse by verse. The Garuda story is split into two chapters at Shaunaka's
+  question (1.27.1). The book now stands at 11 chapters and about 29,000 words.
+- Notes keep the CE's unexplained black hairs (1.18.7 against 1.20.2), its
+  threefold telling of Garuda's birth, and its unnamed "seer of the
+  thunderbolt" (1.29.19).
+- Ch 8 note: *kirīṭin* names Indra at 1.30.6 but cannot at 1.17.30.
+
+### Reference
+- Ledger **L-65**: Karkotaka (or any snake) becoming the black hair is a
+  rejected passage (\*286). In the CE the snakes refuse.
+
+### Tools
+- `mbh.py`: exits quietly when its output is piped into `head`.
+
+### Workbook
+- `names.json`: +4 (Brihaspati, Vibhavasu, Supratika, Bhauvana); Garuda's
+  other names Suparna and Vainateya. `NOVEL_PLAN.md`: rows for chapters 9–11.
+
 ### Novel: Book 1, chapter 8
 - Ch 8 *The Churning of the Ocean* (CE 1.13–17): Astika's story in brief, the
   two sisters and their eggs, Aruna's curse, and the churning. About 3,500
