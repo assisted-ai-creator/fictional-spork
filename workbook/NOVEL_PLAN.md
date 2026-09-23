@@ -113,7 +113,9 @@ against the CE when the Book is drafted.
 | 27 | The Girl in the Well | 1.72–1.73 | ✅ drafted. Kaca and Devayānī curse each other; the clothes; the well; Yayāti. |
 | 28 | Sharmishtha's Price | 1.74–1.76 | ✅ drafted. Śukra on anger; Śarmiṣṭhā made Devayānī's slave; the marriage to Yayāti. |
 | 29 | Old Age | 1.77–1.79 | ✅ drafted. Śarmiṣṭhā and Yayāti; Śukra's curse; the sons' refusals and Pūru's gift. |
-| 30… | Saṃbhava (cont.) | 1.80–1.123 | Pūru made king; Yayāti in heaven and his fall (Uttarayāyāta); the Pūru line; Śaṃtanu; the births. |
+| 30 | Yayati's Fall | 1.80–1.84 | ✅ drafted. Pūru crowned; the forest; heaven; the boast to Indra; the fall; Aṣṭaka. |
+| 31 | The Grandsons | 1.85–1.88 | ✅ drafted. Yayāti's teaching; the four grandsons offer their worlds; the golden chariots. |
+| 32… | Saṃbhava (cont.) | 1.89–1.123 | The Pūru line to Śaṃtanu; Mahābhiṣa; Gaṅgā and the Vasus; Bhīṣma; Satyavatī; Vyāsa's sons; the births. |
 
 ---
 

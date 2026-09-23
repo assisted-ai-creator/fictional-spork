@@ -18,6 +18,15 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 30–31 drafted: the Uttarayayata
+- Ch 30 *Yayati's Fall* (CE 1.80–84) and Ch 31 *The Grandsons* (1.85–88):
+  Puru crowned; Yayati's austerities, heaven, boast and fall; the dialogue with
+  Ashtaka on rebirth, pride and the four stages of life; the grandsons' offered
+  worlds and the golden chariots. About 5,500 words. The notes mark the hardest
+  verses (1.84.4, 1.85.27, 1.87.3–4, 1.87.12, 1.87.14) as uncertain, and record
+  that the grandsons' mother, Madhavi, is named only in Book 5.
+- `names.json`: +4 (Ashtaka, Pratardana, Vasumanas, Shibi).
+
 ### Novel: Book 1, chapters 28–29 drafted
 - Ch 28 *Sharmishtha's Price* (CE 1.74–76) and Ch 29 *Old Age* (1.77–79):
   Shukra on anger; Sharmishtha's servitude; Devayani's marriage to Yayati;

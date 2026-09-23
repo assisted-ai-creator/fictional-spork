@@ -48,6 +48,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Karna** | Karṇa | Kunti's first son, by the Sun, born with armour and earrings; raised by the charioteer Adhiratha and Radha | Vasusena, Radheya, Vaikartana, Suta's son | Radheya | Karan, Karn |
 | **Radha** | Rādhā | Adhiratha's wife, Karna's foster mother. The only Radha in the epic (see ledger L-58) |  |  |  |
 | **Anu** | Anu | Yayati's son by Sharmishtha |  |  |  |
+| **Ashtaka** | Aṣṭaka | royal seer, a grandson of Yayati through his daughter, who questions and helps save him |  |  |  |
 | **Bharata** | Bharata | son of Dushyanta and Shakuntala, first called Sarvadamana; the emperor from whom the Bharatas take their name | Sarvadamana |  |  |
 | **Druhyu** | Druhyu | Yayati's son by Sharmishtha |  |  |  |
 | **Dushyanta** | Duḥṣanta | Paurava king who marries Shakuntala by the gandharva rite and later denies her until a heavenly voice speaks; father of Bharata |  |  | Dushmanta, Dusyanta, Dushyant |
@@ -55,13 +56,16 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Manu** | Manu | Manu son of Vivasvat (through Martanda in 1.70), from whom the human race descends | Vaivasvata |  |  |
 | **Nahusha** | Nahuṣa | son of Ayus, father of Yayati; for a time he made himself Indra |  |  | Nahush |
 | **Paushya** | Pauṣya | king whose queen gives her earrings to Uttanka |  |  |  |
+| **Pratardana** | Pratardana | royal seer, a grandson of Yayati through his daughter |  |  |  |
 | **Puru** | Pūru | Yayati's youngest son, by Sharmishtha, who took his father's old age; founder of the Paurava line |  |  |  |
 | **Pururavas** | Purūravas | son of Ila, husband of Urvashi, ancestor of the Lunar line | Aila |  | Pururava |
 | **Shakuntala** | Śakuntalā | daughter of Vishvamitra and Menaka, raised by Kanva; wife of Dushyanta, mother of Bharata |  |  | Sakuntala, Shakuntalaa |
 | **Sharmishtha** | Śarmiṣṭhā | daughter of the asura king Vrishaparvan; Devayani's rival and servant; mother of Druhyu, Anu and Puru |  |  | Sarmishtha, Sharmista |
+| **Shibi** | Śibi | son of Ushinara, a royal seer of unequalled generosity, a grandson of Yayati through his daughter | Aushinara |  | Sibi |
 | **Turvasu** | Turvasu | Yayati's son by Devayani |  |  |  |
 | **Uparichara Vasu** | Uparicara Vasu | king of Chedi, Indra's friend, who rides above the earth in a crystal chariot; father of Satyavati and Matsya | Vasu, Uparichara |  |  |
 | **Vapushtama** | Vapuṣṭamā | daughter of Suvarnavarman of Kashi; Janamejaya's wife |  |  |  |
+| **Vasumanas** | Vasumanas | royal seer, son of Rushadashva, a grandson of Yayati through his daughter | Vasumat |  |  |
 | **Vrishaparvan** | Vṛṣaparvan | king of the asuras, Shukra's patron, father of Sharmishtha |  |  | Vrishaparva |
 | **Yadu** | Yadu | Yayati's eldest son, by Devayani; ancestor of the Yadavas |  |  |  |
 | **Yayati** | Yayāti | son of Nahusha, husband of Devayani and Sharmishtha, who traded his old age for Puru's youth |  |  | Yayathi |

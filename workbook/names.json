@@ -1816,6 +1816,52 @@
    "dialogue": [],
    "flag": [],
    "ref": "1.73.24"
+  },
+  {
+   "name": "Ashtaka",
+   "iast": "Aṣṭaka",
+   "group": "King",
+   "who": "royal seer, a grandson of Yayati through his daughter, who questions and helps save him",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.83.6"
+  },
+  {
+   "name": "Pratardana",
+   "iast": "Pratardana",
+   "group": "King",
+   "who": "royal seer, a grandson of Yayati through his daughter",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.81.5"
+  },
+  {
+   "name": "Vasumanas",
+   "iast": "Vasumanas",
+   "group": "King",
+   "who": "royal seer, son of Rushadashva, a grandson of Yayati through his daughter",
+   "aka": [
+    "Vasumat"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.88.1"
+  },
+  {
+   "name": "Shibi",
+   "iast": "Śibi",
+   "group": "King",
+   "who": "son of Ushinara, a royal seer of unequalled generosity, a grandson of Yayati through his daughter",
+   "aka": [
+    "Aushinara"
+   ],
+   "dialogue": [],
+   "flag": [
+    "Sibi"
+   ],
+   "ref": "1.88.6"
   }
  ],
  "not_vyasa": [

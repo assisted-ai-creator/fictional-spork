@@ -2,7 +2,7 @@
 
 # Contents
 
-**29 chapters, 70,603 words.** 29 drafted
+**31 chapters, 76,095 words.** 31 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -38,5 +38,7 @@
 | 27 | [The Girl in the Well](../novel/book-01-adi/27-the-girl-in-the-well.md) | 1.72-73 | drafted | 1,474 |
 | 28 | [Sharmishtha's Price](../novel/book-01-adi/28-sharmishthas-price.md) | 1.74-76 | drafted | 1,801 |
 | 29 | [Old Age](../novel/book-01-adi/29-old-age.md) | 1.77-79 | drafted | 2,421 |
+| 30 | [Yayati's Fall](../novel/book-01-adi/30-yayatis-fall.md) | 1.80-84 | drafted | 2,631 |
+| 31 | [The Grandsons](../novel/book-01-adi/31-the-grandsons.md) | 1.85-88 | drafted | 2,861 |
 
-*Book 1 so far: 70,603 words.*
+*Book 1 so far: 76,095 words.*
