@@ -2,7 +2,7 @@
 
 # Contents
 
-**52 chapters, 107,123 words.** 52 drafted
+**54 chapters, 110,035 words.** 54 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -61,5 +61,7 @@
 | 50 | [Born of Reeds and a Pot](../novel/book-01-adi/50-born-of-reeds-and-a-pot.md) | 1.120-121 | drafted | 967 |
 | 51 | [The Ball in the Well](../novel/book-01-adi/51-the-ball-in-the-well.md) | 1.122 | drafted | 1,145 |
 | 52 | [The Bird's Head](../novel/book-01-adi/52-the-birds-head.md) | 1.123 | drafted | 1,709 |
+| 53 | [The Tournament](../novel/book-01-adi/53-the-tournament.md) | 1.124-125 | drafted | 1,454 |
+| 54 | [King of Anga](../novel/book-01-adi/54-king-of-anga.md) | 1.126-127 | drafted | 1,458 |
 
-*Book 1 so far: 107,123 words.*
+*Book 1 so far: 110,035 words.*

@@ -2396,6 +2396,32 @@
    "dialogue": [],
    "flag": [],
    "ref": "1.123.10"
+  },
+  {
+   "name": "Dadhicha",
+   "iast": "Dadhīca",
+   "group": "Seer",
+   "who": "seer from whose bones Indra's thunderbolt was made",
+   "aka": [
+    "Dadhichi"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.127.12"
+  },
+  {
+   "name": "Skanda",
+   "iast": "Skanda",
+   "group": "God",
+   "who": "the war god, called Guha and Kumara; son of Fire, the Krittikas, Rudra and Ganga",
+   "aka": [
+    "Guha",
+    "Kumara",
+    "Kartikeya"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.127.13"
   }
  ],
  "not_vyasa": [

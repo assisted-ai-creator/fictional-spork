@@ -136,7 +136,9 @@ against the CE when the Book is drafted.
 | 50 | Born of Reeds and a Pot | 1.120–1.121 | ✅ drafted. Kṛpa and Kṛpī; Droṇa's birth; Aśvatthāman; Rāma Jāmadagnya's weapons. |
 | 51 | The Ball in the Well | 1.122 | ✅ drafted. Drupada's insult; the ball and the reeds; Droṇa becomes teacher; Arjuna's promise; Karṇa a pupil (L-82, L-83). |
 | 52 | The Bird's Head | 1.123 | ✅ drafted. Arjuna in the dark; Ekalavya's thumb; the bird's head; the crocodile; Brahmaśiras (L-84). |
-| 53… | Tournament and Drupada | 1.124–1.138 | The tournament; Karṇa's challenge; Drupada captured; the house of lac. |
+| 53 | The Tournament | 1.124–1.125 | ✅ drafted. The arena; the princes' display; Bhīma and Duryodhana with maces; Arjuna's weapons; the sound at the gate. |
+| 54 | King of Anga | 1.126–1.127 | ✅ drafted. Karṇa's challenge; Kuntī faints; Kṛpa's question; Karṇa crowned; Adhiratha; Bhīma's taunt (L-85). |
+| 55… | Drupada and the house of lac | 1.128–1.138 | Drupada captured; Yudhiṣṭhira heir; Kaṇika's counsel; Vāraṇāvata; the house of lac. |
 
 ---
 

@@ -18,6 +18,19 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 53–54 drafted: the tournament and Karna
+- Ch 53 *The Tournament* (CE 1.124–125) and Ch 54 *King of Anga* (1.126–127): the
+  display of arms; Bhima and Duryodhana parted; Arjuna's weapons; Karna's
+  challenge; Kunti faints; Karna crowned king of Anga; Bhima's taunt and
+  Duryodhana's answer. About 2,900 words.
+
+### Reference
+- Ledger **L-85**: Karna's shaming and crowning at the tournament are in the CE;
+  Kripa asks his lineage, and the "suta's son" insult is Bhima's.
+
+### Workbook
+- `names.json`: +2 (Dadhicha, Skanda).
+
 ### Novel: Book 1, chapters 51–52 drafted: Drona the teacher
 - Ch 51 *The Ball in the Well* (CE 1.122) and Ch 52 *The Bird's Head* (1.123):
   Drupada's insult; the ball drawn out with reeds; Drona made teacher; Arjuna's
