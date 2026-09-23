@@ -142,7 +142,10 @@ against the CE when the Book is drafted.
 | 56 | Purochana | 1.131–1.132 | ✅ drafted. The festival as bait; the elders' blessing; Purocana's orders for the house. |
 | 57 | Vidura's Riddle | 1.133–1.134 | ✅ drafted. The farewells; Vidura's coded warning; the house called Auspicious; the plan to dig. |
 | 58 | The Fire | 1.135–1.136 | ✅ drafted. Vidura's miner; the year of pretence; the Niṣāda woman and her sons; the fire; the escape (L-87). |
-| 59… | Into the forest | 1.137–1.152 | The Gaṅgā crossing; the news in Hāstinapura; Hiḍimba and Hiḍimbā; Ghaṭotkaca; Ekacakrā; Baka. |
+| 59 | Bhima Keeps Watch | 1.137–1.138 | ✅ drafted. The ruins found; Dhṛtarāṣṭra's mourning; the flight south; Bhīma's lament (L-88, L-89). |
+| 60 | Hidimba | 1.139–1.141 | ✅ drafted. The rākṣasa and his sister; her love for Bhīma; the fight begins. |
+| 61 | Ghatotkacha | 1.142–1.144 | ✅ drafted. Hiḍimba killed; Yudhiṣṭhira's terms; Ghaṭotkaca born; Vyāsa sends them to Ekacakrā (L-90). |
+| 62… | Ekacakrā and Baka | 1.145–1.152 | The brahmin's family; Kuntī offers Bhīma; Baka killed. |
 
 ---
 

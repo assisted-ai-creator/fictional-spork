@@ -18,6 +18,20 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 59–61 drafted: flight, Hidimba and Ghatotkacha
+- Ch 59 *Bhima Keeps Watch* (CE 1.137–138), Ch 60 *Hidimba* (1.139–141) and Ch 61
+  *Ghatotkacha* (1.142–144): the ruins found and the false mourning; Bhima carries
+  the family south; the rakshasa Hidimba and his sister; Bhima's fight; the
+  marriage; Ghatotkacha's birth; Vyasa settles them in Ekachakra. About 4,800
+  words.
+
+### Reference
+- Ledger **L-88**: Vidura's boat on the Ganga is a later addition (App. I No. 85).
+- Ledger **L-89**: Dhritarashtra's secret joy at the news is a later addition
+  (\*1488).
+- Ledger **L-90**: Yudhishthira, not Kunti, sets the terms of Bhima's marriage to
+  Hidimba (1.143.16–18).
+
 ### Novel: Book 1, chapters 57–58 drafted: the house of lac
 - Ch 57 *Vidura's Riddle* (CE 1.133–134) and Ch 58 *The Fire* (1.135–136): the
   farewells; Vidura's coded warning; the house called Auspicious; the miner and the

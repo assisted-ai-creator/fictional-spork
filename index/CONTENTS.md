@@ -2,7 +2,7 @@
 
 # Contents
 
-**58 chapters, 114,271 words.** 58 drafted
+**61 chapters, 119,064 words.** 61 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -67,5 +67,8 @@
 | 56 | [Purochana](../novel/book-01-adi/56-purochana.md) | 1.131-132 | drafted | 698 |
 | 57 | [Vidura's Riddle](../novel/book-01-adi/57-viduras-riddle.md) | 1.133-134 | drafted | 1,368 |
 | 58 | [The Fire](../novel/book-01-adi/58-the-fire.md) | 1.135-136 | drafted | 863 |
+| 59 | [Bhima Keeps Watch](../novel/book-01-adi/59-bhima-keeps-watch.md) | 1.137-138 | drafted | 1,151 |
+| 60 | [Hidimba](../novel/book-01-adi/60-hidimba.md) | 1.139-141 | drafted | 1,656 |
+| 61 | [Ghatotkacha](../novel/book-01-adi/61-ghatotkacha.md) | 1.142-144 | drafted | 1,986 |
 
-*Book 1 so far: 114,271 words.*
+*Book 1 so far: 119,064 words.*
