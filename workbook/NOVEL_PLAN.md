@@ -122,7 +122,9 @@ against the CE when the Book is drafted.
 | 36 | The Three Princesses | 1.95–1.96 | ✅ drafted. Citrāṅgada's death; the Kāśi princesses carried off; Śālva beaten; Ambā let go; Vicitravīrya's death. |
 | 37 | The Vow and the Line | 1.97–1.98 | ✅ drafted. Satyavatī's plea; Bhīṣma refuses; Rāma Jāmadagnya; Dīrghatamas and Bali (L-71). |
 | 38 | Vyasa Comes | 1.99–1.100 | ✅ drafted. Satyavatī's secret; Vyāsa's niyoga; Dhṛtarāṣṭra, Pāṇḍu, Vidura (L-72). |
-| 39… | Saṃbhava (cont.) | 1.101–1.123 | Māṇḍavya; the three princes grow up; Gāndhārī, Kuntī, Mādrī; the births of the Kauravas and Pāṇḍavas. |
+| 39 | The Seer on the Stake | 1.101–1.102 | ✅ drafted. Māṇḍavya on the stake; Dharma cursed; the golden age; Pāṇḍu made king (L-73). |
+| 40 | The Blindfold and the Mantra | 1.103–1.104 | ✅ drafted. Gāndhārī's blindfold; Pṛthā, Durvāsas and the Sun; Karṇa's birth and armour (L-74, L-75). |
+| 41… | Saṃbhava (cont.) | 1.105–1.123 | Kuntī's svayaṃvara; Mādrī; Pāṇḍu's conquests; the deer curse; the births of the Kauravas and Pāṇḍavas. |
 
 ---
 

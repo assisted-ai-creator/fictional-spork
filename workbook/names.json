@@ -318,7 +318,7 @@
    "group": "Kaurava side",
    "who": "Kunti's first son, by the Sun, born with armour and earrings; raised by the charioteer Adhiratha and Radha",
    "aka": [
-    "Vasusena",
+    "Vasushena",
     "Radheya",
     "Vaikartana",
     "Suta's son"
@@ -328,7 +328,8 @@
    ],
    "flag": [
     "Karan",
-    "Karn"
+    "Karn",
+    "Vasusena"
    ],
    "ref": ""
   },
@@ -2025,6 +2026,94 @@
    "dialogue": [],
    "flag": [],
    "ref": "1.98.1"
+  },
+  {
+   "name": "Subala",
+   "iast": "Subala",
+   "group": "Gandhara",
+   "who": "king of Gandhara, father of Gandhari and Shakuni",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.103.5"
+  },
+  {
+   "name": "Shura",
+   "iast": "Śūra",
+   "group": "Yadava",
+   "who": "chief of the Yadus, father of Vasudeva and of Pritha (Kunti)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.104.1"
+  },
+  {
+   "name": "Kuntibhoja",
+   "iast": "Kuntibhoja",
+   "group": "Yadava",
+   "who": "Shura's cousin, who adopted Pritha, hence 'Kunti'",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.104.3"
+  },
+  {
+   "name": "Durvasas",
+   "iast": "Durvāsas",
+   "group": "Seer",
+   "who": "the fierce brahmin who gave Pritha the mantra to call the gods",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Durvasa"
+   ],
+   "ref": "1.104.5"
+  },
+  {
+   "name": "Dharma",
+   "iast": "Dharma",
+   "group": "God",
+   "who": "the god of dharma, lord of the dead's justice; born as Vidura by Animandavya's curse",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.57.80"
+  },
+  {
+   "name": "Bhaga",
+   "iast": "Bhaga",
+   "group": "God",
+   "who": "an Aditya whose eyes Shiva took away",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.103.9"
+  },
+  {
+   "name": "Shiva",
+   "iast": "Śiva",
+   "group": "God",
+   "who": "the great god; the CE also calls him Hara, Rudra, Mahadeva, Shankara",
+   "aka": [
+    "Hara",
+    "Rudra",
+    "Mahadeva",
+    "Shankara",
+    "Ishana"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.103.9"
+  },
+  {
+   "name": "Vasudeva",
+   "iast": "Vasudeva",
+   "group": "Yadava",
+   "who": "son of Shura, father of Krishna; Pritha's brother. Not Krishna's patronymic 'Vasudeva' (Vāsudeva), which the novel avoids as a name for Krishna where it would confuse",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.104.1"
   }
  ],
  "not_vyasa": [

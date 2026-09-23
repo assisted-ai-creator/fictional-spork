@@ -18,6 +18,23 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 39–40 drafted: Mandavya, Gandhari and Karna
+- Ch 39 *The Seer on the Stake* (CE 1.101–102) and Ch 40 *The Blindfold and the
+  Mantra* (1.103–104): Mandavya impaled and Dharma cursed; the princes grow up;
+  Pandu made king; Gandhari's blindfold; Pritha's mantra and Karna's birth; the
+  armour given to Indra. About 2,250 words.
+
+### Reference
+- Ledger **L-73**: Mandavya's age limit is fourteen in the CE (twelve is \*1101).
+- Ledger **L-74**: Gandhari's blindfold is in the CE (1.103.13); her ten sisters
+  are not.
+- Ledger **L-75**: Shakuni's imprisoned family and dice of bones are in neither
+  the CE nor the vulgate.
+
+### Workbook
+- `names.json`: +8 (Subala, Shura, Kuntibhoja, Durvasas, Dharma, Bhaga, Shiva,
+  Vasudeva); Karna's "Vasusena" corrected to Vasushena.
+
 ### Novel: Book 1, chapters 36–38 drafted: the princesses and Vyasa's sons
 - Ch 36 *The Three Princesses* (CE 1.95–96), Ch 37 *The Vow and the Line*
   (1.97–98) and Ch 38 *Vyasa Comes* (1.99–100): Chitrangada's death; Bhishma
