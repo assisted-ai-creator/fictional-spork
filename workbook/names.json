@@ -2148,6 +2148,69 @@
     "Vivinsati"
    ],
    "ref": "1.108.4"
+  },
+  {
+   "name": "Kindama",
+   "iast": "Kiṃdama",
+   "group": "Seer",
+   "who": "the sage who, in a deer's form, was shot by Pandu while mating, and cursed him",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Kindam",
+    "Kimdama"
+   ],
+   "ref": "1.109.26"
+  },
+  {
+   "name": "Agastya",
+   "iast": "Agastya",
+   "group": "Seer",
+   "who": "seer who hunted during a sacrifice and consecrated the deer to the gods",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.109.14"
+  },
+  {
+   "name": "Sharadandayani",
+   "iast": "Śāradaṇḍāyanī",
+   "group": "Kekaya",
+   "who": "a hero's wife who bore three sons, Durjaya and others, by a brahmin",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.111.33"
+  },
+  {
+   "name": "Vyushitashva",
+   "iast": "Vyuṣitāśva",
+   "group": "Puru",
+   "who": "Paurava king whose dead body gave his widow Bhadra seven sons",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.112.7"
+  },
+  {
+   "name": "Bhadra",
+   "iast": "Bhadrā",
+   "group": "Puru",
+   "who": "Vyushitashva's wife, daughter of Kakshivat",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.112.15"
+  },
+  {
+   "name": "Kubera",
+   "iast": "Kubera",
+   "group": "God",
+   "who": "lord of wealth, whose gardens lie on the northern mountains",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.111.7"
   }
  ],
  "not_vyasa": [

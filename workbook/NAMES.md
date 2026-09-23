@@ -20,6 +20,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vishvavasu** | Viśvāvasu | king of the gandharvas, father of Pramadvara |  |  |  |
 | **Bhaga** | Bhaga | an Aditya whose eyes Shiva took away |  |  |  |
 | **Dharma** | Dharma | the god of dharma, lord of the dead's justice; born as Vidura by Animandavya's curse |  |  |  |
+| **Kubera** | Kubera | lord of wealth, whose gardens lie on the northern mountains |  |  |  |
 | **Shiva** | Śiva | the great god; the CE also calls him Hara, Rudra, Mahadeva, Shankara | Hara, Rudra, Mahadeva, Shankara, Ishana |  |  |
 | **Agni** | Agni | the fire god | Pavaka, Jatavedas, Vibhavasu, Hutashana |  |  |
 | **Akupara** | Akūpāra | king of the tortoises; the base of Mandara at the churning (not called an avatar of Vishnu; see L-64) |  |  |  |
@@ -53,6 +54,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Jayadratha** | Jayadratha | king of the Sindhus; Duhshala's husband | Saindhava |  |  |
 | **Karna** | Karṇa | Kunti's first son, by the Sun, born with armour and earrings; raised by the charioteer Adhiratha and Radha | Vasushena, Radheya, Vaikartana, Suta's son | Radheya | Karan, Karn, Vasusena |
 | **Radha** | Rādhā | Adhiratha's wife, Karna's foster mother. The only Radha in the epic (see ledger L-58) |  |  |  |
+| **Sharadandayani** | Śāradaṇḍāyanī | a hero's wife who bore three sons, Durjaya and others, by a brahmin |  |  |  |
 | **Anga** | Aṅga | royal seer, son of Dirghatamas by Sudeshna |  |  |  |
 | **Anu** | Anu | Yayati's son by Sharmishtha |  |  |  |
 | **Arjuna Kartavirya** | Arjuna Kārtavīrya | thousand-armed king of the Haihayas, killed by Rama Jamadagnya; say 'Arjuna, the Haihaya king' to keep him apart from the Pandava | Kartavirya |  |  |
@@ -126,8 +128,11 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Nakula** | Nakula | elder of Madri's twin sons, by the Ashvins |  |  | Nakul |
 | **Sahadeva** | Sahadeva | younger of Madri's twin sons, by the Ashvins |  |  | Sahdev, Sahadev |
 | **Yudhishthira** | Yudhiṣṭhira | eldest son of Kunti, by Dharma; the dharma king | Ajatashatru, Dharmaraja, Kaunteya, Partha | Ajatashatru | Yudhistira, Yudhishtira, Yudhisthira, Yudhishthir, Yudhisthir |
+| **Bhadra** | Bhadrā | Vyushitashva's wife, daughter of Kakshivat |  |  |  |
+| **Vyushitashva** | Vyuṣitāśva | Paurava king whose dead body gave his widow Bhadra seven sons |  |  |  |
 | **Hidimba** | Hiḍimba / Hiḍimbā | a rakshasa brother and sister of the forest. Bhima kills the brother and marries the sister. In English the names collide, so give context until the brother is dead |  |  | Hidimbi, Hidimbaa |
 | **Puloman** | Puloman (Pulomā, m.) | the rakshasa who carries off Bhrigu's wife |  |  |  |
+| **Agastya** | Agastya | seer who hunted during a sacrifice and consecrated the deer to the gods |  |  |  |
 | **Animandavya** | Aṇīmāṇḍavya | the seer impaled as a thief who cursed Dharma to be born as Vidura | Mandavya |  | Animandavya Rishi |
 | **Aruni** | Āruṇi Pāñcālya | Dhaumya's pupil, renamed Uddalaka | Uddalaka |  |  |
 | **Astika** | Āstīka | son of Jaratkaru and Vasuki's sister; he stops the snake sacrifice |  |  |  |
@@ -145,6 +150,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kanva** | Kaṇva | the Kashyapa seer on the Malini who raised Shakuntala | the Kashyapa |  | Kanwa |
 | **Kashyapa** | Kāśyapa | lord of creatures, husband of Kadru and Vinata, father of the snakes, Aruna and Garuda (1.14); the same name is borne by the brahmin healer whom Takshaka turns back from saving Parikshit (1.38–39) |  |  |  |
 | **Khagama** | Khagama | brahmin who cursed his friend Sahasrapat |  |  |  |
+| **Kindama** | Kiṃdama | the sage who, in a deer's form, was shot by Pandu while mating, and cursed him |  |  | Kindam, Kimdama |
 | **Krisha** | Kṛśa | a seer's son, Shringin's friend, whose teasing provokes the curse |  |  |  |
 | **Mamata** | Mamatā | wife of Utathya, mother of Dirghatamas |  |  |  |
 | **Parashara** | Parāśara | son of Shakti; father of Vyasa by Satyavati |  |  | Parasara |

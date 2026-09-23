@@ -126,7 +126,9 @@ against the CE when the Book is drafted.
 | 40 | The Blindfold and the Mantra | 1.103–1.104 | ✅ drafted. Gāndhārī's blindfold; Pṛthā, Durvāsas and the Sun; Karṇa's birth and armour (L-74, L-75). |
 | 41 | Pandu's Conquests | 1.105–1.106 | ✅ drafted. Kuntī chooses Pāṇḍu; Mādrī bought; the conquests; Pāṇḍu to the forest; Vidura's marriage. |
 | 42 | The Hundred Sons | 1.107–1.108 | ✅ drafted. The lump of flesh and the pots of ghee; the omens; Yuyutsu; the names; Duḥśalā (L-76, L-77). |
-| 43… | Saṃbhava (cont.) | 1.109–1.123 | The deer curse; Pāṇḍu's grief; Kuntī's mantra; the births of the Pāṇḍavas; Pāṇḍu's death and Mādrī's. |
+| 43 | The Deer | 1.109–1.110 | ✅ drafted. Kiṃdama's curse; Pāṇḍu's vow of renunciation; Kuntī and Mādrī go with him; Śataśṛṅga. |
+| 44 | The Debt to the Fathers | 1.111–1.112 | ✅ drafted. The four debts; the kinds of sons; Śāradaṇḍāyanī; Vyuṣitāśva and Bhadrā. |
+| 45… | Saṃbhava (cont.) | 1.113–1.123 | Śvetaketu's rule; Kuntī's mantra; the births of the Pāṇḍavas; Pāṇḍu's death and Mādrī's; the return to Hāstinapura. |
 
 ---
 
