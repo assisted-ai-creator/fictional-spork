@@ -87,11 +87,14 @@ against the CE when the Book is drafted.
 | 1 | The Storyteller in the Forest | 1.1.1–101 | ✅ drafted. Frame; how Vyāsa made the poem; the story in brief; Dhṛtarāṣṭra turns to Sañjaya. |
 | 2 | When I Heard | 1.1.102–210 | ✅ drafted. The lament; Sañjaya on Time; the bard on the poem's worth. |
 | 3 | The Hundred Parts | 1.2 | ✅ drafted. Samantapañcaka; the akṣauhiṇī; the whole epic book by book. |
-| 4 | The Teacher's Pupils | 1.3 (first half) | Saramā; Āruṇi, Upamanyu, Veda. |
-| 5 | The Queen's Earrings | 1.3 (second half) | Uttaṅka's quest; the snake Takṣaka; the call for revenge. |
-| 6 | The Fire's Witness | 1.4–1.7 | Bhṛgu, Pulomā, Agni's curse. |
-| 7 | Half a Life | 1.8–1.12 | Ruru and Pramadvarā; the lizard-snake Sahasrapāt. |
-| 8… | Āstīka and the snakes | 1.13–1.53 | Planned in detail when drafting reaches it: about 8 chapters. |
+| 4 | The Teacher's Pupils | 1.3.1–84 | ✅ drafted. Saramā; Āruṇi, Upamanyu, Veda. |
+| 5 | The Queen's Earrings | 1.3.85–195 | ✅ drafted. Uttaṅka's quest; the snake Takṣaka; the call for revenge. |
+| 6 | The Fire's Witness | 1.4–1.7 | ✅ drafted. Bhṛgu, Pulomā, Agni's curse. |
+| 7 | Half a Life | 1.8–1.12 | ✅ drafted. Ruru and Pramadvarā; the dundubha Sahasrapāt. |
+| 8 | The Churning of the Ocean | 1.13–1.17 | ✅ drafted. Āstīka in brief; Kadrū and Vinatā; Aruṇa; the churning (no poison: L-63). |
+| 9 | The Wager | 1.18–1.23 | The bet on the horse's tail; Kadrū's curse; Garuḍa's birth; Vinatā enslaved. |
+| 10 | Garuda | 1.24–1.30 | Garuḍa eats the Niṣādas; the elephant and tortoise; the Vālakhilyas; the theft of the nectar. |
+| 11… | Āstīka and the snakes (rest) | 1.31–1.53 | Planned in detail when drafting reaches it. |
 
 ---
 

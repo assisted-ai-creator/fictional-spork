@@ -1156,6 +1156,163 @@
    "dialogue": [],
    "flag": [],
    "ref": "1.3.189"
+  },
+  {
+   "name": "Jaratkaru",
+   "iast": "Jaratkāru",
+   "group": "Seer",
+   "who": "a Yayavara seer of strict vows who marries only a bride of his own name; Astika's father. His wife, Vasuki's sister, has the same name (1.13.34)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Jaratkaaru",
+    "Jaratkara"
+   ],
+   "ref": "1.13.10"
+  },
+  {
+   "name": "Vasuki",
+   "iast": "Vāsuki",
+   "group": "Naga",
+   "who": "king of the snakes; the rope at the churning; gives his sister Jaratkaru to the seer Jaratkaru",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.13.31"
+  },
+  {
+   "name": "Kadru",
+   "iast": "Kadrū",
+   "group": "Gods",
+   "who": "daughter of the creator, wife of Kashyapa, mother of a thousand nagas",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Kadroo"
+   ],
+   "ref": "1.14.6"
+  },
+  {
+   "name": "Vinata",
+   "iast": "Vinatā",
+   "group": "Gods",
+   "who": "daughter of the creator, wife of Kashyapa, mother of Aruna and Garuda",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Vinita"
+   ],
+   "ref": "1.14.6"
+  },
+  {
+   "name": "Aruna",
+   "iast": "Aruṇa",
+   "group": "Gods",
+   "who": "Vinata's elder son, born half-formed from the broken egg; seen at dawn",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.14.21"
+  },
+  {
+   "name": "Garuda",
+   "iast": "Garuḍa",
+   "group": "Gods",
+   "who": "Vinata's younger son, the destroyer of snakes",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Garud"
+   ],
+   "ref": "1.14.22"
+  },
+  {
+   "name": "Vishnu",
+   "iast": "Viṣṇu",
+   "group": "Gods",
+   "who": "the god who counsels the churning, takes a woman's form to win back the nectar, and wields the discus Sudarshana",
+   "aka": [
+    "Narayana",
+    "Hari",
+    "Achyuta"
+   ],
+   "dialogue": [],
+   "flag": [
+    "Vishnoo"
+   ],
+   "ref": "1.15.11"
+  },
+  {
+   "name": "Nara",
+   "iast": "Nara",
+   "group": "Gods",
+   "who": "the god who fights beside Narayana with a divine bow",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.17.2"
+  },
+  {
+   "name": "Ananta",
+   "iast": "Ananta",
+   "group": "Gods",
+   "who": "the mighty god who tears up Mandara for the churning",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.16.6"
+  },
+  {
+   "name": "Akupara",
+   "iast": "Akūpāra",
+   "group": "Gods",
+   "who": "king of the tortoises; the base of Mandara at the churning (not called an avatar of Vishnu; see L-64)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.16.10"
+  },
+  {
+   "name": "Varuna",
+   "iast": "Varuṇa",
+   "group": "Gods",
+   "who": "lord of the waters; the ocean asks for a share of the nectar",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.16.9"
+  },
+  {
+   "name": "Shri",
+   "iast": "Śrī",
+   "group": "Gods",
+   "who": "goddess of fortune, risen from the churned butter",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Sri"
+   ],
+   "ref": "1.16.34"
+  },
+  {
+   "name": "Dhanvantari",
+   "iast": "Dhanvantari",
+   "group": "Gods",
+   "who": "the god who rises from the ocean carrying the nectar in a white pot",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.16.37"
+  },
+  {
+   "name": "Rahu",
+   "iast": "Rāhu",
+   "group": "Gods",
+   "who": "a danava who drinks the nectar disguised as a god; his head is cut off by the discus",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.17.4"
   }
  ],
  "not_vyasa": [

@@ -14,9 +14,21 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shakuni** | Śakuni | Gandhari's brother, son of Subala; the dice player | Saubala | Saubala | Sakuni, Shakunee |
 | **Vishvavasu** | Viśvāvasu | king of the gandharvas, father of Pramadvara |  |  |  |
 | **Agni** | Agni | the fire god | Pavaka, Jatavedas, Vibhavasu, Hutashana |  |  |
+| **Akupara** | Akūpāra | king of the tortoises; the base of Mandara at the churning (not called an avatar of Vishnu; see L-64) |  |  |  |
+| **Ananta** | Ananta | the mighty god who tears up Mandara for the churning |  |  |  |
+| **Aruna** | Aruṇa | Vinata's elder son, born half-formed from the broken egg; seen at dawn |  |  |  |
 | **Brahma** | Brahmā | the creator, grandfather of the worlds | Pitamaha, Prajapati |  |  |
+| **Dhanvantari** | Dhanvantari | the god who rises from the ocean carrying the nectar in a white pot |  |  |  |
+| **Garuda** | Garuḍa | Vinata's younger son, the destroyer of snakes |  |  | Garud |
 | **Indra** | Indra | king of the gods | Shakra, Purandara, Vasava, Maghavat | Shakra |  |
+| **Kadru** | Kadrū | daughter of the creator, wife of Kashyapa, mother of a thousand nagas |  |  | Kadroo |
+| **Nara** | Nara | the god who fights beside Narayana with a divine bow |  |  |  |
+| **Rahu** | Rāhu | a danava who drinks the nectar disguised as a god; his head is cut off by the discus |  |  |  |
 | **Sarama** | Saramā | the dog of the gods, who curses Janamejaya |  |  |  |
+| **Shri** | Śrī | goddess of fortune, risen from the churned butter |  |  | Sri |
+| **Varuna** | Varuṇa | lord of the waters; the ocean asks for a share of the nectar |  |  |  |
+| **Vinata** | Vinatā | daughter of the creator, wife of Kashyapa, mother of Aruna and Garuda |  |  | Vinita |
+| **Vishnu** | Viṣṇu | the god who counsels the churning, takes a woman's form to win back the nectar, and wields the discus Sudarshana | Narayana, Hari, Achyuta |  | Vishnoo |
 | **Yama** | Yama | lord of the dead, also called king of dharma | Dharmaraja, Vaivasvata |  |  |
 | **Amba** | Ambā | eldest princess of Kashi, carried off by Bhishma |  |  |  |
 | **Duhshala** | Duḥśalā | Dhritarashtra and Gandhari's one daughter; wife of Jayadratha |  |  | Dushala, Dussala |
@@ -51,6 +63,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shalya** | Śalya | king of Madra, Madri's brother |  |  | Salya |
 | **Virata** | Virāṭa | king of the Matsyas, host of the Pandavas' year in hiding |  |  | Viraat |
 | **Takshaka** | Takṣaka | the snake king who kills Parikshit |  |  | Taksaka |
+| **Vasuki** | Vāsuki | king of the snakes; the rope at the churning; gives his sister Jaratkaru to the seer Jaratkaru |  |  |  |
 | **Dhrishtadyumna** | Dhṛṣṭadyumna | Drupada's son, born from the sacrificial fire to kill Drona | Parshata |  | Dhristadyumna, Drishtadyumna |
 | **Drupada** | Drupada | king of the Panchalas, Drona's childhood friend and enemy | Yajnasena |  |  |
 | **Shikhandi** | Śikhaṇḍin | Drupada's child, born a daughter, who became a man; Amba reborn | Shikhandini (as a girl) |  | Shikhandin, Sikhandi, Shikhandee |
@@ -72,6 +85,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Bhrigu** | Bhṛgu | seer, son of Brahma, ancestor of the Bhargavas (Shaunaka's line) |  |  |  |
 | **Chyavana** | Cyavana | son of Bhrigu, 'the Fallen One' |  |  | Chyavan |
 | **Dhaumya of the Ayodas** | Dhaumya Āyoda | teacher of Aruni, Upamanyu and Veda. NOT the Dhaumya who becomes the Pandavas' priest (1.174) |  |  |  |
+| **Jaratkaru** | Jaratkāru | a Yayavara seer of strict vows who marries only a bride of his own name; Astika's father. His wife, Vasuki's sister, has the same name (1.13.34) |  |  | Jaratkaaru, Jaratkara |
 | **Kashyapa** | Kāśyapa | the brahmin healer whom Takshaka turned back from saving Parikshit (1.38-40) |  |  |  |
 | **Khagama** | Khagama | brahmin who cursed his friend Sahasrapat |  |  |  |
 | **Pramadvara** | Pramadvarā | daughter of Vishvavasu and Menaka, raised by Sthulakesha; Ruru's wife |  |  |  |

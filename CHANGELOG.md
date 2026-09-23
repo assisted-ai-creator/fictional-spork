@@ -18,11 +18,27 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapter 8
+- Ch 8 *The Churning of the Ocean* (CE 1.13–17): Astika's story in brief, the
+  two sisters and their eggs, Aruna's curse, and the churning. About 3,500
+  words. The churning follows the CE: no poison and no Shiva (L-63), and the
+  tortoise is Akupara (L-64). The CE's "Diademed One" (1.17.30), to whom the
+  nectar is given, is kept as the text has it; the vulgate reads Narayana.
+
 ### Reference
+- Ledger **L-63**: the Halahala poison and Shiva drinking it are not in the
+  CE churning. They are found only in rejected passages (Adi App. I Nos. 9–10;
+  \*268; \*274). The CE explains the name Nilakantha another way (12.329.15).
+- Ledger **L-64**: the tortoise at the churning is "Akupara, king of the
+  tortoises" (1.16.10–11), not an avatar of Vishnu.
 - Ledger **L-62**: "Parashurama" never appears in the CE. The CE calls him Rama
   Jamadagnya or Bhargava Rama.
 
 ### Workbook
+- `names.json`: +14 names for the Astika story and the churning (Jaratkaru,
+  Vasuki, Kadru, Vinata, Aruna, Garuda, Vishnu, Nara, Ananta, Akupara, Varuna,
+  Shri, Dhanvantari, Rahu). `GLOSSARY.md`: daitya/danava, kinnara, Yayavara,
+  virana.
 - `names.json`: +27 people (frame, Paushya and Pauloma stories, gods), including
   two distinct Dhaumyas.
 - `NOVEL_PLAN.md`: the CE's own list of the hundred parts (1.2.34–69);

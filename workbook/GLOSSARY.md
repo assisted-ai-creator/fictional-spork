@@ -41,6 +41,10 @@ Add a word here before using it in a chapter.
 | sannyasa | saṃnyāsa | Renunciation of the world | "renunciation" |
 | moksha | mokṣa | Release from the cycle of birth and death | "moksha, release" |
 | Kali Yuga (and the other yugas) | kaliyuga, dvāpara | The four ages of the world, declining in virtue | "the Kali age, the last and worst of the four ages" |
+| daitya, danava | daitya, dānava | Sons of Diti and of Danu: two clans of asuras, often named together (1.17.22) | "the daityas and danavas, tribes of the asuras" |
+| kinnara | kiṃnara | Heavenly beings of the mountains, often paired with the apsarases | "the kinnaras" (context makes them heavenly beings) |
+| Yayavara | yāyāvara | An order of wandering brahmin seers; Jaratkaru's family (1.13.10) | "the Yayavaras, a wandering order" |
+| virana | vīraṇa | A fragrant grass (khus); Jaratkaru's forefathers cling to a clump of it (1.13.13) | "virana grass" |
 
 ## Titles and forms of address
 
