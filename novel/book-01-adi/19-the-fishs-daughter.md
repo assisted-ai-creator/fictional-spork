@@ -15,8 +15,8 @@ Indra's advice he took the lovely country of Chedi, a land worth taking.
 
 Once he laid down his weapons and went to live in a hermitage, given over to
 austerity. Then the god himself, the wielder of the thunderbolt, came to him.
-*This king could win the rank of Indra by his austerity*, thought Indra, and with
-gentle words he turned the king back from austerity himself.
+*This king could win the rank of Indra by his austerity*, thought Indra, and
+with gentle words he turned the king back from austerity himself.
 
 "Lord of the earth," said Indra, "dharma on earth must not be thrown into
 disorder. Protect it, for when dharma is upheld, it upholds the whole world.
@@ -37,23 +37,23 @@ worlds will be hidden from you.
 
 "A great chariot of crystal, fit for the gods, heavenly, that flies through the
 sky, will come to you as my gift. You alone of all mortals will ride in that
-finest of chariots, moving high above, like a god in bodily form. I give you
-the garland called Vaijayanti, whose lotuses never fade. In battle it will keep
-you unwounded by weapons. This will be your mark here, lord of men, famous as
+finest of chariots, moving high above, like a god in bodily form. I give you the
+garland called Vaijayanti, whose lotuses never fade. In battle it will keep you
+unwounded by weapons. This will be your mark here, lord of men, famous as
 Indra's garland, blessed, matchless and great."
 
-And the slayer of Vritra gave him a staff of bamboo, to grant what men wished and
-to protect the good. At the end of a year the lord of the earth had it set into
-the ground, to honour Shakra. And from that day to this, king, the best of kings
-set up the staff as he began it. The next day kings raise it, adorned with
+And the slayer of Vritra gave him a staff of bamboo, to grant what men wished
+and to protect the good. At the end of a year the lord of the earth had it set
+into the ground, to honour Shakra. And from that day to this, king, the best of
+kings set up the staff as he began it. The next day kings raise it, adorned with
 baskets, perfumes, garlands and ornaments, and it is wound with strings of
 garlands by the rules. And the blessed Shankara is worshipped there in the form
 of laughter, a form he took himself out of love for the great-souled Vasu.
 
-When great Indra, the lord, saw the lovely worship that Vasu, the chief of kings,
-had made, he was pleased, and said, "Men and kings who worship at my festival and
-hold it joyfully, as the king of Chedi has done, will have fortune and victory,
-with their kingdoms. Their country will prosper and be glad."
+When great Indra, the lord, saw the lovely worship that Vasu, the chief of
+kings, had made, he was pleased, and said, "Men and kings who worship at my
+festival and hold it joyfully, as the king of Chedi has done, will have fortune
+and victory, with their kingdoms. Their country will prosper and be glad."
 
 So great Indra, the bountiful, honoured the great king Vasu with love, lord of
 men. Those who always hold Shakra's festival are made pure by it, as by gifts of
@@ -66,8 +66,8 @@ consecrated his sons as kings of many kingdoms. There was the great warrior
 Brihadratha, famous as king of Magadha; Pratyagraha; Kushamba, whom they call
 Manivahana; Macchilla; and Yadu, a prince never defeated. These were the sons of
 that royal seer of great splendour, king. They gave their own names to countries
-and cities, the five kings descended from Vasu, each with his own line that lasts
-for ever.
+and cities, the five kings descended from Vasu, each with his own line that
+lasts for ever.
 
 He lived in Indra's crystal palace in the sky, and gandharvas and apsarases
 waited on that great-souled king. So his name became famous: Uparichara, He Who
@@ -75,19 +75,19 @@ Moves Above.
 
 ---
 
-The river Shuktimati flowed past his city. The mountain Kolahala, a mountain with
-a mind, so they say, blocked the river out of desire. Vasu kicked the mountain
-Kolahala, and the river came out through the gap his blow had made. The mountain
-had fathered twins on the river. The river was glad to be set free, and gave the
-twins to the king. Vasu, the best of royal seers, who gave riches, made the boy
-the general of his army, the tamer of enemies. And the king made the girl his
-wife, his dear Girika.
+The river Shuktimati flowed past his city. The mountain Kolahala, a mountain
+with a mind, so they say, blocked the river out of desire. Vasu kicked the
+mountain Kolahala, and the river came out through the gap his blow had made. The
+mountain had fathered twins on the river. The river was glad to be set free, and
+gave the twins to the king. Vasu, the best of royal seers, who gave riches, made
+the boy the general of his army, the tamer of enemies. And the king made the
+girl his wife, his dear Girika.
 
 One day Vasu's wife Girika, pure and bathed after her season, told him in her
 desire that her time had come. That same day the forefathers came to that best
-of kings, the wisest of the wise, and said to him, pleased, "Kill deer." The king
-would not disobey the forefathers' command. He went hunting, full of desire,
-thinking only of Girika, who was very beautiful, like a second Shri.
+of kings, the wisest of the wise, and said to him, pleased, "Kill deer." The
+king would not disobey the forefathers' command. He went hunting, full of
+desire, thinking only of Girika, who was very beautiful, like a second Shri.
 
 As he roamed the lovely forest, his seed fell. As soon as it fell, the lord of
 the earth caught it on a leaf of a tree. *My seed must not fall in vain*, he
@@ -112,18 +112,18 @@ Bharatas, and from her belly they took out a human boy and girl. They thought it
 a great wonder, and they told the king. "King, these two humans were born in a
 fish's body."
 
-King Uparichara took the boy of the two. He became a king named Matsya, the Fish,
-righteous and true to his promises. And at once the apsaras was free of
+King Uparichara took the boy of the two. He became a king named Matsya, the
+Fish, righteous and true to his promises. And at once the apsaras was free of
 her curse. The blessed one had told her long before, "Fair one, you will be born
 as an animal. When you have borne two human children, you will be free of the
-curse." So when she had borne them and the fisherman had killed her, she left her
-fish form and took her heavenly form again, and that fine apsaras went away on
-the path of the perfected ones, the seers and the heavenly singers.
+curse." So when she had borne them and the fisherman had killed her, she left
+her fish form and took her heavenly form again, and that fine apsaras went away
+on the path of the perfected ones, the seers and the heavenly singers.
 
-The girl, the fish's daughter, smelled of fish. The king gave her to a fisherman.
-"Let her be yours," he said. She had beauty and good character, and every virtue.
-Her name was Satyavati. But because she lived among the fishermen, that girl of
-the bright smile smelled of fish for a time.
+The girl, the fish's daughter, smelled of fish. The king gave her to a
+fisherman. "Let her be yours," he said. She had beauty and good character, and
+every virtue. Her name was Satyavati. But because she lived among the fishermen,
+that girl of the bright smile smelled of fish for a time.
 
 ---
 
@@ -140,9 +140,9 @@ When she said this, the lord made a mist, and the whole place became as dark as
 night. When the girl saw the mist the great seer had made, she was amazed, and
 ashamed, for she had spirit. "Know, blessed one, that I am a maiden, and always
 under my father's rule. If I am joined with you, sinless one, my maidenhood will
-be spoiled. And if my maidenhood is spoiled, best of brahmins, how can I go home?
-I could not bear to stay at home. Think of this, blessed one, and then do what
-must be done."
+be spoiled. And if my maidenhood is spoiled, best of brahmins, how can I go
+home? I could not bear to stay at home. Think of this, blessed one, and then do
+what must be done."
 
 The best of seers was pleased with her for saying this. "When you have done what
 pleases me," he said, "you will still be a maiden. And choose a boon, timid one,
@@ -166,12 +166,12 @@ there is something to be done."
 So Dvaipayana was born to Satyavati by Parashara. Because he was left as a child
 on an island, a *dvipa*, he was called Dvaipayana.
 
-In every age, the wise man saw dharma losing one of its feet, and he saw that the
-life and strength of mortals follow the ages. To favour Brahman and the brahmins
-he divided the Vedas, *vi-vyasa*, and so he is remembered as Vyasa. The lord, the
-greatest, the giver of boons, taught the Vedas, with the Mahabharata as the fifth,
-to Sumantu, to Jaimini, to Paila, to his own son Shuka, and to Vaishampayana. And
-each of them made known his own collection of the Bharata.
+In every age, the wise man saw dharma losing one of its feet, and he saw that
+the life and strength of mortals follow the ages. To favour Brahman and the
+brahmins he divided the Vedas, *vi-vyasa*, and so he is remembered as Vyasa. The
+lord, the greatest, the giver of boons, taught the Vedas, with the Mahabharata
+as the fifth, to Sumantu, to Jaimini, to Paila, to his own son Shuka, and to
+Vaishampayana. And each of them made known his own collection of the Bharata.
 
 ---
 
@@ -180,8 +180,8 @@ courage and fame, was born to Ganga from the power of a Vasu.
 
 There was an ancient seer, famous and great, named Animandavya, who was not a
 thief, but was impaled on a stake, suspected of theft. That great seer once
-called Dharma to him and said, "When I was a child I pierced a little bird with a
-reed. I remember that sin, Dharma. I remember no other. My austerity was a
+called Dharma to him and said, "When I was a child I pierced a little bird with
+a reed. I remember that sin, Dharma. I remember no other. My austerity was a
 thousand times greater. Why did it not overcome that sin? Killing a brahmin is
 heavier than killing any other creature. So for this sin you will be born from a
 shudra womb."
@@ -198,10 +198,10 @@ in Devaki, a god of great fame. They call him the god without beginning or end,
 the maker of the world, the lord, the unmanifest, the imperishable, Brahman, the
 first cause, the self beyond the qualities, the self that never wastes, nature,
 the source, the highest, the Person, the maker of all, joined to goodness, the
-lasting and imperishable, the endless, the unmoving, the god, the swan, Narayana,
-the lord, the creator, ageless and eternal, the highest, the imperishable. That
-Person, all-pervading, the maker, the grandfather of all beings, was born among
-the Andhakas and the Vrishnis to make dharma grow.
+lasting and imperishable, the endless, the unmoving, the god, the swan,
+Narayana, the lord, the creator, ageless and eternal, the highest, the
+imperishable. That Person, all-pervading, the maker, the grandfather of all
+beings, was born among the Andhakas and the Vrishnis to make dharma grow.
 
 Two masters of weapons, very brave, skilled in every weapon, Satyaki and
 Kritavarma, devoted to Narayana, were born from Satyaka and Hridika.
@@ -212,8 +212,8 @@ were born from a clump of reeds: the mother of Ashvatthaman, and mighty Kripa.
 And Ashvatthaman, the best of those who bear weapons, was born from Drona.
 
 In the same way Dhrishtadyumna, as bright as fire itself, was born from the fire
-at a great sacrifice, a hero with a bow, mighty, born to destroy Drona. And in the
-same way Krishna, the daughter of Drupada, was born from the altar, full of
+at a great sacrifice, a hero with a bow, mighty, born to destroy Drona. And in
+the same way Krishna, the daughter of Drupada, was born from the altar, full of
 splendour and lovely, shining in her body, and of the finest beauty.
 
 Then Nagnajit, the pupil of Prahrada, and Subala were born. Subala's offspring,
@@ -230,14 +230,15 @@ and glorious Dhananjaya, the best of all who bear weapons, of Indra. The twins,
 Nakula and Sahadeva, handsome, and devoted to serving their elders, were born of
 the two Ashvins.
 
-A hundred sons were born to wise Dhritarashtra, with Duryodhana first among them,
-and Yuyutsu, the son of a vaishya woman.
+A hundred sons were born to wise Dhritarashtra, with Duryodhana first among
+them, and Yuyutsu, the son of a vaishya woman.
 
-Abhimanyu was born to Subhadra by Arjuna, the nephew of Vasudeva and the grandson
-of great Pandu. To the five Pandavas, five sons were born by Krishna, handsome
-princes, skilled in every weapon: Prativindhya of Yudhishthira, Sutasoma of
-Wolf-belly, Shrutakirti of Arjuna, Shatanika of Nakula, and mighty Shrutasena of
-Sahadeva. And Ghatotkacha was born in the forest to Bhima by Hidimba.
+Abhimanyu was born to Subhadra by Arjuna, the nephew of Vasudeva and the
+grandson of great Pandu. To the five Pandavas, five sons were born by Krishna,
+handsome princes, skilled in every weapon: Prativindhya of Yudhishthira,
+Sutasoma of Wolf-belly, Shrutakirti of Arjuna, Shatanika of Nakula, and mighty
+Shrutasena of Sahadeva. And Ghatotkacha was born in the forest to Bhima by
+Hidimba.
 
 Shikhandi was born to Drupada, a girl who became a son. Sthuna, a yaksha, made
 her a man, out of kindness.

@@ -2,7 +2,7 @@
 
 # Contents
 
-**22 chapters, 54,859 words.** 22 drafted
+**25 chapters, 62,290 words.** 25 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -31,5 +31,8 @@
 | 20 | [The Burden of the Earth](../novel/book-01-adi/20-the-burden-of-the-earth.md) | 1.58 | drafted | 1,248 |
 | 21 | [The Families of Beings](../novel/book-01-adi/21-the-families-of-beings.md) | 1.59-60 | drafted | 2,499 |
 | 22 | [Gods and Demons Born as Men](../novel/book-01-adi/22-gods-and-demons-born-as-men.md) | 1.61 | drafted | 2,065 |
+| 23 | [The King Who Went Hunting](../novel/book-01-adi/23-the-king-who-went-hunting.md) | 1.62-64 | drafted | 2,038 |
+| 24 | [Shakuntala](../novel/book-01-adi/24-shakuntala.md) | 1.65-67 | drafted | 2,206 |
+| 25 | [The Voice from the Sky](../novel/book-01-adi/25-the-voice-from-the-sky.md) | 1.68-69 | drafted | 3,187 |
 
-*Book 1 so far: 54,859 words.*
+*Book 1 so far: 62,290 words.*

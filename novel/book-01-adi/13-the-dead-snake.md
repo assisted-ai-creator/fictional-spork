@@ -9,9 +9,9 @@ summary: King Parikshit, tired and thirsty from the hunt, hangs a dead snake on 
 
 # The Dead Snake
 
-"Son of the suta," said Shaunaka, "you spoke of Jaratkaru. I want to hear
-about that great seer. Why is Jaratkaru the name he is known by on earth? Tell
-me the true meaning of the name Jaratkaru."
+"Son of the suta," said Shaunaka, "you spoke of Jaratkaru. I want to hear about
+that great seer. Why is Jaratkaru the name he is known by on earth? Tell me the
+true meaning of the name Jaratkaru."
 
 "*Jara*, they say, means wasting," said the bard, "and *karu* means something
 huge and terrible. His body was *karu*, huge, and the wise man wasted it away,
@@ -23,8 +23,8 @@ fits."
 
 "After a long time," the bard went on, "that sage of strict vows, wise and
 devoted to austerity, still had no wish for a wife. Chaste, given wholly to
-austerity and to study, free of fear and weariness, the great man wandered
-over the whole earth, and he did not want a wife, not even in thought.
+austerity and to study, free of fear and weariness, the great man wandered over
+the whole earth, and he did not want a wife, not even in thought.
 
 "Then, at another time, there was a king named Parikshit, who carried on the
 line of the Kauravas. Like his great-grandfather long ago, the strong-armed
@@ -36,21 +36,20 @@ other wild creatures.
 followed it into the thick forest, as the blessed Rudra once shot the deer of
 the sacrifice in heaven and followed it, bow in hand, searching for it
 everywhere. No deer he shot ever got away into the forest alive. So the loss of
-the deer that King Parikshit shot must have been a sign, surely, of his going
-to heaven.
+the deer that King Parikshit shot must have been a sign, surely, of his going to
+heaven.
 
-"The deer led the lord of the earth far away, and he grew tired and thirsty.
-In the forest he came upon a sage, sitting among the pastures of the cows. The
-sage lived mostly on the foam that runs from the mouths of the calves as they
-drink their milk. The king, weary and hungry, rushed up to that sage of strict
-vows and raised his bow and asked him, 'Ho there, brahmin! I am King
-Parikshit, the son of Abhimanyu. I shot a deer, and it is lost. Have you seen
-it?'
+"The deer led the lord of the earth far away, and he grew tired and thirsty. In
+the forest he came upon a sage, sitting among the pastures of the cows. The sage
+lived mostly on the foam that runs from the mouths of the calves as they drink
+their milk. The king, weary and hungry, rushed up to that sage of strict vows
+and raised his bow and asked him, 'Ho there, brahmin! I am King Parikshit, the
+son of Abhimanyu. I shot a deer, and it is lost. Have you seen it?'
 
 "The sage did not answer him at all, for he was keeping a vow of silence. The
 king grew angry, and with the tip of his bow he lifted a dead snake and laid it
-on the sage's shoulder. Then he looked at him. And the sage said nothing to
-him, good or bad.
+on the sage's shoulder. Then he looked at him. And the sage said nothing to him,
+good or bad.
 
 "The king let his anger go. He was troubled to see him like that, and he went
 back to his city. But the seer stayed just as he was.
@@ -67,18 +66,17 @@ Brahma's leave he had come home.
 laughing, so they say, and he teased him, the seer's son who was so hot-tempered
 and so quick to anger, like poison. 'Your father is full of power, and full of
 austerity. And yet he carries a corpse on his shoulder. Do not be so proud,
-Shringin. When seers' sons like us are talking, perfected ones who know
-Brahman, and ascetics, you are not to say a word. Where is your manly pride
-now, and your proud words, when you see your father carrying a corpse like
-that?'
+Shringin. When seers' sons like us are talking, perfected ones who know Brahman,
+and ascetics, you are not to say a word. Where is your manly pride now, and your
+proud words, when you see your father carrying a corpse like that?'
 
 "When he heard this, the fierce Shringin was filled with anger. When he heard
-that his teacher and father was carrying a dead thing, he burned with rage.
-He looked at Krisha, and speaking plainly, he asked, 'How is my father carrying
-a dead thing today?'
+that his teacher and father was carrying a dead thing, he burned with rage. He
+looked at Krisha, and speaking plainly, he asked, 'How is my father carrying a
+dead thing today?'
 
-"'King Parikshit, running about on a hunt, my friend,' said Krisha, 'hung a
-dead snake on your father's shoulder today.'
+"'King Parikshit, running about on a hunt, my friend,' said Krisha, 'hung a dead
+snake on your father's shoulder today.'
 
 "'What harm did my father do that wicked king?' said Shringin. 'Tell me the
 truth, Krisha, and see the power of my austerity.'
@@ -89,9 +87,9 @@ deer as he went through that great forest. Then he saw your father, and asked
 him, but your father did not answer. The king was weary with hunger and thirst
 and toil, and he asked your father again and again about the lost deer, while
 your father stood there like a post. Your father keeps a vow of silence, and he
-did not answer him at all. So the king put a snake on his shoulder with the
-tip of his bow. Your father, Shringin, is still sitting there now, keeping his
-vow. And the king has gone back to his own city, Hastinapura, the City of the
+did not answer him at all. So the king put a snake on his shoulder with the tip
+of his bow. Your father, Shringin, is still sitting there now, keeping his vow.
+And the king has gone back to his own city, Hastinapura, the City of the
 Elephant.'
 
 "When the seer's son heard this, he stood rigid, as if he were holding up the
@@ -99,8 +97,8 @@ sky. His eyes were red with anger, and he blazed with fury. Overcome with rage,
 full of power, driven by the force of his anger, he touched water and cursed the
 king.
 
-"'That wicked king has put a dead snake on the shoulder of my old father, who
-is in such hardship. He is a sin against kingship, a despiser of brahmins, a
+"'That wicked king has put a dead snake on the shoulder of my old father, who is
+in such hardship. He is a sin against kingship, a despiser of brahmins, a
 disgrace to the Kurus. Within seven nights, driven by the power of my word, the
 best of snakes, Takshaka, blazing, with venom in his fangs, will be furious with
 him, and will take that wicked man to the house of Yama.'
@@ -118,32 +116,30 @@ will take that wicked man to the house of Death, a place of dread.'
 "His father spoke to him, brahmin, as he stood there full of anger. 'What you
 have done, my son, does not please me. This is not the dharma of ascetics. We
 live in that king's country, and he protects us justly. I take no pleasure in
-harm to him. People like us must always be patient with a king, my son,
-whatever he does. For dharma, when it is struck, strikes back. There is no
-doubt of it.
+harm to him. People like us must always be patient with a king, my son, whatever
+he does. For dharma, when it is struck, strikes back. There is no doubt of it.
 
 "'If the king did not protect us, we would suffer terribly. We could not
-practise our dharma as we please, my son. We are protected, my son, by kings
-who see by the light of the teachings, and so we practise dharma in plenty,
-and by dharma a share of it belongs to them. And Parikshit protects us above
-all, as his great-grandfather did, protecting his subjects as a king should.
-He did this today because he was hungry and tired and wretched, and he did
-not know of my vow. There is no doubt of it. So what you have done so rashly,
-out of childishness, is a wrong. The king in no way deserves a curse from us,
-my son.'
+practise our dharma as we please, my son. We are protected, my son, by kings who
+see by the light of the teachings, and so we practise dharma in plenty, and by
+dharma a share of it belongs to them. And Parikshit protects us above all, as
+his great-grandfather did, protecting his subjects as a king should. He did this
+today because he was hungry and tired and wretched, and he did not know of my
+vow. There is no doubt of it. So what you have done so rashly, out of
+childishness, is a wrong. The king in no way deserves a curse from us, my son.'
 
 "'Whether this was rash, father,' said Shringin, 'or whether it was wrong,
 whether it pleases you or not, what I have said will not prove false. It will
 not happen any other way, father. I tell you so. I do not speak falsely even in
 jest. How could I when I curse?'
 
-"'I know your power is fierce, my son,' said his father, 'and your words are true.
-You have never spoken a lie before, and this will not be false. A father must
-always guide his son, even a grown one, so that he may gain virtue and win great
-fame. How much more you, who are only a boy, made mighty by austerity, my lord!
-The anger of great souls who have power grows very great. So I see that I must
-speak to you, best of those who uphold dharma, seeing that you are my son, and
-a boy, and rash.
+"'I know your power is fierce, my son,' said his father, 'and your words are
+true. You have never spoken a lie before, and this will not be false. A father
+must always guide his son, even a grown one, so that he may gain virtue and win
+great fame. How much more you, who are only a boy, made mighty by austerity, my
+lord! The anger of great souls who have power grows very great. So I see that I
+must speak to you, best of those who uphold dharma, seeing that you are my son,
+and a boy, and rash.
 
 "'Be calm, and live on the food of the forest, and give up this anger. Then you
 will not lose your dharma. For anger steals away the dharma that ascetics have
@@ -157,10 +153,10 @@ Brahma's.
 send word to the king: "You have been cursed by my son, a boy whose mind is not
 yet formed, who could not bear to see how you insulted me, king."'
 
-"So the great ascetic of good vows, full of pity, gave his instructions and
-sent a pupil to King Parikshit. He sent a pupil named Gauramukha, of good
-character and steady mind, to ask after the king's welfare and to tell him what
-had happened.
+"So the great ascetic of good vows, full of pity, gave his instructions and sent
+a pupil to King Parikshit. He sent a pupil named Gauramukha, of good character
+and steady mind, to ask after the king's welfare and to tell him what had
+happened.
 
 "Gauramukha went quickly to the king who was the pride of the Kurus. He was
 announced by the doorkeepers, and he entered the king's palace. The king
@@ -177,13 +173,13 @@ nights Takshaka will be your death. Shamika told me again and again, "Tell him
 to protect himself." Nothing anyone can do will change it, for he cannot
 restrain his son in his anger. So he has sent me, king, for he wishes you well.'
 
-"When the king, the joy of the Kurus, heard those terrible words, he was stricken
-with remorse for the wrong he had done, that king of great austerity. When he
-heard that the great sage had been keeping a vow of silence, he was still more
-tormented with grief. When he understood how compassionate Shamika was, he
-grieved even more for the wrong he had done the sage. The king, who was like an
-immortal, did not grieve so much to hear of his own death as he grieved for
-having done that deed.
+"When the king, the joy of the Kurus, heard those terrible words, he was
+stricken with remorse for the wrong he had done, that king of great austerity.
+When he heard that the great sage had been keeping a vow of silence, he was
+still more tormented with grief. When he understood how compassionate Shamika
+was, he grieved even more for the wrong he had done the sage. The king, who was
+like an immortal, did not grieve so much to hear of his own death as he grieved
+for having done that deed.
 
 "Then the king sent Gauramukha back, saying, 'Let the blessed one be gracious to
 me again.' As soon as Gauramukha had gone, the king, his mind in turmoil, took
@@ -203,9 +199,9 @@ snakes has bitten him, I will cure him of the poison,* he thought. *That will
 bring me both wealth and dharma.*
 
 "Takshaka, the king of snakes, saw Kashyapa on the road, going on with his mind
-set on one thing, and he took the form of an old brahmin. The king of snakes said
-to Kashyapa, that bull among sages, 'Where are you going in such a hurry? What
-do you mean to do?'
+set on one thing, and he took the form of an old brahmin. The king of snakes
+said to Kashyapa, that bull among sages, 'Where are you going in such a hurry?
+What do you mean to do?'
 
 "'Today,' said Kashyapa, 'Takshaka, the best of snakes, will burn up with his
 fire King Parikshit of the Kuru line, the tamer of enemies. When the king of
@@ -233,22 +229,22 @@ serpent's venom, blazed up on every side. When the snake had burned the tree, he
 said to Kashyapa again, 'Do your best, best of brahmins. Bring this lord of the
 forest back to life.'
 
-"The tree was nothing but ash, burned by the fire of the king of snakes. Kashyapa
-gathered up all the ash and said, 'See the power of my learning in this lord of
-the forest, king of snakes. I will bring it back to life while you watch,
-snake.'
+"The tree was nothing but ash, burned by the fire of the king of snakes.
+Kashyapa gathered up all the ash and said, 'See the power of my learning in this
+lord of the forest, king of snakes. I will bring it back to life while you
+watch, snake.'
 
-"Then the blessed and learned Kashyapa, best of brahmins, brought back to life by
-his learning the tree that had become a heap of ash. He made it a shoot with two
-leaves, and then he made it leafy, with branches, and at last a great spreading
-tree again.
+"Then the blessed and learned Kashyapa, best of brahmins, brought back to life
+by his learning the tree that had become a heap of ash. He made it a shoot with
+two leaves, and then he made it leafy, with branches, and at last a great
+spreading tree again.
 
 "When Takshaka saw the tree brought back to life by the great Kashyapa, he said,
 'This is a great wonder in you, brahmin, lord of brahmins, since you could
 destroy my poison, or the poison of one like me. What is it you want, rich in
 austerity, that you are going there for? Whatever reward you hope to win from
-that best of kings, I will give it to you myself, however hard it is to come
-by. The king has been overcome by a brahmin's curse, and his life is spent. You
+that best of kings, I will give it to you myself, however hard it is to come by.
+The king has been overcome by a brahmin's curse, and his life is spent. You
 might strive for him, brahmin, and still not succeed. Then your blazing fame,
 known in the three worlds, would vanish from here like the sun without its
 rays.'
@@ -267,9 +263,9 @@ wished.
 
 "When the great Kashyapa had turned back by agreement, Takshaka went quickly to
 the city named for the elephant. On the way, Takshaka heard that the lord of the
-world was being carefully guarded with mantras and with antidotes that take
-away poison. He thought, *I must deceive the king by the power of illusion. How
-can it be done?*
+world was being carefully guarded with mantras and with antidotes that take away
+poison. He thought, *I must deceive the king by the power of illusion. How can
+it be done?*
 
 "Then Takshaka, the naga, sent snakes to the king in the form of ascetics,
 carrying fruit and leaves and water. 'Go to the king,' said Takshaka, 'calmly,
@@ -292,18 +288,19 @@ Let this little worm become Takshaka and bite me. That will settle it.'
 
 "His ministers agreed with him, driven by Time. When the king of kings had said
 this, he put the little worm on his neck, and laughed at once. He was about to
-die, and his senses had left him. And while he was still laughing, Takshaka,
-who had come out of the fruit that had been given to the king, wrapped him in
-his coils.
+die, and his senses had left him. And while he was still laughing, Takshaka, who
+had come out of the fruit that had been given to the king, wrapped him in his
+coils.
 
 ---
 
 "When the ministers saw him wrapped in the coils like that, their faces went
-pale, and they all wept, in great sorrow. At that cry, the ministers ran. They saw the wonderful naga going through the sky, bright as a
-lotus, as if he were drawing a parting through the hair of the sky: Takshaka,
-the best of snakes. They were stricken with grief. The house was wrapped in fire
-that blazed up from the serpent's poison. In fear they left it and fled in all
-directions, and it fell as if struck by lightning.
+pale, and they all wept, in great sorrow. At that cry, the ministers ran. They
+saw the wonderful naga going through the sky, bright as a lotus, as if he were
+drawing a parting through the hair of the sky: Takshaka, the best of snakes.
+They were stricken with grief. The house was wrapped in fire that blazed up from
+the serpent's poison. In fear they left it and fled in all directions, and it
+fell as if struck by lightning.
 
 "When the king had been killed by Takshaka's fire, the pure brahmin who was the
 king's family priest, and the king's ministers, performed all the rites for his

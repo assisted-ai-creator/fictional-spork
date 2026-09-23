@@ -106,7 +106,10 @@ against the CE when the Book is drafted.
 | 20 | The Burden of the Earth | 1.58 | ✅ drafted. The golden age after Rāma Jāmadagnya; the asuras born; the Earth to Brahmā; Hari agrees. |
 | 21 | The Families of Beings | 1.59–1.60 | ✅ drafted. The gods go down; Daksha's daughters; gods, asuras, gandharvas, apsarases; Rudras, Vasus, Bhṛgus; beasts and birds. |
 | 22 | Gods and Demons Born as Men | 1.61 | ✅ drafted. Who is whose portion: Jarāsaṃdha to Draupadī. |
-| 23… | Saṃbhava (cont.) | 1.62–1.123 | Duḥṣanta and Śakuntalā; Yayāti; the Kuru line; Śaṃtanu, Gaṅgā, Bhīṣma; the Pāṇḍavas' births. |
+| 23 | The King Who Went Hunting | 1.62–1.64 | ✅ drafted. Duḥṣanta's reign; the hunt; Kaṇva's hermitage on the Mālinī. |
+| 24 | Shakuntala | 1.65–1.67 | ✅ drafted. Menakā and Viśvāmitra; the birds; the gāndharva marriage; Kaṇva's blessing. |
+| 25 | The Voice from the Sky | 1.68–1.69 | ✅ drafted. The denial ("though he remembered"); Śakuntalā's answer; the heavenly voice; Bharata (L-68). |
+| 26… | Saṃbhava (cont.) | 1.70–1.123 | The Paurava line; Yayāti, Devayānī and Śarmiṣṭhā; Kaca; Śaṃtanu, Gaṅgā, Bhīṣma; the Pāṇḍavas' births. |
 
 ---
 

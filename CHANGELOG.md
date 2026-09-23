@@ -18,6 +18,23 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 23–25 drafted: Shakuntala
+- Ch 23 *The King Who Went Hunting* (CE 1.62–64), Ch 24 *Shakuntala*
+  (1.65–67), Ch 25 *The Voice from the Sky* (1.68–69). About 7,400 words,
+  verified verse by verse. In the CE, Dushyanta remembers her and denies her
+  anyway (1.68.18). There is no curse and no ring.
+
+### Reference
+- Ledger **L-68**: Durvasa's curse, the lost ring and Shakuntala's friends come
+  from Kalidasa, not the CE.
+
+### Tools
+- `tools/reflow.py`: rewraps chapter prose to 80 columns, leaving the notes
+  alone. All chapters were reflowed; the change is whitespace only (checked).
+
+### Workbook
+- `names.json`: +5 (Dushyanta, Shakuntala, Kanva, Vishvamitra, Bharata).
+
 ### Novel: Book 1, chapters 21–22 drafted
 - Ch 21 *The Families of Beings* (CE 1.59–60) and Ch 22 *Gods and Demons Born
   as Men* (1.61): the full catalogues of the origins of beings and of the divine

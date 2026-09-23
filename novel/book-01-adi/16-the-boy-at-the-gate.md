@@ -15,27 +15,27 @@ assembly at that most terrible snake sacrifice, which brought such despair and
 such great danger to the snakes? Tell me everything in full, my friend. Those
 who knew the rules of the snake sacrifice should be known, son of the suta."
 
-"Then I will tell you," said the bard, "the names of the wise men who were
-that king's priests and the members of his assembly.
+"Then I will tell you," said the bard, "the names of the wise men who were that
+king's priests and the members of his assembly.
 
 "The priest who called the gods was the brahmin Chandabhargava, born in the line
 of Chyavana, famous as the best of those who know the Veda. The chanter was an
-old and learned brahmin, Kautsarya Jaimini. The overseer was Sharngarava, and the
-priest of the offerings was Bodhapingala.
+old and learned brahmin, Kautsarya Jaimini. The overseer was Sharngarava, and
+the priest of the offerings was Bodhapingala.
 
 "Vyasa sat in the assembly, with his son and his pupils around him, and
 Uddalaka, Shamathaka, and Shvetaketu, the fifth. Asita Devala was there, and
-Narada and Parvata, Atreya, Kundajathara and the brahmin Kutighata, Vatsya and old
-Shrutashravas, given to austerity and study, Kahoda and Devasharman, Maudgalya and
-Shamasaubhara. These and many other brahmins of strict vows sat in the assembly
-at the sacrifice of Parikshit's son.
+Narada and Parvata, Atreya, Kundajathara and the brahmin Kutighata, Vatsya and
+old Shrutashravas, given to austerity and study, Kahoda and Devasharman,
+Maudgalya and Shamasaubhara. These and many other brahmins of strict vows sat in
+the assembly at the sacrifice of Parikshit's son.
 
 "As the priests made their offerings at that great rite, the snake sacrifice,
-terrible snakes fell into it, snakes that frighten every living thing. Streams of
-the nagas' fat and marrow began to flow, and a dreadful smell spread from those
-that were burning without pause. And a noise went on without stopping, the noise
-of the nagas falling, and of those held in the air, and of those roasting hard
-in the fire.
+terrible snakes fell into it, snakes that frighten every living thing. Streams
+of the nagas' fat and marrow began to flow, and a dreadful smell spread from
+those that were burning without pause. And a noise went on without stopping, the
+noise of the nagas falling, and of those held in the air, and of those roasting
+hard in the fire.
 
 "But Takshaka, the king of the nagas, went to the palace of Indra, the breaker
 of cities, as soon as he heard that King Janamejaya had been consecrated. The
@@ -64,11 +64,11 @@ Clearly I too must go to the house of the king of the dead.
 "'This is the time for which I gave you long ago to Jaratkaru, sister. Save us
 and our kin. Astika, so they say, will stop that sacrifice while it is under
 way, best of snakes. The Grandfather himself told me so long ago. So, my child,
-speak to your own dear boy, whom even the old respect, the best of those who know
-the Veda, to set me free today, and my people with me.'
+speak to your own dear boy, whom even the old respect, the best of those who
+know the Veda, to set me free today, and my people with me.'
 
-"Then the snake woman Jaratkaru called her son, and at Vasuki's word, the word of
-the king of the nagas, she said, 'My son, I was given to your father by my
+"Then the snake woman Jaratkaru called her son, and at Vasuki's word, the word
+of the king of the nagas, she said, 'My son, I was given to your father by my
 brother for a reason. And now the time has come. Do what must be done.'
 
 "'Why were you given to my father by my uncle?' said Astika. 'Tell me the truth.
@@ -80,9 +80,9 @@ told him, without faltering.
 "'The mother of all the snakes, they say, is Kadru. Hear why she cursed her sons
 in her anger. "The king of horses, Uchchaihshravas, was not made false for me in
 the wager with Vinata, when slavery was the stake. So, my sons, at Janamejaya's
-sacrifice the fire whose charioteer is the wind will burn you. There you will die
-and go to the world of the dead." And when she had cursed them like this, the
-Grandfather of the worlds himself said, "So be it," and approved her words.
+sacrifice the fire whose charioteer is the wind will burn you. There you will
+die and go to the world of the dead." And when she had cursed them like this,
+the Grandfather of the worlds himself said, "So be it," and approved her words.
 
 "'When Vasuki heard the Grandfather's words, my son, he went to the gods for
 refuge after the nectar had been churned. And the gods had what they wanted, for
@@ -94,12 +94,12 @@ for his kin. Blessed one, let not his mother's curse come true."
 "'"The wife whom Jaratkaru will take, called Jaratkaru," said Brahma, "a brahmin
 born to her will set the snakes free from the curse."
 
-"'When he heard these words, Vasuki, the lord of the snakes, gave me, you who are
-like an immortal, to your great-souled father. That was long before the time. And
-you were born to me by him. Now the time has come. You must save us from danger.
-And so you must save my brother from the fire. Let what we did not prove to be
-in vain, when I was given to your wise father for our release. Or what do you
-think, my son?'
+"'When he heard these words, Vasuki, the lord of the snakes, gave me, you who
+are like an immortal, to your great-souled father. That was long before the
+time. And you were born to me by him. Now the time has come. You must save us
+from danger. And so you must save my brother from the fire. Let what we did not
+prove to be in vain, when I was given to your wise father for our release. Or
+what do you think, my son?'
 
 "When she said this, Astika said to his mother, 'So be it.' And he said to
 Vasuki, who was burning with pain, as if giving him back his life, 'I will set
@@ -120,13 +120,13 @@ blazing like the fire at the end of time, I will destroy it. Do not be afraid,
 not in any way.'
 
 "So he took away Vasuki's terrible fever of the mind, and took it upon himself.
-Then Astika, the best of brahmins, went in great haste to Janamejaya's sacrifice,
-which had every excellence, to set the lords of the snakes free.
+Then Astika, the best of brahmins, went in great haste to Janamejaya's
+sacrifice, which had every excellence, to set the lords of the snakes free.
 
-"When Astika arrived, he saw the splendid place of sacrifice, crowded with members
-of the assembly who shone like the sun and like fire. As the best of brahmins
-tried to go in, the doorkeepers stopped him. So, wanting to be let in, the best of
-brahmins began to praise that sacrifice.
+"When Astika arrived, he saw the splendid place of sacrifice, crowded with
+members of the assembly who shone like the sun and like fire. As the best of
+brahmins tried to go in, the doorkeepers stopped him. So, wanting to be let in,
+the best of brahmins began to praise that sacrifice.
 
 ---
 
@@ -135,45 +135,45 @@ lord of creatures at Prayaga. So is this sacrifice of yours, first of the
 Bharatas, son of Parikshit. May all be well with those who are dear to us!
 
 "'Shakra's sacrifice was counted a hundredfold, and another as well, a hundred
-more. So is this sacrifice of yours, first of the Bharatas, son of Parikshit. May
-all be well with those who are dear to us!
+more. So is this sacrifice of yours, first of the Bharatas, son of Parikshit.
+May all be well with those who are dear to us!
 
 "'As was the sacrifice of Yama, and of Harimedhas, and of King Rantideva, so is
-this sacrifice of yours, first of the Bharatas, son of Parikshit. May all be well
-with those who are dear to us!
-
-"'As was the sacrifice of Gaya, and of King Shashabindu, and of King Vaishravana,
-so is this sacrifice of yours, first of the Bharatas, son of Parikshit. May all be
+this sacrifice of yours, first of the Bharatas, son of Parikshit. May all be
 well with those who are dear to us!
+
+"'As was the sacrifice of Gaya, and of King Shashabindu, and of King
+Vaishravana, so is this sacrifice of yours, first of the Bharatas, son of
+Parikshit. May all be well with those who are dear to us!
 
 "'As was the sacrifice of Nriga, and of Ajamidha, and of King Rama, the son of
 Dasharatha, so is this sacrifice of yours, first of the Bharatas, son of
 Parikshit. May all be well with those who are dear to us!
 
 "'We have heard in heaven of the sacrifice of Yudhishthira, the son of a god, a
-king of Ajamidha's line. So is this sacrifice of yours, first of the Bharatas, son
-of Parikshit. May all be well with those who are dear to us!
+king of Ajamidha's line. So is this sacrifice of yours, first of the Bharatas,
+son of Parikshit. May all be well with those who are dear to us!
 
-"'As was the sacrifice of Krishna, the son of Satyavati, where he himself did the
-work, so is this sacrifice of yours, first of the Bharatas, son of Parikshit. May
-all be well with those who are dear to us!
+"'As was the sacrifice of Krishna, the son of Satyavati, where he himself did
+the work, so is this sacrifice of yours, first of the Bharatas, son of
+Parikshit. May all be well with those who are dear to us!
 
-"'For these men, as bright as the sun and fire, sit at your rite as they sit at the
-rite of the slayer of Vritra. There is nothing left for them to know today. What
-is given to them never perishes. There is no priest in all the worlds equal to
-Dvaipayana. Of that I am certain. His pupils travel the earth, all of them
+"'For these men, as bright as the sun and fire, sit at your rite as they sit at
+the rite of the slayer of Vritra. There is nothing left for them to know today.
+What is given to them never perishes. There is no priest in all the worlds equal
+to Dvaipayana. Of that I am certain. His pupils travel the earth, all of them
 priests, skilled each in his own work.
 
-"'The bright one, the many-bright, the great-souled, the gold-seeded, the
-eater of all, whose path is black, whose flame turns to the right, blazing, the
-god who eats the offerings, wants this offering of yours.
+"'The bright one, the many-bright, the great-souled, the gold-seeded, the eater
+of all, whose path is black, whose flame turns to the right, blazing, the god
+who eats the offerings, wants this offering of yours.
 
 "'There is no other king in the world of the living who protects his people as
 you do. I am always glad at heart at your steadfastness. You are a king, or you
-are the king of dharma, Yama himself. As Shakra, with the thunderbolt in his hand,
-protects this world, so you are the protector of the people here. We hold you to
-be the lord of men in this world, and there is no other master of the sacrifice
-like you.
+are the king of dharma, Yama himself. As Shakra, with the thunderbolt in his
+hand, protects this world, so you are the protector of the people here. We hold
+you to be the lord of men in this world, and there is no other master of the
+sacrifice like you.
 
 "'You are like Khatvanga, Nabhaga and Dilipa, as mighty as Yayati and Mandhatri.
 Your splendour matches the splendour of the sun, and you shine like Bhishma, you

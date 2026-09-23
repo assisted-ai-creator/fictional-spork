@@ -19,8 +19,8 @@ everything he could wish for from you today. But first let Takshaka come to us
 quickly.'
 
 "The king, the giver of boons, was about to say to the brahmin, 'Choose a boon.'
-Then the priest who calls the gods spoke, not at all pleased at heart.
-'Takshaka has not yet come into this rite.'
+Then the priest who calls the gods spoke, not at all pleased at heart. 'Takshaka
+has not yet come into this rite.'
 
 "'Then all of you,' said Janamejaya, 'try with all your strength, so that this
 rite of mine is finished, and Takshaka comes to us quickly. He is my enemy.'
@@ -56,24 +56,24 @@ forward by the rules, lord. Now you should give this chief of brahmins his
 boon.'
 
 "'You are only a boy, and you look like a boy,' said Janamejaya, 'but you are
-beyond measure. I give you a boon that befits you. Choose whatever you want, what
-lies in your heart, and I will give it to you, even if it is something that should
-not be given.'
+beyond measure. I give you a boon that befits you. Choose whatever you want,
+what lies in your heart, and I will give it to you, even if it is something that
+should not be given.'
 
 "As Takshaka, the king of the nagas, was about to fall into the fire, Astika saw
-his moment, and he spoke. 'If you are giving me a boon, Janamejaya, I choose this:
-let this sacrifice of yours stop, and let no more snakes fall into it.'
+his moment, and he spoke. 'If you are giving me a boon, Janamejaya, I choose
+this: let this sacrifice of yours stop, and let no more snakes fall into it.'
 
 "When he said this, brahmin, the son of Parikshit was not at all pleased, and he
-said to Astika, 'Gold, silver, cows, whatever else you like, my lord: that I will
-give you as your boon, brahmin. But do not let my rite be stopped.'
+said to Astika, 'Gold, silver, cows, whatever else you like, my lord: that I
+will give you as your boon, brahmin. But do not let my rite be stopped.'
 
 "'Gold, silver, cows, I do not ask them of you, king,' said Astika. 'Let this
 sacrifice of yours stop, so that my mother's family may be safe.'
 
-"When Astika said this, the son of Parikshit said to him again and again, to that
-best of speakers, 'Choose another boon, best of the best of brahmins. Good fortune
-to you!' But he did not ask for any other boon, joy of the Bhrigus.
+"When Astika said this, the son of Parikshit said to him again and again, to
+that best of speakers, 'Choose another boon, best of the best of brahmins. Good
+fortune to you!' But he did not ask for any other boon, joy of the Bhrigus.
 
 "Then all the members of the assembly, who knew the Veda, said together to the
 king, 'Let the brahmin have his boon.'"
@@ -90,37 +90,41 @@ remember them.
 
 "First, hear the chief of those born in Vasuki's line, dark blue and red and
 white, terrible, huge, full of poison: Kotika, Manasa, Purna, Saha, Paila and
-Halisaka, Picchila, Konapa, Chakra, Konavega and Prakalana, Hiranyavaha, Sharana,
-Kakshaka and Kaladantaka. These nagas born of Vasuki went into the fire.
+Halisaka, Picchila, Konapa, Chakra, Konavega and Prakalana, Hiranyavaha,
+Sharana, Kakshaka and Kaladantaka. These nagas born of Vasuki went into the
+fire.
 
 "I will tell you those born in Takshaka's family. Hear them: Pucchandaka,
 Mandalaka, Pindabhetta and Rabhenaka, Ucchikha, Surasa, Dranga, Balaheda and
 Virohana, Shilishalakara, Muka, Sukumara and Pravepana, Mudgara and Shasharoman,
 Sumanas and Vegavahana. These nagas born of Takshaka went into the fire.
 
-"Paravata, Pariyatra, Pandara, Harina and Krisha, Vihanga, Sharabha, Moda, Pramoda
-and Samhatangada: these from Airavata's family went into the fire.
+"Paravata, Pariyatra, Pandara, Harina and Krisha, Vihanga, Sharabha, Moda,
+Pramoda and Samhatangada: these from Airavata's family went into the fire.
 
-"Hear the nagas born in Kauravya's family, best of brahmins: Aindila, Kundala and
-Munda, Veniskandha and Kumaraka, Bahuka and Shringavega, Dhurtaka, Pata and Patara.
+"Hear the nagas born in Kauravya's family, best of brahmins: Aindila, Kundala
+and Munda, Veniskandha and Kumaraka, Bahuka and Shringavega, Dhurtaka, Pata and
+Patara.
 
 "Hear, as they were, the nagas born in Dhritarashtra's family, as I name them,
 brahmin, as swift as the wind and full of poison: Shankukarna and Pingalaka,
 Kutharamukha and Mechaka, Purnangada and Purnamukha, Prahasa, Shakuni and Hari,
-Amahatha and Komathaka, Shvasana, Manava and Vata, Bhairava, Mundavedanga, Pishanga
-and Udraparaga, the one named Rishabha and Vegavat, Pindaraka and Mahahanu,
-Raktanga, Sarvasaranga, Samriddha, Pata and Rakshasa, Varahaka and Varanaka,
-Sumitra and Chitravedika, Parashara and Tarunaka, Maniskandha and Aruni.
+Amahatha and Komathaka, Shvasana, Manava and Vata, Bhairava, Mundavedanga,
+Pishanga and Udraparaga, the one named Rishabha and Vegavat, Pindaraka and
+Mahahanu, Raktanga, Sarvasaranga, Samriddha, Pata and Rakshasa, Varahaka and
+Varanaka, Sumitra and Chitravedika, Parashara and Tarunaka, Maniskandha and
+Aruni.
 
-"These are the nagas I have named, brahmin, the chief of them, who added to their
-families' fame. There are too many to name them all. Their sons and grandsons,
-and the offspring of their offspring, who went into the blazing fire, cannot be
-counted. Some had seven heads, some two, and some five, terrible, their poison
-like the fire at the end of time, and they were offered into the fire by hundreds
-of thousands. They were huge and mighty, as tall as mountain peaks, a yojana long
-and wide, and two yojanas long. They could take any form they wished and go
-wherever they wished, and their poison was like blazing fire. They were burned
-there at that great sacrifice, crushed by the rod of the brahmins.
+"These are the nagas I have named, brahmin, the chief of them, who added to
+their families' fame. There are too many to name them all. Their sons and
+grandsons, and the offspring of their offspring, who went into the blazing fire,
+cannot be counted. Some had seven heads, some two, and some five, terrible,
+their poison like the fire at the end of time, and they were offered into the
+fire by hundreds of thousands. They were huge and mighty, as tall as mountain
+peaks, a yojana long and wide, and two yojanas long. They could take any form
+they wished and go wherever they wished, and their poison was like blazing fire.
+They were burned there at that great sacrifice, crushed by the rod of the
+brahmins.
 
 ---
 
@@ -136,17 +140,17 @@ not work on the fire, so that Takshaka did not fall into it?"
 "The best of snakes had slipped from Indra's hand, and he had lost his senses,"
 said the bard. "Astika called out to him three times: 'Stop! Stop! Stop!'
 
-"And he stopped in the sky, his heart in torment, the way a man might stand still
-inside a ring of cattle.
+"And he stopped in the sky, his heart in torment, the way a man might stand
+still inside a ring of cattle.
 
 "Then the king, pressed hard by the members of his assembly, said, 'Let it be as
 Astika has said. Let this rite be ended. Let the snakes be safe. Let this Astika
 be pleased. And let the suta's words come true.'
 
-"Then a great shout of joy went up, *halahala!*, as Astika was given his boon. And
-so the sacrifice of the Pandava king, the son of Parikshit, came to an end. And
-King Janamejaya of the Bharatas was glad. To the priests and the members of the
-assembly who had gathered there he gave wealth by the hundred and by the
+"Then a great shout of joy went up, *halahala!*, as Astika was given his boon.
+And so the sacrifice of the Pandava king, the son of Parikshit, came to an end.
+And King Janamejaya of the Bharatas was glad. To the priests and the members of
+the assembly who had gathered there he gave wealth by the hundred and by the
 thousand. And the lord gave much wealth to the red-eyed suta, the builder, who
 had said at the start of the rite that it would be stopped, and that a brahmin
 would be the cause. Then he performed the final bath, with the rites the
@@ -162,29 +166,30 @@ uncle, and he bowed and touched their feet, and told them all that had happened.
 
 "When they heard this, the snakes who had gathered there were glad, and their
 fear was gone. They were full of love for Astika, and they said to him, 'Choose
-the boon you want.' Again and again they all said to him, 'What can we do for you
-today, wise one? We are glad, and we have all been set free. What would you like
-us to do today, child?'
+the boon you want.' Again and again they all said to him, 'What can we do for
+you today, wise one? We are glad, and we have all been set free. What would you
+like us to do today, child?'
 
 "'Brahmins, and men of every kind in this world,' said Astika, 'who, at evening
 and at morning, with a calm and happy heart, tell this story of dharma of mine:
 let them have nothing at all to fear from you.'
 
-"And the snakes, glad at heart, said to their sister's son, 'It shall be so, just
-as you wish. With love, sister's son, we will do all you desire, and gladly.'
+"And the snakes, glad at heart, said to their sister's son, 'It shall be so,
+just as you wish. With love, sister's son, we will do all you desire, and
+gladly.'
 
 "'May the famous Astika, born of Jaratkaru by Jaratkaru, true to his promise,
-protect me from the snakes.' Whoever calls to mind Asita, Artimant and Sunitha, by
-day or by night, will have no fear of snakes.
+protect me from the snakes.' Whoever calls to mind Asita, Artimant and Sunitha,
+by day or by night, will have no fear of snakes.
 
-"When he had set the snakes free from the snake sacrifice, that best of brahmins,
-the righteous one, came in time to his appointed end, with sons and grandsons
-around him.
+"When he had set the snakes free from the snake sacrifice, that best of
+brahmins, the righteous one, came in time to his appointed end, with sons and
+grandsons around him.
 
 "So I have told you the story of Astika rightly. When one tells it, one has
-nothing to fear from snakes anywhere. You have heard, brahmin, the righteous story
-of Astika that increases merit, the glorious life of the wise Astika from the
-beginning."
+nothing to fear from snakes anywhere. You have heard, brahmin, the righteous
+story of Astika that increases merit, the glorious life of the wise Astika from
+the beginning."
 
 "Beginning with the line of Bhrigu," said Shaunaka, "you have told me the whole
 great story, my friend, Sauti. I am pleased with you for it. Now I will ask you
@@ -204,9 +209,9 @@ from the ocean of the mind of the great seer of holy deeds. Tell it, best of the
 good. I never tire of it, son of the suta."
 
 "Then I will tell you," said the bard, "the great and noble story, the
-*Mahabharata*, as Krishna Dvaipayana thought it, from the beginning. Take pleasure
-in it, brahmin, you of the finest mind, as I tell it. For my heart is filled with
-joy to tell it."
+*Mahabharata*, as Krishna Dvaipayana thought it, from the beginning. Take
+pleasure in it, brahmin, you of the finest mind, as I tell it. For my heart is
+filled with joy to tell it."
 
 <!-- notes -->
 ## Notes

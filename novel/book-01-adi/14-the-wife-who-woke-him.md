@@ -9,28 +9,27 @@ summary: Jaratkaru finds his forefathers hanging over a pit by a single gnawed r
 
 # The Wife Who Woke Him
 
-"At this very time," said the bard, "the great ascetic Jaratkaru was
-wandering over the whole earth, a sage who made his home wherever evening
-found him. Mighty in his power, he kept a vow that is hard for those who
-have not mastered themselves, and he wandered from one holy ford to another,
-bathing in each. He lived on air and ate nothing, and day by day he wasted
-away.
+"At this very time," said the bard, "the great ascetic Jaratkaru was wandering
+over the whole earth, a sage who made his home wherever evening found him.
+Mighty in his power, he kept a vow that is hard for those who have not mastered
+themselves, and he wandered from one holy ford to another, bathing in each. He
+lived on air and ate nothing, and day by day he wasted away.
 
-"And he saw his forefathers hanging head down in a pit. They were clinging to
-a clump of virana grass that had only one root left, and a rat that lived in
-a hole was slowly gnawing at that root. They had nothing to eat. They were
-thin and wretched, suffering in the pit, and they longed for someone to save
-them. He went up to them, wretched himself, and spoke to those wretched ones.
+"And he saw his forefathers hanging head down in a pit. They were clinging to a
+clump of virana grass that had only one root left, and a rat that lived in a
+hole was slowly gnawing at that root. They had nothing to eat. They were thin
+and wretched, suffering in the pit, and they longed for someone to save them. He
+went up to them, wretched himself, and spoke to those wretched ones.
 
-"'Who are you, hanging here, clinging to this clump of virana grass? It is
-weak, for the rat that lives in the hole has eaten its roots. The one root
-that is left in this clump of virana, the rat is gnawing slowly away with his
-sharp teeth. There is so little of it left that it will soon be cut through,
-and then you will fall head first into this pit. It pains me to see you hanging
-head down, in such terrible danger. What can I do for you that you would like?
-Tell me quickly: can you be saved from this danger by a quarter of my
-austerity, or a third, or a half? Or let all of you be saved by the whole of my
-austerity. Let it be as you wish.'
+"'Who are you, hanging here, clinging to this clump of virana grass? It is weak,
+for the rat that lives in the hole has eaten its roots. The one root that is
+left in this clump of virana, the rat is gnawing slowly away with his sharp
+teeth. There is so little of it left that it will soon be cut through, and then
+you will fall head first into this pit. It pains me to see you hanging head
+down, in such terrible danger. What can I do for you that you would like? Tell
+me quickly: can you be saved from this danger by a quarter of my austerity, or a
+third, or a half? Or let all of you be saved by the whole of my austerity. Let
+it be as you wish.'
 
 "'You are rich in austerity, celibate one,' said the forefathers, 'since you
 want to save us here. But this cannot be taken away by austerity, best of
@@ -46,15 +45,15 @@ out, lord, we have fallen here from a holy world. Our austerity and our merit
 are lost, for we have no thread of descendants. We have one thread left today,
 but it is as good as none. They say he is a kinsman in our family, that unlucky
 son of unlucky fathers. He is known as Jaratkaru. He knows the Vedas and their
-limbs through and through. He is self-controlled and great-souled, of good
-vows and great austerity. Because of his greed for austerity, we have been
-brought to this misery. He has no wife, no son and no kin at all. So we hang in
-this pit, our senses gone, as if we had no protector.
+limbs through and through. He is self-controlled and great-souled, of good vows
+and great austerity. Because of his greed for austerity, we have been brought to
+this misery. He has no wife, no son and no kin at all. So we hang in this pit,
+our senses gone, as if we had no protector.
 
 "'If you see him, speak to him, and be our protector. Tell him, "Your
 forefathers are hanging head down in a pit, in misery. Take a wife, good sir,
-and have children, lord. You are the only thread of our family left, you who
-are rich in austerity."
+and have children, lord. You are the only thread of our family left, you who are
+rich in austerity."
 
 "'This clump of virana grass that you see us clinging to, brahmin, was our
 family's clump. It made our family grow. The roots of this plant that you see
@@ -64,14 +63,14 @@ taken up austerity. The rat you see, brahmin, is Time, of great strength. Slowly
 it is gnawing away and wasting that foolish one who delights in austerity,
 Jaratkaru, greedy for austerity, dull and thoughtless.
 
-"'His austerity will not save us, best of the good. See us, our roots cut, fallen,
-our minds struck by Time, bound for hell, as if we were wrongdoers. And when we
-have fallen here, with our forefathers before us, he too will be cut off by
-Time, and go to hell after us. Austerity or sacrifice, or any other great means
-of purifying, none of it is equal to having descendants, my son. That is the
-view of the good. So, my son, if you see the ascetic Jaratkaru, tell him. Tell
-him all of this, just as you have seen it. So that he takes a wife and has sons,
-you must speak to him, brahmin, as our protector.'
+"'His austerity will not save us, best of the good. See us, our roots cut,
+fallen, our minds struck by Time, bound for hell, as if we were wrongdoers. And
+when we have fallen here, with our forefathers before us, he too will be cut off
+by Time, and go to hell after us. Austerity or sacrifice, or any other great
+means of purifying, none of it is equal to having descendants, my son. That is
+the view of the good. So, my son, if you see the ascetic Jaratkaru, tell him.
+Tell him all of this, just as you have seen it. So that he takes a wife and has
+sons, you must speak to him, brahmin, as our protector.'
 
 ---
 
@@ -86,12 +85,12 @@ this place. Why have you not taken a wife, brahmin?'
 
 "'Forefathers,' said Jaratkaru, 'this purpose has always been turning in my
 heart: that I would carry this body to the next world without ever spilling my
-seed. But now I have seen you hanging like birds, grandfathers, I have turned
-my mind from the celibate life. I will do what you wish, and I will marry.
-There is no doubt of it. That is, if I ever find a girl with my own name, one
-who is offered to me of her own accord, like alms, and one whom I do not have
-to support. I will take her. If I can find a marriage like that, I will make
-it. Otherwise I will not. That is the truth, grandfathers.'
+seed. But now I have seen you hanging like birds, grandfathers, I have turned my
+mind from the celibate life. I will do what you wish, and I will marry. There is
+no doubt of it. That is, if I ever find a girl with my own name, one who is
+offered to me of her own accord, like alms, and one whom I do not have to
+support. I will take her. If I can find a marriage like that, I will make it.
+Otherwise I will not. That is the truth, grandfathers.'
 
 "When he had said this to his forefathers, the sage wandered the earth. And he
 found no wife, Shaunaka, for people thought, *He is old.*
@@ -129,22 +128,21 @@ serpent's house. There the best of those who know the mantras, grown great in
 austerity, of great vows, righteous, took her hand, with the rites and the
 mantras before him. Then, praised by the great seers, he took his wife to a
 bright chamber, which the king of the snakes had approved. A bed had been made
-ready there, covered with fine spreads, and there Jaratkaru lived with his
-wife.
+ready there, covered with fine spreads, and there Jaratkaru lived with his wife.
 
-"There the good man made an agreement with his wife. 'You must never do
-anything that displeases me, or say anything that displeases me. If you do
-anything displeasing, I will leave you, and I will leave my home in your house.
-Take these words to heart, as I have said them.'
+"There the good man made an agreement with his wife. 'You must never do anything
+that displeases me, or say anything that displeases me. If you do anything
+displeasing, I will leave you, and I will leave my home in your house. Take
+these words to heart, as I have said them.'
 
 "Then the snake king's sister, deeply anxious and in great distress, said to
 him, 'So be it.' And so the famous woman waited on her husband, whose ways were
 so hard, wanting only to please him, with the watchful care of the white crow.
 
-"Then one day, at her season, Vasuki's sister bathed and went to her husband, the
-great sage, as was right. And a child was conceived in her, like a blazing fire,
-full of austerity, as bright as the fire that belongs to all men. It grew like
-the moon in the bright half of the month.
+"Then one day, at her season, Vasuki's sister bathed and went to her husband,
+the great sage, as was right. And a child was conceived in her, like a blazing
+fire, full of austerity, as bright as the fire that belongs to all men. It grew
+like the moon in the bright half of the month.
 
 "A few days later, the great ascetic Jaratkaru laid his head in her lap and fell
 asleep, as if he were worn out. While that lord of brahmins slept, the sun went
@@ -161,18 +159,17 @@ dharma.*
 sweetly, said gently to the seer, who lay asleep, blazing with austerity, like
 fire, 'Rise, blessed one. The sun is setting. Say your evening prayers, lord.
 Touch water, you who keep your vows. This is the hour, lovely and dreadful, when
-the fire offerings are lit, and the twilight is coming on in the west, my
-lord.'
+the fire offerings are lit, and the twilight is coming on in the west, my lord.'
 
 "When she said this, the blessed Jaratkaru, the great ascetic, said to his wife,
-his lips trembling, 'You have insulted me, snake woman. I will not live with you.
-I will go the way I came. I am sure in my heart, fair one, that the sun has no
-power to set at its proper time while I am asleep. No one would want to live
+his lips trembling, 'You have insulted me, snake woman. I will not live with
+you. I will go the way I came. I am sure in my heart, fair one, that the sun has
+no power to set at its proper time while I am asleep. No one would want to live
 where he has been insulted, let alone a righteous man like me, or one like me.'
 
 "When her husband said this, words that made her heart shake, Jaratkaru,
-Vasuki's sister, said there in her home, 'I did not wake you to insult you. I did
-it so that you would not fail in your dharma, brahmin.'
+Vasuki's sister, said there in her home, 'I did not wake you to insult you. I
+did it so that you would not fail in your dharma, brahmin.'
 
 "When she said this, the great ascetic Jaratkaru, the seer, spoke to his wife,
 full of anger and wanting to leave the snake woman. 'My words have never spoken
@@ -182,8 +179,8 @@ I have gone from here, timid one, "The blessed one has gone." And you must not
 grieve when I have left.'
 
 "When he said this, the faultless woman, Jaratkaru, answered her husband
-Jaratkaru. She was lost in worry and sorrow. Her voice was choked with tears
-and her mouth was dry. She joined her palms, the lovely woman, and her eyes were
+Jaratkaru. She was lost in worry and sorrow. Her voice was choked with tears and
+her mouth was dry. She joined her palms, the lovely woman, and her eyes were
 full of tears. Her heart was shaking, but she held herself steady.
 
 "'You know dharma. You should not leave me, for I have done no wrong. I keep to
@@ -225,13 +222,13 @@ heart so long.'
 "When he said this, Jaratkaru answered, comforting Vasuki, the lord of the
 snakes, in his distress.
 
-"'I asked that great-souled, great ascetic for a child. He pointed to my womb and
-said, "There is," and then he went. I do not remember him ever saying anything
-false before, even in jest. How could he now, king, at such a time? He said, "Do
-not worry about what has to be done, snake woman. A son will be born to you,
-bright as fire and the sun." When he had said this to me, brother, my husband
-went to the ascetics' forest. So let this great sorrow that sits in your heart go
-away.'
+"'I asked that great-souled, great ascetic for a child. He pointed to my womb
+and said, "There is," and then he went. I do not remember him ever saying
+anything false before, even in jest. How could he now, king, at such a time? He
+said, "Do not worry about what has to be done, snake woman. A son will be born
+to you, bright as fire and the sun." When he had said this to me, brother, my
+husband went to the ascetics' forest. So let this great sorrow that sits in your
+heart go away.'
 
 "When he heard this, Vasuki, the king of the nagas, was filled with great joy,
 and he accepted his sister's words, saying, 'So be it.' And the best of snakes
@@ -246,8 +243,8 @@ up there, in the house of the king of the nagas, and he learned the Vedas and
 their limbs from the Bhargava, Chyavana's son. He kept his vows while he was
 still a boy, and he was gifted with wisdom and goodness and every virtue. His
 name became famous in the worlds: Astika. His father had said, 'There is,'
-*asti*, and gone to the forest while he was still in the womb. So he was known by
-the name Astika.
+*asti*, and gone to the forest while he was still in the womb. So he was known
+by the name Astika.
 
 "Though he was only a boy, his wisdom had no measure. As he lived there in the
 house of the king of the snakes, he was guarded with every care. Like the

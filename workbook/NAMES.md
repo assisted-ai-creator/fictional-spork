@@ -46,8 +46,11 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Jayadratha** | Jayadratha | king of the Sindhus; Duhshala's husband | Saindhava |  |  |
 | **Karna** | Karṇa | Kunti's first son, by the Sun, born with armour and earrings; raised by the charioteer Adhiratha and Radha | Vasusena, Radheya, Vaikartana, Suta's son | Radheya | Karan, Karn |
 | **Radha** | Rādhā | Adhiratha's wife, Karna's foster mother. The only Radha in the epic (see ledger L-58) |  |  |  |
+| **Bharata** | Bharata | son of Dushyanta and Shakuntala, first called Sarvadamana; the emperor from whom the Bharatas take their name | Sarvadamana |  |  |
+| **Dushyanta** | Duḥṣanta | Paurava king who marries Shakuntala by the gandharva rite and later denies her until a heavenly voice speaks; father of Bharata |  |  | Dushmanta, Dusyanta, Dushyant |
 | **Girika** | Girikā | Vasu's wife, daughter of the mountain Kolahala and the river Shuktimati |  |  |  |
 | **Paushya** | Pauṣya | king whose queen gives her earrings to Uttanka |  |  |  |
+| **Shakuntala** | Śakuntalā | daughter of Vishvamitra and Menaka, raised by Kanva; wife of Dushyanta, mother of Bharata |  |  | Sakuntala, Shakuntalaa |
 | **Uparichara Vasu** | Uparicara Vasu | king of Chedi, Indra's friend, who rides above the earth in a crystal chariot; father of Satyavati and Matsya | Vasu, Uparichara |  |  |
 | **Vapushtama** | Vapuṣṭamā | daughter of Suvarnavarman of Kashi; Janamejaya's wife |  |  |  |
 | **Ambalika** | Ambālikā | princess of Kashi; Vichitravirya's wife; mother of Pandu |  |  |  |
@@ -101,6 +104,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Dhaumya of the Ayodas** | Dhaumya Āyoda | teacher of Aruni, Upamanyu and Veda. NOT the Dhaumya who becomes the Pandavas' priest (1.174) |  |  |  |
 | **Gauramukha** | Gauramukha | Shamika's pupil, sent to warn Parikshit |  |  |  |
 | **Jaratkaru** | Jaratkāru | a Yayavara seer of strict vows who marries only a bride of his own name; Astika's father. His wife, Vasuki's sister, has the same name (1.13.34) |  |  | Jaratkaaru, Jaratkara |
+| **Kanva** | Kaṇva | the Kashyapa seer on the Malini who raised Shakuntala | the Kashyapa |  | Kanwa |
 | **Kashyapa** | Kāśyapa | lord of creatures, husband of Kadru and Vinata, father of the snakes, Aruna and Garuda (1.14); the same name is borne by the brahmin healer whom Takshaka turns back from saving Parikshit (1.38–39) |  |  |  |
 | **Khagama** | Khagama | brahmin who cursed his friend Sahasrapat |  |  |  |
 | **Krisha** | Kṛśa | a seer's son, Shringin's friend, whose teasing provokes the curse |  |  |  |
@@ -123,6 +127,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Uttanka** | Uttaṅka | pupil of Veda who fetches the queen's earrings and urges Janamejaya to take revenge |  |  | Utanka |
 | **Veda** | Veda | Dhaumya's pupil, later teacher of Uttanka and priest of Janamejaya and Paushya |  |  |  |
 | **Vibhavasu** | Vibhāvasu | an angry seer who curses his brother to become an elephant and is himself cursed to become a tortoise |  |  |  |
+| **Vishvamitra** | Viśvāmitra | a kshatriya who became a brahmin by austerity; father of Shakuntala by Menaka | Kaushika |  | Visvamitra, Viswamitra |
 | **Vyasa** | Vyāsa | Krishna Dvaipayana, son of Parashara and Satyavati; maker of the epic and father of Dhritarashtra, Pandu and Vidura | Krishna Dvaipayana, Dvaipayana, Parasharya | Dvaipayana | Vyas, Ved Vyas |
 | **Balarama** | Balarāma | Krishna's elder brother, the plough-bearer | Baladeva, Rama, Samkarshana, Halayudha | Baladeva | Balram, Balaram |
 | **Krishna** | Kṛṣṇa | son of Vasudeva and Devaki, of the Vrishni clan; Arjuna's friend and charioteer | Vasudeva, Keshava, Madhava, Govinda, Janardana, Hrishikesha, Madhusudana, Achyuta, Varshneya, Dasharha | Keshava, Madhava, Govinda, Janardana, Vasudeva | Krishn, Krsna |

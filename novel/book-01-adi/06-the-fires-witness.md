@@ -10,55 +10,54 @@ summary: Shaunaka asks for the story of his own ancestors, the Bhrigus; a raksha
 # The Fire's Witness
 
 Ugrashravas, the son of Lomaharshana, a suta who knew the old stories, went
-again to the seers who had gathered at the twelve-year sacrifice of
-Shaunaka, head of the household, in the Naimisha forest. He had worked
-hard at the old lore. He stood before them with joined palms.
+again to the seers who had gathered at the twelve-year sacrifice of Shaunaka,
+head of the household, in the Naimisha forest. He had worked hard at the old
+lore. He stood before them with joined palms.
 
 "What would you like to hear?" he asked. "What shall I tell you?"
 
 "Son of Lomaharshana," the seers said, "we will ask you about the highest
-things, and you will tell us, for we are eager to hear your tales. But the
-holy Shaunaka is still in the house of the sacred fire. He knows the stories
-of heaven, the tales of the gods and the asuras, and all the tales of men,
-of snakes and of gandharvas. He is the learned head of the household at this
+things, and you will tell us, for we are eager to hear your tales. But the holy
+Shaunaka is still in the house of the sacred fire. He knows the stories of
+heaven, the tales of the gods and the asuras, and all the tales of men, of
+snakes and of gandharvas. He is the learned head of the household at this
 sacrifice, Sauti, a brahmin who is skilful, firm in his vows and wise, and a
 teacher of the forest texts. He speaks the truth, loves peace, lives in
 austerity and keeps his vows. All of us honour him. Wait for him. When our
-teacher has taken his seat of honour, then tell whatever that best of
-brahmins asks you."
+teacher has taken his seat of honour, then tell whatever that best of brahmins
+asks you."
 
-"So be it," said the bard. "When the great teacher is seated, and he asks me,
-I will tell holy stories of many kinds."
+"So be it," said the bard. "When the great teacher is seated, and he asks me, I
+will tell holy stories of many kinds."
 
 That bull among brahmins finished all his tasks in their proper order. He
 satisfied the gods with prayers and the ancestors with water. Then he came to
-where the brahmin seers were sitting at the place of sacrifice, perfect in
-their vows, with the suta's son at their head. When the priests and all the
-company were seated, Shaunaka, the head of the household, sat down with them
-and spoke.
+where the brahmin seers were sitting at the place of sacrifice, perfect in their
+vows, with the suta's son at their head. When the priests and all the company
+were seated, Shaunaka, the head of the household, sat down with them and spoke.
 
 "Your father learned the whole of the old lore long ago, my friend. Have you
-learned all of it too, son of Lomaharshana? The old lore holds divine
-stories, and the first lines of the families of wise men. We heard them long
-ago from your father. First of all, I want to hear about the line of Bhrigu.
-Tell me that story. We are ready to hear you."
+learned all of it too, son of Lomaharshana? The old lore holds divine stories,
+and the first lines of the families of wise men. We heard them long ago from
+your father. First of all, I want to hear about the line of Bhrigu. Tell me that
+story. We are ready to hear you."
 
-"I will tell you what the great ones learned rightly long ago," said the
-bard, "Vaishampayana and the other brahmins, and what they told. I will tell
-you what my father learned, and after him I. Listen, then, son of the Bhrigus,
-to the great line of the Bhrigus, which the gods honour, with Indra, with Agni
-and with the Maruts. This is your own family, great sage, and I will tell it
-to you together with its stories, as the old lore gives them.
+"I will tell you what the great ones learned rightly long ago," said the bard,
+"Vaishampayana and the other brahmins, and what they told. I will tell you what
+my father learned, and after him I. Listen, then, son of the Bhrigus, to the
+great line of the Bhrigus, which the gods honour, with Indra, with Agni and with
+the Maruts. This is your own family, great sage, and I will tell it to you
+together with its stories, as the old lore gives them.
 
 "Bhrigu's dear son was Chyavana. Chyavana's heir was the righteous Pramati.
-Pramati had a son by Ghritachi, named Ruru. And Ruru had a son by
-Pramadvara, named Shunaka, who knew the Vedas through and through: a
-righteous man, your own forefather. He was an ascetic, famous and learned,
-the best of those who know Brahman. He loved dharma, spoke the truth, and
-held himself and his senses in check."
+Pramati had a son by Ghritachi, named Ruru. And Ruru had a son by Pramadvara,
+named Shunaka, who knew the Vedas through and through: a righteous man, your own
+forefather. He was an ascetic, famous and learned, the best of those who know
+Brahman. He loved dharma, spoke the truth, and held himself and his senses in
+check."
 
-"Son of the suta," said Shaunaka, "tell me how that great son of Bhrigu came
-to be called Chyavana."
+"Son of the suta," said Shaunaka, "tell me how that great son of Bhrigu came to
+be called Chyavana."
 
 ---
 
@@ -68,10 +67,10 @@ famous and as virtuous as her husband. One day Bhrigu, best of all who keep
 dharma, went out for his ritual bath. And a rakshasa named Puloman came to his
 hermitage.
 
-"The rakshasa came into the hermitage and saw Bhrigu's blameless wife, and
-he was seized by desire and lost his senses. Lovely Puloma offered the
-visitor forest food, fruit and roots. The rakshasa looked at her, tormented
-by desire, and he was glad, for he meant to carry her off.
+"The rakshasa came into the hermitage and saw Bhrigu's blameless wife, and he
+was seized by desire and lost his senses. Lovely Puloma offered the visitor
+forest food, fruit and roots. The rakshasa looked at her, tormented by desire,
+and he was glad, for he meant to carry her off.
 
 "Then, in the house of the sacred fire, he saw Agni, the fire god, burning
 bright, and he questioned him.
@@ -79,45 +78,45 @@ bright, and he questioned him.
 "'Tell me whose wife this is, Agni,' he said. 'I ask you by the truth. You are
 truth itself, Pavaka. Tell me the truth. Long ago I chose this lovely woman to
 be my wife. But afterwards her father gave her to Bhrigu, who played me false.
-If this fair woman, here alone, is Bhrigu's wife, tell me so truly, for I
-mean to carry her off from the hermitage. Anger is burning in my heart today,
-because Bhrigu has the slender woman who was mine first.'
+If this fair woman, here alone, is Bhrigu's wife, tell me so truly, for I mean
+to carry her off from the hermitage. Anger is burning in my heart today, because
+Bhrigu has the slender woman who was mine first.'
 
-"The rakshasa was not sure she was Bhrigu's wife, and he asked the blazing
-fire again and again. 'Agni, you move always inside all creatures, like a
-witness to their good deeds and their bad. Speak true words, wise one. The
-woman I chose first was stolen by Bhrigu, who played me false. If this is
-she, you must tell me truly. When I have heard it from you, I will carry off
-Bhrigu's wife from the hermitage while you watch. Tell me the truth, Agni.'
+"The rakshasa was not sure she was Bhrigu's wife, and he asked the blazing fire
+again and again. 'Agni, you move always inside all creatures, like a witness to
+their good deeds and their bad. Speak true words, wise one. The woman I chose
+first was stolen by Bhrigu, who played me false. If this is she, you must tell
+me truly. When I have heard it from you, I will carry off Bhrigu's wife from the
+hermitage while you watch. Tell me the truth, Agni.'
 
-"When the seven-flamed fire heard him, he was deeply troubled. He was afraid
-of telling a lie, and he was afraid of Bhrigu's curse. He answered softly,
-and he told the truth.
+"When the seven-flamed fire heard him, he was deeply troubled. He was afraid of
+telling a lie, and he was afraid of Bhrigu's curse. He answered softly, and he
+told the truth.
 
-"When the rakshasa heard what Agni said, he took the form of a boar and
-carried her off, swift as the mind and the wind. And the child who lived in
-her womb, in that fury, slipped out of his mother's belly. Because he
-slipped out, he became Chyavana, the Fallen One.
+"When the rakshasa heard what Agni said, he took the form of a boar and carried
+her off, swift as the mind and the wind. And the child who lived in her womb, in
+that fury, slipped out of his mother's belly. Because he slipped out, he became
+Chyavana, the Fallen One.
 
-"The rakshasa saw the child slip from his mother's womb, shining like the
-sun, and he let the woman go, and he fell, burned to ashes.
+"The rakshasa saw the child slip from his mother's womb, shining like the sun,
+and he let the woman go, and he fell, burned to ashes.
 
-"Puloma of the lovely hips took up her child, Chyavana, son of Bhrigu, and
-went on her way, faint with grief. Brahma himself, the grandfather of all the
-worlds, saw Bhrigu's blameless wife weeping, her eyes full of tears, and the
-holy grandfather comforted her, for she was his son's wife. From her tears a
-great river began to flow, and it followed the path of the famous wife of
-Bhrigu. When the grandfather of the worlds saw the river following her path,
-he gave it a name: Vadhusara, the River of the Bride, and it flows towards
-Chyavana's hermitage.
+"Puloma of the lovely hips took up her child, Chyavana, son of Bhrigu, and went
+on her way, faint with grief. Brahma himself, the grandfather of all the worlds,
+saw Bhrigu's blameless wife weeping, her eyes full of tears, and the holy
+grandfather comforted her, for she was his son's wife. From her tears a great
+river began to flow, and it followed the path of the famous wife of Bhrigu. When
+the grandfather of the worlds saw the river following her path, he gave it a
+name: Vadhusara, the River of the Bride, and it flows towards Chyavana's
+hermitage.
 
 "So Chyavana, Bhrigu's mighty son, was born. His father saw him there, and his
 wife. Bhrigu was angry, and he questioned Puloma.
 
 "'Who told that rakshasa who you were, when he wanted to carry you off? The
-rakshasa did not know you were my wife, you with your lovely smile. Tell me,
-for in my anger I mean to curse him. Who is there who is not afraid of my
-curse? Whose wrong is this?'
+rakshasa did not know you were my wife, you with your lovely smile. Tell me, for
+in my anger I mean to curse him. Who is there who is not afraid of my curse?
+Whose wrong is this?'
 
 "'Agni told the rakshasa about me, holy one,' said Puloma. 'Then the rakshasa
 carried me off, crying out like an osprey. I was set free by the power of this
@@ -132,26 +131,25 @@ cursed Agni. 'You will eat everything!'
 
 "'What rash thing have you done now, brahmin? I strive for dharma. I speak the
 truth to all alike. I was asked, and I told the truth. Where is my fault? If a
-witness is asked, and knows, and says otherwise, he destroys seven
-generations of his family before him and seven after. And whoever knows the
-truth of a matter and does not speak is stained with the same sin. There is no
-doubt of it.
+witness is asked, and knows, and says otherwise, he destroys seven generations
+of his family before him and seven after. And whoever knows the truth of a
+matter and does not speak is stained with the same sin. There is no doubt of it.
 
 "'I could curse you too. But brahmins are to be honoured by me. You know this
 already, yet I will say it plainly. Listen.
 
-"'By my power of yoga I make myself many, and I live in many forms: in the
-daily fire offerings, in the long sacrifices, in the rites and in the
-ceremonies. When an offering is poured into me by the rule of the Veda, the
-gods and the ancestors are fed by it. The waters are all the gods, and the
-waters are all the ancestors, and the offerings at the new moon and the full
-moon belong to the gods together with the ancestors. So the gods are the
-ancestors and the ancestors are the gods. They are worshipped as one, and
-they are worshipped apart, on the days of the moon. What is offered into me
-is always eaten by the gods and by the ancestors. That is why I am called the
-mouth of the thirty gods and of the ancestors. At the new moon the ancestors,
-and at the full moon the gods, receive their offerings through my mouth, and
-eat what is offered. How can I be their mouth and eat everything?'
+"'By my power of yoga I make myself many, and I live in many forms: in the daily
+fire offerings, in the long sacrifices, in the rites and in the ceremonies. When
+an offering is poured into me by the rule of the Veda, the gods and the
+ancestors are fed by it. The waters are all the gods, and the waters are all the
+ancestors, and the offerings at the new moon and the full moon belong to the
+gods together with the ancestors. So the gods are the ancestors and the
+ancestors are the gods. They are worshipped as one, and they are worshipped
+apart, on the days of the moon. What is offered into me is always eaten by the
+gods and by the ancestors. That is why I am called the mouth of the thirty gods
+and of the ancestors. At the new moon the ancestors, and at the full moon the
+gods, receive their offerings through my mouth, and eat what is offered. How can
+I be their mouth and eat everything?'
 
 "Agni thought it over, and then he drew himself back. He withdrew from the
 brahmins' daily offerings, from their sacrifices, their long rites and their
@@ -164,9 +162,9 @@ without sin, decide what must be done, and let there be no delay.'
 
 "The seers and the gods went together to Brahma, and told him of Agni's curse
 and how all the rites had stopped. 'Blessed one, Bhrigu has cursed Agni,' they
-said, 'for some reason of his own. How can Agni, the mouth of the gods, who
-eats first of the offerings, the eater of offerings in all the worlds, become
-the eater of everything?'
+said, 'for some reason of his own. How can Agni, the mouth of the gods, who eats
+first of the offerings, the eater of offerings in all the worlds, become the
+eater of everything?'
 
 "When the maker of the worlds heard them, he called Agni, and spoke gently to
 him, to the fire that brings beings into being and never fails.
@@ -181,11 +179,11 @@ the sun's rays touch is held to be pure. In the same way, whatever your flames
 burn will be pure.
 
 "'Agni, you are a great power, and you came forth from your own strength. By
-your own power, lord, make the seer's curse come true. And take your share,
-and the gods' share, that is offered into your mouth.'
+your own power, lord, make the seer's curse come true. And take your share, and
+the gods' share, that is offered into your mouth.'
 
-"'So be it,' said Agni to the grandfather, and he went to do as the supreme
-god had commanded.
+"'So be it,' said Agni to the grandfather, and he went to do as the supreme god
+had commanded.
 
 "The divine seers were glad, and went back the way they had come. The seers
 began all their rites again as before. The gods in heaven rejoiced, and so did

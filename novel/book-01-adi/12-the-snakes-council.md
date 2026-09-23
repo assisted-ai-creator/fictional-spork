@@ -12,8 +12,8 @@ summary: The bard names the chief snakes; Shesha leaves his quarrelsome brothers
 "Son of the suta," said Shaunaka, "you have told us why the snakes were cursed
 by their mother, and why Vinata was cursed by her son. You have told us of the
 boons their husband gave Kadru and Vinata, and the names of the two birds,
-Vinata's sons. But you do not tell us the names of the snakes. We want to
-hear their names, at least of the chief among them."
+Vinata's sons. But you do not tell us the names of the snakes. We want to hear
+their names, at least of the chief among them."
 
 "There are so many snakes, ascetic," said the bard, "that I will not tell the
 names of them all. But hear me name the chief of them.
@@ -21,8 +21,8 @@ names of them all. But hear me name the chief of them.
 "Shesha was born first, and after him Vasuki. Then Airavata and Takshaka,
 Karkotaka and Dhananjaya, Kaliya and Maninaga, and the naga Apurana. Then the
 naga Pinjaraka, Elapatra and Vamana, the two nagas Nila and Anila, Kalmasha and
-Shabala, Aryaka and Adika, and the naga Shalapotaka. Sumanomukha, Dadhimukha
-and Vimalapindaka, Apta and Kotanaka, Shankha and Valashikha. Nishthyunaka and
+Shabala, Aryaka and Adika, and the naga Shalapotaka. Sumanomukha, Dadhimukha and
+Vimalapindaka, Apta and Kotanaka, Shankha and Valashikha. Nishthyunaka and
 Hemaguha, Nahusha and Pingala, Bahyakarna and Hastipada, and Mudgarapindaka.
 Kambala and Ashvatara, and the naga Kaliyaka, the two nagas Vritta and
 Samvartaka, and the two known as Padma.
@@ -30,11 +30,10 @@ Samvartaka, and the two known as Padma.
 "The naga Shankhanaka, and Sphandaka too, the great naga Kshemaka and the naga
 Pindaraka. Karavira, Pushpadamshtra, Elaka and Bilvapanduka, Mushakada and
 Shankhashiras, Purnadamshtra and Haridraka. Aparajita and Jyotika, and the
-serpent Shrivaha, Kauravya and Dhritarashtra, Pushkara and Shalyaka. Virajas
-and Subahu and mighty Shalipinda, Hastibhadra and Pitharaka, Mukhara and
-Konavasana. Kunjara and Kurara, and the naga Prabhakara, Kumuda and
-Kumudaksha, Tittiri and Halika, the two called Karkara and Akarkara, and
-Kundodara and Mahodara.
+serpent Shrivaha, Kauravya and Dhritarashtra, Pushkara and Shalyaka. Virajas and
+Subahu and mighty Shalipinda, Hastibhadra and Pitharaka, Mukhara and Konavasana.
+Kunjara and Kurara, and the naga Prabhakara, Kumuda and Kumudaksha, Tittiri and
+Halika, the two called Karkara and Akarkara, and Kundodara and Mahodara.
 
 "These are the chief nagas, best of brahmins, that I have named. There are too
 many names to tell the others. Their children, and their children's children,
@@ -51,55 +50,52 @@ When they learned of the curse, what did they do then?"
 Kadru and took up vast austerities. He lived on air and kept strict vows. He
 went to Gandhamadana, and to Badari, given to austerity, to Gokarna, to the
 Pushkara forest and to the slopes of the Himalaya. At all these holy fords and
-shrines, he lived alone and held himself in check, always master of his
-senses.
+shrines, he lived alone and held himself in check, always master of his senses.
 
 "The Grandfather saw him practising fierce austerity, the lord Shesha, with
 matted hair and clothes of bark, his flesh, skin and sinews dried up. And the
 Grandfather said to him, who was steadfast and true, as he practised his
-austerity, 'What are you doing, Shesha? Do what is good for the creatures of
-the world. By your harsh austerity, sinless one, you are tormenting all
-creatures. Tell me, Shesha, the wish that has been in your heart so long.'
+austerity, 'What are you doing, Shesha? Do what is good for the creatures of the
+world. By your harsh austerity, sinless one, you are tormenting all creatures.
+Tell me, Shesha, the wish that has been in your heart so long.'
 
 "'All my brothers, born of the same mother, are dull of mind,' said Shesha. 'I
 cannot bear to live with them. Please allow me this. They are always jealous of
-one another, like enemies. That is why I practise austerity, so that I will
-not have to see them. They never stop resenting Vinata and her sons. And
-Vinata's son, Grandfather, is another brother of ours. They hate him bitterly,
-and he is very strong, by the boon of our father, the great Kashyapa. So I
-have taken up austerity, and I will leave this body. How can I keep from
-meeting them, even after death?'
+one another, like enemies. That is why I practise austerity, so that I will not
+have to see them. They never stop resenting Vinata and her sons. And Vinata's
+son, Grandfather, is another brother of ours. They hate him bitterly, and he is
+very strong, by the boon of our father, the great Kashyapa. So I have taken up
+austerity, and I will leave this body. How can I keep from meeting them, even
+after death?'
 
 "'Shesha,' said Brahma, 'I know how all your brothers behave. And I know that
 your brothers are in great danger, because of what they did against their
-mother. But a remedy for it was made here long ago, snake. You should not
-grieve for all your brothers. Choose a boon from me, Shesha, whatever you want.
-I want to give you a boon today, for I am very pleased with you. It is good
-fortune that your mind is set on dharma, best of the snakes. So let your mind
-stand firmer still in dharma.'
+mother. But a remedy for it was made here long ago, snake. You should not grieve
+for all your brothers. Choose a boon from me, Shesha, whatever you want. I want
+to give you a boon today, for I am very pleased with you. It is good fortune
+that your mind is set on dharma, best of the snakes. So let your mind stand
+firmer still in dharma.'
 
 "'This is the only boon I want today, great-grandfather,' said Shesha. 'Let my
 mind delight in dharma, in peace and in austerity, lord.'
 
 "'I am pleased with you, Shesha, for this self-control and this calm,' said
-Brahma. 'But at my command you must do something for the good of the
-creatures. This earth, with its mountains and forests, its seas, its mines and
-its towns, is unsteady and moves. Hold it rightly, Shesha, all of it, and
-stand so that it is still.'
+Brahma. 'But at my command you must do something for the good of the creatures.
+This earth, with its mountains and forests, its seas, its mines and its towns,
+is unsteady and moves. Hold it rightly, Shesha, all of it, and stand so that it
+is still.'
 
 "'As the god, the giver of boons, the lord of creatures, the lord of the earth,
-the lord of beings and the lord of the world, has said,' said Shesha, 'so I
-will hold the earth, and hold it still. Place it on my head, lord of
-creatures.'
+the lord of beings and the lord of the world, has said,' said Shesha, 'so I will
+hold the earth, and hold it still. Place it on my head, lord of creatures.'
 
 "'Go down beneath the earth, best of snakes,' said Brahma. 'The earth herself
 will open a way for you. By holding up this earth, Shesha, you will do a great
 thing that is dear to me.'
 
 "Shesha said, 'So be it,' and he went into the opening, the lord, the eldest
-brother of the best of snakes. And there he stays, and he holds on his head
-this goddess, the earth, gripping her on every side, with the ocean for her
-rim.
+brother of the best of snakes. And there he stays, and he holds on his head this
+goddess, the earth, gripping her on every side, with the ocean for her rim.
 
 "'You are Shesha, best of nagas,' said Brahma, 'the god of dharma, for you alone
 hold up this earth. With your endless coils you grip all of it, as I do, or as
@@ -118,14 +114,14 @@ brothers, Airavata and the others, who were devoted to dharma.
 "'You know this curse, sinless ones, just as it was spoken,' said Vasuki. 'Let
 us take counsel and try to find release from it. There is a way to turn back
 every curse there is. But for those cursed by their mother there is no release,
-snakes. We were cursed in front of the Imperishable, the Immeasurable, the
-True. When I hear that, my heart trembles. Surely total destruction has been
-declared for us, for that imperishable god did not stop her when she cursed us.
-So let us take counsel here, so that all the snakes may be safe. Let us not let
-the time slip by. If we take counsel, we may find a way to be free, as the
-gods long ago found Agni when he was lost and hidden in a cave. Let us find a
-way so that Janamejaya's sacrifice, meant to destroy the snakes, may not
-happen, or may fail.'
+snakes. We were cursed in front of the Imperishable, the Immeasurable, the True.
+When I hear that, my heart trembles. Surely total destruction has been declared
+for us, for that imperishable god did not stop her when she cursed us. So let us
+take counsel here, so that all the snakes may be safe. Let us not let the time
+slip by. If we take counsel, we may find a way to be free, as the gods long ago
+found Agni when he was lost and hidden in a cave. Let us find a way so that
+Janamejaya's sacrifice, meant to destroy the snakes, may not happen, or may
+fail.'
 
 "'So be it,' said all of Kadru's sons, and they gathered there, skilled in
 counsel and in judgement, and they talked it over.
@@ -136,16 +132,16 @@ Janamejaya, "Do not hold your sacrifice."'
 "Other nagas, who thought themselves wise, said, 'Let us all become his
 ministers, and win his respect. He will ask us our advice in all matters of
 state, and we will give him counsel so that the sacrifice is stopped. The king,
-the wisest of the wise, will know how highly we are regarded, and he will
-surely ask us about the sacrifice. We will say "No!" We will show him the many
-terrible evils it would bring, in the next world and in this one, with reasons
-and causes, so that the sacrifice does not take place.
+the wisest of the wise, will know how highly we are regarded, and he will surely
+ask us about the sacrifice. We will say "No!" We will show him the many terrible
+evils it would bring, in the next world and in this one, with reasons and
+causes, so that the sacrifice does not take place.
 
 "'Or else, whoever is to be the teacher at that rite, one who knows the rules of
 the snake sacrifice and is devoted to the king's affairs, let some snake go and
 bite him, and he will die. When the man who performs the sacrifice is killed,
-the rite will not take place. And we will bite all the others who know the
-snake sacrifice and would be his priests. That will be the end of it.'
+the rite will not take place. And we will bite all the others who know the snake
+sacrifice and would be his priests. That will be the end of it.'
 
 "Then other snakes, who were righteous, said, 'This is folly. Killing brahmins
 is not good. In a disaster, the best peace is the one rooted wholly in true
@@ -157,8 +153,8 @@ the blazing sacrificial fire with rain.'
 "'Or,' said other great snakes, 'let us go at night and quickly steal the ladles
 and vessels while they are off their guard. That will hinder it. Or let the
 snakes bite all the people at that sacrifice, by hundreds and by thousands. That
-will terrify them. Or let the snakes spoil the food that has been prepared,
-with their own urine and dung, which ruins all food.'
+will terrify them. Or let the snakes spoil the food that has been prepared, with
+their own urine and dung, which ruins all food.'
 
 "Others said, 'Let us become his priests, and hinder the sacrifice by saying,
 "Give us our fee." Then he will be in our power, and he will do what we want.'
@@ -166,46 +162,46 @@ with their own urine and dung, which ruins all food.'
 "Others said, 'When the king is playing in the water, we will carry him off to
 our home and tie him up. Then the rite will not take place.'
 
-"And other nagas, who thought they were doing good, said, 'We will seize him
-and bite him quickly. That will be the end of it. When he is dead, the root of
-all our troubles will be cut away. This is the final plan, agreed by all of us.
-Or, king, whatever you think best, let it be done quickly.'
+"And other nagas, who thought they were doing good, said, 'We will seize him and
+bite him quickly. That will be the end of it. When he is dead, the root of all
+our troubles will be cut away. This is the final plan, agreed by all of us. Or,
+king, whatever you think best, let it be done quickly.'
 
 "When they had said this, they looked at Vasuki, the lord of the snakes. And
 Vasuki thought it over and said to the snakes, 'This final plan of yours cannot
-be carried out, snakes. None of your plans pleases me, not one of them. But
-what should be done here, for your good? It troubles me deeply, for the credit
-and the blame will both fall on me.'
+be carried out, snakes. None of your plans pleases me, not one of them. But what
+should be done here, for your good? It troubles me deeply, for the credit and
+the blame will both fall on me.'
 
 ---
 
-"When he had heard all of them, saying this and that, and heard Vasuki's
-words, Elapatra spoke.
+"When he had heard all of them, saying this and that, and heard Vasuki's words,
+Elapatra spoke.
 
 "'That sacrifice cannot fail to happen. And Janamejaya of Pandu's line, from
-whom our great danger comes, is not the kind of king these plans imagine. When
-a man here is struck down by fate, king, he must take refuge in fate alone.
-There is no other refuge. This danger of ours, best of snakes, comes from fate.
-So let us take refuge in fate here. Now listen to what I have to say.
+whom our great danger comes, is not the kind of king these plans imagine. When a
+man here is struck down by fate, king, he must take refuge in fate alone. There
+is no other refuge. This danger of ours, best of snakes, comes from fate. So let
+us take refuge in fate here. Now listen to what I have to say.
 
 "'When the curse was spoken, best of snakes, I climbed into my mother's lap in
 fear, and I heard what the gods said. They went to the Grandfather in their
 distress, great lord, and cried, "Cruel! Cruel!"
 
 "'"What woman who has been given dear sons would curse them like this,
-Grandfather, except cruel Kadru, and in front of you, god of gods? And you
-too said 'So be it' to her words, Grandfather. We want to know why you did not
-stop her."
+Grandfather, except cruel Kadru, and in front of you, god of gods? And you too
+said 'So be it' to her words, Grandfather. We want to know why you did not stop
+her."
 
 "'"There are many snakes," said Brahma, "cruel, of terrible strength, full of
 poison. I wished the creatures of the world well, and so I did not stop her
-then. Those that are biters, and mean, and do evil, and are full of poison,
-will be destroyed. But those that follow dharma will not. And hear how the
-snakes will be set free from that great danger when the time comes. In the
-family of the Yayavaras there will be a wise great seer called Jaratkaru,
-full of power and master of his senses. That Jaratkaru will have a son, a
-great ascetic named Astika. He will stop that sacrifice then, and the snakes
-who are righteous will be set free there."
+then. Those that are biters, and mean, and do evil, and are full of poison, will
+be destroyed. But those that follow dharma will not. And hear how the snakes
+will be set free from that great danger when the time comes. In the family of
+the Yayavaras there will be a wise great seer called Jaratkaru, full of power
+and master of his senses. That Jaratkaru will have a son, a great ascetic named
+Astika. He will stop that sacrifice then, and the snakes who are righteous will
+be set free there."
 
 "'"That best of sages, god," asked the gods, "the great ascetic Jaratkaru, so
 full of power: on whom will he father his great son?"
@@ -239,14 +235,13 @@ him, lord of the gods. Calm the fever in his mind.'
 "'It was I who put it in his mind, immortals,' said Brahma, 'what the naga
 Elapatra said to him before. Let the king of the nagas do as he was told, when
 the time comes. The wicked will perish, but not those who follow dharma. That
-Jaratkaru has been born, a brahmin given to fierce austerity. At the right
-time, let Vasuki give him his sister Jaratkaru. What the snake Elapatra said
-then is for the good of the snakes, gods. So it is, and not otherwise.'
+Jaratkaru has been born, a brahmin given to fierce austerity. At the right time,
+let Vasuki give him his sister Jaratkaru. What the snake Elapatra said then is
+for the good of the snakes, gods. So it is, and not otherwise.'
 
-"When the king of the nagas heard the Grandfather's words, he set many snakes
-to watch Jaratkaru, always on the alert. 'When the lord Jaratkaru wishes to
-choose a wife,' he told them, 'come quickly and tell me. That will be for our
-good.'"
+"When the king of the nagas heard the Grandfather's words, he set many snakes to
+watch Jaratkaru, always on the alert. 'When the lord Jaratkaru wishes to choose
+a wife,' he told them, 'come quickly and tell me. That will be for our good.'"
 
 <!-- notes -->
 ## Notes

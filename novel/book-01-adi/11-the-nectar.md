@@ -13,43 +13,43 @@ summary: How Indra's scorn of the tiny Valakhilya seers led to Garuda's birth; G
 his carelessness? How was Garuda born by the austerity of the Valakhilyas? How
 did the king of birds come to be the son of Kashyapa, a brahmin? How did he
 become one whom no creature could attack or kill? And how could that
-sky-traveller go wherever he wished, with whatever strength he wished? I want
-to hear this, if it is told in the old lore."
+sky-traveller go wherever he wished, with whatever strength he wished? I want to
+hear this, if it is told in the old lore."
 
-"What you ask me is a matter for the old lore," said the bard. "Listen,
-brahmin, and I will tell you all of it in brief.
+"What you ask me is a matter for the old lore," said the bard. "Listen, brahmin,
+and I will tell you all of it in brief.
 
 "Once, they say, when Kashyapa, the lord of creatures, was holding a sacrifice
-because he wanted a son, the seers, the gods and the gandharvas all came to
-help him. Kashyapa set Indra to fetch the firewood, and with him the sages
-called the Valakhilyas, and other hosts of gods.
+because he wanted a son, the seers, the gods and the gandharvas all came to help
+him. Kashyapa set Indra to fetch the firewood, and with him the sages called the
+Valakhilyas, and other hosts of gods.
 
 "Indra, in his power, lifted a load of wood as big as a mountain, to match his
 strength, and carried it without much trouble. On the way he saw some seers,
-very small, no bigger than the joint of a thumb, carrying a single leaf stalk
-of the palasha tree together. They were shrunk into themselves, as if into
-their own limbs, and they did not eat, for all their wealth was austerity. They
-were struggling, and weak, and they had sunk into the water that had gathered
-in a cow's hoofprint.
+very small, no bigger than the joint of a thumb, carrying a single leaf stalk of
+the palasha tree together. They were shrunk into themselves, as if into their
+own limbs, and they did not eat, for all their wealth was austerity. They were
+struggling, and weak, and they had sunk into the water that had gathered in a
+cow's hoofprint.
 
 "Indra, the breaker of cities, was full of pride, and drunk with his own
 strength. He laughed at them all, and stepped over them, and scorned them, and
 went quickly on.
 
-"They were overcome with rage, and a great fury rose in them. They began a
-great rite that would frighten Indra. Those brahmins of fierce austerity poured
-offerings into the fire by the rules, with mantras high and low. Hear what
-they wished for, those seers of strict vows.
+"They were overcome with rage, and a great fury rose in them. They began a great
+rite that would frighten Indra. Those brahmins of fierce austerity poured
+offerings into the fire by the rules, with mantras high and low. Hear what they
+wished for, those seers of strict vows.
 
 "'Let there be another Indra of all the gods, with whatever strength he wishes,
 going wherever he wishes, bringing fear to the king of the gods. Let him be a
 hundred times greater than Indra in valour and strength, and as swift as
 thought. By the fruit of our austerity, let a terrible one be born today.'
 
-"When Indra of the hundred sacrifices, the king of the gods, learned of this,
-he was in great distress, and he went for refuge to Kashyapa of the strict
-vows. When Kashyapa, the lord of creatures, heard it from the king of the gods,
-he went to the Valakhilyas and asked whether their rite would succeed.
+"When Indra of the hundred sacrifices, the king of the gods, learned of this, he
+was in great distress, and he went for refuge to Kashyapa of the strict vows.
+When Kashyapa, the lord of creatures, heard it from the king of the gods, he
+went to the Valakhilyas and asked whether their rite would succeed.
 
 "'It will be so,' answered the seers, who always speak the truth.
 
@@ -70,32 +70,32 @@ who wanted a son, had practised austerity and kept her vows. When her season
 came, she bathed for the rite that brings a son, and she came to her husband,
 pure. Kashyapa said to her, 'Goddess, the work you longed for will bear fruit.
 You will give birth to two sons, heroes, lords of the three worlds. By the
-austerity of the Valakhilyas and by my own will, you will have two sons of
-great fortune, honoured by the worlds.'
+austerity of the Valakhilyas and by my own will, you will have two sons of great
+fortune, honoured by the worlds.'
 
-"And the blessed son of Marichi spoke to her again. 'Carry this child with
-care, for it will rise very high. One of them will make himself Indra of all
-the winged creatures, a hero honoured by the worlds, a bird with whatever
-strength he wishes.'
+"And the blessed son of Marichi spoke to her again. 'Carry this child with care,
+for it will rise very high. One of them will make himself Indra of all the
+winged creatures, a hero honoured by the worlds, a bird with whatever strength
+he wishes.'
 
 "Then the lord of creatures, well pleased, said to Indra of the hundred
 sacrifices, 'These two birds will be your helpers, and your brothers. No harm
-will come to you from them, breaker of cities. Let your distress go, Shakra.
-You alone will be Indra. But you must never again insult those who speak the
-sacred word. You must never scorn them in your pride, for their words are
-poison and they are very quick to anger.'
+will come to you from them, breaker of cities. Let your distress go, Shakra. You
+alone will be Indra. But you must never again insult those who speak the sacred
+word. You must never scorn them in your pride, for their words are poison and
+they are very quick to anger.'
 
 "When he had heard this, Indra went back to heaven with his fears gone, and
-Vinata was glad, for she had what she wanted. She gave birth to two sons,
-Aruna and Garuda. Aruna, of the two, was not whole, and he goes before the sun.
-And Garuda was consecrated as the Indra of the birds. Now hear his great deed,
-joy of the Bhrigus.
+Vinata was glad, for she had what she wanted. She gave birth to two sons, Aruna
+and Garuda. Aruna, of the two, was not whole, and he goes before the sun. And
+Garuda was consecrated as the Indra of the birds. Now hear his great deed, joy
+of the Bhrigus.
 
 ---
 
-"Then, best of brahmins, while all this was astir, Garutman, the king of
-birds, came quickly upon the gods. When they saw how mighty he was, they
-trembled on every side, and they struck at one another with all their weapons.
+"Then, best of brahmins, while all this was astir, Garutman, the king of birds,
+came quickly upon the gods. When they saw how mighty he was, they trembled on
+every side, and they struck at one another with all their weapons.
 
 "Among them was Bhauvana, whose spirit had no measure, bright as lightning and
 fire, a mighty guardian of the soma. The lord of the birds tore him with wings,
@@ -103,10 +103,10 @@ beak and claws. They fought for a moment, a fight beyond compare, and he was
 struck down.
 
 "With the wind of his wings, the sky-traveller raised a great cloud of dust. He
-made the worlds dark, and he covered the gods with it. Covered in that dust,
-the gods were bewildered. The guardians of the nectar were blinded by the dust
-and could not see him. So Garuda threw heaven into turmoil, and he tore the
-gods with blows of his wings and his beak.
+made the worlds dark, and he covered the gods with it. Covered in that dust, the
+gods were bewildered. The guardians of the nectar were blinded by the dust and
+could not see him. So Garuda threw heaven into turmoil, and he tore the gods
+with blows of his wings and his beak.
 
 "Then the thousand-eyed god quickly urged on the Wind. 'Scatter this shower of
 dust. This is your work, Maruta.'
@@ -120,13 +120,13 @@ sky.
 "All the gods in their armour, with Indra, rained weapons of every kind on him
 where he hung in the air above them: spears and iron clubs, tridents and maces,
 blazing razor-edged arrows, and discuses like the sun. Struck by all those
-weapons on every side, the king of birds fought a tumultuous battle and did
-not flinch. Vinata's son, blazing, as if roaring in the sky, flung the gods
-aside on every side with his wings and his breast.
+weapons on every side, the king of birds fought a tumultuous battle and did not
+flinch. Vinata's son, blazing, as if roaring in the sky, flung the gods aside on
+every side with his wings and his breast.
 
-"Scattered and harried by Garuda, the gods fled. Torn by his claws and his
-beak, they poured out streams of blood. The Sadhyas with the gandharvas went to
-the east. The Vasus with the Rudras went south, beaten by the lord of birds. The
+"Scattered and harried by Garuda, the gods fled. Torn by his claws and his beak,
+they poured out streams of blood. The Sadhyas with the gandharvas went to the
+east. The Vasus with the Rudras went south, beaten by the lord of birds. The
 Adityas went west, and the Nasatya twins north, looking back again and again,
 still fighting the mighty one.
 
@@ -143,11 +143,10 @@ went on for the nectar. He saw fire on every side of it, covering the whole sky
 with its blazing flames, terrible, fanned by the wind, as if it would burn up
 the sun.
 
-"Then the swift and great-souled Garuda made himself ninety times ninety
-mouths. With those mouths he drank up rivers, and came back again very fast.
-And that scorcher of enemies, whose wings are his chariot, put out the blazing
-fire with the rivers. Then, wanting to enter, he took another body, a small
-one.
+"Then the swift and great-souled Garuda made himself ninety times ninety mouths.
+With those mouths he drank up rivers, and came back again very fast. And that
+scorcher of enemies, whose wings are his chariot, put out the blazing fire with
+the rivers. Then, wanting to enter, he took another body, a small one.
 
 ---
 
@@ -156,30 +155,30 @@ his way in, like a rush of water into the sea.
 
 "Near the nectar he saw a wheel, rimmed with razors, turning round and round
 without rest. It was made of iron, with a sharp edge, as bright as fire and the
-sun: a terrible machine, and terribly made, that the gods had built well to
-cut to pieces anyone who tried to steal the soma.
+sun: a terrible machine, and terribly made, that the gods had built well to cut
+to pieces anyone who tried to steal the soma.
 
 "The sky-traveller saw a gap in it, and turned round, and in a moment he made
 his body small and flew between the spokes.
 
-"And there, below the wheel, he saw two great serpents set to guard the
-nectar. They shone like blazing fire. Their tongues were like lightning,
-their mouths and eyes were blazing, and they were terrible. Their poison was in
-their eyes. They were mighty and swift, and always angry. Their eyes were
-always furious and never closed. If either of them only looked at someone, he
-would turn to ash at once.
+"And there, below the wheel, he saw two great serpents set to guard the nectar.
+They shone like blazing fire. Their tongues were like lightning, their mouths
+and eyes were blazing, and they were terrible. Their poison was in their eyes.
+They were mighty and swift, and always angry. Their eyes were always furious and
+never closed. If either of them only looked at someone, he would turn to ash at
+once.
 
 "Quickly, Suparna covered their eyes with dust. Unseen, he struck at them from
 every side. The son of Vinata, the sky-traveller, fell on their bodies and cut
 them through the middle with all his force, and then he rushed at the soma.
 
 "The mighty son of Vinata tore up the nectar, and he flew up fast, smashing the
-machine. The mighty bird took the nectar quickly, without drinking it, and
-flew away, never tiring, blocking out the light of the sun.
+machine. The mighty bird took the nectar quickly, without drinking it, and flew
+away, never tiring, blocking out the light of the sun.
 
-"And in the sky Vinata's son met Vishnu. Narayana was pleased with him, for
-what he had done without greed. The imperishable god said to the
-sky-traveller, 'I will give you a boon.'
+"And in the sky Vinata's son met Vishnu. Narayana was pleased with him, for what
+he had done without greed. The imperishable god said to the sky-traveller, 'I
+will give you a boon.'
 
 "The sky-traveller chose. 'Let me stand above you.' And he said this too to
 Narayana: 'Let me be ageless and deathless, even without the nectar.'
@@ -194,8 +193,8 @@ banner, and said, 'So you will stand above me.'
 
 "Then Indra flew after the bird, the gods' enemy, who was carrying off the
 nectar by force, and struck him on the body with the thunderbolt. Garuda, the
-best of flying things, laughed. Struck by the thunderbolt, in the middle of
-the battle, he spoke to Indra in a gentle voice.
+best of flying things, laughed. Struck by the thunderbolt, in the middle of the
+battle, he spoke to Indra in a gentle voice.
 
 "'I will honour the seer from whose bones the thunderbolt was made. I will
 honour the thunderbolt too, and you, Indra of the hundred sacrifices. Here, I
@@ -210,25 +209,24 @@ bird is a great being.* And he said, 'I want to know the strength you have,
 which is greater than any. And I want friendship with you, best of birds,
 friendship without end.'
 
-"'Let there be friendship between us, god, as you wish, breaker of cities,'
-said Garuda. 'And know that my strength is great, and past bearing. The good do
-not like to praise their own strength, of course, Indra of the hundred
-sacrifices, nor to tell of their own virtues. But since you are my friend, and
-you ask me as a friend, I will tell you. No one should praise himself without a
-reason. I could carry this earth, with its mountains and forests and oceans,
-and you hanging on to it too, Shakra, on the quill of a single feather. I
-could carry all the worlds heaped together, with all that moves and all that
-does not, and never tire. Know that this is my great strength.'
+"'Let there be friendship between us, god, as you wish, breaker of cities,' said
+Garuda. 'And know that my strength is great, and past bearing. The good do not
+like to praise their own strength, of course, Indra of the hundred sacrifices,
+nor to tell of their own virtues. But since you are my friend, and you ask me as
+a friend, I will tell you. No one should praise himself without a reason. I
+could carry this earth, with its mountains and forests and oceans, and you
+hanging on to it too, Shakra, on the quill of a single feather. I could carry
+all the worlds heaped together, with all that moves and all that does not, and
+never tire. Know that this is my great strength.'
 
-"When the hero had said this, Shaunaka, the lord of the gods spoke, the
-Diademed One, the most glorious of the glorious, the master who wishes all
-creatures well. 'Accept my friendship now, the highest, without end. You have
-no use for the soma. Give the soma to me. Those you give it to would torment
-us.'
+"When the hero had said this, Shaunaka, the lord of the gods spoke, the Diademed
+One, the most glorious of the glorious, the master who wishes all creatures
+well. 'Accept my friendship now, the highest, without end. You have no use for
+the soma. Give the soma to me. Those you give it to would torment us.'
 
-"'I am taking this soma for a reason,' said Garuda. 'I will not give the soma
-to anyone to take. But where I set it down myself, thousand-eyed one, you can
-take it and carry it off quickly, lord of the thirty gods.'
+"'I am taking this soma for a reason,' said Garuda. 'I will not give the soma to
+anyone to take. But where I set it down myself, thousand-eyed one, you can take
+it and carry it off quickly, lord of the thirty gods.'
 
 "'I am pleased with what you have said here, egg-born one,' said Shakra. 'Take
 from me whatever boon you wish, best of birds.'
@@ -245,8 +243,8 @@ will carry off the soma when you have set it down.'
 "Then Suparna came quickly to his mother. He spoke to all the snakes, as if in
 great delight. 'Here is the nectar. I have brought it. I will set it down for
 you on the kusha grass. Bathe, and perform the rites for good fortune, and then
-eat it, snakes. And from today let my mother be free, and no one's slave. I
-have done as you told me.'
+eat it, snakes. And from today let my mother be free, and no one's slave. I have
+done as you told me.'
 
 "'So be it,' the snakes answered, and they went to bathe. And Shakra took the
 nectar and went back to heaven.

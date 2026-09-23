@@ -22,20 +22,19 @@ father, I will choose what is good, and never the opposite.'
 "Then the ministers, who knew all of dharma, and were wise, answered King
 Janamejaya, the great-souled one who had asked them.
 
-"'Your father was righteous and great-souled, a protector of his subjects.
-Hear how that great man lived here. He kept the four classes each in its own
-dharma, and guarded them. He knew dharma, and he ruled by dharma, like dharma in
-bodily form. Glorious and matchless in valour, he guarded the goddess, the
-earth. He had no enemies, and he hated no one. He was even-handed to all
-beings, like the lord of creatures. Brahmins, kshatriyas, vaishyas and shudras
-kept to their own work, content, king, well governed by that king.
+"'Your father was righteous and great-souled, a protector of his subjects. Hear
+how that great man lived here. He kept the four classes each in its own dharma,
+and guarded them. He knew dharma, and he ruled by dharma, like dharma in bodily
+form. Glorious and matchless in valour, he guarded the goddess, the earth. He
+had no enemies, and he hated no one. He was even-handed to all beings, like the
+lord of creatures. Brahmins, kshatriyas, vaishyas and shudras kept to their own
+work, content, king, well governed by that king.
 
 "'He supported widows and orphans, the poor and the maimed. He was a joy to all
-creatures to look at, like a second moon. His people were content and
-well fed. He was glorious, true in his word, firm in his courage. The king
-learned the science of the bow from Sharadvata's son. And your father,
-Janamejaya, was dear to Govinda, and dear to the whole world, a man of great
-fame.
+creatures to look at, like a second moon. His people were content and well fed.
+He was glorious, true in his word, firm in his courage. The king learned the
+science of the bow from Sharadvata's son. And your father, Janamejaya, was dear
+to Govinda, and dear to the whole world, a man of great fame.
 
 "'When the Kurus had been all but destroyed, he was born to Uttara. So he became
 Parikshit, "born when the line was wasted", the mighty son of Subhadra's son.
@@ -80,22 +79,21 @@ there just as he was, not angry, carrying the snake on his shoulder.'
 "'Then the king, faint with hunger, left the snake on the sage's shoulder, king
 of kings, and went back to his city. That seer had a son, born of a cow, named
 Shringin, of great fame and great power, fierce in his strength and very quick
-to anger. He had gone to Brahma and done him honour. When he was given leave
-and went home, Shringin heard from a friend how your father had insulted
-his father.
+to anger. He had gone to Brahma and done him honour. When he was given leave and
+went home, Shringin heard from a friend how your father had insulted his father.
 
 "'He heard, tiger of the Kurus, that his father was carrying on his shoulder a
-dead snake that your father had hung on him, though he had done no harm. The sage
-was a great ascetic, king, the best of sages, master of his senses, pure, and
-engaged in wonderful works. His whole being shone with austerity, and every limb
-was under control. His conduct was good and his speech was good. He was steady,
-free of greed, not mean, not spiteful, old, keeping a vow of silence, a refuge to
-all creatures. And your father had wronged him.
+dead snake that your father had hung on him, though he had done no harm. The
+sage was a great ascetic, king, the best of sages, master of his senses, pure,
+and engaged in wonderful works. His whole being shone with austerity, and every
+limb was under control. His conduct was good and his speech was good. He was
+steady, free of greed, not mean, not spiteful, old, keeping a vow of silence, a
+refuge to all creatures. And your father had wronged him.
 
-"'When the seer's son heard this, he cursed your father in his anger. He was only
-a boy, but he was greater than the elders, and full of power. Quickly he touched
-water, and in his rage, blazing as if with fire, he spoke these words at your
-father: "He who laid a dead snake on my teacher, who had done no wrong, the
+"'When the seer's son heard this, he cursed your father in his anger. He was
+only a boy, but he was greater than the elders, and full of power. Quickly he
+touched water, and in his rage, blazing as if with fire, he spoke these words at
+your father: "He who laid a dead snake on my teacher, who had done no wrong, the
 naga Takshaka will destroy in his fury with his fire, that wicked man, seven
 nights from now. See the power of my austerity!"
 
@@ -127,29 +125,29 @@ that king, take more from me, sinless one, and turn back."
 
 "'When the naga said this, Kashyapa, the best of men, received from Takshaka as
 much wealth as he wanted, and turned back. When the brahmin had gone back,
-Takshaka came in disguise, best of kings, to your righteous father, the king, who
-was on his guard in his palace, and burned him with the fire of his poison. Then
-you were consecrated for victory, tiger among men.
+Takshaka came in disguise, best of kings, to your righteous father, the king,
+who was on his guard in his palace, and burned him with the fire of his poison.
+Then you were consecrated for victory, tiger among men.
 
 "'What we have seen and heard, best of kings, we have told you truly, all of it,
 terrible as it is. Now that you have heard of the king's defeat, best of kings,
 do what must be done next for this seer Uttanka too.'
 
 "'I want to hear about this,' said Janamejaya, 'the talk between the king of
-snakes and Kashyapa, in a forest where no one lives. Who saw it and heard it,
-so that it came to your ears? When I have heard, I will set my mind on the
+snakes and Kashyapa, in a forest where no one lives. Who saw it and heard it, so
+that it came to your ears? When I have heard, I will set my mind on the
 destruction of the snakes.'
 
-"'Listen, king,' said the ministers, 'to how we were told long ago of the meeting
-on the road between the lord of brahmins and the king of snakes. Before they
-came, lord of the earth, a man looking for firewood had climbed that very tree, a
-lord of the forest with dry branches. The snake and the brahmin did not know that
-he was up in the tree. He was burned to ash along with the tree. By the
-brahmin's power, king of kings, he was brought back to life with the lord of the
-forest. He came to this city, best of kings, and told us everything that had
+"'Listen, king,' said the ministers, 'to how we were told long ago of the
+meeting on the road between the lord of brahmins and the king of snakes. Before
+they came, lord of the earth, a man looking for firewood had climbed that very
+tree, a lord of the forest with dry branches. The snake and the brahmin did not
+know that he was up in the tree. He was burned to ash along with the tree. By
+the brahmin's power, king of kings, he was brought back to life with the lord of
+the forest. He came to this city, best of kings, and told us everything that had
 happened between Takshaka and the brahmin. This is what we have told you, king,
-as it happened and as we heard it. Now that you have heard it, tiger among kings,
-do as you wish.'
+as it happened and as we heard it. Now that you have heard it, tiger among
+kings, do as you wish.'
 
 ---
 
@@ -160,16 +158,16 @@ stopping. And the lord of the earth, full of pain and grief, said, 'I have heard
 what you say about my father's going to heaven. Now hear what I have firmly
 decided.
 
-"'I think that vengeance must be taken at once on the wicked Takshaka, who killed
-my father. He carried out the word of the seer Shringin, and burned the king.
-If that wicked one had only gone away, my father would surely be alive. What
-would it have cost him if the king had lived, by Kashyapa's grace and the good
-policy of his ministers? But in his folly he turned back the best of brahmins,
-Kashyapa, who had come to bring back to life the king who had never been
-defeated. This is a great crime of wicked Takshaka, that he gave the brahmin
-wealth so that he would not bring the king back to life. To please Uttanka, and
-to please myself greatly, and to please you all, I will take revenge for my
-father.'
+"'I think that vengeance must be taken at once on the wicked Takshaka, who
+killed my father. He carried out the word of the seer Shringin, and burned the
+king. If that wicked one had only gone away, my father would surely be alive.
+What would it have cost him if the king had lived, by Kashyapa's grace and the
+good policy of his ministers? But in his folly he turned back the best of
+brahmins, Kashyapa, who had come to bring back to life the king who had never
+been defeated. This is a great crime of wicked Takshaka, that he gave the
+brahmin wealth so that he would not bring the king back to life. To please
+Uttanka, and to please myself greatly, and to please you all, I will take
+revenge for my father.'
 
 "When he had said this, and his ministers had agreed, the glorious king made a
 vow to hold the snake sacrifice, brahmin, that tiger of the Bharatas, the son of
@@ -182,15 +180,15 @@ know a rite by which I can bring the snake Takshaka, with his kin, into a
 blazing fire? As he burned my father before with the fire of his poison, so I
 want to burn that wicked snake.'
 
-"'There is a great sacrifice, king, that the gods made for you,' said the priests.
-'It is called the snake sacrifice, and it is told of in the old lore, king. No
-one but you can hold that sacrifice, lord of men. So say those who know the old
-lore. And we know that rite.'
+"'There is a great sacrifice, king, that the gods made for you,' said the
+priests. 'It is called the snake sacrifice, and it is told of in the old lore,
+king. No one but you can hold that sacrifice, lord of men. So say those who know
+the old lore. And we know that rite.'
 
-"When they said this, the royal seer believed that the snake Takshaka had as good
-as entered the blazing mouth of the fire, best of men. Then the king said to
-those brahmins, who knew the mantras, 'I will hold that sacrifice. Let the things
-for it be brought for me.'
+"When they said this, the royal seer believed that the snake Takshaka had as
+good as entered the blazing mouth of the fire, best of men. Then the king said
+to those brahmins, who knew the mantras, 'I will hold that sacrifice. Let the
+things for it be brought for me.'
 
 "Then his priests, best of brahmins, measured out the ground for the place of
 sacrifice by the rules of the science. They knew the lore rightly, and all of
@@ -200,11 +198,11 @@ they had built the place of sacrifice he wanted, by the rules, they consecrated
 the king for the snake sacrifice.
 
 "But before the snake sacrifice took place, something happened there, a great
-sign that foretold a hindrance to the sacrifice. While the place of sacrifice was
-being built, a builder spoke, a wise man, skilled in the science of building. The
-master of the measuring cord, a suta who knew the old lore, said this: 'Because of
-the place and the time at which this measuring was begun, this rite will not be
-completed. A brahmin will be the cause.'
+sign that foretold a hindrance to the sacrifice. While the place of sacrifice
+was being built, a builder spoke, a wise man, skilled in the science of
+building. The master of the measuring cord, a suta who knew the old lore, said
+this: 'Because of the place and the time at which this measuring was begun, this
+rite will not be completed. A brahmin will be the cause.'
 
 "When he heard this, the king, before his consecration, said to the doorkeeper,
 'Let no one I do not know come in here.'

@@ -35,7 +35,7 @@ cat index/COVERAGE.md | head -30  # next uncovered verses
 
 See `workbook/README.md`. In short: read the CE range (`mbh.py show X --all`),
 read Ganguli (`mbh.py where X`, `mbh.py gshow Y`), write the source map, draft,
-run `style_check.py`, update the workbook files and `names.json`, run
+run `reflow.py` and `style_check.py`, update the workbook files and `names.json`, run
 `build_index.py`, add a `CHANGELOG.md` entry, commit.
 
 ## Tools
@@ -51,6 +51,7 @@ run `style_check.py`, update the workbook files and `names.json`, run
 | `tools/style_check.py PATHS` | House-style lint and readability |
 | `tools/build_index.py [--check]` | Regenerate `index/` and `workbook/NAMES.md` |
 | `tools/compile_novel.py [--book N]` | Build the reading edition in `build/` |
+| `tools/reflow.py PATHS [--check]` | Rewrap chapter prose to 80 columns (notes untouched) |
 
 ## Git
 

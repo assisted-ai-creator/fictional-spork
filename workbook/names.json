@@ -1559,6 +1559,74 @@
     "Shukadeva"
    ],
    "ref": "1.57.74"
+  },
+  {
+   "name": "Dushyanta",
+   "iast": "Duḥṣanta",
+   "group": "King",
+   "who": "Paurava king who marries Shakuntala by the gandharva rite and later denies her until a heavenly voice speaks; father of Bharata",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Dushmanta",
+    "Dusyanta",
+    "Dushyant"
+   ],
+   "ref": "1.62.3"
+  },
+  {
+   "name": "Shakuntala",
+   "iast": "Śakuntalā",
+   "group": "King",
+   "who": "daughter of Vishvamitra and Menaka, raised by Kanva; wife of Dushyanta, mother of Bharata",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Sakuntala",
+    "Shakuntalaa"
+   ],
+   "ref": "1.65.9"
+  },
+  {
+   "name": "Kanva",
+   "iast": "Kaṇva",
+   "group": "Seer",
+   "who": "the Kashyapa seer on the Malini who raised Shakuntala",
+   "aka": [
+    "the Kashyapa"
+   ],
+   "dialogue": [],
+   "flag": [
+    "Kanwa"
+   ],
+   "ref": "1.64.25"
+  },
+  {
+   "name": "Vishvamitra",
+   "iast": "Viśvāmitra",
+   "group": "Seer",
+   "who": "a kshatriya who became a brahmin by austerity; father of Shakuntala by Menaka",
+   "aka": [
+    "Kaushika"
+   ],
+   "dialogue": [],
+   "flag": [
+    "Visvamitra",
+    "Viswamitra"
+   ],
+   "ref": "1.65.20"
+  },
+  {
+   "name": "Bharata",
+   "iast": "Bharata",
+   "group": "King",
+   "who": "son of Dushyanta and Shakuntala, first called Sarvadamana; the emperor from whom the Bharatas take their name",
+   "aka": [
+    "Sarvadamana"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.68.7"
   }
  ],
  "not_vyasa": [

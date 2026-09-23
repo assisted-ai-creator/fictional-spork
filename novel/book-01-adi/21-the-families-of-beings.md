@@ -20,8 +20,8 @@ man-eating beings. And the danavas and rakshasas, the gandharvas and snakes,
 could not kill them, best of the Bharatas, even when they were children, so
 strong were they.
 
-"I want to hear," said Janamejaya, "the truth about the origin of all the hosts of
-gods and danavas, of the gandharvas and apsarases, of all men, and of the
+"I want to hear," said Janamejaya, "the truth about the origin of all the hosts
+of gods and danavas, of the gandharvas and apsarases, of all men, and of the
 yakshas and rakshasas, all of it from the beginning, and of every living being.
 For you know everything."
 
@@ -76,10 +76,10 @@ striking hard, known on earth as very brave among the danavas, scorchers of
 their enemies: Vinashana and Krodha, Krodhahantri, and another, Krodhashatru.
 They are known as the Kaleyas.
 
-The teacher of the asuras was Shukra, the son of a seer. Ushanas had four
-famous sons, priests of the asuras: Tvashtavara and Atri, and two others, who
-performed the rites of the mantras. They were as bright as the sun, and they
-made the world of Brahma flourish.
+The teacher of the asuras was Shukra, the son of a seer. Ushanas had four famous
+sons, priests of the asuras: Tvashtavara and Atri, and two others, who performed
+the rites of the mantras. They were as bright as the sun, and they made the
+world of Brahma flourish.
 
 This is the origin of the families of the mighty asuras and gods, as I heard it
 in the old lore. Their offspring, lord of the earth, cannot be counted in full.
@@ -104,17 +104,17 @@ Suchandra the tenth: these divine gandharvas are named as the sons of Prava.
 
 And this family of apsarases, known for its holy marks, the fortunate goddess
 Prava bore long ago by a divine seer: Alambusha, Mishrakeshi, Vidyutparna, Tula,
-Anagha, Aruna, Rakshita, Rambha and Manorama, Asita, Subahu, Suvrata and Subhuja,
-and Supriya. And Atibahu, the famous Haha and Huhu, and Tumburu: these four are
-remembered as the best of the gandharvas.
+Anagha, Aruna, Rakshita, Rambha and Manorama, Asita, Subahu, Suvrata and
+Subhuja, and Supriya. And Atibahu, the famous Haha and Huhu, and Tumburu: these
+four are remembered as the best of the gandharvas.
 
 The nectar, the brahmins, the cows, the gandharvas and the apsarases: these are
 named in the old lore as the offspring of Kapila.
 
 So I have told you the origin of all beings, and counted rightly the gandharvas
-and apsarases, the snakes, the birds, the Rudras and the Maruts, the cows and the
-glorious brahmins of holy deeds. This account brings long life. It is holy and
-blessed, and pleasant to hear. It should always be heard, and always told
+and apsarases, the snakes, the birds, the Rudras and the Maruts, the cows and
+the glorious brahmins of holy deeds. This account brings long life. It is holy
+and blessed, and pleasant to hear. It should always be heard, and always told
 without envy. Whoever reads this lineage of great souls with care, in the
 presence of brahmins and gods, wins children in plenty, fortune and fame, and a
 good path after death.
@@ -140,70 +140,70 @@ The blessed seer Daksha, the son of Brahma, lord of the earth, the best of those
 who have sons, was born from Brahma's right thumb. His wife was born from the
 left thumb of that great soul. On her the sage fathered fifty daughters. They
 were all faultless in body, with eyes like lotuses. Daksha, the lord of
-creatures, had lost his sons, and so he appointed his daughters to bear sons
-for him. He gave ten to Dharma, twenty-seven to the Moon, and thirteen to
-Kashyapa, by the divine rite, king.
+creatures, had lost his sons, and so he appointed his daughters to bear sons for
+him. He gave ten to Dharma, twenty-seven to the Moon, and thirteen to Kashyapa,
+by the divine rite, king.
 
 Hear the names of Dharma's wives as I tell them: Kirti, Lakshmi, Dhriti, Medha,
 Pushti, Shraddha and Kriya, Buddhi, Lajja and Mati. These ten are the wives of
 Dharma, made by the Self-born to be the doors of Dharma. The Moon's twenty-seven
-wives are famous in the world. The Moon's wives, of good vows, are set to measure
-time. All of them are joined with the lunar mansions, and they keep the world's
-course in order.
+wives are famous in the world. The Moon's wives, of good vows, are set to
+measure time. All of them are joined with the lunar mansions, and they keep the
+world's course in order.
 
 The Grandfather is the sage and god. His son is the lord of creatures. His sons
 are the eight Vasus. I will tell of them in full. Dhara, Dhruva, Soma, Ahas,
 Anila, Anala, Pratyusha and Prabhasa: these are remembered as the eight Vasus.
 Dhara was the son of Dhumra, and so was Dhruva, the knower of Brahman. The Moon
 was the son of Manasvini, and Shvasana, the wind, of Shvasa. Ahas was the son of
-Rata, and Hutashana, the fire, of Shandili. Pratyusha and Prabhasa are remembered
-as the sons of Prabhata.
+Rata, and Hutashana, the fire, of Shandili. Pratyusha and Prabhasa are
+remembered as the sons of Prabhata.
 
 Dhara's sons were Dravina and Hutahavyavaha. Dhruva's son was the blessed Kala,
-Time, who drives the world on. Soma's son was Varchas, by whom one becomes bright.
-Manohara's sons were Shishira, Prana and Ramana. The sons of Ahas are remembered
-as Jyotis, Shrama, Shanta and Muni. Agni's son was the glorious Kumara, whose home
-was in the reed forest. After him came Shakha, Vishakha and Naigamesha. Because
-the Krittikas took him as their own, he is remembered as Karttikeya. Anila's wife
-was Shiva. Her sons were Purojava and Avijnatagati: these were the two sons of
-Anila. Pratyusha's son, they know, was the seer named Devala, and Devala too had
-two sons, patient and wise.
+Time, who drives the world on. Soma's son was Varchas, by whom one becomes
+bright. Manohara's sons were Shishira, Prana and Ramana. The sons of Ahas are
+remembered as Jyotis, Shrama, Shanta and Muni. Agni's son was the glorious
+Kumara, whose home was in the reed forest. After him came Shakha, Vishakha and
+Naigamesha. Because the Krittikas took him as their own, he is remembered as
+Karttikeya. Anila's wife was Shiva. Her sons were Purojava and Avijnatagati:
+these were the two sons of Anila. Pratyusha's son, they know, was the seer named
+Devala, and Devala too had two sons, patient and wise.
 
 Brihaspati's sister, the finest of women, chaste, perfected in yoga, roams the
 whole world, free of attachment. She was the wife of Prabhasa, the eighth of the
-Vasus. And the fortunate Vishvakarman was born, the lord of the crafts, the maker
-of a thousand crafts, the builder of the thirty gods. He made all ornaments, the
-best of craftsmen. He made the gods' heavenly chariots. Men live by that great
-one's craft, and they always honour Vishvakarman, who never passes away.
+Vasus. And the fortunate Vishvakarman was born, the lord of the crafts, the
+maker of a thousand crafts, the builder of the thirty gods. He made all
+ornaments, the best of craftsmen. He made the gods' heavenly chariots. Men live
+by that great one's craft, and they always honour Vishvakarman, who never passes
+away.
 
 The blessed Dharma, in human form, broke out of Brahma's right breast, bringing
 happiness to all the worlds. He had three fine sons who charm all beings: Shama,
 Kama and Harsha, Calm, Desire and Joy, who hold up the world with their
-splendour. Kama's wife is Rati, Shama's wife is Prapti, and Harsha's wife is Nandi,
-on whom the worlds rest.
+splendour. Kama's wife is Rati, Shama's wife is Prapti, and Harsha's wife is
+Nandi, on whom the worlds rest.
 
 Marichi's son was Kashyapa, and Kashyapa's sons were the gods and the asuras,
 tiger among kings. He is the source of the worlds. Tvashtri's daughter, the wife
-of Savitri, took the form of a mare, and in the sky that fortunate woman bore the
-two Ashvins. Aditi's sons are twelve, with Shakra at their head, lord of men. The
-youngest of them is Vishnu, on whom the worlds rest.
+of Savitri, took the form of a mare, and in the sky that fortunate woman bore
+the two Ashvins. Aditi's sons are twelve, with Shakra at their head, lord of
+men. The youngest of them is Vishnu, on whom the worlds rest.
 
 These are the thirty-three gods. I will tell you their descent, and their hosts
 by their sides and families. The Rudras are one side, the Sadhyas and the Maruts
 another. Know that the Vasus are of Bhrigu's side, and the Vishvadevas too.
-Mighty Garuda, the son of Vinata, and Aruna, and the blessed Brihaspati are counted
-among the Adityas. Know that the guhyakas come from the Ashvins, and so do all
-the plants and animals. This is the host of the gods, king, named in order. A man
-who tells it is freed from all his sins.
+Mighty Garuda, the son of Vinata, and Aruna, and the blessed Brihaspati are
+counted among the Adityas. Know that the guhyakas come from the Ashvins, and so
+do all the plants and animals. This is the host of the gods, king, named in
+order. A man who tells it is freed from all his sins.
 
 ---
 
 The blessed Bhrigu broke out of Brahma's heart. Bhrigu's son was the wise Kavi,
 and Kavi's son was Shukra, the planet. By the command of the Self-born he runs
-round the world to keep the three worlds alive, bringing rain and
-drought, fear and safety. A teacher of yoga, of great understanding, he
-became the guru of the daityas, and of the gods too, that wise one, chaste and
-strict in his vows.
+round the world to keep the three worlds alive, bringing rain and drought, fear
+and safety. A teacher of yoga, of great understanding, he became the guru of the
+daityas, and of the gods too, that wise one, chaste and strict in his vows.
 
 When the lord had set that son of Bhrigu to work for the welfare of the worlds,
 Bhrigu fathered another son, a blameless one: Chyavana, blazing with austerity,
@@ -211,11 +211,11 @@ righteous and wise, who fell from his mother's womb in anger to set her free,
 Bharata. Arushi, the daughter of Manu, was that wise man's wife. On her was born
 Aurva, of great fame, who split her thigh. He was a great ascetic of great
 splendour, full of virtues while he was still a child. His son was Richika, and
-Richika's son was Jamadagni. Great Jamadagni had four sons. Rama was the youngest
-of them, but not the least in virtue, skilled in every weapon and every divine
-weapon, the destroyer of the kshatriyas, master of himself. Aurva had a hundred
-sons, with Jamadagni the first of them. They had sons by the thousand, and so the
-Bhrigus spread.
+Richika's son was Jamadagni. Great Jamadagni had four sons. Rama was the
+youngest of them, but not the least in virtue, skilled in every weapon and every
+divine weapon, the destroyer of the kshatriyas, master of himself. Aurva had a
+hundred sons, with Jamadagni the first of them. They had sons by the thousand,
+and so the Bhrigus spread.
 
 Brahma had two other sons, whose marks remain in the world, Dhatri and Vidhatri,
 who stay with Manu. Their sister is the goddess Lakshmi, fair, who lives in the
@@ -224,9 +224,9 @@ eldest wife, the goddess, was born of Shukra. Know that her son is Bala, and her
 daughter Sura, the joy of the gods.
 
 When creatures hungry for food began to eat one another, Adharma was born there,
-the destroyer of all beings. His wife was Nirriti, from whom the rakshasas called
-Nairritas come. She had three terrible sons, always given to evil deeds: Bhaya,
-Mahabhaya and Mrityu, Fear, Great Fear and Death, the ender of beings.
+the destroyer of all beings. His wife was Nirriti, from whom the rakshasas
+called Nairritas come. She had three terrible sons, always given to evil deeds:
+Bhaya, Mahabhaya and Mrityu, Fear, Great Fear and Death, the ender of beings.
 
 The goddess Tamra bore five daughters, famous in the world: Kaki, Shyeni, Bhasi,
 Dhritarashtri and Shuki. Kaki bore the owls, and Shyeni the hawks. Bhasi bore
@@ -240,18 +240,18 @@ Bhadramana, Matangi, Sharduli, Shveta and Surabhi, and the famous Surasa, with
 every good mark. All the deer, best of men, are the children of Mrigi. The
 bears, the srimaras and the yaks are Mrigamanda's. Bhadramana bore Airavata, the
 great elephant of the gods. The horses and the swift monkeys are the children of
-Hari, bless you, and they call the long-tailed monkeys Hari's sons too.
-Sharduli bore the lions and the tigers, Bharata, and all the leopards, fortunate
-one, without doubt. The elephants are the children of Matangi, lord of men. And
+Hari, bless you, and they call the long-tailed monkeys Hari's sons too. Sharduli
+bore the lions and the tigers, Bharata, and all the leopards, fortunate one,
+without doubt. The elephants are the children of Matangi, lord of men. And
 Shveta bore Shveta, the swift elephant of the quarter.
 
 Surabhi bore two daughters, king, Rohini, bless you, and the famous Gandharvi.
-The cows were born of Rohini, and the horses of Gandharvi. Surasa bore the nagas,
-king, and Kadru the serpents. Anala bore the seven trees with round fruit. Anala's
-daughter was Shuki, and Kadru's daughter was Surasa.
+The cows were born of Rohini, and the horses of Gandharvi. Surasa bore the
+nagas, king, and Kadru the serpents. Anala bore the seven trees with round
+fruit. Anala's daughter was Shuki, and Kadru's daughter was Surasa.
 
-Aruna's wife, Shyeni, bore two mighty sons, Sampati and Jatayus. Vinata's two sons
-were the famous Garuda and Aruna.
+Aruna's wife, Shyeni, bore two mighty sons, Sampati and Jatayus. Vinata's two
+sons were the famous Garuda and Aruna.
 
 So, lord of men, best of the wise, I have told you rightly the origin of all the
 great beings. When a man hears it rightly, he is cleansed of his sins. He gains
