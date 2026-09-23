@@ -2,7 +2,7 @@
 
 # Contents
 
-**44 chapters, 97,117 words.** 44 drafted
+**47 chapters, 100,925 words.** 47 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -53,5 +53,8 @@
 | 42 | [The Hundred Sons](../novel/book-01-adi/42-the-hundred-sons.md) | 1.107-108 | drafted | 1,125 |
 | 43 | [The Deer](../novel/book-01-adi/43-the-deer.md) | 1.109-110 | drafted | 2,018 |
 | 44 | [The Debt to the Fathers](../novel/book-01-adi/44-the-debt-to-the-fathers.md) | 1.111-112 | drafted | 1,695 |
+| 45 | [Shvetaketu's Rule](../novel/book-01-adi/45-shvetaketus-rule.md) | 1.113 | drafted | 1,013 |
+| 46 | [Three Sons from the Gods](../novel/book-01-adi/46-three-sons-from-the-gods.md) | 1.114 | drafted | 1,409 |
+| 47 | [Spring](../novel/book-01-adi/47-spring.md) | 1.115-116 | drafted | 1,386 |
 
-*Book 1 so far: 97,117 words.*
+*Book 1 so far: 100,925 words.*

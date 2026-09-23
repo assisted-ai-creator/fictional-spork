@@ -128,7 +128,10 @@ against the CE when the Book is drafted.
 | 42 | The Hundred Sons | 1.107–1.108 | ✅ drafted. The lump of flesh and the pots of ghee; the omens; Yuyutsu; the names; Duḥśalā (L-76, L-77). |
 | 43 | The Deer | 1.109–1.110 | ✅ drafted. Kiṃdama's curse; Pāṇḍu's vow of renunciation; Kuntī and Mādrī go with him; Śataśṛṅga. |
 | 44 | The Debt to the Fathers | 1.111–1.112 | ✅ drafted. The four debts; the kinds of sons; Śāradaṇḍāyanī; Vyuṣitāśva and Bhadrā. |
-| 45… | Saṃbhava (cont.) | 1.113–1.123 | Śvetaketu's rule; Kuntī's mantra; the births of the Pāṇḍavas; Pāṇḍu's death and Mādrī's; the return to Hāstinapura. |
+| 45 | Shvetaketu's Rule | 1.113 | ✅ drafted. The ancient freedom of women; Śvetaketu; Madayantī; Kuntī reveals the mantra. |
+| 46 | Three Sons from the Gods | 1.114 | ✅ drafted. Yudhiṣṭhira, Bhīma (the rock), Arjuna; the gods gather; no fourth son (L-80). |
+| 47 | Spring | 1.115–1.116 | ✅ drafted. Mādrī's twins; the naming; Pāṇḍu's death; Mādrī on the pyre (L-78, L-79). |
+| 48… | Saṃbhava (cont.) | 1.117–1.123 | The return to Hāstinapura; the funeral; Satyavatī goes to the forest; the princes' boyhood; Bhīma poisoned; Kṛpa and Droṇa. |
 
 ---
 

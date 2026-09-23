@@ -137,9 +137,7 @@ Jayadratha, king of Sindhu, with Subala's son's consent.
 **Divergences.**
 
 * **No braying at Duryodhana's birth.** The popular story has the newborn Duryodhana
-  bray like a donkey, answered by donkeys, vultures and jackals, with Bhima born the
-  same day (\*1142, \*1143). In the CE the jackals and beasts of prey howl at the end
-  of *Dhritarashtra's* question (1.107.28). See ledger L-76.
+  bray like a donkey, answered by donkeys, vultures and jackals (\*1142, \*1143). In the CE the jackals and beasts of prey howl at the end of *Dhritarashtra's* question (1.107.28). That Bhima was born the same day is in the CE, but it is told at Bhima's birth (1.114.14). See ledger L-76.
 * **No wish for a daughter.** In the vulgate Gandhari silently wishes for a daughter
   and Vyasa makes the extra piece into Duhshala (App. I No. 63). The CE simply says
   the lump divided into "a full hundred and one" (1.107.20) and that there were a

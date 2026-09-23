@@ -2211,6 +2211,96 @@
    "dialogue": [],
    "flag": [],
    "ref": "1.111.7"
+  },
+  {
+   "name": "Uddalaka",
+   "iast": "Uddālaka",
+   "group": "Seer",
+   "who": "seer, father of Shvetaketu",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.113.9"
+  },
+  {
+   "name": "Shvetaketu",
+   "iast": "Śvetaketu",
+   "group": "Seer",
+   "who": "Uddalaka's son, who made the rule of marital faithfulness",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Svetaketu"
+   ],
+   "ref": "1.113.9"
+  },
+  {
+   "name": "Madayanti",
+   "iast": "Madayantī",
+   "group": "King",
+   "who": "wife of Saudasa (Kalmashapada), mother of Ashmaka by Vasishtha",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.113.21"
+  },
+  {
+   "name": "Saudasa",
+   "iast": "Saudāsa",
+   "group": "King",
+   "who": "king also called Kalmashapada, Madayanti's husband",
+   "aka": [
+    "Kalmashapada"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.113.21"
+  },
+  {
+   "name": "Ashmaka",
+   "iast": "Aśmaka",
+   "group": "King",
+   "who": "son of Madayanti by Vasishtha",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.113.22"
+  },
+  {
+   "name": "Vayu",
+   "iast": "Vāyu",
+   "group": "God",
+   "who": "the Wind, father of Bhima",
+   "aka": [
+    "Maruta",
+    "Pavana"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.114.9"
+  },
+  {
+   "name": "Ashvins",
+   "iast": "Aśvinau",
+   "group": "God",
+   "who": "the twin gods, fathers of Nakula and Sahadeva",
+   "aka": [
+    "Nasatya",
+    "Dasra"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.115.16"
+  },
+  {
+   "name": "Tumburu",
+   "iast": "Tumburu",
+   "group": "Gandharva",
+   "who": "chief singer among the gandharvas",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.114.43"
   }
  ],
  "not_vyasa": [

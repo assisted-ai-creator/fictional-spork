@@ -18,6 +18,24 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 45–47 drafted: the births of the Pandavas and Pandu's death
+- Ch 45 *Shvetaketu's Rule* (CE 1.113), Ch 46 *Three Sons from the Gods* (1.114)
+  and Ch 47 *Spring* (1.115–116): Shvetaketu's rule; Kunti's mantra; the births of
+  Yudhishthira, Bhima and Arjuna, with the gods at Arjuna's birth; Madri's twins;
+  Pandu's death and Madri's. About 3,800 words.
+
+### Reference
+- Ledger **L-76** corrected: Bhima's birth on the same day as Duryodhana's is in
+  the CE (1.114.14); only the braying is a later addition. Chapter 42's note
+  fixed to match.
+- Ledger **L-78**: the CE's Madri resists Pandu (1.116.8, 22).
+- Ledger **L-79**: Madri's single use of the mantra and the twin Ashvins (1.115).
+- Ledger **L-80**: baby Bhima shatters the rock (1.114.11–13).
+
+### Workbook
+- `names.json`: +8 (Uddalaka, Shvetaketu, Madayanti, Saudasa, Ashmaka, Vayu,
+  Ashvins, Tumburu).
+
 ### Novel: Book 1, chapters 43–44 drafted: the deer's curse
 - Ch 43 *The Deer* (CE 1.109–110) and Ch 44 *The Debt to the Fathers*
   (1.111–112): Pandu shoots the sage Kindama and is cursed; his vow of
@@ -35,7 +53,8 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   Duryodhana's birth; Yuyutsu; the names of the hundred. About 2,150 words.
 
 ### Reference
-- Ledger **L-76**: Duryodhana's braying at birth is a later addition (\*1142).
+- Ledger **L-76**: Duryodhana's braying at birth is a later addition (\*1142);
+  Bhima's birth on the same day is in the CE (1.114.14).
 - Ledger **L-77**: Gandhari's wish for a daughter is a later addition (App. I
   No. 63).
 
