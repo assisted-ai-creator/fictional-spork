@@ -18,6 +18,24 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 14–17 drafted; the Astika section is complete
+- Ch 14 *The Wife Who Woke Him* (CE 1.41–44), Ch 15 *The Snake Sacrifice*
+  (1.45–47), Ch 16 *The Boy at the Gate* (1.48–50), Ch 17 *Stop!* (1.51–53).
+  About 9,000 words, verified verse by verse. With these, the Paushya, Pauloma
+  and Astika sub-parvas (CE 1.3–1.53) are fully drafted.
+- Notes keep the CE's doublets: the pit told twice (1.13, 1.41), Parikshit's
+  death told twice (1.36–40, 1.45–46, with the king sixty and Shringin "born of
+  a cow"), and Takshaka stopped twice (1.51, 1.53).
+- The *halahala* at 1.53.9 is a shout of joy, noted against L-63.
+
+### Reference
+- Ledger **L-67**: Indra dragged to the fire with Takshaka is a rejected
+  passage (\*446). The CE has only the priests' "surely he has let him go".
+
+### Workbook
+- `names.json`: +1 (Lohitaksha). `NOVEL_PLAN.md`: rows for chapters 14–17 and
+  the next part.
+
 ### Novel: Book 1, chapters 12–13 drafted
 - Ch 12 *The Snakes' Council* (CE 1.31–35) and Ch 13 *The Dead Snake*
   (1.36–40): the names of the chief snakes; Shesha holds up the earth;

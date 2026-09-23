@@ -2,7 +2,7 @@
 
 # Contents
 
-**13 chapters, 35,101 words.** 13 drafted
+**17 chapters, 44,147 words.** 17 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -22,5 +22,9 @@
 | 11 | [The Nectar](../novel/book-01-adi/11-the-nectar.md) | 1.27-30 | drafted | 2,536 |
 | 12 | [The Snakes' Council](../novel/book-01-adi/12-the-snakes-council.md) | 1.31-35 | drafted | 2,408 |
 | 13 | [The Dead Snake](../novel/book-01-adi/13-the-dead-snake.md) | 1.36-40 | drafted | 3,338 |
+| 14 | [The Wife Who Woke Him](../novel/book-01-adi/14-the-wife-who-woke-him.md) | 1.41-44 | drafted | 2,781 |
+| 15 | [The Snake Sacrifice](../novel/book-01-adi/15-the-snake-sacrifice.md) | 1.45-47 | drafted | 2,371 |
+| 16 | [The Boy at the Gate](../novel/book-01-adi/16-the-boy-at-the-gate.md) | 1.48-50 | drafted | 1,917 |
+| 17 | [Stop!](../novel/book-01-adi/17-stop.md) | 1.51-53 | drafted | 1,977 |
 
-*Book 1 so far: 35,101 words.*
+*Book 1 so far: 44,147 words.*

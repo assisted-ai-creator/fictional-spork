@@ -7,6 +7,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | Name | IAST | Who | Also called (in the text) | Dialogue | Never write |
 |------|------|-----|---------------------------|----------|-------------|
 | **Menaka** | Menakā | an apsaras; mother of Pramadvara (and, later, of Shakuntala) |  |  |  |
+| **Lohitaksha** | Lohitākṣa | the red-eyed suta, builder of Janamejaya's place of sacrifice, who foretold that a brahmin would stop the rite |  |  |  |
 | **Lomaharshana** | Lomaharṣaṇa | father of Ugrashravas, a bard |  |  | Lomaharsana |
 | **Shaunaka** | Śaunaka | head of the household of sages in the Naimisha forest | kulapati |  | Saunaka |
 | **Ugrashravas** | Ugraśravas | the bard, son of Lomaharshana, who tells the epic in the Naimisha forest | Sauti, Lomaharshani | Sauti | Ugrasrava, Ugrasravas |

@@ -97,7 +97,11 @@ against the CE when the Book is drafted.
 | 11 | The Nectar | 1.27–1.30 | ✅ drafted. Indra and the Vālakhilyas; the theft; Viṣṇu's boons; the feather; the split tongues. |
 | 12 | The Snakes' Council | 1.31–1.35 | ✅ drafted. The snakes named; Śeṣa holds the earth; Vāsuki's council; Elāpatra's counsel. |
 | 13 | The Dead Snake | 1.36–1.40 | ✅ drafted. Parikṣit and Śamīka; Śṛṅgin's curse; Kāśyapa turned back; Takṣaka in the fruit; Janamejaya king (L-66). |
-| 14… | Āstīka and the snakes (rest) | 1.41–1.53 | Jaratkāru's marriage; Āstīka's birth; Uttaṅka's call; the snake sacrifice. |
+| 14 | The Wife Who Woke Him | 1.41–1.44 | ✅ drafted. The pit retold; Jaratkāru's marriage; the sunset; "There is"; Āstīka born. |
+| 15 | The Snake Sacrifice | 1.45–1.47 | ✅ drafted. The ministers' account; the woodcutter witness; the vow; the builder's warning; the snakes burn. |
+| 16 | The Boy at the Gate | 1.48–1.50 | ✅ drafted. The priests named; Takṣaka with Indra; Vāsuki's plea; Āstīka's praise. |
+| 17 | Stop! | 1.51–1.53 | ✅ drafted. The boon; Takṣaka held in the air; the charm; Śaunaka asks for the Bhārata (L-67). |
+| 18… | Ādivaṃśāvataraṇa | 1.54–1.58 | Vyāsa comes to the sacrifice; Vaiśaṃpāyana begins; the story in brief; the line of descent. |
 
 ---
 
