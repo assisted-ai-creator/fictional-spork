@@ -31,7 +31,7 @@ this list (Book 1). It is the text's own framing of the cast:
 | Shakuni | Dvapara (the age of the world, and its spirit) | 1.61.72 |
 | Satyaki, Drupada, Kritavarma, Virata | the Maruts, the storm gods | 1.61.73–76 |
 | Dhritarashtra | Hamsa, king of the gandharvas; born blind "because of his mother's fault and the seer's anger" | 1.61.77–78 |
-| Vidura | "the son of Atri" (1.61.79). **Note:** elsewhere the CE tells how Dharma was born as Vidura through the sage Mandavya's curse (1.101). Keep both. Do not reconcile them. | 1.61.79; 1.101 |
+| Vidura | "the son of Atri" (1.61.79). **Note:** elsewhere the CE tells how Dharma was born as Vidura through the sage Mandavya's curse (1.57.77–81, told in full at 1.101). Keep both. Do not reconcile them. | 1.61.79; 1.101 |
 | Duryodhana | Kali: "hated by the whole world… by whom the earth was destroyed and the great enmity kindled" | 1.61.80–81 |
 | Duhshasana and the hundred brothers | the Paulastyas (rakshasas) | 1.61.82–83 |
 | Yudhishthira · Bhima · Arjuna | Dharma · Vayu (the wind) · Indra | 1.61.84 |

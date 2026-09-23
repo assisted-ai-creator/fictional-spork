@@ -104,7 +104,9 @@ against the CE when the Book is drafted.
 | 18 | The Story in Brief | 1.54–1.56 | ✅ drafted. Vyāsa at the sacrifice; Vaiśaṃpāyana's summary; the praise of the work. |
 | 19 | The Fish's Daughter | 1.57 | ✅ drafted. Uparicara Vasu; Satyavatī; Parāśara; Vyāsa; the births of the heroes. |
 | 20 | The Burden of the Earth | 1.58 | ✅ drafted. The golden age after Rāma Jāmadagnya; the asuras born; the Earth to Brahmā; Hari agrees. |
-| 21… | Saṃbhava | 1.59–1.123 | Origins of beings; the gods' portions (1.61); Śakuntalā; Yayāti; the Kuru line; Śaṃtanu; the Pāṇḍavas' births. |
+| 21 | The Families of Beings | 1.59–1.60 | ✅ drafted. The gods go down; Daksha's daughters; gods, asuras, gandharvas, apsarases; Rudras, Vasus, Bhṛgus; beasts and birds. |
+| 22 | Gods and Demons Born as Men | 1.61 | ✅ drafted. Who is whose portion: Jarāsaṃdha to Draupadī. |
+| 23… | Saṃbhava (cont.) | 1.62–1.123 | Duḥṣanta and Śakuntalā; Yayāti; the Kuru line; Śaṃtanu, Gaṅgā, Bhīṣma; the Pāṇḍavas' births. |
 
 ---
 

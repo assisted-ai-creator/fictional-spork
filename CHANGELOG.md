@@ -18,6 +18,16 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 21–22 drafted
+- Ch 21 *The Families of Beings* (CE 1.59–60) and Ch 22 *Gods and Demons Born
+  as Men* (1.61): the full catalogues of the origins of beings and of the divine
+  and demonic portions born as the people of the story. About 4,600 words. Every
+  name is kept, in the CE's order.
+- Notes keep the CE's own puzzles: Vidura as "son of Atri" (1.61.79) as well as
+  Dharma (1.57.81); a second King Janamejaya among the Krodhavashas (1.61.57);
+  Surasa given two mothers (1.60.59, 1.60.66); two Airavatas (naga and
+  elephant).
+
 ### Novel: Book 1, chapters 18–20 drafted; Adivamshavatarana is complete
 - Ch 18 *The Story in Brief* (CE 1.54–56), Ch 19 *The Fish's Daughter*
   (1.57), Ch 20 *The Burden of the Earth* (1.58). About 6,100 words, verified

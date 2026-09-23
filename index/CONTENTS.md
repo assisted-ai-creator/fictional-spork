@@ -2,7 +2,7 @@
 
 # Contents
 
-**20 chapters, 50,295 words.** 20 drafted
+**22 chapters, 54,859 words.** 22 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -29,5 +29,7 @@
 | 18 | [The Story in Brief](../novel/book-01-adi/18-the-story-in-brief.md) | 1.54-56 | drafted | 2,345 |
 | 19 | [The Fish's Daughter](../novel/book-01-adi/19-the-fishs-daughter.md) | 1.57 | drafted | 2,555 |
 | 20 | [The Burden of the Earth](../novel/book-01-adi/20-the-burden-of-the-earth.md) | 1.58 | drafted | 1,248 |
+| 21 | [The Families of Beings](../novel/book-01-adi/21-the-families-of-beings.md) | 1.59-60 | drafted | 2,499 |
+| 22 | [Gods and Demons Born as Men](../novel/book-01-adi/22-gods-and-demons-born-as-men.md) | 1.61 | drafted | 2,065 |
 
-*Book 1 so far: 50,295 words.*
+*Book 1 so far: 54,859 words.*
