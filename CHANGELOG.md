@@ -18,6 +18,13 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 28–29 drafted
+- Ch 28 *Sharmishtha's Price* (CE 1.74–76) and Ch 29 *Old Age* (1.77–79):
+  Shukra on anger; Sharmishtha's servitude; Devayani's marriage to Yayati;
+  Sharmishtha's arguments; Shukra's curse; the four sons' refusals and curses;
+  Puru's gift. About 4,200 words. The CE's harsh curses on the sons' lines are
+  reported as Yayati's words, without comment.
+
 ### Novel: Book 1, chapters 26–27 drafted
 - Ch 26 *Kacha* (CE 1.70–71) and Ch 27 *The Girl in the Well* (1.72–73): the
   line from Daksha and Manu to Yayati; Kacha in Shukra's belly and Shukra's ban
