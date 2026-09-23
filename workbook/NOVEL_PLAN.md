@@ -109,7 +109,9 @@ against the CE when the Book is drafted.
 | 23 | The King Who Went Hunting | 1.62–1.64 | ✅ drafted. Duḥṣanta's reign; the hunt; Kaṇva's hermitage on the Mālinī. |
 | 24 | Shakuntala | 1.65–1.67 | ✅ drafted. Menakā and Viśvāmitra; the birds; the gāndharva marriage; Kaṇva's blessing. |
 | 25 | The Voice from the Sky | 1.68–1.69 | ✅ drafted. The denial ("though he remembered"); Śakuntalā's answer; the heavenly voice; Bharata (L-68). |
-| 26… | Saṃbhava (cont.) | 1.70–1.123 | The Paurava line; Yayāti, Devayānī and Śarmiṣṭhā; Kaca; Śaṃtanu, Gaṅgā, Bhīṣma; the Pāṇḍavas' births. |
+| 26 | Kacha | 1.70–1.71 | ✅ drafted. Daksha to Yayāti; Kaca learns the art of raising the dead. |
+| 27 | The Girl in the Well | 1.72–1.73 | ✅ drafted. Kaca and Devayānī curse each other; the clothes; the well; Yayāti. |
+| 28… | Saṃbhava (cont.) | 1.74–1.123 | Śarmiṣṭhā made servant; Yayāti's marriages and curse; Yayāti in heaven; the Pūru line; Śaṃtanu; the births. |
 
 ---
 

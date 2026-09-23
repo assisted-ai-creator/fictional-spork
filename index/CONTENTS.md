@@ -2,7 +2,7 @@
 
 # Contents
 
-**25 chapters, 62,290 words.** 25 drafted
+**27 chapters, 66,381 words.** 27 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -34,5 +34,7 @@
 | 23 | [The King Who Went Hunting](../novel/book-01-adi/23-the-king-who-went-hunting.md) | 1.62-64 | drafted | 2,038 |
 | 24 | [Shakuntala](../novel/book-01-adi/24-shakuntala.md) | 1.65-67 | drafted | 2,206 |
 | 25 | [The Voice from the Sky](../novel/book-01-adi/25-the-voice-from-the-sky.md) | 1.68-69 | drafted | 3,187 |
+| 26 | [Kacha](../novel/book-01-adi/26-kacha.md) | 1.70-71 | drafted | 2,617 |
+| 27 | [The Girl in the Well](../novel/book-01-adi/27-the-girl-in-the-well.md) | 1.72-73 | drafted | 1,474 |
 
-*Book 1 so far: 62,290 words.*
+*Book 1 so far: 66,381 words.*

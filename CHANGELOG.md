@@ -18,6 +18,14 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 26–27 drafted
+- Ch 26 *Kacha* (CE 1.70–71) and Ch 27 *The Girl in the Well* (1.72–73): the
+  line from Daksha and Manu to Yayati; Kacha in Shukra's belly and Shukra's ban
+  on wine for brahmins; Kacha and Devayani's curses; Sharmishtha, the well and
+  Yayati. About 4,100 words.
+- `names.json`: +16 (Manu, Pururavas, Urvashi, Nahusha, Yayati, his five sons,
+  Shukra, Kacha, Devayani, Sharmishtha, Vrishaparvan, Ghurnika).
+
 ### Novel: Book 1, chapters 23–25 drafted: Shakuntala
 - Ch 23 *The King Who Went Hunting* (CE 1.62–64), Ch 24 *Shakuntala*
   (1.65–67), Ch 25 *The Voice from the Sky* (1.68–69). About 7,400 words,

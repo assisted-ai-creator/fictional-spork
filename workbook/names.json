@@ -1627,6 +1627,195 @@
    "dialogue": [],
    "flag": [],
    "ref": "1.68.7"
+  },
+  {
+   "name": "Manu",
+   "iast": "Manu",
+   "group": "King",
+   "who": "Manu son of Vivasvat (through Martanda in 1.70), from whom the human race descends",
+   "aka": [
+    "Vaivasvata"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.70.11"
+  },
+  {
+   "name": "Pururavas",
+   "iast": "Purūravas",
+   "group": "King",
+   "who": "son of Ila, husband of Urvashi, ancestor of the Lunar line",
+   "aka": [
+    "Aila"
+   ],
+   "dialogue": [],
+   "flag": [
+    "Pururava"
+   ],
+   "ref": "1.70.16"
+  },
+  {
+   "name": "Urvashi",
+   "iast": "Urvaśī",
+   "group": "Apsaras",
+   "who": "the apsaras, wife of Pururavas",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Urvasi"
+   ],
+   "ref": "1.70.21"
+  },
+  {
+   "name": "Nahusha",
+   "iast": "Nahuṣa",
+   "group": "King",
+   "who": "son of Ayus, father of Yayati; for a time he made himself Indra",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Nahush"
+   ],
+   "ref": "1.70.23"
+  },
+  {
+   "name": "Yayati",
+   "iast": "Yayāti",
+   "group": "King",
+   "who": "son of Nahusha, husband of Devayani and Sharmishtha, who traded his old age for Puru's youth",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Yayathi"
+   ],
+   "ref": "1.70.28"
+  },
+  {
+   "name": "Puru",
+   "iast": "Pūru",
+   "group": "King",
+   "who": "Yayati's youngest son, by Sharmishtha, who took his father's old age; founder of the Paurava line",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.70.32"
+  },
+  {
+   "name": "Yadu",
+   "iast": "Yadu",
+   "group": "King",
+   "who": "Yayati's eldest son, by Devayani; ancestor of the Yadavas",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.70.32"
+  },
+  {
+   "name": "Turvasu",
+   "iast": "Turvasu",
+   "group": "King",
+   "who": "Yayati's son by Devayani",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.70.32"
+  },
+  {
+   "name": "Druhyu",
+   "iast": "Druhyu",
+   "group": "King",
+   "who": "Yayati's son by Sharmishtha",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.70.32"
+  },
+  {
+   "name": "Anu",
+   "iast": "Anu",
+   "group": "King",
+   "who": "Yayati's son by Sharmishtha",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.70.32"
+  },
+  {
+   "name": "Shukra",
+   "iast": "Śukra",
+   "group": "Seer",
+   "who": "Kavya Ushanas, priest of the asuras, who knows how to raise the dead; father of Devayani",
+   "aka": [
+    "Ushanas",
+    "Kavya",
+    "Bhargava"
+   ],
+   "dialogue": [],
+   "flag": [
+    "Sukra",
+    "Sukracharya",
+    "Shukracharya"
+   ],
+   "ref": "1.71.6"
+  },
+  {
+   "name": "Kacha",
+   "iast": "Kaca",
+   "group": "Seer",
+   "who": "son of Brihaspati, who learns the art of raising the dead from Shukra",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Kach"
+   ],
+   "ref": "1.71.10"
+  },
+  {
+   "name": "Devayani",
+   "iast": "Devayānī",
+   "group": "Seer",
+   "who": "daughter of Shukra; wife of Yayati; mother of Yadu and Turvasu",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Devyani"
+   ],
+   "ref": "1.71.13"
+  },
+  {
+   "name": "Sharmishtha",
+   "iast": "Śarmiṣṭhā",
+   "group": "King",
+   "who": "daughter of the asura king Vrishaparvan; Devayani's rival and servant; mother of Druhyu, Anu and Puru",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Sarmishtha",
+    "Sharmista"
+   ],
+   "ref": "1.70.31"
+  },
+  {
+   "name": "Vrishaparvan",
+   "iast": "Vṛṣaparvan",
+   "group": "King",
+   "who": "king of the asuras, Shukra's patron, father of Sharmishtha",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Vrishaparva"
+   ],
+   "ref": "1.71.3"
+  },
+  {
+   "name": "Ghurnika",
+   "iast": "Ghūrṇikā",
+   "group": "Seer",
+   "who": "Devayani's maid",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.73.24"
   }
  ],
  "not_vyasa": [
