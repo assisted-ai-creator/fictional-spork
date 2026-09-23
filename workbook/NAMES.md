@@ -7,6 +7,8 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | Name | IAST | Who | Also called (in the text) | Dialogue | Never write |
 |------|------|-----|---------------------------|----------|-------------|
 | **Adrika** | Adrikā | an apsaras cursed to be a fish in the Yamuna; mother of Satyavati and Matsya |  |  |  |
+| **Ghritachi** | Ghṛtācī | apsaras at whose sight Bharadvaja shed the seed that became Drona |  |  |  |
+| **Jalapadi** | Jālapadī | the divine girl Indra sent to disturb Sharadvat |  |  |  |
 | **Menaka** | Menakā | an apsaras; mother of Pramadvara (and, later, of Shakuntala) |  |  |  |
 | **Urvashi** | Urvaśī | the apsaras, wife of Pururavas |  |  | Urvasi |
 | **Gavalgana** | Gavalgaṇa | the suta, father of Sanjaya |  |  |  |
@@ -110,6 +112,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sanjaya** | Saṃjaya | Dhritarashtra's charioteer and counsellor, given divine sight by Vyasa | Gavalgani |  | Sanjay |
 | **Satyavati** | Satyavatī | the fisherman's adopted daughter who became Shantanu's queen; mother of Vyasa | Kali, Gandhavati, Yojanagandha, Matsyagandha, Satya |  | Satyawati |
 | **Shantanu** | Śaṃtanu | king of Hastinapura; husband of Ganga, then of Satyavati; father of Bhishma |  |  | Santanu, Shantnu |
+| **Somadatta** | Somadatta | the Bahlika prince, Bhishma's cousin's son; father of Bhurishravas |  |  |  |
 | **Vichitravirya** | Vicitravīrya | younger son of Shantanu and Satyavati; husband of Ambika and Ambalika |  |  | Vichitraveerya |
 | **Vidura** | Vidura | son of Vyasa and a serving woman; Dharma born as a man; wise counsellor | Kshattri |  |  |
 | **Shalya** | Śalya | king of Madra, Madri's brother |  |  | Salya |
@@ -122,6 +125,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vasuki** | Vāsuki | king of the snakes; the rope at the churning; gives his sister Jaratkaru to the seer Jaratkaru |  |  |  |
 | **Dhrishtadyumna** | Dhṛṣṭadyumna | Drupada's son, born from the sacrificial fire to kill Drona | Parshata |  | Dhristadyumna, Drishtadyumna |
 | **Drupada** | Drupada | king of the Panchalas, Drona's childhood friend and enemy | Yajnasena |  |  |
+| **Prishata** | Pṛṣata | king of the Panchalas, Bharadvaja's friend, Drupada's father |  |  |  |
 | **Shikhandi** | Śikhaṇḍin | Drupada's child, born a daughter, who became a man; Amba reborn | Shikhandini (as a girl) |  | Shikhandin, Sikhandi, Shikhandee |
 | **Abhimanyu** | Abhimanyu | son of Arjuna and Subhadra | Saubhadra |  |  |
 | **Arjuna** | Arjuna | third son of Kunti, by Indra; the great archer | Partha, Dhananjaya, Phalguna, Kiritin, Bibhatsu, Savyasachin, Gudakesha, Jishnu, Vijaya | Partha, Dhananjaya | Arjun |
@@ -139,9 +143,11 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Hidimba** | Hiḍimba / Hiḍimbā | a rakshasa brother and sister of the forest. Bhima kills the brother and marries the sister. In English the names collide, so give context until the brother is dead |  |  | Hidimbi, Hidimbaa |
 | **Puloman** | Puloman (Pulomā, m.) | the rakshasa who carries off Bhrigu's wife |  |  |  |
 | **Agastya** | Agastya | seer who hunted during a sacrifice and consecrated the deer to the gods |  |  |  |
+| **Agniveshya** | Agniveśya | sage who received the weapon of Fire from Bharadvaja and taught Drona |  |  |  |
 | **Animandavya** | Aṇīmāṇḍavya | the seer impaled as a thief who cursed Dharma to be born as Vidura | Mandavya |  | Animandavya Rishi |
 | **Aruni** | Āruṇi Pāñcālya | Dhaumya's pupil, renamed Uddalaka | Uddalaka |  |  |
 | **Astika** | Āstīka | son of Jaratkaru and Vasuki's sister; he stops the snake sacrifice |  |  |  |
+| **Bharadvaja** | Bharadvāja | seer, Drona's father |  |  |  |
 | **Bhrigu** | Bhṛgu | seer, son of Brahma, ancestor of the Bhargavas (Shaunaka's line) |  |  |  |
 | **Chyavana** | Cyavana | son of Bhrigu, 'the Fallen One' |  |  | Chyavan |
 | **Devayani** | Devayānī | daughter of Shukra; wife of Yayati; mother of Yadu and Turvasu |  |  | Devyani |
@@ -167,6 +173,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Ruru** | Ruru | son of Pramati; gives half his life to Pramadvara |  |  |  |
 | **Sahasrapat** | Sahasrapād | seer cursed to be a dundubha snake |  |  |  |
 | **Shamika** | Śamīka | the silent sage on whose shoulder Parikshit hangs a dead snake; father of Shringin |  |  | Samika, Shameek |
+| **Sharadvat** | Śaradvat | Gautama's son, the archer-seer, father of Kripa and Kripi | Gautama |  | Saradvan, Sharadvan |
 | **Shringin** | Śṛṅgin | Shamika's hot-tempered son, who curses Parikshit |  |  | Shringi, Sringi |
 | **Shrutashravas** | Śrutaśravas | seer, father of Somashravas |  |  |  |
 | **Shuka** | Śuka | Vyasa's son and pupil |  |  | Suka, Shukadeva |

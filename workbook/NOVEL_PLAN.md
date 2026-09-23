@@ -131,7 +131,10 @@ against the CE when the Book is drafted.
 | 45 | Shvetaketu's Rule | 1.113 | ✅ drafted. The ancient freedom of women; Śvetaketu; Madayantī; Kuntī reveals the mantra. |
 | 46 | Three Sons from the Gods | 1.114 | ✅ drafted. Yudhiṣṭhira, Bhīma (the rock), Arjuna; the gods gather; no fourth son (L-80). |
 | 47 | Spring | 1.115–1.116 | ✅ drafted. Mādrī's twins; the naming; Pāṇḍu's death; Mādrī on the pyre (L-78, L-79). |
-| 48… | Saṃbhava (cont.) | 1.117–1.123 | The return to Hāstinapura; the funeral; Satyavatī goes to the forest; the princes' boyhood; Bhīma poisoned; Kṛpa and Droṇa. |
+| 48 | The Return to the City | 1.117–1.118 | ✅ drafted. The seers bring the Pāṇḍavas to Hāstinapura; the funeral by the Gaṅgā. |
+| 49 | Poison | 1.119 | ✅ drafted. Satyavatī goes to the forest; Bhīma's rough play; bound and drowned, bitten, poisoned (L-81). |
+| 50 | Born of Reeds and a Pot | 1.120–1.121 | ✅ drafted. Kṛpa and Kṛpī; Droṇa's birth; Aśvatthāman; Rāma Jāmadagnya's weapons. |
+| 51… | Saṃbhava (cont.) | 1.122–1.123 | Drupada's insult; the ball in the well; Droṇa becomes teacher; Ekalavya; the bird's eye. |
 
 ---
 

@@ -2,7 +2,7 @@
 
 # Contents
 
-**47 chapters, 100,925 words.** 47 drafted
+**50 chapters, 104,269 words.** 50 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -56,5 +56,8 @@
 | 45 | [Shvetaketu's Rule](../novel/book-01-adi/45-shvetaketus-rule.md) | 1.113 | drafted | 1,013 |
 | 46 | [Three Sons from the Gods](../novel/book-01-adi/46-three-sons-from-the-gods.md) | 1.114 | drafted | 1,409 |
 | 47 | [Spring](../novel/book-01-adi/47-spring.md) | 1.115-116 | drafted | 1,386 |
+| 48 | [The Return to the City](../novel/book-01-adi/48-the-return-to-the-city.md) | 1.117-118 | drafted | 1,361 |
+| 49 | [Poison](../novel/book-01-adi/49-poison.md) | 1.119 | drafted | 1,016 |
+| 50 | [Born of Reeds and a Pot](../novel/book-01-adi/50-born-of-reeds-and-a-pot.md) | 1.120-121 | drafted | 967 |
 
-*Book 1 so far: 100,925 words.*
+*Book 1 so far: 104,269 words.*

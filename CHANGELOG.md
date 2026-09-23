@@ -18,6 +18,21 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 48–50 drafted: the return to the city, and the teachers
+- Ch 48 *The Return to the City* (CE 1.117–118), Ch 49 *Poison* (1.119) and Ch 50
+  *Born of Reeds and a Pot* (1.120–121): the seers bring the Pandavas to
+  Hastinapura; Pandu's funeral; Satyavati's departure; Duryodhana's attempts on
+  Bhima; the births of Kripa, Kripi, Drona and Ashvatthama; Drona's weapons from
+  Rama Jamadagnya. About 3,350 words.
+
+### Reference
+- Ledger **L-81**: Bhima's visit to the Naga world and Vasuki's elixir are later
+  additions (\*1312, App. I No. 72).
+
+### Workbook
+- `names.json`: +7 (Somadatta, Sharadvat, Jalapadi, Bharadvaja, Ghritachi,
+  Agniveshya, Prishata).
+
 ### Novel: Book 1, chapters 45–47 drafted: the births of the Pandavas and Pandu's death
 - Ch 45 *Shvetaketu's Rule* (CE 1.113), Ch 46 *Three Sons from the Gods* (1.114)
   and Ch 47 *Spring* (1.115–116): Shvetaketu's rule; Kunti's mantra; the births of

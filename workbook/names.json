@@ -2301,6 +2301,81 @@
    "dialogue": [],
    "flag": [],
    "ref": "1.114.43"
+  },
+  {
+   "name": "Somadatta",
+   "iast": "Somadatta",
+   "group": "Kuru",
+   "who": "the Bahlika prince, Bhishma's cousin's son; father of Bhurishravas",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.117.13"
+  },
+  {
+   "name": "Sharadvat",
+   "iast": "Śaradvat",
+   "group": "Seer",
+   "who": "Gautama's son, the archer-seer, father of Kripa and Kripi",
+   "aka": [
+    "Gautama"
+   ],
+   "dialogue": [],
+   "flag": [
+    "Saradvan",
+    "Sharadvan"
+   ],
+   "ref": "1.120.2"
+  },
+  {
+   "name": "Jalapadi",
+   "iast": "Jālapadī",
+   "group": "Apsaras",
+   "who": "the divine girl Indra sent to disturb Sharadvat",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.120.6"
+  },
+  {
+   "name": "Bharadvaja",
+   "iast": "Bharadvāja",
+   "group": "Seer",
+   "who": "seer, Drona's father",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.121.3"
+  },
+  {
+   "name": "Ghritachi",
+   "iast": "Ghṛtācī",
+   "group": "Apsaras",
+   "who": "apsaras at whose sight Bharadvaja shed the seed that became Drona",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.121.3"
+  },
+  {
+   "name": "Agniveshya",
+   "iast": "Agniveśya",
+   "group": "Seer",
+   "who": "sage who received the weapon of Fire from Bharadvaja and taught Drona",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.121.6"
+  },
+  {
+   "name": "Prishata",
+   "iast": "Pṛṣata",
+   "group": "Panchala",
+   "who": "king of the Panchalas, Bharadvaja's friend, Drupada's father",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.121.8"
   }
  ],
  "not_vyasa": [
