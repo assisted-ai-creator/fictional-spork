@@ -140,7 +140,9 @@ against the CE when the Book is drafted.
 | 54 | King of Anga | 1.126–1.127 | ✅ drafted. Karṇa's challenge; Kuntī faints; Kṛpa's question; Karṇa crowned; Adhiratha; Bhīma's taunt (L-85). |
 | 55 | The Teacher's Fee | 1.128–1.130 | ✅ drafted. Drupada captured and halved; the people want Yudhiṣṭhira; Duryodhana's plan for Vāraṇāvata (L-86). |
 | 56 | Purochana | 1.131–1.132 | ✅ drafted. The festival as bait; the elders' blessing; Purocana's orders for the house. |
-| 57… | The house of lac | 1.133–1.138 | Vidura's warning; the tunnel; the fire; the escape across the Gaṅgā. |
+| 57 | Vidura's Riddle | 1.133–1.134 | ✅ drafted. The farewells; Vidura's coded warning; the house called Auspicious; the plan to dig. |
+| 58 | The Fire | 1.135–1.136 | ✅ drafted. Vidura's miner; the year of pretence; the Niṣāda woman and her sons; the fire; the escape (L-87). |
+| 59… | Into the forest | 1.137–1.152 | The Gaṅgā crossing; the news in Hāstinapura; Hiḍimba and Hiḍimbā; Ghaṭotkaca; Ekacakrā; Baka. |
 
 ---
 

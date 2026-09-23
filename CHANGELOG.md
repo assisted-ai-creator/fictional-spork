@@ -18,6 +18,16 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 57–58 drafted: the house of lac
+- Ch 57 *Vidura's Riddle* (CE 1.133–134) and Ch 58 *The Fire* (1.135–136): the
+  farewells; Vidura's coded warning; the house called Auspicious; the miner and the
+  tunnel; the Nishada woman and her sons; the fire and the escape. About 2,250
+  words.
+
+### Reference
+- Ledger **L-87**: the Nishada woman and her five sons who burned in the house are
+  in the CE, and Yudhishthira planned for six bodies (1.136.4–8).
+
 ### Novel: Book 1, chapters 55–56 drafted: Drupada, and the plot
 - Ch 55 *The Teacher's Fee* (CE 1.128–130) and Ch 56 *Purochana* (1.131–132):
   Drupada captured and given half his kingdom; the people's wish for Yudhishthira;

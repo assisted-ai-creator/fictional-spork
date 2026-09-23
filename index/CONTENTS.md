@@ -2,7 +2,7 @@
 
 # Contents
 
-**56 chapters, 112,040 words.** 56 drafted
+**58 chapters, 114,271 words.** 58 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -65,5 +65,7 @@
 | 54 | [King of Anga](../novel/book-01-adi/54-king-of-anga.md) | 1.126-127 | drafted | 1,458 |
 | 55 | [The Teacher's Fee](../novel/book-01-adi/55-the-teachers-fee.md) | 1.128-130 | drafted | 1,307 |
 | 56 | [Purochana](../novel/book-01-adi/56-purochana.md) | 1.131-132 | drafted | 698 |
+| 57 | [Vidura's Riddle](../novel/book-01-adi/57-viduras-riddle.md) | 1.133-134 | drafted | 1,368 |
+| 58 | [The Fire](../novel/book-01-adi/58-the-fire.md) | 1.135-136 | drafted | 863 |
 
-*Book 1 so far: 112,040 words.*
+*Book 1 so far: 114,271 words.*
