@@ -158,7 +158,8 @@
     "Kali",
     "Gandhavati",
     "Yojanagandha",
-    "Matsyagandha"
+    "Matsyagandha",
+    "Satya"
    ],
    "dialogue": [],
    "flag": [
@@ -203,7 +204,9 @@
    "iast": "Ambikā",
    "group": "Kuru",
    "who": "princess of Kashi; Vichitravirya's wife; mother of Dhritarashtra",
-   "aka": [],
+   "aka": [
+    "Kausalya"
+   ],
    "dialogue": [],
    "flag": [],
    "ref": ""
@@ -1530,7 +1533,9 @@
    "iast": "Aṇīmāṇḍavya",
    "group": "Seer",
    "who": "the seer impaled as a thief who cursed Dharma to be born as Vidura",
-   "aka": [],
+   "aka": [
+    "Mandavya"
+   ],
    "dialogue": [],
    "flag": [
     "Animandavya Rishi"
@@ -1921,6 +1926,105 @@
    "dialogue": [],
    "flag": [],
    "ref": "1.93.17"
+  },
+  {
+   "name": "Shalva",
+   "iast": "Śālva",
+   "group": "King",
+   "who": "king of the Shalvas and lord of Saubha, whom Amba had chosen; beaten by Bhishma at Varanasi",
+   "aka": [
+    "lord of Saubha"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.96.25"
+  },
+  {
+   "name": "Utathya",
+   "iast": "Utathya",
+   "group": "Seer",
+   "who": "seer, elder brother of Brihaspati, husband of Mamata",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.98.6"
+  },
+  {
+   "name": "Mamata",
+   "iast": "Mamatā",
+   "group": "Seer",
+   "who": "wife of Utathya, mother of Dirghatamas",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.98.6"
+  },
+  {
+   "name": "Dirghatamas",
+   "iast": "Dīrghatamas",
+   "group": "Seer",
+   "who": "son of Utathya, cursed in the womb by Brihaspati to be born blind; fathers sons for King Bali",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Dirghatama"
+   ],
+   "ref": "1.98.16"
+  },
+  {
+   "name": "Bali",
+   "iast": "Bali",
+   "group": "King",
+   "who": "king who rescued Dirghatamas from the Ganga and had him father sons on his queen (not the asura Bali)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.98.21"
+  },
+  {
+   "name": "Sudeshna",
+   "iast": "Sudeṣṇā",
+   "group": "King",
+   "who": "Bali's queen, mother of Anga by Dirghatamas (another Sudeshna is Virata's queen)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.98.24"
+  },
+  {
+   "name": "Kakshivat",
+   "iast": "Kākṣīvat",
+   "group": "Seer",
+   "who": "eldest of the eleven sons of Dirghatamas by Sudeshna's servant",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Kakshivan",
+    "Kakshivant"
+   ],
+   "ref": "1.98.26"
+  },
+  {
+   "name": "Anga",
+   "iast": "Aṅga",
+   "group": "King",
+   "who": "royal seer, son of Dirghatamas by Sudeshna",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.98.32"
+  },
+  {
+   "name": "Arjuna Kartavirya",
+   "iast": "Arjuna Kārtavīrya",
+   "group": "King",
+   "who": "thousand-armed king of the Haihayas, killed by Rama Jamadagnya; say 'Arjuna, the Haihaya king' to keep him apart from the Pandava",
+   "aka": [
+    "Kartavirya"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.98.1"
   }
  ],
  "not_vyasa": [

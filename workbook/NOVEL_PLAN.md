@@ -119,7 +119,10 @@ against the CE when the Book is drafted.
 | 33 | The Line Told Again | 1.90 | ✅ drafted. The prose genealogy from Dakṣa to Janamejaya's grandson; doublets noted. |
 | 34 | Ganga | 1.91–1.93 | ✅ drafted. Mahābhiṣa; the Vasus; Pratīpa's right thigh; Śaṃtanu and Gaṅgā; the seven drowned; Vasiṣṭha's cow (L-69). |
 | 35 | Bhishma | 1.94 | ✅ drafted. The boy damming the Gaṅgā; Satyavatī; the vow; death at will (L-70). |
-| 36… | Saṃbhava (cont.) | 1.95–1.123 | Citrāṅgada and Vicitravīrya; Ambā, Ambikā, Ambālikā; Vyāsa's sons; Māṇḍavya; the births of the Kauravas and Pāṇḍavas. |
+| 36 | The Three Princesses | 1.95–1.96 | ✅ drafted. Citrāṅgada's death; the Kāśi princesses carried off; Śālva beaten; Ambā let go; Vicitravīrya's death. |
+| 37 | The Vow and the Line | 1.97–1.98 | ✅ drafted. Satyavatī's plea; Bhīṣma refuses; Rāma Jāmadagnya; Dīrghatamas and Bali (L-71). |
+| 38 | Vyasa Comes | 1.99–1.100 | ✅ drafted. Satyavatī's secret; Vyāsa's niyoga; Dhṛtarāṣṭra, Pāṇḍu, Vidura (L-72). |
+| 39… | Saṃbhava (cont.) | 1.101–1.123 | Māṇḍavya; the three princes grow up; Gāndhārī, Kuntī, Mādrī; the births of the Kauravas and Pāṇḍavas. |
 
 ---
 

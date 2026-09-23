@@ -88,7 +88,8 @@ litter, with a thousand girls around her.
 "I, with a thousand girls, am your slave and your servant," said Sharmishtha. "I
 will follow you wherever your father gives you."
 
-"I am the daughter of one who praises you," said Devayani, "a bard who accepts gifts. How will you, the daughter of one who is praised, be a slave?"
+"I am the daughter of one who praises you," said Devayani, "a bard who accepts
+gifts. How will you, the daughter of one who is praised, be a slave?"
 
 "Anyone should bring happiness to her kin when they are in trouble, in whatever
 way she can," said Sharmishtha. "So I will follow you wherever your father gives

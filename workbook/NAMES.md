@@ -48,8 +48,11 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Jayadratha** | Jayadratha | king of the Sindhus; Duhshala's husband | Saindhava |  |  |
 | **Karna** | Karṇa | Kunti's first son, by the Sun, born with armour and earrings; raised by the charioteer Adhiratha and Radha | Vasusena, Radheya, Vaikartana, Suta's son | Radheya | Karan, Karn |
 | **Radha** | Rādhā | Adhiratha's wife, Karna's foster mother. The only Radha in the epic (see ledger L-58) |  |  |  |
+| **Anga** | Aṅga | royal seer, son of Dirghatamas by Sudeshna |  |  |  |
 | **Anu** | Anu | Yayati's son by Sharmishtha |  |  |  |
+| **Arjuna Kartavirya** | Arjuna Kārtavīrya | thousand-armed king of the Haihayas, killed by Rama Jamadagnya; say 'Arjuna, the Haihaya king' to keep him apart from the Pandava | Kartavirya |  |  |
 | **Ashtaka** | Aṣṭaka | royal seer, a grandson of Yayati through his daughter, who questions and helps save him |  |  |  |
+| **Bali** | Bali | king who rescued Dirghatamas from the Ganga and had him father sons on his queen (not the asura Bali) |  |  |  |
 | **Bharata** | Bharata | son of Dushyanta and Shakuntala, first called Sarvadamana; the emperor from whom the Bharatas take their name | Sarvadamana |  |  |
 | **Druhyu** | Druhyu | Yayati's son by Sharmishtha |  |  |  |
 | **Dushyanta** | Duḥṣanta | Paurava king who marries Shakuntala by the gandharva rite and later denies her until a heavenly voice speaks; father of Bharata |  |  | Dushmanta, Dusyanta, Dushyant |
@@ -62,8 +65,10 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Puru** | Pūru | Yayati's youngest son, by Sharmishtha, who took his father's old age; founder of the Paurava line |  |  |  |
 | **Pururavas** | Purūravas | son of Ila, husband of Urvashi, ancestor of the Lunar line | Aila |  | Pururava |
 | **Shakuntala** | Śakuntalā | daughter of Vishvamitra and Menaka, raised by Kanva; wife of Dushyanta, mother of Bharata |  |  | Sakuntala, Shakuntalaa |
+| **Shalva** | Śālva | king of the Shalvas and lord of Saubha, whom Amba had chosen; beaten by Bhishma at Varanasi | lord of Saubha |  |  |
 | **Sharmishtha** | Śarmiṣṭhā | daughter of the asura king Vrishaparvan; Devayani's rival and servant; mother of Druhyu, Anu and Puru |  |  | Sarmishtha, Sharmista |
 | **Shibi** | Śibi | son of Ushinara, a royal seer of unequalled generosity, a grandson of Yayati through his daughter | Aushinara |  | Sibi |
+| **Sudeshna** | Sudeṣṇā | Bali's queen, mother of Anga by Dirghatamas (another Sudeshna is Virata's queen) |  |  |  |
 | **Turvasu** | Turvasu | Yayati's son by Devayani |  |  |  |
 | **Uparichara Vasu** | Uparicara Vasu | king of Chedi, Indra's friend, who rides above the earth in a crystal chariot; father of Satyavati and Matsya | Vasu, Uparichara |  |  |
 | **Vapushtama** | Vapuṣṭamā | daughter of Suvarnavarman of Kashi; Janamejaya's wife |  |  |  |
@@ -72,7 +77,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Yadu** | Yadu | Yayati's eldest son, by Devayani; ancestor of the Yadavas |  |  |  |
 | **Yayati** | Yayāti | son of Nahusha, husband of Devayani and Sharmishtha, who traded his old age for Puru's youth |  |  | Yayathi |
 | **Ambalika** | Ambālikā | princess of Kashi; Vichitravirya's wife; mother of Pandu |  |  |  |
-| **Ambika** | Ambikā | princess of Kashi; Vichitravirya's wife; mother of Dhritarashtra |  |  |  |
+| **Ambika** | Ambikā | princess of Kashi; Vichitravirya's wife; mother of Dhritarashtra | Kausalya |  |  |
 | **Ashvatthama** | Aśvatthāman | son of Drona and Kripi | Drauni | Drauni | Ashwatthama, Aswatthama, Ashwathama, Ashvathama |
 | **Bhishma** | Bhīṣma | Devavrata, son of Shantanu and Ganga, who vowed never to marry or rule | Devavrata, Gangeya, Shantanava | Gangeya, Devavrata | Bheeshma, Bhisma, Bhishm |
 | **Chitrangada** | Citrāṅgada | elder son of Shantanu and Satyavati (not the Manipur princess Chitrangada) |  |  |  |
@@ -88,7 +93,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Parikshit** | Parikṣit | son of Abhimanyu and Uttara; father of Janamejaya; killed by the snake Takshaka |  |  | Parikshith, Parikshita, Pariksit |
 | **Pratipa** | Pratīpa | Kuru king, father of Devapi, Shantanu and Bahlika; Ganga sat on his right thigh | Paryashravas |  |  |
 | **Sanjaya** | Saṃjaya | Dhritarashtra's charioteer and counsellor, given divine sight by Vyasa | Gavalgani |  | Sanjay |
-| **Satyavati** | Satyavatī | the fisherman's adopted daughter who became Shantanu's queen; mother of Vyasa | Kali, Gandhavati, Yojanagandha, Matsyagandha |  | Satyawati |
+| **Satyavati** | Satyavatī | the fisherman's adopted daughter who became Shantanu's queen; mother of Vyasa | Kali, Gandhavati, Yojanagandha, Matsyagandha, Satya |  | Satyawati |
 | **Shantanu** | Śaṃtanu | king of Hastinapura; husband of Ganga, then of Satyavati; father of Bhishma |  |  | Santanu, Shantnu |
 | **Vichitravirya** | Vicitravīrya | younger son of Shantanu and Satyavati; husband of Ambika and Ambalika |  |  | Vichitraveerya |
 | **Vidura** | Vidura | son of Vyasa and a serving woman; Dharma born as a man; wise counsellor | Kshattri |  |  |
@@ -116,21 +121,24 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Yudhishthira** | Yudhiṣṭhira | eldest son of Kunti, by Dharma; the dharma king | Ajatashatru, Dharmaraja, Kaunteya, Partha | Ajatashatru | Yudhistira, Yudhishtira, Yudhisthira, Yudhishthir, Yudhisthir |
 | **Hidimba** | Hiḍimba / Hiḍimbā | a rakshasa brother and sister of the forest. Bhima kills the brother and marries the sister. In English the names collide, so give context until the brother is dead |  |  | Hidimbi, Hidimbaa |
 | **Puloman** | Puloman (Pulomā, m.) | the rakshasa who carries off Bhrigu's wife |  |  |  |
-| **Animandavya** | Aṇīmāṇḍavya | the seer impaled as a thief who cursed Dharma to be born as Vidura |  |  | Animandavya Rishi |
+| **Animandavya** | Aṇīmāṇḍavya | the seer impaled as a thief who cursed Dharma to be born as Vidura | Mandavya |  | Animandavya Rishi |
 | **Aruni** | Āruṇi Pāñcālya | Dhaumya's pupil, renamed Uddalaka | Uddalaka |  |  |
 | **Astika** | Āstīka | son of Jaratkaru and Vasuki's sister; he stops the snake sacrifice |  |  |  |
 | **Bhrigu** | Bhṛgu | seer, son of Brahma, ancestor of the Bhargavas (Shaunaka's line) |  |  |  |
 | **Chyavana** | Cyavana | son of Bhrigu, 'the Fallen One' |  |  | Chyavan |
 | **Devayani** | Devayānī | daughter of Shukra; wife of Yayati; mother of Yadu and Turvasu |  |  | Devyani |
 | **Dhaumya of the Ayodas** | Dhaumya Āyoda | teacher of Aruni, Upamanyu and Veda. NOT the Dhaumya who becomes the Pandavas' priest (1.174) |  |  |  |
+| **Dirghatamas** | Dīrghatamas | son of Utathya, cursed in the womb by Brihaspati to be born blind; fathers sons for King Bali |  |  | Dirghatama |
 | **Gauramukha** | Gauramukha | Shamika's pupil, sent to warn Parikshit |  |  |  |
 | **Ghurnika** | Ghūrṇikā | Devayani's maid |  |  |  |
 | **Jaratkaru** | Jaratkāru | a Yayavara seer of strict vows who marries only a bride of his own name; Astika's father. His wife, Vasuki's sister, has the same name (1.13.34) |  |  | Jaratkaaru, Jaratkara |
 | **Kacha** | Kaca | son of Brihaspati, who learns the art of raising the dead from Shukra |  |  | Kach |
+| **Kakshivat** | Kākṣīvat | eldest of the eleven sons of Dirghatamas by Sudeshna's servant |  |  | Kakshivan, Kakshivant |
 | **Kanva** | Kaṇva | the Kashyapa seer on the Malini who raised Shakuntala | the Kashyapa |  | Kanwa |
 | **Kashyapa** | Kāśyapa | lord of creatures, husband of Kadru and Vinata, father of the snakes, Aruna and Garuda (1.14); the same name is borne by the brahmin healer whom Takshaka turns back from saving Parikshit (1.38–39) |  |  |  |
 | **Khagama** | Khagama | brahmin who cursed his friend Sahasrapat |  |  |  |
 | **Krisha** | Kṛśa | a seer's son, Shringin's friend, whose teasing provokes the curse |  |  |  |
+| **Mamata** | Mamatā | wife of Utathya, mother of Dirghatamas |  |  |  |
 | **Parashara** | Parāśara | son of Shakti; father of Vyasa by Satyavati |  |  | Parasara |
 | **Pramadvara** | Pramadvarā | daughter of Vishvavasu and Menaka, raised by Sthulakesha; Ruru's wife |  |  |  |
 | **Pramati** | Pramati | son of Chyavana and Sukanya; father of Ruru |  |  |  |
@@ -148,6 +156,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sthulakesha** | Sthūlakeśa | seer who raised Pramadvara |  |  |  |
 | **Supratika** | Supratīka | Vibhavasu's younger brother, who wanted their wealth divided; becomes the elephant |  |  |  |
 | **Upamanyu** | Upamanyu | Dhaumya's pupil who praised the Ashvins |  |  |  |
+| **Utathya** | Utathya | seer, elder brother of Brihaspati, husband of Mamata |  |  |  |
 | **Uttanka** | Uttaṅka | pupil of Veda who fetches the queen's earrings and urges Janamejaya to take revenge |  |  | Utanka |
 | **Vasishtha** | Vasiṣṭha | the seer, son of Varuna, also called Apava; cursed the Vasus; taught Devavrata the Vedas | Apava |  | Vashishta, Vasistha |
 | **Veda** | Veda | Dhaumya's pupil, later teacher of Uttanka and priest of Janamejaya and Paushya |  |  |  |

@@ -18,7 +18,8 @@ his wealth is gone," said Yayati, "so there the hosts of the gods, with their
 lords, at once abandon a man whose merit is spent."
 
 "How do they come to have their merit spent there?" said Ashtaka. "My mind is
-very much confused about this. Where do they go, with what marks, and to whose home? Tell me, for I think you know the field."
+very much confused about this. Where do they go, with what marks, and to whose
+home? Tell me, for I think you know the field."
 
 "They all fall into this earthly hell, lord of men, crying out," said Yayati.
 "They are spent, and in many ways they grow again, to be food for herons,

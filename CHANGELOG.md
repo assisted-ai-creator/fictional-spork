@@ -18,6 +18,25 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 36–38 drafted: the princesses and Vyasa's sons
+- Ch 36 *The Three Princesses* (CE 1.95–96), Ch 37 *The Vow and the Line*
+  (1.97–98) and Ch 38 *Vyasa Comes* (1.99–100): Chitrangada's death; Bhishma
+  carries off the Kashi princesses and lets Amba go; Vichitravirya's death;
+  Satyavati's plea and Bhishma's refusal; Utathya, Brihaspati and Dirghatamas;
+  Satyavati's secret; the births of Dhritarashtra, Pandu and Vidura. About
+  4,900 words.
+
+### Reference
+- Ledger **L-71**: Dirghatamas's rule of one husband for life is a later addition
+  (App. I No. 56), as are Sudeshna's five sons (\*1042).
+- Ledger **L-72**: the queens' shut eyes and pallor, and the maid who bore Vidura,
+  are all in the CE (1.100).
+
+### Workbook
+- `names.json`: +9 (Shalva, Utathya, Mamata, Dirghatamas, Bali, Sudeshna,
+  Kakshivat, Anga, Arjuna Kartavirya); Ambika gets "Kausalya", Satyavati
+  "Satya", Animandavya "Mandavya".
+
 ### Novel: Book 1, chapters 34–35 drafted: Ganga and Bhishma
 - Ch 34 *Ganga* (CE 1.91–93) and Ch 35 *Bhishma* (1.94): Mahabhisha's curse; the
   Vasus; Ganga and Pratipa; Shantanu's marriage and the drowned sons; the stolen

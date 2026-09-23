@@ -2,7 +2,7 @@
 
 # Contents
 
-**35 chapters, 84,106 words.** 35 drafted
+**38 chapters, 89,023 words.** 38 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -44,5 +44,8 @@
 | 33 | [The Line Told Again](../novel/book-01-adi/33-the-line-told-again.md) | 1.90 | drafted | 1,635 |
 | 34 | [Ganga](../novel/book-01-adi/34-ganga.md) | 1.91-93 | drafted | 3,001 |
 | 35 | [Bhishma](../novel/book-01-adi/35-bhishma.md) | 1.94 | drafted | 2,190 |
+| 36 | [The Three Princesses](../novel/book-01-adi/36-the-three-princesses.md) | 1.95-96 | drafted | 1,653 |
+| 37 | [The Vow and the Line](../novel/book-01-adi/37-the-vow-and-the-line.md) | 1.97-98 | drafted | 1,339 |
+| 38 | [Vyasa Comes](../novel/book-01-adi/38-vyasa-comes.md) | 1.99-100 | drafted | 1,925 |
 
-*Book 1 so far: 84,106 words.*
+*Book 1 so far: 89,023 words.*
