@@ -95,7 +95,9 @@ against the CE when the Book is drafted.
 | 9 | The Wager | 1.18–1.23 | ✅ drafted. The bet on the horse's tail; Kadrū's curse; Garuḍa born; Vinatā enslaved; the price of freedom (L-65). |
 | 10 | The Elephant and the Tortoise | 1.24–1.26 | ✅ drafted. The Niṣādas; Vibhāvasu and Supratīka; the Vālakhilyas on the branch; the gods arm. |
 | 11 | The Nectar | 1.27–1.30 | ✅ drafted. Indra and the Vālakhilyas; the theft; Viṣṇu's boons; the feather; the split tongues. |
-| 12… | Āstīka and the snakes (rest) | 1.31–1.53 | Planned in detail when drafting reaches it. |
+| 12 | The Snakes' Council | 1.31–1.35 | ✅ drafted. The snakes named; Śeṣa holds the earth; Vāsuki's council; Elāpatra's counsel. |
+| 13 | The Dead Snake | 1.36–1.40 | ✅ drafted. Parikṣit and Śamīka; Śṛṅgin's curse; Kāśyapa turned back; Takṣaka in the fruit; Janamejaya king (L-66). |
+| 14… | Āstīka and the snakes (rest) | 1.41–1.53 | Jaratkāru's marriage; Āstīka's birth; Uttaṅka's call; the snake sacrifice. |
 
 ---
 

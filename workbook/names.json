@@ -1151,11 +1151,11 @@
    "name": "Kashyapa",
    "iast": "Kāśyapa",
    "group": "Seer",
-   "who": "the brahmin healer whom Takshaka turned back from saving Parikshit (1.38-40)",
+   "who": "lord of creatures, husband of Kadru and Vinata, father of the snakes, Aruna and Garuda (1.14); the same name is borne by the brahmin healer whom Takshaka turns back from saving Parikshit (1.38–39)",
    "aka": [],
    "dialogue": [],
    "flag": [],
-   "ref": "1.3.189"
+   "ref": "1.14.6"
   },
   {
    "name": "Jaratkaru",
@@ -1358,6 +1358,107 @@
    "dialogue": [],
    "flag": [],
    "ref": "1.28.3"
+  },
+  {
+   "name": "Shesha",
+   "iast": "Śeṣa",
+   "group": "Naga",
+   "who": "eldest of the snakes; leaves his brothers for austerity and holds up the earth at Brahma's command",
+   "aka": [
+    "Ananta"
+   ],
+   "dialogue": [],
+   "flag": [
+    "Sesha",
+    "Seshanaga"
+   ],
+   "ref": "1.31.5"
+  },
+  {
+   "name": "Elapatra",
+   "iast": "Elāpatra",
+   "group": "Naga",
+   "who": "the snake who remembers Brahma's words and counsels Vasuki to give his sister to Jaratkaru",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.34.1"
+  },
+  {
+   "name": "Airavata",
+   "iast": "Airāvata",
+   "group": "Naga",
+   "who": "a chief naga, brother of Vasuki (not the elephant of the same name)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.31.5"
+  },
+  {
+   "name": "Shamika",
+   "iast": "Śamīka",
+   "group": "Seer",
+   "who": "the silent sage on whose shoulder Parikshit hangs a dead snake; father of Shringin",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Samika",
+    "Shameek"
+   ],
+   "ref": "1.38.3"
+  },
+  {
+   "name": "Shringin",
+   "iast": "Śṛṅgin",
+   "group": "Seer",
+   "who": "Shamika's hot-tempered son, who curses Parikshit",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Shringi",
+    "Sringi"
+   ],
+   "ref": "1.36.21"
+  },
+  {
+   "name": "Krisha",
+   "iast": "Kṛśa",
+   "group": "Seer",
+   "who": "a seer's son, Shringin's friend, whose teasing provokes the curse",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.36.23"
+  },
+  {
+   "name": "Gauramukha",
+   "iast": "Gauramukha",
+   "group": "Seer",
+   "who": "Shamika's pupil, sent to warn Parikshit",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.38.14"
+  },
+  {
+   "name": "Vapushtama",
+   "iast": "Vapuṣṭamā",
+   "group": "King",
+   "who": "daughter of Suvarnavarman of Kashi; Janamejaya's wife",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.40.8"
+  },
+  {
+   "name": "Suvarnavarman",
+   "iast": "Suvarṇavarman",
+   "group": "Kashi",
+   "who": "king of Kashi, Vapushtama's father",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.40.8"
   }
  ],
  "not_vyasa": [

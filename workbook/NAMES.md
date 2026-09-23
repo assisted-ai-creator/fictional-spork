@@ -33,6 +33,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vishnu** | Viṣṇu | the god who counsels the churning, takes a woman's form to win back the nectar, and wields the discus Sudarshana | Narayana, Hari, Achyuta |  | Vishnoo |
 | **Yama** | Yama | lord of the dead, also called king of dharma | Dharmaraja, Vaivasvata |  |  |
 | **Amba** | Ambā | eldest princess of Kashi, carried off by Bhishma |  |  |  |
+| **Suvarnavarman** | Suvarṇavarman | king of Kashi, Vapushtama's father |  |  |  |
 | **Duhshala** | Duḥśalā | Dhritarashtra and Gandhari's one daughter; wife of Jayadratha |  |  | Dushala, Dussala |
 | **Duhshasana** | Duḥśāsana | second son of Dhritarashtra and Gandhari |  |  | Dushasana, Dussasana, Dushashan, Dushshasana |
 | **Duryodhana** | Duryodhana | eldest son of Dhritarashtra and Gandhari; born of a portion of Kali | Suyodhana | Suyodhana | Duryodhan, Duryodan |
@@ -43,6 +44,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Karna** | Karṇa | Kunti's first son, by the Sun, born with armour and earrings; raised by the charioteer Adhiratha and Radha | Vasusena, Radheya, Vaikartana, Suta's son | Radheya | Karan, Karn |
 | **Radha** | Rādhā | Adhiratha's wife, Karna's foster mother. The only Radha in the epic (see ledger L-58) |  |  |  |
 | **Paushya** | Pauṣya | king whose queen gives her earrings to Uttanka |  |  |  |
+| **Vapushtama** | Vapuṣṭamā | daughter of Suvarnavarman of Kashi; Janamejaya's wife |  |  |  |
 | **Ambalika** | Ambālikā | princess of Kashi; Vichitravirya's wife; mother of Pandu |  |  |  |
 | **Ambika** | Ambikā | princess of Kashi; Vichitravirya's wife; mother of Dhritarashtra |  |  |  |
 | **Ashvatthama** | Aśvatthāman | son of Drona and Kripi | Drauni | Drauni | Ashwatthama, Aswatthama, Ashwathama, Ashvathama |
@@ -64,6 +66,9 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vidura** | Vidura | son of Vyasa and a serving woman; Dharma born as a man; wise counsellor | Kshattri |  |  |
 | **Shalya** | Śalya | king of Madra, Madri's brother |  |  | Salya |
 | **Virata** | Virāṭa | king of the Matsyas, host of the Pandavas' year in hiding |  |  | Viraat |
+| **Airavata** | Airāvata | a chief naga, brother of Vasuki (not the elephant of the same name) |  |  |  |
+| **Elapatra** | Elāpatra | the snake who remembers Brahma's words and counsels Vasuki to give his sister to Jaratkaru |  |  |  |
+| **Shesha** | Śeṣa | eldest of the snakes; leaves his brothers for austerity and holds up the earth at Brahma's command | Ananta |  | Sesha, Seshanaga |
 | **Takshaka** | Takṣaka | the snake king who kills Parikshit |  |  | Taksaka |
 | **Vasuki** | Vāsuki | king of the snakes; the rope at the churning; gives his sister Jaratkaru to the seer Jaratkaru |  |  |  |
 | **Dhrishtadyumna** | Dhṛṣṭadyumna | Drupada's son, born from the sacrificial fire to kill Drona | Parshata |  | Dhristadyumna, Drishtadyumna |
@@ -87,15 +92,19 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Bhrigu** | Bhṛgu | seer, son of Brahma, ancestor of the Bhargavas (Shaunaka's line) |  |  |  |
 | **Chyavana** | Cyavana | son of Bhrigu, 'the Fallen One' |  |  | Chyavan |
 | **Dhaumya of the Ayodas** | Dhaumya Āyoda | teacher of Aruni, Upamanyu and Veda. NOT the Dhaumya who becomes the Pandavas' priest (1.174) |  |  |  |
+| **Gauramukha** | Gauramukha | Shamika's pupil, sent to warn Parikshit |  |  |  |
 | **Jaratkaru** | Jaratkāru | a Yayavara seer of strict vows who marries only a bride of his own name; Astika's father. His wife, Vasuki's sister, has the same name (1.13.34) |  |  | Jaratkaaru, Jaratkara |
-| **Kashyapa** | Kāśyapa | the brahmin healer whom Takshaka turned back from saving Parikshit (1.38-40) |  |  |  |
+| **Kashyapa** | Kāśyapa | lord of creatures, husband of Kadru and Vinata, father of the snakes, Aruna and Garuda (1.14); the same name is borne by the brahmin healer whom Takshaka turns back from saving Parikshit (1.38–39) |  |  |  |
 | **Khagama** | Khagama | brahmin who cursed his friend Sahasrapat |  |  |  |
+| **Krisha** | Kṛśa | a seer's son, Shringin's friend, whose teasing provokes the curse |  |  |  |
 | **Pramadvara** | Pramadvarā | daughter of Vishvavasu and Menaka, raised by Sthulakesha; Ruru's wife |  |  |  |
 | **Pramati** | Pramati | son of Chyavana and Sukanya; father of Ruru |  |  |  |
 | **Puloma** | Pulomā | Bhrigu's wife, mother of Chyavana (the rakshasa is Puloman) |  |  |  |
 | **Rama Jamadagnya** | Rāma Jāmadagnya | son of Jamadagni, the Bhrigu warrior-brahmin who destroyed the kshatriyas and made the five lakes of blood; later Bhishma's opponent and Karna's teacher. The CE never calls him 'Parashurama' (ledger L-62): write 'Rama, son of Jamadagni', 'Rama Jamadagnya' or 'Bhargava Rama' | Bhargava Rama | Jamadagnya | Parashuram, Parashurama, Parasurama, Parshuram |
 | **Ruru** | Ruru | son of Pramati; gives half his life to Pramadvara |  |  |  |
 | **Sahasrapat** | Sahasrapād | seer cursed to be a dundubha snake |  |  |  |
+| **Shamika** | Śamīka | the silent sage on whose shoulder Parikshit hangs a dead snake; father of Shringin |  |  | Samika, Shameek |
+| **Shringin** | Śṛṅgin | Shamika's hot-tempered son, who curses Parikshit |  |  | Shringi, Sringi |
 | **Shrutashravas** | Śrutaśravas | seer, father of Somashravas |  |  |  |
 | **Shunaka** | Śunaka | son of Ruru; ancestor of Shaunaka |  |  | Sunaka |
 | **Somashravas** | Somaśravas | Janamejaya's family priest, son of Shrutashravas by a snake-woman |  |  |  |

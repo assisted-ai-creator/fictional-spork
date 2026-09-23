@@ -18,6 +18,24 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 12–13 drafted
+- Ch 12 *The Snakes' Council* (CE 1.31–35) and Ch 13 *The Dead Snake*
+  (1.36–40): the names of the chief snakes; Shesha holds up the earth;
+  Vasuki's council and Elapatra's counsel; Parikshit, the silent sage and the
+  curse; Takshaka and Kashyapa; Parikshit's death; Janamejaya made king. About
+  5,700 words, verified verse by verse.
+- Notes keep the CE's two orders for the churning and the curse (1.35.3), and
+  name the sage Shamika only where the verses do (1.38.16).
+
+### Reference
+- Ledger **L-66**: Kali in Parikshit's crown is from the Bhagavata Purana. It
+  is not in the CE or its rejected passages.
+
+### Workbook
+- `names.json`: +9 (Shesha, Elapatra, Airavata, Shamika, Shringin, Krisha,
+  Gauramukha, Vapushtama, Suvarnavarman); the Kashyapa entry now covers both
+  the lord of creatures and the healer.
+
 ### Novel: Book 1, chapters 9–11 drafted
 - Ch 9 *The Wager* (CE 1.18–23), Ch 10 *The Elephant and the Tortoise*
   (1.24–26), Ch 11 *The Nectar* (1.27–30): the wager, Vinata's slavery,

@@ -2,7 +2,7 @@
 
 # Contents
 
-**11 chapters, 29,355 words.** 11 drafted
+**13 chapters, 35,101 words.** 13 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -20,5 +20,7 @@
 | 9 | [The Wager](../novel/book-01-adi/09-the-wager.md) | 1.18-23 | drafted | 2,058 |
 | 10 | [The Elephant and the Tortoise](../novel/book-01-adi/10-the-elephant-and-the-tortoise.md) | 1.24-26 | drafted | 2,290 |
 | 11 | [The Nectar](../novel/book-01-adi/11-the-nectar.md) | 1.27-30 | drafted | 2,536 |
+| 12 | [The Snakes' Council](../novel/book-01-adi/12-the-snakes-council.md) | 1.31-35 | drafted | 2,408 |
+| 13 | [The Dead Snake](../novel/book-01-adi/13-the-dead-snake.md) | 1.36-40 | drafted | 3,338 |
 
-*Book 1 so far: 29,355 words.*
+*Book 1 so far: 35,101 words.*
