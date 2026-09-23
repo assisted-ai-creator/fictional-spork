@@ -115,7 +115,9 @@ against the CE when the Book is drafted.
 | 29 | Old Age | 1.77–1.79 | ✅ drafted. Śarmiṣṭhā and Yayāti; Śukra's curse; the sons' refusals and Pūru's gift. |
 | 30 | Yayati's Fall | 1.80–1.84 | ✅ drafted. Pūru crowned; the forest; heaven; the boast to Indra; the fall; Aṣṭaka. |
 | 31 | The Grandsons | 1.85–1.88 | ✅ drafted. Yayāti's teaching; the four grandsons offer their worlds; the golden chariots. |
-| 32… | Saṃbhava (cont.) | 1.89–1.123 | The Pūru line to Śaṃtanu; Mahābhiṣa; Gaṅgā and the Vasus; Bhīṣma; Satyavatī; Vyāsa's sons; the births. |
+| 32 | The Line of Puru | 1.89 | ✅ drafted. Pūru to Pratīpa in verse; Saṃvaraṇa's exile; Kuru and Kurukṣetra. |
+| 33 | The Line Told Again | 1.90 | ✅ drafted. The prose genealogy from Dakṣa to Janamejaya's grandson; doublets noted. |
+| 34… | Saṃbhava (cont.) | 1.91–1.123 | Mahābhiṣa; Gaṅgā and the Vasus; Bhīṣma's vow; Satyavatī; Vyāsa's sons; the births. |
 
 ---
 

@@ -18,6 +18,14 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 32–33 drafted: the two genealogies
+- Ch 32 *The Line of Puru* (CE 1.89, verse) and Ch 33 *The Line Told Again*
+  (1.90, prose). About 2,800 words. The CE's disagreements are kept and listed in
+  the notes: Bhumanyu's origin (1.89.18 against 1.90.34), the founder of
+  Hastinapura, the route to Pratipa, and Sahadeva's son (Shrutasena at 1.57.103,
+  Shrutakarman at 1.90.82).
+- Fixed a misreading while checking: *janamejaya* at 1.89.15 is a vocative.
+
 ### Novel: Book 1, chapters 30–31 drafted: the Uttarayayata
 - Ch 30 *Yayati's Fall* (CE 1.80–84) and Ch 31 *The Grandsons* (1.85–88):
   Puru crowned; Yayati's austerities, heaven, boast and fall; the dialogue with

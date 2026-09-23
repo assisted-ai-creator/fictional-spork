@@ -2,7 +2,7 @@
 
 # Contents
 
-**31 chapters, 76,095 words.** 31 drafted
+**33 chapters, 78,915 words.** 33 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -40,5 +40,7 @@
 | 29 | [Old Age](../novel/book-01-adi/29-old-age.md) | 1.77-79 | drafted | 2,421 |
 | 30 | [Yayati's Fall](../novel/book-01-adi/30-yayatis-fall.md) | 1.80-84 | drafted | 2,631 |
 | 31 | [The Grandsons](../novel/book-01-adi/31-the-grandsons.md) | 1.85-88 | drafted | 2,861 |
+| 32 | [The Line of Puru](../novel/book-01-adi/32-the-line-of-puru.md) | 1.89 | drafted | 1,185 |
+| 33 | [The Line Told Again](../novel/book-01-adi/33-the-line-told-again.md) | 1.90 | drafted | 1,635 |
 
-*Book 1 so far: 76,095 words.*
+*Book 1 so far: 78,915 words.*
