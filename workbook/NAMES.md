@@ -47,6 +47,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Duhshasana** | Duḥśāsana | second son of Dhritarashtra and Gandhari |  |  | Dushasana, Dussasana, Dushashan, Dushshasana |
 | **Duryodhana** | Duryodhana | eldest son of Dhritarashtra and Gandhari; born of a portion of Kali | Suyodhana | Suyodhana | Duryodhan, Duryodan |
 | **Vikarna** | Vikarṇa | a son of Dhritarashtra who speaks for Draupadi in the hall |  |  |  |
+| **Vivimshati** | Viviṃśati | one of Dhritarashtra's sons |  |  | Vivinsati |
 | **Yuyutsu** | Yuyutsu | Dhritarashtra's son by a vaishya woman |  |  |  |
 | **Adhiratha** | Adhiratha | the charioteer (suta) who raised Karna |  |  |  |
 | **Jayadratha** | Jayadratha | king of the Sindhus; Duhshala's husband | Saindhava |  |  |
@@ -58,6 +59,8 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Ashtaka** | Aṣṭaka | royal seer, a grandson of Yayati through his daughter, who questions and helps save him |  |  |  |
 | **Bali** | Bali | king who rescued Dirghatamas from the Ganga and had him father sons on his queen (not the asura Bali) |  |  |  |
 | **Bharata** | Bharata | son of Dushyanta and Shakuntala, first called Sarvadamana; the emperor from whom the Bharatas take their name | Sarvadamana |  |  |
+| **Darva** | Dārva | lord of Magadha killed at Rajagriha in Pandu's campaign (vulgate 'Dirgha') |  |  | Dhirga |
+| **Devaka** | Devaka | king whose daughter by a shudra woman married Vidura |  |  |  |
 | **Druhyu** | Druhyu | Yayati's son by Sharmishtha |  |  |  |
 | **Dushyanta** | Duḥṣanta | Paurava king who marries Shakuntala by the gandharva rite and later denies her until a heavenly voice speaks; father of Bharata |  |  | Dushmanta, Dusyanta, Dushyant |
 | **Girika** | Girikā | Vasu's wife, daughter of the mountain Kolahala and the river Shuktimati |  |  |  |

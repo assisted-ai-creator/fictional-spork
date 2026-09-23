@@ -18,6 +18,20 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 41–42 drafted: Pandu's conquests and the hundred sons
+- Ch 41 *Pandu's Conquests* (CE 1.105–106) and Ch 42 *The Hundred Sons*
+  (1.107–108): Kunti and Madri; Pandu's campaign and retreat to the forest;
+  Vidura's marriage; Gandhari's lump of flesh and the pots of ghee; the omens at
+  Duryodhana's birth; Yuyutsu; the names of the hundred. About 2,150 words.
+
+### Reference
+- Ledger **L-76**: Duryodhana's braying at birth is a later addition (\*1142).
+- Ledger **L-77**: Gandhari's wish for a daughter is a later addition (App. I
+  No. 63).
+
+### Workbook
+- `names.json`: +3 (Darva, Devaka, Vivimshati).
+
 ### Novel: Book 1, chapters 39–40 drafted: Mandavya, Gandhari and Karna
 - Ch 39 *The Seer on the Stake* (CE 1.101–102) and Ch 40 *The Blindfold and the
   Mantra* (1.103–104): Mandavya impaled and Dharma cursed; the princes grow up;

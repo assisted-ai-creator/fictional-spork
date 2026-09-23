@@ -2114,6 +2114,40 @@
    "dialogue": [],
    "flag": [],
    "ref": "1.104.1"
+  },
+  {
+   "name": "Darva",
+   "iast": "Dārva",
+   "group": "King",
+   "who": "lord of Magadha killed at Rajagriha in Pandu's campaign (vulgate 'Dirgha')",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Dhirga"
+   ],
+   "ref": "1.105.10"
+  },
+  {
+   "name": "Devaka",
+   "iast": "Devaka",
+   "group": "King",
+   "who": "king whose daughter by a shudra woman married Vidura",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.106.12"
+  },
+  {
+   "name": "Vivimshati",
+   "iast": "Viviṃśati",
+   "group": "Kaurava",
+   "who": "one of Dhritarashtra's sons",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Vivinsati"
+   ],
+   "ref": "1.108.4"
   }
  ],
  "not_vyasa": [

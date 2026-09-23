@@ -2,7 +2,7 @@
 
 # Contents
 
-**40 chapters, 91,264 words.** 40 drafted
+**42 chapters, 93,404 words.** 42 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -49,5 +49,7 @@
 | 38 | [Vyasa Comes](../novel/book-01-adi/38-vyasa-comes.md) | 1.99-100 | drafted | 1,925 |
 | 39 | [The Seer on the Stake](../novel/book-01-adi/39-the-seer-on-the-stake.md) | 1.101-102 | drafted | 1,309 |
 | 40 | [The Blindfold and the Mantra](../novel/book-01-adi/40-the-blindfold-and-the-mantra.md) | 1.103-104 | drafted | 932 |
+| 41 | [Pandu's Conquests](../novel/book-01-adi/41-pandus-conquests.md) | 1.105-106 | drafted | 1,015 |
+| 42 | [The Hundred Sons](../novel/book-01-adi/42-the-hundred-sons.md) | 1.107-108 | drafted | 1,125 |
 
-*Book 1 so far: 91,264 words.*
+*Book 1 so far: 93,404 words.*

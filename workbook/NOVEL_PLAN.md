@@ -124,7 +124,9 @@ against the CE when the Book is drafted.
 | 38 | Vyasa Comes | 1.99–1.100 | ✅ drafted. Satyavatī's secret; Vyāsa's niyoga; Dhṛtarāṣṭra, Pāṇḍu, Vidura (L-72). |
 | 39 | The Seer on the Stake | 1.101–1.102 | ✅ drafted. Māṇḍavya on the stake; Dharma cursed; the golden age; Pāṇḍu made king (L-73). |
 | 40 | The Blindfold and the Mantra | 1.103–1.104 | ✅ drafted. Gāndhārī's blindfold; Pṛthā, Durvāsas and the Sun; Karṇa's birth and armour (L-74, L-75). |
-| 41… | Saṃbhava (cont.) | 1.105–1.123 | Kuntī's svayaṃvara; Mādrī; Pāṇḍu's conquests; the deer curse; the births of the Kauravas and Pāṇḍavas. |
+| 41 | Pandu's Conquests | 1.105–1.106 | ✅ drafted. Kuntī chooses Pāṇḍu; Mādrī bought; the conquests; Pāṇḍu to the forest; Vidura's marriage. |
+| 42 | The Hundred Sons | 1.107–1.108 | ✅ drafted. The lump of flesh and the pots of ghee; the omens; Yuyutsu; the names; Duḥśalā (L-76, L-77). |
+| 43… | Saṃbhava (cont.) | 1.109–1.123 | The deer curse; Pāṇḍu's grief; Kuntī's mantra; the births of the Pāṇḍavas; Pāṇḍu's death and Mādrī's. |
 
 ---
 
