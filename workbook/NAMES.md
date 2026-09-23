@@ -53,6 +53,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Duhshala** | Duḥśalā | Dhritarashtra and Gandhari's one daughter; wife of Jayadratha |  |  | Dushala, Dussala |
 | **Duhshasana** | Duḥśāsana | second son of Dhritarashtra and Gandhari |  |  | Dushasana, Dussasana, Dushashan, Dushshasana |
 | **Duryodhana** | Duryodhana | eldest son of Dhritarashtra and Gandhari; born of a portion of Kali | Suyodhana | Suyodhana | Duryodhan, Duryodan |
+| **Purochana** | Purocana | Duryodhana's minister who built the house of lac at Varanavata |  |  |  |
 | **Vikarna** | Vikarṇa | a son of Dhritarashtra who speaks for Draupadi in the hall |  |  |  |
 | **Vivimshati** | Viviṃśati | one of Dhritarashtra's sons |  |  | Vivinsati |
 | **Yuyutsu** | Yuyutsu | Dhritarashtra's son by a vaishya woman |  |  |  |

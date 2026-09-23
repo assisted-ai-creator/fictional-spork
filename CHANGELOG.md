@@ -18,6 +18,19 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 55–56 drafted: Drupada, and the plot
+- Ch 55 *The Teacher's Fee* (CE 1.128–130) and Ch 56 *Purochana* (1.131–132):
+  Drupada captured and given half his kingdom; the people's wish for Yudhishthira;
+  Duryodhana persuades Dhritarashtra; the festival at Varanavata as bait;
+  Purochana's orders for the house of lac. About 2,000 words.
+
+### Reference
+- Ledger **L-86**: Yudhishthira's coronation as crown prince and Kanika's crooked
+  counsel are later additions (App. I Nos. 80–81).
+
+### Workbook
+- `names.json`: +1 (Purochana).
+
 ### Novel: Book 1, chapters 53–54 drafted: the tournament and Karna
 - Ch 53 *The Tournament* (CE 1.124–125) and Ch 54 *King of Anga* (1.126–127): the
   display of arms; Bhima and Duryodhana parted; Arjuna's weapons; Karna's
