@@ -255,6 +255,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kapila** | Kapila | the god who with a look burned the sons of Sagara as they dug to Rasatala; Indra calls him Vishnu |  |  |  |
 | **Mitra** | Mitra | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
 | **Parameshthin** | Parameṣṭhin | "the one who stands highest", a divine being at Brahma's court |  |  |  |
+| **Parjanya** | Parjanya | the rain god |  |  |  |
 | **Pushan** | Pūṣan | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
 | **Rati** | Rati | wife of the god of love |  |  |  |
 | **Savitri** | Savitṛ | one of the gods who attack Krishna and Arjuna at Khandava; also a name of the sun (3.3.18) |  |  |  |
@@ -340,6 +341,8 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Yama** | Yama | lord of the dead, also called king of dharma | Dharmaraja, Vaivasvata |  |  |
 | **Sainya** | Sainya | one of Krishna's chariot horses |  |  |  |
 | **Sugriva** | Sugrīva | one of Krishna's chariot horses |  |  |  |
+| **Amshumant** | Aṃśumant | son of Asamanjas, who brought back Sagara's horse |  |  |  |
+| **Asamanjas** | Asamañjas | Sagara's son by Shaibya, banished for drowning children |  |  |  |
 | **Jivala** | Jīvala | one of Rituparna's charioteers, who serves with Bahuka |  |  |  |
 | **Rama Dasharathi** | Rāma Dāśarathi | son of Dasharatha, who lived in the forest at his father's word; his story is told at 3.257–276 | Dasharathi, Raghava |  |  |
 | **Rituparna** | Ṛtuparṇa | king of Ayodhya, master of dice, whom Nala serves as charioteer; called Bhangasvari, son of Bhangasvara (3.68.2) |  |  |  |
@@ -439,6 +442,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Samgramajit** | Saṃgrāmajit | a king present in Yudhishthira's hall |  |  |  |
 | **Shakuntala** | Śakuntalā | daughter of Vishvamitra and Menaka, raised by Kanva; wife of Dushyanta, mother of Bharata |  |  | Sakuntala, Shakuntalaa |
 | **Shalva** | Śālva | king of the Shalvas and lord of Saubha, whom Amba had chosen; beaten by Bhishma at Varanasi; a Shalva, lord of Saubha, also attacks Dvaraka and is killed by Krishna (3.15–22). The CE calls both 'lord of Saubha' but does not say they are the same man | lord of Saubha |  |  |
+| **Shanta** | Śāntā | daughter of Lomapada, wife of Rishyashringa |  |  |  |
 | **Sharmishtha** | Śarmiṣṭhā | daughter of the asura king Vrishaparvan; Devayani's rival and servant; mother of Druhyu, Anu and Puru |  |  | Sarmishtha, Sharmista |
 | **Shibi** | Śibi | son of Ushinara, a royal seer of unequalled generosity, a grandson of Yayati through his daughter | Aushinara |  | Sibi |
 | **Shrutarvan** | Śrutarvan | a king whom Agastya asks for wealth |  |  |  |
@@ -638,8 +642,10 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Mathara** | Māṭhara | a seer whose holy forest is in the south |  |  |  |
 | **Maunjayana** | Mauñjāyana | a seer present in Yudhishthira's hall |  |  |  |
 | **Meru Savarni** | Merusāvarṇi | a seer who taught Yudhishthira on the Himalaya |  |  |  |
+| **Mudgala** | Mudgala | a sage, husband of Nadayani Indrasena |  |  |  |
 | **Munja** | Muñja | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
 | **Nachiketa** | Nāciketa | a seer present in Yudhishthira's hall |  |  |  |
+| **Nadayani** | Nāḍāyanī | Indrasena, wife of Mudgala, a model of devotion |  |  |  |
 | **Narada** | Nārada | the divine seer who wanders the worlds; he warns the Pandavas with the tale of Sunda and Upasunda |  |  | Naarad, Narad |
 | **Paila** | Paila | a seer present in Yudhishthira's hall |  |  |  |
 | **Painga** | Paiṅga | a seer present in Yudhishthira's hall |  |  |  |
@@ -656,6 +662,8 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Raibhya** | Raibhya | a seer present in Yudhishthira's hall |  |  |  |
 | **Raivata** | Raivata | a seer present in Yudhishthira's hall |  |  |  |
 | **Rama Jamadagnya** | Rāma Jāmadagnya | son of Jamadagni, the Bhrigu warrior-brahmin who destroyed the kshatriyas and made the five lakes of blood; later Bhishma's opponent and Karna's teacher. The CE never calls him 'Parashurama' (ledger L-62): write 'Rama, son of Jamadagni', 'Rama Jamadagnya' or 'Bhargava Rama' | Bhargava Rama, Jamadagnya | Jamadagnya | Parashuram, Parashurama, Parasurama, Parshuram |
+| **Rishabha** | Ṛṣabha | an angry ascetic who made his mountain silent |  |  |  |
+| **Rishyashringa** | Ṛśyaśṛṅga | son of Vibhandaka and a doe, with a deer's horn; husband of Shanta |  |  |  |
 | **Ritavak** | Ṛtavāk | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
 | **Ritavasu** | Ṛtāvasu | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
 | **Ruru** | Ruru | son of Pramati; gives half his life to Pramadvara |  |  |  |
@@ -707,6 +715,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vayubhaksha** | Vāyubhakṣa | a seer present in Yudhishthira's hall |  |  |  |
 | **Veda** | Veda | Dhaumya's pupil, later teacher of Uttanka and priest of Janamejaya and Paushya |  |  |  |
 | **Venujangha** | Veṇujaṅgha | a seer present in Yudhishthira's hall |  |  |  |
+| **Vibhandaka** | Vibhāṇḍaka | a brahmin seer of Kashyapa's line, father of Rishyashringa |  |  |  |
 | **Vibhavasu** | Vibhāvasu | an angry seer who curses his brother to become an elephant and is himself cursed to become a tortoise |  |  |  |
 | **Vishravas** | Viśravas | a sage, father of Kubera, whose dwelling is on the Narmada |  |  |  |
 | **Vishvamitra** | Viśvāmitra | a kshatriya who became a brahmin by austerity; father of Shakuntala by Menaka | Kaushika |  | Visvamitra, Viswamitra |

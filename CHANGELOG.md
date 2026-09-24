@@ -18,6 +18,16 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 34–35 drafted: Bhagiratha; Rishyashringa
+- Ch 34 *Bhagiratha* (CE 3.104–108) and Ch 35 *Rishyashringa* (3.109–113): Sagara's sixty thousand
+  sons and Kapila; Asamanjas banished; Amshumant; Bhagiratha's austerity and the Ganga falling on
+  Shiva's head; the silent mountain of Rishabha; Rishyashringa, born of a doe, lured to the Angas by a
+  courtesan's daughter on a floating hermitage; the rain; Shanta. About 5,900 words.
+- Ledger: new L-128 (Jahnu drinking the Ganga is a rejected line) and L-129 (Shanta is Lomapada's
+  daughter in the CE, not Dasharatha's).
+- Names: Sagara, Asamanjas, Amshumant, Dilipa, Bhagiratha, Rishabha, Rishyashringa, Vibhandaka, Shanta,
+  Dasharatha, Parjanya, Mudgala and Nadayani added where missing.
+
 ### Novel: Book 3, chapters 32–33 drafted: Agastya and Lopamudra; Agastya drinks the ocean
 - Ch 32 *Agastya and Lopamudra* (CE 3.94–97) and Ch 33 *Agastya Drinks the Ocean* (3.98–103):
   Ilvala and Vatapi; Agastya's ancestors in the pit; the making and marriage of Lopamudra; the three

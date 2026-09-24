@@ -286,8 +286,8 @@ are refined while drafting.
 | 31 | Lomasha | 3.89–3.93 | ✅ drafted. Lomaśa's news and Indra's word on Karṇa; the followers sent home; the start; why the wicked prosper; Naimiṣa, Prayāga, Gayā. |
 | 32 | Agastya and Lopamudra | 3.94–3.97 | ✅ drafted. Ilvala and Vātāpi; the ancestors in the pit; Lopāmudrā; the three kings' balanced accounts; Vātāpi digested (L-126); Dṛḍhasyu. |
 | 33 | Agastya Drinks the Ocean | 3.98–3.103 | ✅ drafted. Dadhīca's bones; Vṛtra killed; the Kāleyas in the ocean; the Vindhya (L-127); the ocean drunk and not given back. |
-| 34 | Bhagiratha | 3.104–3.108 | Sagara's sons; Kapila; Bhagīratha brings down the Gaṅgā. |
-| 35 | Rishyashringa | 3.109–3.113 | Nandā; Kauśikī; Ṛṣyaśṛṅga and the courtesan. |
+| 34 | Bhagiratha | 3.104–3.108 | ✅ drafted. Sagara's sixty thousand sons; Kapila's eye; Asamañjas banished; Aṃśumant; Bhagīratha brings down the Gaṅgā onto Śiva's head (L-128). |
+| 35 | Rishyashringa | 3.109–3.113 | ✅ drafted. The silent mountain; Ṛśyaśṛṅga born of a doe; the boat hermitage; the "young ascetic"; the rain; Śāntā (L-129). |
 | 36 | Rama Jamadagnya | 3.114–3.118 | Kalinga; Rāma Jāmadagnya's story; the southern fords. |
 | 37 | Prabhasa | 3.119–3.121 | The Vṛṣṇis at Prabhāsa; Sātyaki and Balarāma; Nṛga and Gayā. |
 | 38 | Chyavana | 3.122–3.125 | Cyavana and Sukanyā; the Aśvins; Indra and Mada. |

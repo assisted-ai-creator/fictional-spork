@@ -8616,6 +8616,96 @@
    "dialogue": [],
    "flag": [],
    "ref": "3.98.22"
+  },
+  {
+   "name": "Asamanjas",
+   "iast": "Asamañjas",
+   "group": "Ikshvaku",
+   "who": "Sagara's son by Shaibya, banished for drowning children",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.106.10"
+  },
+  {
+   "name": "Amshumant",
+   "iast": "Aṃśumant",
+   "group": "Ikshvaku",
+   "who": "son of Asamanjas, who brought back Sagara's horse",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.106.6"
+  },
+  {
+   "name": "Rishabha",
+   "iast": "Ṛṣabha",
+   "group": "Seer",
+   "who": "an angry ascetic who made his mountain silent",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.109.7"
+  },
+  {
+   "name": "Rishyashringa",
+   "iast": "Ṛśyaśṛṅga",
+   "group": "Seer",
+   "who": "son of Vibhandaka and a doe, with a deer's horn; husband of Shanta",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.110.2"
+  },
+  {
+   "name": "Vibhandaka",
+   "iast": "Vibhāṇḍaka",
+   "group": "Seer",
+   "who": "a brahmin seer of Kashyapa's line, father of Rishyashringa",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.110.11"
+  },
+  {
+   "name": "Shanta",
+   "iast": "Śāntā",
+   "group": "King",
+   "who": "daughter of Lomapada, wife of Rishyashringa",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.110.5"
+  },
+  {
+   "name": "Parjanya",
+   "iast": "Parjanya",
+   "group": "Deity",
+   "who": "the rain god",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.110.23"
+  },
+  {
+   "name": "Mudgala",
+   "iast": "Mudgala",
+   "group": "Seer",
+   "who": "a sage, husband of Nadayani Indrasena",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.113.24"
+  },
+  {
+   "name": "Nadayani",
+   "iast": "Nāḍāyanī",
+   "group": "Seer",
+   "who": "Indrasena, wife of Mudgala, a model of devotion",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.113.24"
   }
  ],
  "not_vyasa": [
