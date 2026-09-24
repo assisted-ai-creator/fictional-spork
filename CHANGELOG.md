@@ -18,6 +18,23 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 2 (Sabha Parva) begun: chapters 1–2
+- New folder `novel/book-02-sabha/`. Book 2's chapter plan (17 chapters, CE 2.1–2.72) was
+  drawn up from the CE and added to `NOVEL_PLAN.md`.
+- Ch 1 *Maya's Hall* (CE 2.1–3) and Ch 2 *Narada's Questions* (2.4–5): Maya's offer; Krishna's
+  departure; the treasures of Bindusaras; the hall and its deceptive pool; the seers and
+  kings in the hall; Narada's full catechism on kingship, with every question kept. About
+  5,250 words.
+
+### Reference
+- Ledger **L-101** refined: the CE calls Maya "Vishvakarman" as he builds the hall (2.1.16;
+  2.3.23), but never links Vishvakarman to the city.
+
+### Workbook
+- `names.json`: +80, the seers and kings of 2.4. The -man/-mat/-in stems are normalised
+  (Ketuman, Shikhavan, Sarpamali, Babhrumali, Susharma, Sudharma). Chapters 21–22 of Book 1
+  are respelled Ketuman.
+
 ### Novel: Book 1, chapters 91–92 drafted: the Sharngaka birds. Book 1 complete
 - Ch 91 *Jarita* (CE 1.220–222) and Ch 92 *Indra's Boon* (1.223–225): Mandapala and the debt
   of sons; Jarita and her four fledglings; the rat's hole; the fledglings' hymns and Agni's

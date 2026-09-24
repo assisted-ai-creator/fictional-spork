@@ -2,7 +2,7 @@
 
 # Contents
 
-**92 chapters, 168,726 words.** 92 drafted
+**94 chapters, 174,002 words.** 94 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -103,3 +103,12 @@
 | 92 | [Indra's Boon](../novel/book-01-adi/92-indras-boon.md) | 1.223-225 | drafted | 1,713 |
 
 *Book 1 so far: 168,726 words.*
+
+## Book 2: Sabha Parva, *The Assembly Hall*
+
+| # | Chapter | CE | Status | Words |
+|---|---------|----|--------|-------|
+| 1 | [Maya's Hall](../novel/book-02-sabha/01-mayas-hall.md) | 2.1-3 | drafted | 1,664 |
+| 2 | [Narada's Questions](../novel/book-02-sabha/02-naradas-questions.md) | 2.4-5 | drafted | 3,612 |
+
+*Book 2 so far: 5,276 words.*

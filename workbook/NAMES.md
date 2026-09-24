@@ -125,40 +125,68 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Karna** | Karṇa | Kunti's first son, by the Sun, born with armour and earrings; raised by the charioteer Adhiratha and Radha | Vasushena, Radheya, Vaikartana, Suta's son | Radheya | Karan, Karn, Vasusena |
 | **Radha** | Rādhā | Adhiratha's wife, Karna's foster mother. The only Radha in the epic (see ledger L-58) |  |  |  |
 | **Sharadandayani** | Śāradaṇḍāyanī | a hero's wife who bore three sons, Durjaya and others, by a brahmin |  |  |  |
+| **Ahriti** | Āhṛti | a king present in Yudhishthira's hall |  |  |  |
+| **Ahuka** | Āhuka | a king present in Yudhishthira's hall |  |  |  |
 | **Anga** | Aṅga | royal seer, son of Dirghatamas by Sudeshna |  |  |  |
+| **Aniruddha** | Aniruddha | a king present in Yudhishthira's hall |  |  |  |
 | **Anu** | Anu | Yayati's son by Sharmishtha |  |  |  |
 | **Arjuna Kartavirya** | Arjuna Kārtavīrya | thousand-armed king of the Haihayas, killed by Rama Jamadagnya; say 'Arjuna, the Haihaya king' to keep him apart from the Pandava | Kartavirya |  |  |
 | **Ashmaka** | Aśmaka | son of Madayanti by Vasishtha |  |  |  |
 | **Ashtaka** | Aṣṭaka | royal seer, a grandson of Yayati through his daughter, who questions and helps save him |  |  |  |
 | **Bali** | Bali | king who rescued Dirghatamas from the Ganga and had him father sons on his queen (not the asura Bali) |  |  |  |
 | **Bharata** | Bharata | son of Dushyanta and Shakuntala, first called Sarvadamana; the emperor from whom the Bharatas take their name | Sarvadamana |  |  |
+| **Bhimaratha** | Bhīmaratha | a king present in Yudhishthira's hall |  |  |  |
+| **Bhishmaka** | Bhīṣmaka | a king present in Yudhishthira's hall |  |  |  |
+| **Chanura** | Cāṇūra | a king present in Yudhishthira's hall |  |  |  |
 | **Darva** | Dārva | lord of Magadha killed at Rajagriha in Pandu's campaign (vulgate 'Dirgha') |  |  | Dhirga |
 | **Dasharatha** | Daśaratha | father of Rama of Ayodhya ("Rama, Dasharatha's son", 1.197.6) |  |  |  |
 | **Devaka** | Devaka | king whose daughter by a shudra woman married Vidura |  |  |  |
+| **Devarata** | Devarāta | a king present in Yudhishthira's hall |  |  |  |
 | **Druhyu** | Druhyu | Yayati's son by Sharmishtha |  |  |  |
+| **Durmukha** | Durmukha | a king present in Yudhishthira's hall |  |  |  |
 | **Dushyanta** | Duḥṣanta | Paurava king who marries Shakuntala by the gandharva rite and later denies her until a heavenly voice speaks; father of Bharata |  |  | Dushmanta, Dusyanta, Dushyant |
+| **Dyumatsena** | Dyumatsena | a king present in Yudhishthira's hall |  |  |  |
 | **Gadhi** | Gādhi | king of Kanyakubja, Vishvamitra's father |  |  |  |
 | **Gaya** | Gaya | an ancient king, a model of dharma and truthfulness |  |  |  |
 | **Girika** | Girikā | Vasu's wife, daughter of the mountain Kolahala and the river Shuktimati |  |  |  |
+| **Jatasura** | Jaṭāsura | a king present in Yudhishthira's hall |  |  |  |
+| **Kakshasena** | Kakṣasena | a king present in Yudhishthira's hall |  |  |  |
 | **Kalmashapada** | Kalmāṣapāda | Ikshvaku king cursed by Shakti to eat men; freed by Vasishtha; father (by Vasishtha) of Ashmaka | Saudasa, Mitrasaha |  |  |
+| **Kamala** | Kamala | a king present in Yudhishthira's hall |  |  |  |
+| **Kampana** | Kampana | a king present in Yudhishthira's hall |  |  |  |
+| **Ketuman** | Ketumat | a king present in Yudhishthira's hall |  |  | Ketumat |
+| **Kritakshana** | Kṛtakṣaṇa | a king present in Yudhishthira's hall |  |  |  |
 | **Kritavirya** | Kṛtavīrya | king who enriched the Bhrigus; father of Arjuna Kartavirya |  |  |  |
+| **Kshemajit** | Kṣemajit | a king present in Yudhishthira's hall |  |  |  |
+| **Kshemaka** | Kṣemaka | a king present in Yudhishthira's hall |  |  |  |
+| **Kuninda** | Kuṇinda | a king present in Yudhishthira's hall |  |  |  |
 | **Madayanti** | Madayantī | wife of Saudasa (Kalmashapada), mother of Ashmaka by Vasishtha |  |  |  |
 | **Mahabhisha** | Mahābhiṣa | a king of Ikshvaku's line in heaven, cursed by Brahma for gazing at Ganga; reborn as Shantanu |  |  |  |
 | **Manu** | Manu | Manu son of Vivasvat (through Martanda in 1.70), from whom the human race descends | Vaivasvata |  |  |
+| **Munjaketu** | Muñjaketu | a king present in Yudhishthira's hall |  |  |  |
 | **Nahusha** | Nahuṣa | son of Ayus, father of Yayati; for a time he made himself Indra |  |  | Nahush |
 | **Paushya** | Pauṣya | king whose queen gives her earrings to Uttanka |  |  |  |
 | **Pratardana** | Pratardana | royal seer, a grandson of Yayati through his daughter |  |  |  |
+| **Pundraka** | Puṇḍraka | a king present in Yudhishthira's hall |  |  |  |
 | **Puru** | Pūru | Yayati's youngest son, by Sharmishtha, who took his father's old age; founder of the Paurava line |  |  |  |
 | **Pururavas** | Purūravas | son of Ila, husband of Urvashi, ancestor of the Lunar line | Aila |  | Pururava |
+| **Samgramajit** | Saṃgrāmajit | a king present in Yudhishthira's hall |  |  |  |
 | **Shakuntala** | Śakuntalā | daughter of Vishvamitra and Menaka, raised by Kanva; wife of Dushyanta, mother of Bharata |  |  | Sakuntala, Shakuntalaa |
 | **Shalva** | Śālva | king of the Shalvas and lord of Saubha, whom Amba had chosen; beaten by Bhishma at Varanasi | lord of Saubha |  |  |
 | **Sharmishtha** | Śarmiṣṭhā | daughter of the asura king Vrishaparvan; Devayani's rival and servant; mother of Druhyu, Anu and Puru |  |  | Sarmishtha, Sharmista |
 | **Shibi** | Śibi | son of Ushinara, a royal seer of unequalled generosity, a grandson of Yayati through his daughter | Aushinara |  | Sibi |
+| **Shrutayudha** | Śrutāyudha | a king present in Yudhishthira's hall |  |  |  |
 | **Sudeshna** | Sudeṣṇā | Bali's queen, mother of Anga by Dirghatamas (another Sudeshna is Virata's queen) |  |  |  |
+| **Sudharma** | Sudharman | a king present in Yudhishthira's hall |  |  | Sudharman |
+| **Sumanas** | Sumanas | a king present in Yudhishthira's hall |  |  |  |
+| **Suratha** | Suratha | a king present in Yudhishthira's hall |  |  |  |
+| **Susharma** | Suśarman | a king present in Yudhishthira's hall |  |  | Susharman |
 | **Turvasu** | Turvasu | Yayati's son by Devayani |  |  |  |
 | **Uparichara Vasu** | Uparicara Vasu | king of Chedi, Indra's friend, who rides above the earth in a crystal chariot; father of Satyavati and Matsya | Vasu, Uparichara |  |  |
 | **Vapushtama** | Vapuṣṭamā | daughter of Suvarnavarman of Kashi; Janamejaya's wife |  |  |  |
+| **Vasudana** | Vasudāna | a king present in Yudhishthira's hall |  |  |  |
 | **Vasumanas** | Vasumanas | royal seer, son of Rushadashva, a grandson of Yayati through his daughter | Vasumat |  |  |
+| **Vivardhana** | Vivardhana | a king present in Yudhishthira's hall |  |  |  |
 | **Vrishaparvan** | Vṛṣaparvan | king of the asuras, Shukra's patron, father of Sharmishtha |  |  | Vrishaparva |
 | **Yadu** | Yadu | Yayati's eldest son, by Devayani; ancestor of the Yadavas |  |  |  |
 | **Yayati** | Yayāti | son of Nahusha, husband of Devayani and Sharmishtha, who traded his old age for Puru's youth |  |  | Yayathi |
@@ -243,45 +271,87 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Agastya** | Agastya | seer who hunted during a sacrifice and consecrated the deer to the gods |  |  |  |
 | **Agniveshya** | Agniveśya | sage who received the weapon of Fire from Bharadvaja and taught Drona |  |  |  |
 | **Animandavya** | Aṇīmāṇḍavya | the seer impaled as a thief who cursed Dharma to be born as Vidura | Mandavya |  | Animandavya Rishi |
+| **Apsuhomya** | Apsuhomya | a seer present in Yudhishthira's hall |  |  |  |
 | **Arundhati** | Arundhatī | Vasishtha's wife |  |  |  |
 | **Aruni** | Āruṇi Pāñcālya | Dhaumya's pupil, renamed Uddalaka | Uddalaka |  |  |
+| **Arvavasu** | Arvāvasu | a seer present in Yudhishthira's hall |  |  |  |
+| **Asita Devala** | Asita Devala | a seer present in Yudhishthira's hall |  |  |  |
 | **Astika** | Āstīka | son of Jaratkaru and Vasuki's sister; he stops the snake sacrifice |  |  |  |
 | **Aurva** | Aurva | Bhrigu born from his mother's thigh; his anger became the Mare's Head fire in the sea |  |  |  |
+| **Aushija** | Auśija | a seer present in Yudhishthira's hall |  |  |  |
+| **Babhrumali** | Babhrumālin | a seer present in Yudhishthira's hall |  |  | Babhrumalin |
+| **Baka Dalbhya** | Baka Dālbhya | a seer present in Yudhishthira's hall |  |  |  |
+| **Balavaka** | Balavāka | a seer present in Yudhishthira's hall |  |  |  |
+| **Bhaluki** | Bhāluki | a seer present in Yudhishthira's hall |  |  |  |
 | **Bharadvaja** | Bharadvāja | seer, Drona's father |  |  |  |
 | **Bhrigu** | Bhṛgu | seer, son of Brahma, ancestor of the Bhargavas (Shaunaka's line) |  |  |  |
 | **Chyavana** | Cyavana | son of Bhrigu, 'the Fallen One' |  |  | Chyavan |
 | **Dadhicha** | Dadhīca | seer from whose bones Indra's thunderbolt was made | Dadhichi |  |  |
+| **Damoshnisha** | Dāmoṣṇīṣa | a seer present in Yudhishthira's hall |  |  |  |
 | **Devala** | Devala | seer, Dhaumya's elder brother |  |  |  |
 | **Devayani** | Devayānī | daughter of Shukra; wife of Yayati; mother of Yadu and Turvasu |  |  | Devyani |
 | **Dhaumya** | Dhaumya | Devala's younger brother, the Pandavas' family priest |  |  |  |
 | **Dhaumya of the Ayodas** | Dhaumya Āyoda | teacher of Aruni, Upamanyu and Veda. NOT the Dhaumya who becomes the Pandavas' priest (1.174) |  |  |  |
 | **Dirghatamas** | Dīrghatamas | son of Utathya, cursed in the womb by Brihaspati to be born blind; fathers sons for King Bali |  |  | Dirghatama |
 | **Durvasas** | Durvāsas | the fierce brahmin who gave Pritha the mantra to call the gods |  |  | Durvasa |
+| **Galava** | Gālava | a seer present in Yudhishthira's hall |  |  |  |
 | **Gauramukha** | Gauramukha | Shamika's pupil, sent to warn Parikshit |  |  |  |
+| **Ghatajanuka** | Ghaṭajānuka | a seer present in Yudhishthira's hall |  |  |  |
 | **Ghurnika** | Ghūrṇikā | Devayani's maid |  |  |  |
+| **Haribabhru** | Haribabhru | a seer present in Yudhishthira's hall |  |  |  |
+| **Jaimini** | Jaimini | a seer present in Yudhishthira's hall |  |  |  |
+| **Janghabandhu** | Jaṅghābandhu | a seer present in Yudhishthira's hall |  |  |  |
 | **Jaratkaru** | Jaratkāru | a Yayavara seer of strict vows who marries only a bride of his own name; Astika's father. His wife, Vasuki's sister, has the same name (1.13.34) |  |  | Jaratkaaru, Jaratkara |
 | **Jatila** | Jaṭilā | a woman of the Gautama line who lived with seven seers; Yudhishthira's precedent for Draupadi's marriage |  |  |  |
+| **Jatukarna** | Jātūkarṇa | a seer present in Yudhishthira's hall |  |  |  |
 | **Kacha** | Kaca | son of Brihaspati, who learns the art of raising the dead from Shukra |  |  | Kach |
 | **Kakshivat** | Kākṣīvat | eldest of the eleven sons of Dirghatamas by Sudeshna's servant |  |  | Kakshivan, Kakshivant |
+| **Kalapa** | Kalāpa | a seer present in Yudhishthira's hall |  |  |  |
 | **Kanva** | Kaṇva | the Kashyapa seer on the Malini who raised Shakuntala | the Kashyapa |  | Kanwa |
+| **Karkara** | Karkara | a seer present in Yudhishthira's hall |  |  |  |
 | **Kashyapa** | Kāśyapa | lord of creatures, husband of Kadru and Vinata, father of the snakes, Aruna and Garuda (1.14); the same name is borne by the brahmin healer whom Takshaka turns back from saving Parikshit (1.38–39) |  |  |  |
+| **Katha** | Kaṭha | a seer present in Yudhishthira's hall |  |  |  |
+| **Kaundinya** | Kauṇḍinya | a seer present in Yudhishthira's hall |  |  |  |
 | **Khagama** | Khagama | brahmin who cursed his friend Sahasrapat |  |  |  |
 | **Kindama** | Kiṃdama | the sage who, in a deer's form, was shot by Pandu while mating, and cursed him |  |  | Kindam, Kimdama |
+| **Kopavegashravas** | Kopavegaśravas | a seer present in Yudhishthira's hall |  |  |  |
 | **Krisha** | Kṛśa | a seer's son, Shringin's friend, whose teasing provokes the curse |  |  |  |
+| **Kritashrama** | Kṛtaśrama | a seer present in Yudhishthira's hall |  |  |  |
+| **Mahashiras** | Mahāśiras | a seer present in Yudhishthira's hall |  |  |  |
+| **Maitreya** | Maitreya | a seer present in Yudhishthira's hall |  |  |  |
 | **Mamata** | Mamatā | wife of Utathya, mother of Dirghatamas |  |  |  |
 | **Mandapala** | Mandapāla | a seer who, denied heaven for want of sons, became a Sharngaka bird and fathered four sons on Jarita |  |  |  |
+| **Markandeya** | Mārkaṇḍeya | a seer present in Yudhishthira's hall |  |  |  |
+| **Maunjayana** | Mauñjāyana | a seer present in Yudhishthira's hall |  |  |  |
+| **Nachiketa** | Nāciketa | a seer present in Yudhishthira's hall |  |  |  |
 | **Narada** | Nārada | the divine seer who wanders the worlds; he warns the Pandavas with the tale of Sunda and Upasunda |  |  | Naarad, Narad |
+| **Paila** | Paila | a seer present in Yudhishthira's hall |  |  |  |
+| **Painga** | Paiṅga | a seer present in Yudhishthira's hall |  |  |  |
 | **Parashara** | Parāśara | son of Shakti; father of Vyasa by Satyavati |  |  | Parasara |
+| **Parijata** | Pārijāta | a seer present in Yudhishthira's hall |  |  |  |
+| **Parijataka** | Pārijātaka | a seer present in Yudhishthira's hall |  |  |  |
+| **Parnada** | Parṇāda | a seer present in Yudhishthira's hall |  |  |  |
+| **Parvata** | Parvata | a seer present in Yudhishthira's hall |  |  |  |
+| **Pavitrapani** | Pavitrapāṇi | a seer present in Yudhishthira's hall |  |  |  |
 | **Pramadvara** | Pramadvarā | daughter of Vishvavasu and Menaka, raised by Sthulakesha; Ruru's wife |  |  |  |
 | **Pramati** | Pramati | son of Chyavana and Sukanya; father of Ruru |  |  |  |
 | **Pulastya** | Pulastya | seer, ancestor of the rakshasas, who stopped Parashara's sacrifice |  |  |  |
 | **Puloma** | Pulomā | Bhrigu's wife, mother of Chyavana (the rakshasa is Puloman) |  |  |  |
+| **Raibhya** | Raibhya | a seer present in Yudhishthira's hall |  |  |  |
+| **Raivata** | Raivata | a seer present in Yudhishthira's hall |  |  |  |
 | **Rama Jamadagnya** | Rāma Jāmadagnya | son of Jamadagni, the Bhrigu warrior-brahmin who destroyed the kshatriyas and made the five lakes of blood; later Bhishma's opponent and Karna's teacher. The CE never calls him 'Parashurama' (ledger L-62): write 'Rama, son of Jamadagni', 'Rama Jamadagnya' or 'Bhargava Rama' | Bhargava Rama | Jamadagnya | Parashuram, Parashurama, Parasurama, Parshuram |
 | **Ruru** | Ruru | son of Pramati; gives half his life to Pramadvara |  |  |  |
 | **Sahasrapat** | Sahasrapād | seer cursed to be a dundubha snake |  |  |  |
+| **Sanatana** | Sanātana | a seer present in Yudhishthira's hall |  |  |  |
+| **Sarika** | Sārika | a seer present in Yudhishthira's hall |  |  |  |
+| **Sarpamali** | Sarpamālin | a seer present in Yudhishthira's hall |  |  | Sarpamalin |
+| **Savarni** | Sāvarṇi | a seer present in Yudhishthira's hall |  |  |  |
 | **Shakti** | Śakti | Vasishtha's eldest son, eaten by Kalmashapada; father of Parashara | Shaktri |  | Sakti |
 | **Shamika** | Śamīka | the silent sage on whose shoulder Parikshit hangs a dead snake; father of Shringin |  |  | Shameek |
+| **Shandilya** | Śāṇḍilya | a seer present in Yudhishthira's hall |  |  |  |
 | **Sharadvat** | Śaradvat | Gautama's son, the archer-seer, father of Kripa and Kripi | Gautama |  | Saradvan, Sharadvan |
+| **Shikhavan** | Śikhāvat | a seer present in Yudhishthira's hall |  |  | Shikhavat |
+| **Shinivaka** | Śinīvāka | a seer present in Yudhishthira's hall |  |  |  |
 | **Shringin** | Śṛṅgin | Shamika's hot-tempered son, who curses Parikshit |  |  | Shringi, Sringi |
 | **Shrutashravas** | Śrutaśravas | seer, father of Somashravas |  |  |  |
 | **Shuka** | Śuka | Vyasa's son and pupil |  |  | Suka, Shukadeva |
@@ -290,18 +360,28 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shvetaketu** | Śvetaketu | Uddalaka's son, who made the rule of marital faithfulness |  |  | Svetaketu |
 | **Somashravas** | Somaśravas | Janamejaya's family priest, son of Shrutashravas by a snake-woman |  |  |  |
 | **Sthulakesha** | Sthūlakeśa | seer who raised Pramadvara |  |  |  |
+| **Sthulashiras** | Sthūlaśiras | a seer present in Yudhishthira's hall |  |  |  |
+| **Sumantu** | Sumantu | a seer present in Yudhishthira's hall |  |  |  |
+| **Sumukha** | Sumukha | a seer present in Yudhishthira's hall |  |  |  |
 | **Supratika** | Supratīka | Vibhavasu's younger brother, who wanted their wealth divided; becomes the elephant |  |  |  |
+| **Sutyapala** | Sutyapāla | a seer present in Yudhishthira's hall |  |  |  |
+| **Tittiri** | Tittiri | a seer present in Yudhishthira's hall |  |  |  |
+| **Traivani** | Traivaṇi | a seer present in Yudhishthira's hall |  |  |  |
 | **Uddalaka** | Uddālaka | seer, father of Shvetaketu |  |  |  |
 | **Upamanyu** | Upamanyu | Dhaumya's pupil who praised the Ashvins |  |  |  |
 | **Upayaja** | Upayāja | Yaja's younger brother, who refused Drupada and sent him to Yaja |  |  |  |
 | **Utathya** | Utathya | seer, elder brother of Brihaspati, husband of Mamata |  |  |  |
 | **Uttanka** | Uttaṅka | pupil of Veda who fetches the queen's earrings and urges Janamejaya to take revenge |  |  | Utanka |
+| **Varaha** | Varāha | a seer present in Yudhishthira's hall |  |  |  |
 | **Vasishtha** | Vasiṣṭha | the seer, son of Varuna, also called Apava; cursed the Vasus; taught Devavrata the Vedas | Apava |  | Vashishta, Vasistha |
+| **Vayubhaksha** | Vāyubhakṣa | a seer present in Yudhishthira's hall |  |  |  |
 | **Veda** | Veda | Dhaumya's pupil, later teacher of Uttanka and priest of Janamejaya and Paushya |  |  |  |
+| **Venujangha** | Veṇujaṅgha | a seer present in Yudhishthira's hall |  |  |  |
 | **Vibhavasu** | Vibhāvasu | an angry seer who curses his brother to become an elephant and is himself cursed to become a tortoise |  |  |  |
 | **Vishvamitra** | Viśvāmitra | a kshatriya who became a brahmin by austerity; father of Shakuntala by Menaka | Kaushika |  | Visvamitra, Viswamitra |
 | **Vyasa** | Vyāsa | Krishna Dvaipayana, son of Parashara and Satyavati; maker of the epic and father of Dhritarashtra, Pandu and Vidura | Krishna Dvaipayana, Dvaipayana, Parasharya | Dvaipayana | Vyas, Ved Vyas |
 | **Yaja** | Yāja | Kashyapa seer who performed Drupada's sacrifice for a son |  |  |  |
+| **Yajnavalkya** | Yājñavalkya | a seer present in Yudhishthira's hall |  |  |  |
 | **Abhibhu** | Abhibhū | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Amshuman** | Aṃśumat | a king named among the suitors at Draupadi's bridegroom choice |  |  | Amshumat |
 | **Bahlika** | Bāhlika | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |

@@ -54,7 +54,7 @@ one son, the mighty Bali. And Bali's famous son was the great asura called Bana.
 Danu had forty sons, famous everywhere, Bharata. The first-born of them was King
 Viprachitti, of great fame. Then Shambara, Namuchi and the famous Puloman,
 Asiloman, Keshin and the danava Durjaya, Ayahshiras, Ashvashiras and mighty
-Ayahshanku, Gaganamurdhan, Vegavat and Ketumat, Svarbhanu, Ashva, Ashvapati,
+Ayahshanku, Gaganamurdhan, Vegavat and Ketuman, Svarbhanu, Ashva, Ashvapati,
 Vrishaparvan and Ajaka, Ashvagriva, Sukshma and the great asura Tuhunda, Isripa,
 Ekachakra, Virupaksha, Hara and Ahara, Nichandra and Nikumbha, Kupatha and
 Kapatha, Sharabha and Shalabha, and Surya and Chandramas. These are the famous

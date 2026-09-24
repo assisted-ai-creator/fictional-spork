@@ -28,7 +28,7 @@ became the lord of men known as Bhagadatta.
 Ayahshiras, Ashvashiras, mighty Ayahshanku, Gaganamurdhan and Vegavat the fifth:
 these five brave great asuras, king, were born among the Kekayas as great
 princes, the best of the bulls among kings. Another, the mighty one known as
-Ketumat, became a king on earth known as Amitaujas. The glorious great asura
+Ketuman, became a king on earth known as Amitaujas. The glorious great asura
 known as Svarbhanu became the king of fierce deeds known as Ugrasena. The
 glorious great asura known as Ashva became a king named Ashoka, of great valour
 and courage. His younger brother, king, who is remembered as Ashvapati, a

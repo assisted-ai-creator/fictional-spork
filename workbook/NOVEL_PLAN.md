@@ -214,6 +214,31 @@ Note: the text counts the Harivaṃśa and the Bhaviṣya among the hundred, as
 The numbering above follows the list's order. The CE text does not number
 the parts.
 
+## Book 2: Sabhā Parva: *The Assembly Hall* (CE 2.1–2.72)
+
+2,390 verses in 72 adhyāyas. The chapter list was drawn up from the CE before
+drafting. It is refined while drafting.
+
+| Ch | Title (working) | CE | Notes |
+|----|-----------------|----|-------|
+| 1 | Maya's Hall | 2.1–2.3 | ✅ drafted. Maya's offer; Kṛṣṇa leaves; Bindusaras; the hall and its pool. |
+| 2 | Narada's Questions | 2.4–2.5 | ✅ drafted. The hall opened; the seers and kings; Nārada's "I hope…" questions on kingship, all kept. |
+| 3 | The Halls of the Guardians | 2.6–2.11 | The halls of Indra, Yama, Varuṇa, Kubera and Brahmā; Hariścandra; Pāṇḍu's message. |
+| 4 | Jarasandha | 2.12–2.17 | The Rājasūya planned; Kṛṣṇa on Jarāsaṃdha; his birth from two halves; Jarā. |
+| 5 | The Wrestling Match | 2.18–2.22 | Kṛṣṇa, Bhīma and Arjuna go to Girivraja; Bhīma kills Jarāsaṃdha; the kings freed. |
+| 6 | The Four Quarters | 2.23–2.29 | The brothers' conquests, north, east, south and west. |
+| 7 | The Consecration | 2.30–2.32 | The Rājasūya performed. |
+| 8 | The Guest Gift | 2.33–2.36 | The first honour given to Kṛṣṇa; Śiśupāla objects. |
+| 9 | Shishupala | 2.37–2.42 | Bhīṣma's answer; Śiśupāla's birth and the hundred offences; his death. |
+| 10 | Duryodhana in the Hall | 2.43–2.44 | The crystal floor and the pool; his envy. |
+| 11 | Shakuni's Plan | 2.45–2.49 | The dice proposed; Duryodhana's list of the tribute. |
+| 12 | The Invitation | 2.50–2.53 | Vidura sent to Indraprastha; Yudhiṣṭhira accepts. |
+| 13 | The Game | 2.54–2.58 | Wealth, kingdom, brothers and himself lost. |
+| 14 | The Wager | 2.59–2.60 | Draupadī staked and lost; Prātikāmin; Duḥśāsana drags her in. |
+| 15 | The Question | 2.61–2.62 | Draupadī's question; Vikarṇa; Karṇa; the disrobing. |
+| 16 | Draupadi's Boons | 2.63–2.65 | The omens; Dhṛtarāṣṭra's boons; the return. |
+| 17 | The Second Game | 2.66–2.72 | The recall; the exile staked and lost; the departure; Vidura and Dhṛtarāṣṭra. |
+
 ## Books 2–18: provisional sub-parvas
 
 These come from Ganguli's section headings mapped to CE numbers by the

@@ -4225,6 +4225,818 @@
    "dialogue": [],
    "flag": [],
    "ref": "1.221.9"
+  },
+  {
+   "name": "Asita Devala",
+   "iast": "Asita Devala",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Sarpamali",
+   "iast": "Sarpamālin",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Sarpamalin"
+   ],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Mahashiras",
+   "iast": "Mahāśiras",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Arvavasu",
+   "iast": "Arvāvasu",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Maitreya",
+   "iast": "Maitreya",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Baka Dalbhya",
+   "iast": "Baka Dālbhya",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Sthulashiras",
+   "iast": "Sthūlaśiras",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Sumantu",
+   "iast": "Sumantu",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Jaimini",
+   "iast": "Jaimini",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Paila",
+   "iast": "Paila",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Tittiri",
+   "iast": "Tittiri",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Yajnavalkya",
+   "iast": "Yājñavalkya",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Apsuhomya",
+   "iast": "Apsuhomya",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Damoshnisha",
+   "iast": "Dāmoṣṇīṣa",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Traivani",
+   "iast": "Traivaṇi",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Parnada",
+   "iast": "Parṇāda",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Ghatajanuka",
+   "iast": "Ghaṭajānuka",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Maunjayana",
+   "iast": "Mauñjāyana",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Vayubhaksha",
+   "iast": "Vāyubhakṣa",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Sarika",
+   "iast": "Sārika",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Balavaka",
+   "iast": "Balavāka",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Shinivaka",
+   "iast": "Śinīvāka",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Sutyapala",
+   "iast": "Sutyapāla",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Kritashrama",
+   "iast": "Kṛtaśrama",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Jatukarna",
+   "iast": "Jātūkarṇa",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Shikhavan",
+   "iast": "Śikhāvat",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Shikhavat"
+   ],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Parijataka",
+   "iast": "Pārijātaka",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Parvata",
+   "iast": "Parvata",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Markandeya",
+   "iast": "Mārkaṇḍeya",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Pavitrapani",
+   "iast": "Pavitrapāṇi",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Savarni",
+   "iast": "Sāvarṇi",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Bhaluki",
+   "iast": "Bhāluki",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Galava",
+   "iast": "Gālava",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Janghabandhu",
+   "iast": "Jaṅghābandhu",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Raibhya",
+   "iast": "Raibhya",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Kopavegashravas",
+   "iast": "Kopavegaśravas",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Haribabhru",
+   "iast": "Haribabhru",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Kaundinya",
+   "iast": "Kauṇḍinya",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Babhrumali",
+   "iast": "Babhrumālin",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Babhrumalin"
+   ],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Sanatana",
+   "iast": "Sanātana",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Aushija",
+   "iast": "Auśija",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Nachiketa",
+   "iast": "Nāciketa",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Painga",
+   "iast": "Paiṅga",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Varaha",
+   "iast": "Varāha",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Shandilya",
+   "iast": "Śāṇḍilya",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Karkara",
+   "iast": "Karkara",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Venujangha",
+   "iast": "Veṇujaṅgha",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Kalapa",
+   "iast": "Kalāpa",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Katha",
+   "iast": "Kaṭha",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Parijata",
+   "iast": "Pārijāta",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Raivata",
+   "iast": "Raivata",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Sumukha",
+   "iast": "Sumukha",
+   "group": "Seer",
+   "who": "a seer present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.8-15"
+  },
+  {
+   "name": "Munjaketu",
+   "iast": "Muñjaketu",
+   "group": "King",
+   "who": "a king present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.18-27"
+  },
+  {
+   "name": "Vivardhana",
+   "iast": "Vivardhana",
+   "group": "King",
+   "who": "a king present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.18-27"
+  },
+  {
+   "name": "Samgramajit",
+   "iast": "Saṃgrāmajit",
+   "group": "King",
+   "who": "a king present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.18-27"
+  },
+  {
+   "name": "Durmukha",
+   "iast": "Durmukha",
+   "group": "King",
+   "who": "a king present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.18-27"
+  },
+  {
+   "name": "Kakshasena",
+   "iast": "Kakṣasena",
+   "group": "King",
+   "who": "a king present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.18-27"
+  },
+  {
+   "name": "Kshemaka",
+   "iast": "Kṣemaka",
+   "group": "King",
+   "who": "a king present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.18-27"
+  },
+  {
+   "name": "Kamala",
+   "iast": "Kamala",
+   "group": "King",
+   "who": "a king present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.18-27"
+  },
+  {
+   "name": "Kampana",
+   "iast": "Kampana",
+   "group": "King",
+   "who": "a king present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.18-27"
+  },
+  {
+   "name": "Jatasura",
+   "iast": "Jaṭāsura",
+   "group": "King",
+   "who": "a king present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.18-27"
+  },
+  {
+   "name": "Kuninda",
+   "iast": "Kuṇinda",
+   "group": "King",
+   "who": "a king present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.18-27"
+  },
+  {
+   "name": "Pundraka",
+   "iast": "Puṇḍraka",
+   "group": "King",
+   "who": "a king present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.18-27"
+  },
+  {
+   "name": "Sumanas",
+   "iast": "Sumanas",
+   "group": "King",
+   "who": "a king present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.18-27"
+  },
+  {
+   "name": "Chanura",
+   "iast": "Cāṇūra",
+   "group": "King",
+   "who": "a king present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.18-27"
+  },
+  {
+   "name": "Devarata",
+   "iast": "Devarāta",
+   "group": "King",
+   "who": "a king present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.18-27"
+  },
+  {
+   "name": "Bhimaratha",
+   "iast": "Bhīmaratha",
+   "group": "King",
+   "who": "a king present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.18-27"
+  },
+  {
+   "name": "Shrutayudha",
+   "iast": "Śrutāyudha",
+   "group": "King",
+   "who": "a king present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.18-27"
+  },
+  {
+   "name": "Susharma",
+   "iast": "Suśarman",
+   "group": "King",
+   "who": "a king present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Susharman"
+   ],
+   "ref": "2.4.18-27"
+  },
+  {
+   "name": "Suratha",
+   "iast": "Suratha",
+   "group": "King",
+   "who": "a king present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.18-27"
+  },
+  {
+   "name": "Ketuman",
+   "iast": "Ketumat",
+   "group": "King",
+   "who": "a king present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Ketumat"
+   ],
+   "ref": "2.4.18-27"
+  },
+  {
+   "name": "Vasudana",
+   "iast": "Vasudāna",
+   "group": "King",
+   "who": "a king present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.18-27"
+  },
+  {
+   "name": "Kritakshana",
+   "iast": "Kṛtakṣaṇa",
+   "group": "King",
+   "who": "a king present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.18-27"
+  },
+  {
+   "name": "Sudharma",
+   "iast": "Sudharman",
+   "group": "King",
+   "who": "a king present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Sudharman"
+   ],
+   "ref": "2.4.18-27"
+  },
+  {
+   "name": "Aniruddha",
+   "iast": "Aniruddha",
+   "group": "King",
+   "who": "a king present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.18-27"
+  },
+  {
+   "name": "Kshemajit",
+   "iast": "Kṣemajit",
+   "group": "King",
+   "who": "a king present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.18-27"
+  },
+  {
+   "name": "Ahuka",
+   "iast": "Āhuka",
+   "group": "King",
+   "who": "a king present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.18-27"
+  },
+  {
+   "name": "Bhishmaka",
+   "iast": "Bhīṣmaka",
+   "group": "King",
+   "who": "a king present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.18-27"
+  },
+  {
+   "name": "Ahriti",
+   "iast": "Āhṛti",
+   "group": "King",
+   "who": "a king present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.18-27"
+  },
+  {
+   "name": "Dyumatsena",
+   "iast": "Dyumatsena",
+   "group": "King",
+   "who": "a king present in Yudhishthira's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.4.18-27"
   }
  ],
  "not_vyasa": [
