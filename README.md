@@ -7,7 +7,7 @@ modern invention.
 
 > **Status:** Book 1 (Ādi Parva) drafted in full: 92 chapters, all 225 adhyāyas.
 > Book 2 (Sabhā Parva) drafted in full: 23 chapters, all 72 adhyāyas.
-> Book 3 (Āraṇyaka Parva) next. See
+> Book 3 (Āraṇyaka Parva) in progress. See
 > [`index/CONTENTS.md`](index/CONTENTS.md) and
 > [`index/COVERAGE.md`](index/COVERAGE.md).
 

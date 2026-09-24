@@ -181,7 +181,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Suhanu** | Suhanu | named in Varuna's hall (2.9) |  |  |  |
 | **Sumati** | Sumati | named in Varuna's hall (2.9) |  |  |  |
 | **Sunitha** | Sunītha | named in Indra's hall (2.7) |  |  |  |
-| **Surabhi** | Surabhi | named in Brahma's hall (2.11) |  |  |  |
+| **Surabhi** | Surabhi | named in Brahma's hall (2.11); the mother of cows, who wept for her weakest son (3.10) |  |  |  |
 | **Surasa** | Surasā | named in Brahma's hall (2.11) |  |  |  |
 | **Surupa** | Surūpa | named in Varuna's hall (2.9) |  |  |  |
 | **Susimha** | Susiṃha | named in Yama's hall (2.8) |  |  |  |
@@ -233,14 +233,14 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Mitra** | Mitra | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
 | **Parameshthin** | Parameṣṭhin | "the one who stands highest", a divine being at Brahma's court |  |  |  |
 | **Pushan** | Pūṣan | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
-| **Savitri** | Savitṛ | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
+| **Savitri** | Savitṛ | one of the gods who attack Krishna and Arjuna at Khandava; also a name of the sun (3.3.18) |  |  |  |
 | **Shachi** | Śacī | Indra's wife | Indrani, Paulomi |  |  |
 | **Soma** | Soma | the moon god, who gave Varuna the bow Gandiva |  |  |  |
 | **Svaha** | Svāhā | wife of Agni, the fire |  |  |  |
 | **Tvashtri** | Tvaṣṭṛ | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
 | **Uma** | Umā | Shiva's wife, daughter of the king of mountains |  |  |  |
 | **Vishvakarman** | Viśvakarman | the craftsman of the gods |  |  | Vishwakarma, Vishvakarma |
-| **Vivasvat** | Vivasvat | the sun god, father of Yama |  |  | Vivaswat, Vivasvan |
+| **Vivasvat** | Vivasvat | the sun god, father of Yama | Surya, Arka, Ravi |  | Vivaswat, Vivasvan |
 | **Hiranyakashipu** | Hiraṇyakaśipu | a great asura king, ancestor of Nikumbha |  |  | Hiranyakasipu |
 | **Jambha** | Jambha | an asura given up by the great asuras, as Kavya advised |  |  |  |
 | **Maya** | Maya | an asura, Namuchi's brother, spared at the burning of Khandava at Arjuna's word |  |  |  |
@@ -256,7 +256,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Gavalgana** | Gavalgaṇa | the suta, father of Sanjaya |  |  |  |
 | **Lohitaksha** | Lohitākṣa | the red-eyed suta, builder of Janamejaya's place of sacrifice, who foretold that a brahmin would stop the rite |  |  |  |
 | **Lomaharshana** | Lomaharṣaṇa | father of Ugrashravas, a bard |  |  | Lomaharsana |
-| **Shaunaka** | Śaunaka | head of the household of sages in the Naimisha forest | kulapati |  | Saunaka |
+| **Shaunaka** | Śaunaka | head of the household of sages in the Naimisha forest; also a brahmin skilled in yoga and Samkhya who teaches Yudhishthira in the forest (3.2.14) | kulapati |  | Saunaka |
 | **Ugrashravas** | Ugraśravas | the bard, son of Lomaharshana, who tells the epic in the Naimisha forest | Sauti, Lomaharshani | Sauti | Ugrasrava, Ugrasravas |
 | **Vaishampayana** | Vaiśaṃpāyana | Vyasa's pupil, who tells the epic to Janamejaya |  |  | Vaisampayana, Vaishampayan |
 | **Achala** | Acala | a son of the king of Gandhara, Shakuni's brother |  |  |  |
@@ -486,7 +486,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Bhima** | Bhīma | second son of Kunti, by Vayu the wind; immensely strong | Bhimasena, Vrikodara | Bhimasena, Vrikodara | Bheem, Bheema, Bhim |
 | **Draupadi** | Draupadī | daughter of Drupada, born from the sacrificial altar; wife of the five Pandavas | Krishnaa, Panchali, Yajnaseni | Panchali | Draupdi, Dropadi |
 | **Ghatotkacha** | Ghaṭotkaca | son of Bhima and the rakshasi Hidimba |  |  | Ghatotkach |
-| **Indrasena** | Indrasena | Yudhishthira's messenger and charioteer |  |  |  |
+| **Indrasena** | Indrasena | Yudhishthira's messenger and charioteer; follows the Pandavas into the forest (3.1.10) |  |  |  |
 | **Iravan** | Irāvān (Irāvat) | Arjuna's son by a daughter of the snake king, unnamed in the CE (6.86.6-8; the vulgate makes her Ulupi, ledger L-103); dies in battle (not a self-sacrifice: ledger L-37) | Iravat |  | Aravan, Iravat |
 | **Kunti** | Kuntī | Pritha, daughter of Shura, adopted by Kuntibhoja; Pandu's senior wife; mother of Karna, Yudhishthira, Bhima and Arjuna | Pritha | Pritha | Kunthi |
 | **Madri** | Mādrī | princess of Madra, Shalya's sister; Pandu's second wife; mother of Nakula and Sahadeva |  |  |  |
@@ -508,6 +508,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Hidimba** | Hiḍimba / Hiḍimbā | a rakshasa brother and sister of the forest. Bhima kills the brother and marries the sister. In English the names collide, so give context until the brother is dead |  |  | Hidimbi, Hidimbaa |
 | **Jara** | Jarā | the rakshasi who joined the two halves of Jarasandha |  |  |  |
 | **Kinkara** | Kiṃkara | rakshasa who possessed Kalmashapada |  |  |  |
+| **Kirmira** | Kirmīra | rakshasa killed by Bhima in the Kamyaka forest |  |  |  |
 | **Puloman** | Puloman (Pulomā, m.) | the rakshasa who carries off Bhrigu's wife |  |  |  |
 | **Adrishyanti** | Adṛśyantī | Shakti's wife, mother of Parashara |  |  |  |
 | **Agastya** | Agastya | seer who hunted during a sacrifice and consecrated the deer to the gods |  |  |  |

@@ -245,6 +245,110 @@ drafting. It is refined while drafting.
 | 22 | The Second Game | 2.66–2.68 | ✅ drafted. The recall; Gāndhārī's plea; the exile staked on one throw and lost; "Cow!"; the four vows. |
 | 23 | Into the Forest | 2.69–2.72 | ✅ drafted. Vidura keeps Kuntī; Kuntī's lament; how they go (L-22); Nārada's prophecy; Droṇa's foreboding; Dhṛtarāṣṭra and Sañjaya. |
 
+## Book 3: Āraṇyaka Parva: *The Forest* (CE 3.1–3.299)
+
+10,316 verses in 299 adhyāyas. The chapter list was drawn up from the CE's
+adhyāya openings before drafting. Titles and contents are provisional and
+are refined while drafting.
+
+| Ch | Title | CE | Plan |
+|----|-------|----|------|
+| 1 | The Sun's Gift | 3.1–3.4 | ✅ drafted. The citizens turned back; Śaunaka's teaching; Dhaumya and the Sun's 108 names; the food that does not run out (L-23). |
+| 2 | Vidura's Counsel | 3.5–3.7 | ✅ drafted. Vidura's counsel and dismissal; Kāmyaka; Dhṛtarāṣṭra's remorse; the reconciliation. |
+| 3 | Maitreya's Curse | 3.8–3.11 | ✅ drafted. Karṇa's plan stopped by Vyāsa; Surabhi and Indra; Maitreya's curse (L-29). |
+| 4 | Kirmira | 3.12 | Vidura tells how Bhīma killed the rākṣasa Kirmīra. |
+| 5 | Krishna in the Forest | 3.13 | The Vṛṣṇis visit; Draupadī's lament to Kṛṣṇa; his promise. |
+| 6 | Shalva's Attack | 3.14–3.17 | Why Kṛṣṇa was absent: Śālva's siege of Dvārakā. |
+| 7 | Pradyumna | 3.18–3.20 | Pradyumna fights Śālva; his charioteer. |
+| 8 | The Flying City | 3.21–3.23 | Kṛṣṇa destroys Saubha and Śālva; he leaves the Pāṇḍavas. |
+| 9 | Dvaitavana | 3.24–3.27 | The move to Dvaitavana; the brahmins; Mārkaṇḍeya and Baka Dālbhya. |
+| 10 | Draupadi's Anger | 3.28–3.30 | Draupadī urges war; Prahlāda and Bali on forgiveness and force; Yudhiṣṭhira on anger. |
+| 11 | Draupadi and the Creator | 3.31–3.33 | Draupadī blames the Creator; Yudhiṣṭhira's reply; Draupadī on action. |
+| 12 | Bhima's Challenge | 3.34–3.35 | Bhīma urges war; Yudhiṣṭhira holds to his word. |
+| 13 | Vyasa's Counsel | 3.36–3.37 | Bhīma again; Vyāsa comes and gives Yudhiṣṭhira a spell for Arjuna. |
+| 14 | Arjuna Goes North | 3.38–3.39 | Arjuna leaves for Indra; the ascetic Indra; Janamejaya asks. |
+| 15 | The Hunter | 3.40–3.41 | Śiva as a Kirāta; the fight; the Pāśupata weapon. |
+| 16 | Indra's Heaven | 3.42–3.45 | The guardians' weapons; Mātali's chariot; Amarāvatī; Arjuna honoured. |
+| 17 | Dhritarashtra's Fear | 3.46–3.49 | Dhṛtarāṣṭra and Saṃjaya; the Pāṇḍavas in Kāmyaka; Bṛhadaśva arrives. |
+| 18 | Nala and Damayanti | 3.50–3.53 | The swan; the gods' errand; Nala as their envoy. |
+| 19 | The Bridegroom Choice | 3.54–3.57 | Damayantī chooses Nala; Kali and Dvāpara; the dice. |
+| 20 | The Forest | 3.58–3.60 | Nala loses all; he leaves Damayantī in the forest. |
+| 21 | Damayanti Alone | 3.61 | Damayantī's wanderings; the hunter; the ascetics. |
+| 22 | The Caravan | 3.62–3.64 | The caravan; Cedi; Nala and Karkoṭaka; Ṛtuparṇa. |
+| 23 | The Search | 3.65–3.68 | Bhīma's brahmins search; Sudeva; Parṇāda's news. |
+| 24 | The Race to Vidarbha | 3.69–3.72 | Ṛtuparṇa's journey; the dice-lore; Kali leaves Nala; Keśinī sent. |
+| 25 | Nala Returns | 3.73–3.78 | Keśinī's report; the reunion; Nala wins back his kingdom. |
+| 26 | The Merit of the Fords | 3.79–3.80 | The Pāṇḍavas miss Arjuna; Nārada; Pulastya to Bhīṣma begins. |
+| 27 | Pulastya's Fords I | 3.81 | The fords of Kurukṣetra and beyond. |
+| 28 | Pulastya's Fords II | 3.82 | The fords, continued. |
+| 29 | Pulastya's Fords III | 3.83 | The fords, concluded. |
+| 30 | Dhaumya's Fords | 3.84–3.88 | Dhaumya names the holy places of the four quarters. |
+| 31 | Lomasha | 3.89–3.93 | Lomaśa brings Arjuna's news; the pilgrimage begins; Naimiṣa. |
+| 32 | Agastya and Lopamudra | 3.94–3.97 | Ilvala and Vātāpi; Agastya's marriage; the wealth he begged. |
+| 33 | Agastya Drinks the Ocean | 3.98–3.103 | Vṛtra and Dadhīca; the Kāleyas; Vindhya; the ocean drunk. |
+| 34 | Bhagiratha | 3.104–3.108 | Sagara's sons; Kapila; Bhagīratha brings down the Gaṅgā. |
+| 35 | Rishyashringa | 3.109–3.113 | Nandā; Kauśikī; Ṛṣyaśṛṅga and the courtesan. |
+| 36 | Rama Jamadagnya | 3.114–3.118 | Kalinga; Rāma Jāmadagnya's story; the southern fords. |
+| 37 | Prabhasa | 3.119–3.121 | The Vṛṣṇis at Prabhāsa; Sātyaki and Balarāma; Nṛga and Gayā. |
+| 38 | Chyavana | 3.122–3.125 | Cyavana and Sukanyā; the Aśvins; Indra and Mada. |
+| 39 | Mandhatri and Jantu | 3.126–3.129 | Māndhātṛ's birth; Somaka and Jantu; Prajāpati's sacrifice. |
+| 40 | The Hawk and the Dove | 3.130–3.131 | The holy places; Uśīnara, the hawk and the dove. |
+| 41 | Ashtavakra | 3.132–3.134 | Aṣṭāvakra at Janaka's court; the debate with Bandin. |
+| 42 | Yavakri | 3.135–3.139 | Yavakrī, Raibhya and Bharadvāja; Arvāvasu and Parāvasu. |
+| 43 | Into the Mountains | 3.140–3.142 | The road north; Yudhiṣṭhira's warnings. |
+| 44 | The Storm | 3.143–3.145 | The storm; Draupadī faints; Ghaṭotkaca carries them. |
+| 45 | Hanuman | 3.146–3.147 | The saugandhika flower; Bhīma meets Hanumān. |
+| 46 | The Ages of the World | 3.148–3.150 | Hanumān tells of the ages and shows his form. |
+| 47 | Kubera's Lake | 3.151–3.154 | The lotus pond; the rākṣasa guards; Jaṭāsura. |
+| 48 | Gandhamadana | 3.155 | The journey across Gandhamādana. |
+| 49 | Maniman | 3.156–3.157 | Ārṣṭiṣeṇa; Bhīma kills the yakṣas and Maṇimān. |
+| 50 | Kubera | 3.158–3.160 | Kubera comes; his counsel. |
+| 51 | Arjuna Returns | 3.161–3.163 | Indra's chariot; Arjuna rejoins his brothers. |
+| 52 | What Arjuna Learned | 3.164–3.165 | Arjuna tells of Śiva and Indra's heaven. |
+| 53 | The Nivatakavachas | 3.166–3.169 | Arjuna fights the Nivātakavacas. |
+| 54 | Hiranyapura | 3.170–3.172 | The flying city; Arjuna shows the weapons and is stopped. |
+| 55 | The Serpent | 3.173–3.176 | Bhīma seized by the serpent. |
+| 56 | Nahusha's Questions | 3.177–3.178 | Yudhiṣṭhira answers the serpent Nahuṣa. |
+| 57 | Markandeya | 3.179–3.181 | Back to Kāmyaka; Kṛṣṇa and Mārkaṇḍeya come; karma. |
+| 58 | The Greatness of Brahmins | 3.182–3.185 | Tales of brahmins; Sarasvatī; Manu and the fish. |
+| 59 | Markandeya in the Flood | 3.186 | The end of the age; the child on the banyan. |
+| 60 | The Age of Kali | 3.187–3.188 | The god's self-account; the Kali age. |
+| 61 | Kalki | 3.189–3.191 | Kalki; Parīkṣit and the frog-maiden; Indradyumna. |
+| 62 | Dhundhumara | 3.192–3.195 | Uttaṅka; Kuvalāśva kills Dhundhu. |
+| 63 | The Faithful Wife | 3.196–3.197 | Kauśika and the faithful wife. |
+| 64 | The Righteous Butcher | 3.198–3.199 | Kauśika goes to the hunter of Mithilā. |
+| 65 | The Butcher's Teaching | 3.200–3.203 | The hunter's teaching on dharma and the self. |
+| 66 | The Butcher's Past | 3.204–3.206 | His parents; his former life and curse. |
+| 67 | The Fires | 3.207–3.212 | The lineage of the fires. |
+| 68 | The Birth of Skanda | 3.213–3.216 | Agni and the seers' wives; Svāhā; Skanda born. |
+| 69 | Skanda's Hosts | 3.217–3.219 | Skanda's companions; the mothers; the Grahas. |
+| 70 | Skanda and Mahisha | 3.220–3.221 | Skanda made general; Mahiṣa slain. |
+| 71 | Draupadi and Satyabhama | 3.222–3.224 | Satyabhāmā asks Draupadī how she keeps her husbands. |
+| 72 | The Cattle Station | 3.225–3.228 | Duryodhana's plan to visit Dvaitavana. |
+| 73 | Duryodhana Captured | 3.229–3.231 | The gandharvas; Karṇa's flight; Duryodhana taken. |
+| 74 | The Rescue | 3.232–3.235 | Yudhiṣṭhira sends his brothers; Arjuna and Citrasena. |
+| 75 | Duryodhana's Shame | 3.236–3.238 | Duryodhana resolves to fast to death. |
+| 76 | The Danavas' Promise | 3.239–3.240 | Śakuni and Karṇa; the dānavas restore his will. |
+| 77 | The Vaishnava Sacrifice | 3.241–3.244 | Karṇa's conquests; Duryodhana's sacrifice; the dream of the deer. |
+| 78 | Mudgala | 3.245–3.247 | A drona of rice; Durvāsas; the messenger of the gods. |
+| 79 | Jayadratha | 3.248–3.252 | Jayadratha sees Draupadī and carries her off. |
+| 80 | The Rescue of Draupadi | 3.253–3.256 | The pursuit; Jayadratha shaved and spared. |
+| 81 | Ravana's Birth | 3.257–3.260 | Mārkaṇḍeya begins Rāma's story; Rāvaṇa and his brothers. |
+| 82 | Rama's Exile | 3.261–3.262 | Rāma exiled; Mārīca; Sītā taken. |
+| 83 | Jatayu and Sugriva | 3.263–3.264 | Jaṭāyu; Kabandha; Sugrīva and Vālin. |
+| 84 | Sita in Lanka | 3.265–3.266 | Sītā and Rāvaṇa; Hanumān's search. |
+| 85 | The Bridge | 3.267–3.269 | The army; the bridge; Laṅkā besieged. |
+| 86 | Kumbhakarna and Indrajit | 3.270–3.273 | The battles; Kumbhakarṇa; Indrajit. |
+| 87 | Ravana's Fall | 3.274–3.276 | Rāvaṇa killed; Sītā's ordeal; the return. |
+| 88 | Savitri | 3.277–3.280 | Aśvapati; Sāvitrī chooses Satyavat; the fated day. |
+| 89 | Savitri and Yama | 3.281 | Sāvitrī follows Yama and wins her boons. |
+| 90 | Savitri's Return | 3.282–3.283 | Dyumatsena's sight; the kingdom restored. |
+| 91 | The Sun's Warning | 3.284–3.286 | The Sun warns Karṇa; Karṇa's resolve. |
+| 92 | Kunti's Boon | 3.287–3.291 | Kuntī and the brahmin; the mantra; the Sun summoned. |
+| 93 | The Armour and the Earrings | 3.292–3.294 | Karṇa born and set afloat; Adhiratha; Indra takes the armour. |
+| 94 | The Lake | 3.295–3.297 | The brahmin's fire-sticks; the lake; the yakṣa's questions. |
+| 95 | Dharma's Boons | 3.298–3.299 | Dharma's boons; the year in hiding begins. |
+
 ## Books 2–18: provisional sub-parvas
 
 These come from Ganguli's section headings mapped to CE numbers by the
@@ -255,12 +359,7 @@ concordance, cross-checked against the CE's list of sub-parvas.
   Rājasūyārambha 12–17 · Jarāsaṃdhavadha 18–22 · Digvijaya 23–29 ·
   Rājasūyika 30–32 · Arghābhiharaṇa 33–36 · Śiśupālavadha 37–42 · Dyūta 43–65 ·
   Anudyūta 66–72
-* **Book 3, Āraṇyaka**: Āraṇyaka 1–11 · Kirmīravadha 12 · Arjunābhigamana 13–37 ·
-  Kairāta 38–41 · Indralokābhigamana 42–79 (Nala 50–78) · Tīrthayātrā 80–153 ·
-  Jaṭāsuravadha 154 · Yakṣayuddha 155–172 · Ājagara 173–178 · Mārkaṇḍeyasamāsyā
-  179–221 · Draupadī-Satyabhāmā 222–224 · Ghoṣayātrā 225–243 · Mṛgasvapnodbhava
-  244 · Vrīhidrauṇika 245–247 · Draupadīharaṇa 248–283 (Rāma 257–276; Sāvitrī
-  277–283) · Kuṇḍalāharaṇa 284–294 · Āraṇeya 295–299
+* **Book 3, Āraṇyaka**: now planned by CE adhyāya in the table above.
 * **Book 4, Virāṭa**: Pāṇḍavapraveśa 1–12 · Kīcakavadha 13–23 · Goharaṇa 24–62 ·
   Vaivāhika 63–67
 * **Book 5, Udyoga**: Udyoga 1–21 · Sañjayayāna 22–32 · Prajāgara 33–41 ·

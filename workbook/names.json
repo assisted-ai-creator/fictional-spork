@@ -23,7 +23,7 @@
    "name": "Shaunaka",
    "iast": "Śaunaka",
    "group": "Frame",
-   "who": "head of the household of sages in the Naimisha forest",
+   "who": "head of the household of sages in the Naimisha forest; also a brahmin skilled in yoga and Samkhya who teaches Yudhishthira in the forest (3.2.14)",
    "aka": [
     "kulapati"
    ],
@@ -3538,7 +3538,11 @@
    "iast": "Vivasvat",
    "group": "Deity",
    "who": "the sun god, father of Yama",
-   "aka": [],
+   "aka": [
+    "Surya",
+    "Arka",
+    "Ravi"
+   ],
    "dialogue": [],
    "flag": [
     "Vivaswat",
@@ -4142,7 +4146,7 @@
    "name": "Savitri",
    "iast": "Savitṛ",
    "group": "Deity",
-   "who": "one of the gods who attack Krishna and Arjuna at Khandava",
+   "who": "one of the gods who attack Krishna and Arjuna at Khandava; also a name of the sun (3.3.18)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -6930,7 +6934,7 @@
    "name": "Surabhi",
    "iast": "Surabhi",
    "group": "Catalogue",
-   "who": "named in Brahma's hall (2.11)",
+   "who": "named in Brahma's hall (2.11); the mother of cows, who wept for her weakest son (3.10)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -7197,7 +7201,7 @@
    "name": "Indrasena",
    "iast": "Indrasena",
    "group": "Pandava",
-   "who": "Yudhishthira's messenger and charioteer",
+   "who": "Yudhishthira's messenger and charioteer; follows the Pandavas into the forest (3.1.10)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -7626,6 +7630,16 @@
    "dialogue": [],
    "flag": [],
    "ref": "2.69.15"
+  },
+  {
+   "name": "Kirmira",
+   "iast": "Kirmīra",
+   "group": "Rakshasa",
+   "who": "rakshasa killed by Bhima in the Kamyaka forest",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.11.22"
   }
  ],
  "not_vyasa": [

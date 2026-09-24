@@ -18,6 +18,20 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3 (Aranyaka Parva) begun: plan and chapters 1–3
+- **Book 3 plan**: 95 chapters drawn up from the opening of each of the 299 CE adhyayas, now
+  in `workbook/NOVEL_PLAN.md`. Titles and groupings are provisional and will be refined while
+  drafting.
+- Ch 1 *The Sun's Gift* (CE 3.1–4), Ch 2 *Vidura's Counsel* (3.5–7) and Ch 3 *Maitreya's
+  Curse* (3.8–11): the townspeople turned back; Shaunaka's teaching on attachment; Dhaumya
+  and the Sun's hundred and eight names, given in full; the food that does not run out, with no
+  copper pot (L-23); Vidura's counsel, dismissal and return; Karna's plan to kill the
+  Pandavas, stopped by Vyasa; Surabhi's tears; Maitreya's curse (L-29). About 8,400 words.
+
+### Workbook
+- `names.json`: +1 (Kirmira); Surya, Arka and Ravi added as other names of Vivasvat;
+  Shaunaka, Surabhi, Indrasena and Savitri extended for their Book 3 appearances.
+
 ### Novel: Book 2, chapter 23 drafted: Book 2 (Sabha Parva) complete
 - Ch 23 *Into the Forest* (CE 2.69–72): Yudhishthira's farewell; Vidura keeps Kunti in his
   house and blesses the Pandavas; Kunti's lament; the manner of their going, each with its
