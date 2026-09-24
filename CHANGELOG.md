@@ -18,6 +18,16 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 36–37 drafted: Rama Jamadagnya; Prabhasa
+- Ch 36 *Rama Jamadagnya* (CE 3.114–118) and Ch 37 *Prabhasa* (3.119–121): the Kalingas and the altar
+  of the earth; Akritavrana's story of Richika, Jamadagni, Renuka and Kartavirya and the kshatriyas
+  destroyed twenty-one times; Rama shows himself on Mahendra; the pilgrimage south to Prabhasa;
+  Balarama's lament, Satyaki's call to war with Abhimanyu as regent, and Yudhishthira's refusal;
+  Gaya's sacrifices on the Payoshni. About 5,100 words.
+- Checked: in the CE Kartavirya takes the calf of the offering cow, not a wish-granting cow (3.116.21).
+- Names: Akritavrana, Gadhi, Richika, Prasenajit, Renuka, Chitraratha, Rumanvant, Sushena, Vasu,
+  Kartavirya, Ashvachakra, Aniruddha, Sharyati and Sukanya added where missing.
+
 ### Novel: Book 3, chapters 34–35 drafted: Bhagiratha; Rishyashringa
 - Ch 34 *Bhagiratha* (CE 3.104–108) and Ch 35 *Rishyashringa* (3.109–113): Sagara's sixty thousand
   sons and Kapila; Asamanjas banished; Amshumant; Bhagiratha's austerity and the Ganga falling on

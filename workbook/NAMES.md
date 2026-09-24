@@ -268,6 +268,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Uma** | Umā | Shiva's wife, daughter of the king of mountains |  |  |  |
 | **Vishvakarman** | Viśvakarman | the craftsman of the gods |  |  | Vishwakarma, Vishvakarma |
 | **Vivasvat** | Vivasvat | the sun god, father of Yama | Surya, Arka, Ravi |  | Vivaswat, Vivasvan |
+| **Ashvachakra** | Aśvacakra | an enemy killed by Samba |  |  |  |
 | **Hiranyakashipu** | Hiraṇyakaśipu | a great asura king, ancestor of Nikumbha |  |  | Hiranyakasipu |
 | **Ilvala** | Ilvala | a daitya of Manimati who killed brahmins by feeding them his brother Vatapi |  |  |  |
 | **Jambha** | Jambha | an asura given up by the great asuras, as Kavya advised |  |  |  |
@@ -449,6 +450,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shrutayudha** | Śrutāyudha | a king present in Yudhishthira's hall |  |  |  |
 | **Sudeshna** | Sudeṣṇā | Bali's queen, mother of Anga by Dirghatamas (another Sudeshna is Virata's queen) |  |  |  |
 | **Sudharma** | Sudharman | a king present in Yudhishthira's hall; also Sudharma, king of Dasharna, made Bhima's general (2.26.5) |  |  | Sudharman |
+| **Sukanya** | Sukanyā | Sharyati's daughter, wife of Chyavana |  |  |  |
 | **Sumanas** | Sumanas | a king present in Yudhishthira's hall |  |  |  |
 | **Sumandala** | Sumaṇḍala | a king defeated by Arjuna in the north |  |  |  |
 | **Suratha** | Suratha | a king present in Yudhishthira's hall |  |  |  |
@@ -572,6 +574,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Agastya** | Agastya | seer who hunted during a sacrifice and consecrated the deer to the gods |  |  |  |
 | **Agniveshya** | Agniveśya | sage who received the weapon of Fire from Bharadvaja and taught Drona |  |  |  |
 | **Ahalya** | Ahalyā | Gautama's wife, whose lake is a ford in Gautama's forest |  |  |  |
+| **Akritavrana** | Akṛtavraṇa | a follower of Rama Jamadagnya, who tells his story on Mount Mahendra |  |  |  |
 | **Animandavya** | Aṇīmāṇḍavya | the seer impaled as a thief who cursed Dharma to be born as Vidura | Mandavya |  | Animandavya Rishi |
 | **Apsuhomya** | Apsuhomya | a seer present in Yudhishthira's hall |  |  |  |
 | **Arundhati** | Arundhatī | Vasishtha's wife |  |  |  |
@@ -662,10 +665,13 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Raibhya** | Raibhya | a seer present in Yudhishthira's hall |  |  |  |
 | **Raivata** | Raivata | a seer present in Yudhishthira's hall |  |  |  |
 | **Rama Jamadagnya** | Rāma Jāmadagnya | son of Jamadagni, the Bhrigu warrior-brahmin who destroyed the kshatriyas and made the five lakes of blood; later Bhishma's opponent and Karna's teacher. The CE never calls him 'Parashurama' (ledger L-62): write 'Rama, son of Jamadagni', 'Rama Jamadagnya' or 'Bhargava Rama' | Bhargava Rama, Jamadagnya | Jamadagnya | Parashuram, Parashurama, Parasurama, Parshuram |
+| **Renuka** | Reṇukā | wife of Jamadagni, mother of Rama Jamadagnya |  |  |  |
+| **Richika** | Ṛcīka | a Bhargava seer, husband of Satyavati and father of Jamadagni |  |  |  |
 | **Rishabha** | Ṛṣabha | an angry ascetic who made his mountain silent |  |  |  |
 | **Rishyashringa** | Ṛśyaśṛṅga | son of Vibhandaka and a doe, with a deer's horn; husband of Shanta |  |  |  |
 | **Ritavak** | Ṛtavāk | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
 | **Ritavasu** | Ṛtāvasu | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
+| **Rumanvant** | Rumaṇvant | eldest son of Jamadagni |  |  |  |
 | **Ruru** | Ruru | son of Pramati; gives half his life to Pramadvara |  |  |  |
 | **Sahasrapad** | Sahasrapād | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
 | **Sahasrapat** | Sahasrapād | seer cursed to be a dundubha snake |  |  |  |

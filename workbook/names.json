@@ -8706,6 +8706,66 @@
    "dialogue": [],
    "flag": [],
    "ref": "3.113.24"
+  },
+  {
+   "name": "Akritavrana",
+   "iast": "Akṛtavraṇa",
+   "group": "Seer",
+   "who": "a follower of Rama Jamadagnya, who tells his story on Mount Mahendra",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.115.3"
+  },
+  {
+   "name": "Richika",
+   "iast": "Ṛcīka",
+   "group": "Seer",
+   "who": "a Bhargava seer, husband of Satyavati and father of Jamadagni",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.115.10"
+  },
+  {
+   "name": "Renuka",
+   "iast": "Reṇukā",
+   "group": "Seer",
+   "who": "wife of Jamadagni, mother of Rama Jamadagnya",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.116.2"
+  },
+  {
+   "name": "Rumanvant",
+   "iast": "Rumaṇvant",
+   "group": "Seer",
+   "who": "eldest son of Jamadagni",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.116.10"
+  },
+  {
+   "name": "Ashvachakra",
+   "iast": "Aśvacakra",
+   "group": "Demon",
+   "who": "an enemy killed by Samba",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.120.13"
+  },
+  {
+   "name": "Sukanya",
+   "iast": "Sukanyā",
+   "group": "King",
+   "who": "Sharyati's daughter, wife of Chyavana",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.121.21"
   }
  ],
  "not_vyasa": [

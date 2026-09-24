@@ -288,8 +288,8 @@ are refined while drafting.
 | 33 | Agastya Drinks the Ocean | 3.98–3.103 | ✅ drafted. Dadhīca's bones; Vṛtra killed; the Kāleyas in the ocean; the Vindhya (L-127); the ocean drunk and not given back. |
 | 34 | Bhagiratha | 3.104–3.108 | ✅ drafted. Sagara's sixty thousand sons; Kapila's eye; Asamañjas banished; Aṃśumant; Bhagīratha brings down the Gaṅgā onto Śiva's head (L-128). |
 | 35 | Rishyashringa | 3.109–3.113 | ✅ drafted. The silent mountain; Ṛśyaśṛṅga born of a doe; the boat hermitage; the "young ascetic"; the rain; Śāntā (L-129). |
-| 36 | Rama Jamadagnya | 3.114–3.118 | Kalinga; Rāma Jāmadagnya's story; the southern fords. |
-| 37 | Prabhasa | 3.119–3.121 | The Vṛṣṇis at Prabhāsa; Sātyaki and Balarāma; Nṛga and Gayā. |
+| 36 | Rama Jamadagnya | 3.114–3.118 | ✅ drafted. The Kaliṅgas and the altar of the earth; Akṛtavraṇa's tale: Ṛcīka, Jamadagni, Reṇukā, Kārtavīrya, the kshatriyas destroyed; Rāma appears; south to Prabhāsa; the Vṛṣṇis come. |
+| 37 | Prabhasa | 3.119–3.121 | ✅ drafted. Balarāma's lament; Sātyaki's call to war and Abhimanyu as regent; Kṛṣṇa and Yudhiṣṭhira hold to the vow; the Payoṣṇī; Gaya's sacrifices; the Narmadā. |
 | 38 | Chyavana | 3.122–3.125 | Cyavana and Sukanyā; the Aśvins; Indra and Mada. |
 | 39 | Mandhatri and Jantu | 3.126–3.129 | Māndhātṛ's birth; Somaka and Jantu; Prajāpati's sacrifice. |
 | 40 | The Hawk and the Dove | 3.130–3.131 | The holy places; Uśīnara, the hawk and the dove. |
