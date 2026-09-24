@@ -170,7 +170,9 @@ against the CE when the Book is drafted.
 | 84 | Tilottama | 1.203–1.204 | ✅ drafted. Tilottamā made; Śiva's four faces and Indra's thousand eyes (L-102); the brothers kill each other; the Pāṇḍavas' pact (L-16 revised). |
 | 85 | The Brahmin's Cows | 1.205–1.206 | ✅ drafted. Arjuna breaks the pact to save a brahmin's cows; exile; Ulūpī (L-103). |
 | 86 | Chitrangada | 1.207–1.209 | ✅ drafted. Pilgrimage east; Citrāṅgadā of Maṇalūra (L-104); the five crocodile apsarases; Babhruvāhana. |
-| 87… | Subhadra | 1.210–1.213 | Prabhāsa and Raivataka; Subhadrā carried off; the return; Abhimanyu and Draupadī's sons. |
+| 87 | Subhadra | 1.210–1.212 | ✅ drafted. Prabhāsa, Raivataka, Dvārakā; Subhadrā seen and carried off (L-105); the Vṛṣṇis' fury; Balarāma. |
+| 88 | Abhimanyu | 1.213 | ✅ drafted. Kṛṣṇa's defence; the wedding; Draupadī's reproach; the cowherd-girl disguise; bridal gifts; Abhimanyu and Draupadī's five sons. |
+| 89… | The burning of Khandava | 1.214–1.225 | Agni's hunger; Gāṇḍīva and the discus; the burning; Maya spared; the Śārṅgaka birds. |
 
 ---
 

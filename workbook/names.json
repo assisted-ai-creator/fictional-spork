@@ -660,7 +660,8 @@
     "Achyuta",
     "Varshneya",
     "Dasharha",
-    "Damodara"
+    "Damodara",
+    "Shauri"
    ],
    "dialogue": [
     "Keshava",
@@ -684,7 +685,8 @@
     "Baladeva",
     "Rama",
     "Samkarshana",
-    "Halayudha"
+    "Halayudha",
+    "Kamapala"
    ],
    "dialogue": [
     "Baladeva"
@@ -3836,6 +3838,190 @@
    "dialogue": [],
    "flag": [],
    "ref": "1.178.4"
+  },
+  {
+   "name": "Anadhrishti",
+   "iast": "Anādhṛṣṭi",
+   "group": "Vrishni",
+   "who": "a Vrishni hero who comes to Indraprastha with Krishna",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.213.26"
+  },
+  {
+   "name": "Shanku",
+   "iast": "Śaṅku",
+   "group": "Vrishni",
+   "who": "a Vrishni hero",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.213.27"
+  },
+  {
+   "name": "Bhanu",
+   "iast": "Bhānu",
+   "group": "Vrishni",
+   "who": "a Vrishni hero",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.211.10"
+  },
+  {
+   "name": "Nishatha",
+   "iast": "Niśaṭha",
+   "group": "Vrishni",
+   "who": "a Vrishni hero",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.211.10"
+  },
+  {
+   "name": "Satyaka",
+   "iast": "Satyaka",
+   "group": "Vrishni",
+   "who": "a Vrishni hero",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.211.11"
+  },
+  {
+   "name": "Bhangakara",
+   "iast": "Bhaṅgakāra",
+   "group": "Vrishni",
+   "who": "a Vrishni named at the Raivataka festival (the reading is uncertain)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.211.11"
+  },
+  {
+   "name": "Revati",
+   "iast": "Revatī",
+   "group": "Vrishni",
+   "who": "Balarama's wife",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.211.7"
+  },
+  {
+   "name": "Ugrasena",
+   "iast": "Ugrasena",
+   "group": "Vrishni",
+   "who": "king of the Vrishnis",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.211.8"
+  },
+  {
+   "name": "Pradyumna",
+   "iast": "Pradyumna",
+   "group": "Vrishni",
+   "who": "Krishna's son by Rukmini (\"Rukmini's son\")",
+   "aka": [
+    "Raukmineya"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.213.27"
+  },
+  {
+   "name": "Jayanta",
+   "iast": "Jayanta",
+   "group": "Deity",
+   "who": "son of Indra and Shachi",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.213.58"
+  },
+  {
+   "name": "Prativindhya",
+   "iast": "Prativindhya",
+   "group": "Pandava",
+   "who": "son of Draupadi and Yudhishthira",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.213.72"
+  },
+  {
+   "name": "Sutasoma",
+   "iast": "Sutasoma",
+   "group": "Pandava",
+   "who": "son of Draupadi and Bhima",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.213.72"
+  },
+  {
+   "name": "Shrutakarman",
+   "iast": "Śrutakarman",
+   "group": "Pandava",
+   "who": "son of Draupadi and Arjuna",
+   "aka": [
+    "Shrutakarma"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.213.72"
+  },
+  {
+   "name": "Shatanika",
+   "iast": "Śatānīka",
+   "group": "Pandava",
+   "who": "son of Draupadi and Nakula, named after a royal seer of the Kuru line",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.213.72"
+  },
+  {
+   "name": "Shrutasena",
+   "iast": "Śrutasena",
+   "group": "Pandava",
+   "who": "son of Draupadi and Sahadeva",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.213.73"
+  },
+  {
+   "name": "Sainya",
+   "iast": "Sainya",
+   "group": "Horse",
+   "who": "one of Krishna's chariot horses",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.212.3"
+  },
+  {
+   "name": "Sugriva",
+   "iast": "Sugrīva",
+   "group": "Horse",
+   "who": "one of Krishna's chariot horses",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.212.3"
+  },
+  {
+   "name": "Aditi",
+   "iast": "Aditi",
+   "group": "Deity",
+   "who": "mother of the Adityas",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.213.73"
   }
  ],
  "not_vyasa": [

@@ -18,6 +18,22 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 87–88 drafted: Subhadra and Abhimanyu
+- Ch 87 *Subhadra* (CE 1.210–212) and Ch 88 *Abhimanyu* (1.213): Arjuna and Krishna at
+  Prabhasa and Raivataka; Subhadra carried off; the Vrishnis' fury and Balarama's threat;
+  Krishna's defence; the marriage; Draupadi's reproach; Subhadra dressed as a cowherd girl; the
+  bridal gifts; the births of Abhimanyu and Draupadi's five sons. About 3,250 words. This ends
+  the Arjunavanavasa, Subhadraharana and Haranaharika sub-parvas.
+
+### Reference
+- Ledger **L-105**: Arjuna's ascetic disguise and Subhadra at the reins are only in App. I
+  No. 114. In the CE Arjuna arrives openly and seizes her onto his own chariot.
+
+### Workbook
+- `names.json`: +18 (Anadhrishti, Shanku, Bhanu, Nishatha, Satyaka, Bhangakara, Revati,
+  Ugrasena, Pradyumna, Jayanta, Draupadi's five sons, Krishna's horses Sainya and Sugriva, and
+  Aditi); Shauri added to Krishna's names and Kamapala to Balarama's.
+
 ### Novel: Book 1, chapters 85–86 drafted: Arjuna's exile
 - Ch 85 *The Brahmin's Cows* (CE 1.205–206) and Ch 86 *Chitrangada* (1.207–209): Arjuna
   breaks the pact to save a brahmin's cows and goes into exile; Ulupi at Gangadvara; the

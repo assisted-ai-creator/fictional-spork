@@ -18,7 +18,9 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Tilottama** | Tilottamā | the woman Vishvakarman made from every beautiful thing, to divide Sunda and Upasunda |  |  |  |
 | **Urvashi** | Urvaśī | the apsaras, wife of Pururavas |  |  | Urvasi |
 | **Varga** | Vargā | one of the five apsarases cursed to be crocodiles and freed by Arjuna |  |  |  |
+| **Aditi** | Aditi | mother of the Adityas |  |  |  |
 | **Budha** | Budha | the planet Mercury, son of the moon |  |  |  |
+| **Jayanta** | Jayanta | son of Indra and Shachi |  |  |  |
 | **Parameshthin** | Parameṣṭhin | "the one who stands highest", a divine being at Brahma's court |  |  |  |
 | **Shachi** | Śacī | Indra's wife | Indrani |  |  |
 | **Svaha** | Svāhā | wife of Agni, the fire |  |  |  |
@@ -73,6 +75,8 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vinata** | Vinatā | daughter of the creator, wife of Kashyapa, mother of Aruna and Garuda |  |  | Vinita |
 | **Vishnu** | Viṣṇu | the god who counsels the churning, takes a woman's form to win back the nectar, and wields the discus Sudarshana | Narayana, Hari, Achyuta |  | Vishnoo |
 | **Yama** | Yama | lord of the dead, also called king of dharma | Dharmaraja, Vaivasvata |  |  |
+| **Sainya** | Sainya | one of Krishna's chariot horses |  |  |  |
+| **Sugriva** | Sugrīva | one of Krishna's chariot horses |  |  |  |
 | **Sudakshina** | Sudakṣiṇa | king of the Kambojas, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Amba** | Ambā | eldest princess of Kashi, carried off by Bhishma |  |  |  |
 | **Suvarnavarman** | Suvarṇavarman | king of Kashi, Vapushtama's father |  |  |  |
@@ -204,7 +208,12 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kunti** | Kuntī | Pritha, daughter of Shura, adopted by Kuntibhoja; Pandu's senior wife; mother of Karna, Yudhishthira, Bhima and Arjuna | Pritha | Pritha | Kunthi |
 | **Madri** | Mādrī | princess of Madra, Shalya's sister; Pandu's second wife; mother of Nakula and Sahadeva |  |  |  |
 | **Nakula** | Nakula | elder of Madri's twin sons, by the Ashvins |  |  | Nakul |
+| **Prativindhya** | Prativindhya | son of Draupadi and Yudhishthira |  |  |  |
 | **Sahadeva** | Sahadeva | younger of Madri's twin sons, by the Ashvins |  |  | Sahdev, Sahadev |
+| **Shatanika** | Śatānīka | son of Draupadi and Nakula, named after a royal seer of the Kuru line |  |  |  |
+| **Shrutakarman** | Śrutakarman | son of Draupadi and Arjuna | Shrutakarma |  |  |
+| **Shrutasena** | Śrutasena | son of Draupadi and Sahadeva |  |  |  |
+| **Sutasoma** | Sutasoma | son of Draupadi and Bhima |  |  |  |
 | **Yudhishthira** | Yudhiṣṭhira | eldest son of Kunti, by Dharma; the dharma king | Ajatashatru, Dharmaraja, Kaunteya, Partha | Ajatashatru | Yudhistira, Yudhishtira, Yudhisthira, Yudhishthir, Yudhisthir |
 | **Bhadra** | Bhadrā | Vyushitashva's wife, daughter of Kakshivat; also the name of Kubera's wife (1.191.6) |  |  |  |
 | **Vyushitashva** | Vyuṣitāśva | Paurava king whose dead body gave his widow Bhadra seven sons |  |  |  |
@@ -313,7 +322,10 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vatsaraja** | Vatsarāja | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Vrika** | Vṛka | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Akrura** | Akrūra | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
-| **Balarama** | Balarāma | Krishna's elder brother, the plough-bearer | Baladeva, Rama, Samkarshana, Halayudha | Baladeva | Balram, Balaram |
+| **Anadhrishti** | Anādhṛṣṭi | a Vrishni hero who comes to Indraprastha with Krishna |  |  |  |
+| **Balarama** | Balarāma | Krishna's elder brother, the plough-bearer | Baladeva, Rama, Samkarshana, Halayudha, Kamapala | Baladeva | Balram, Balaram |
+| **Bhangakara** | Bhaṅgakāra | a Vrishni named at the Raivataka festival (the reading is uncertain) |  |  |  |
+| **Bhanu** | Bhānu | a Vrishni hero |  |  |  |
 | **Charudeshna** | Cārudeṣṇa | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Chekitana** | Cekitāna | a warrior named among the suitors at Draupadi's bridegroom choice; later an ally of the Pandavas |  |  |  |
 | **Devaki** | Devakī | mother of Krishna |  |  |  |
@@ -321,19 +333,25 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Hridika** | Hṛdika | father of Kritavarma |  |  |  |
 | **Jhilli** | Jhillī | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Kanka** | Kaṅka | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
-| **Krishna** | Kṛṣṇa | son of Vasudeva and Devaki, of the Vrishni clan; Arjuna's friend and charioteer | Vasudeva, Keshava, Madhava, Govinda, Janardana, Hrishikesha, Madhusudana, Achyuta, Varshneya, Dasharha, Damodara | Keshava, Madhava, Govinda, Janardana, Vasudeva | Krishn, Krsna |
+| **Krishna** | Kṛṣṇa | son of Vasudeva and Devaki, of the Vrishni clan; Arjuna's friend and charioteer | Vasudeva, Keshava, Madhava, Govinda, Janardana, Hrishikesha, Madhusudana, Achyuta, Varshneya, Dasharha, Damodara, Shauri | Keshava, Madhava, Govinda, Janardana, Vasudeva | Krishn, Krsna |
 | **Kritavarma** | Kṛtavarman | Bhoja/Vrishni warrior who fights for the Kauravas | Hardikya |  | Kritavarman, Kritvarma |
+| **Nishatha** | Niśaṭha | a Vrishni hero |  |  |  |
 | **Pindaraka** | Piṇḍāraka | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Pradyumna** | Pradyumna | Krishna's son by Rukmini ("Rukmini's son") | Raukmineya |  |  |
 | **Prithu** | Pṛthu | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Revati** | Revatī | Balarama's wife |  |  |  |
 | **Rohini** | Rohiṇī | mother of Balarama |  |  |  |
 | **Rukmini** | Rukmiṇī | mother of a son of Krishna's line named at Draupadi's bridegroom choice |  |  |  |
 | **Samba** | Sāmba | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Samika** | Samīka | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Saramejaya** | Sāramejaya | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Sarana** | Sāraṇa | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Satyaka** | Satyaka | a Vrishni hero |  |  |  |
 | **Satyaki** | Sātyaki | Vrishni hero, Arjuna's pupil and ally | Yuyudhana, Shaineya | Yuyudhana |  |
+| **Shanku** | Śaṅku | a Vrishni hero |  |  |  |
 | **Subhadra** | Subhadrā | Krishna's sister; Arjuna's wife; mother of Abhimanyu |  |  |  |
 | **Uddhava** | Uddhava | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Ugrasena** | Ugrasena | king of the Vrishnis |  |  |  |
 | **Ushinara** | Uśīnara | a Vrishni named among the suitors at Draupadi's bridegroom choice; also the name of Shibi's father |  |  |  |
 | **Vatapati** | Vātapati | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Viduratha** | Vidūratha | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
