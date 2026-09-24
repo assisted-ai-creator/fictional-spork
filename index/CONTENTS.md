@@ -2,7 +2,7 @@
 
 # Contents
 
-**102 chapters, 191,631 words.** 102 drafted
+**104 chapters, 195,916 words.** 104 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -118,5 +118,7 @@
 | 8 | [The Wrestling Match](../novel/book-02-sabha/08-the-wrestling-match.md) | 2.21-22 | drafted | 1,677 |
 | 9 | [The Northern Quarter](../novel/book-02-sabha/09-the-northern-quarter.md) | 2.23-25 | drafted | 1,547 |
 | 10 | [East, South and West](../novel/book-02-sabha/10-east-south-and-west.md) | 2.26-29 | drafted | 2,466 |
+| 11 | [The Rajasuya](../novel/book-02-sabha/11-the-rajasuya.md) | 2.30-32 | drafted | 2,088 |
+| 12 | [The Guest Gift](../novel/book-02-sabha/12-the-guest-gift.md) | 2.33-36 | drafted | 2,197 |
 
-*Book 2 so far: 22,905 words.*
+*Book 2 so far: 27,190 words.*

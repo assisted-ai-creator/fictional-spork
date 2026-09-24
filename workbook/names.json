@@ -5792,7 +5792,7 @@
    "name": "Samjaya",
    "iast": "Saṃjaya",
    "group": "Catalogue",
-   "who": "named in Yama's hall (2.8)",
+   "who": "named in Yama's hall (2.8); also Samjaya who returns the kings' courtesies at the Rajasuya (2.32.5)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -7202,7 +7202,9 @@
    "iast": "Śiśupāla",
    "group": "Chedi",
    "who": "king of Chedi, Jarasandha's general; killed by Krishna at the Rajasuya",
-   "aka": [],
+   "aka": [
+    "Sunitha"
+   ],
    "dialogue": [],
    "flag": [
     "Sisupala"
@@ -7378,6 +7380,86 @@
    "dialogue": [],
    "flag": [],
    "ref": "2.28.46"
+  },
+  {
+   "name": "Anakadundubhi",
+   "iast": "Ānakadundubhi",
+   "group": "Vrishni",
+   "who": "Vasudeva, Krishna's father",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.30.12"
+  },
+  {
+   "name": "Vishoka",
+   "iast": "Viśoka",
+   "group": "Pandava",
+   "who": "a servant of Yudhishthira who sees to the food at the Rajasuya",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.30.30"
+  },
+  {
+   "name": "Susaman",
+   "iast": "Susāman",
+   "group": "Seer",
+   "who": "the Sama singer at the Rajasuya, of the Dhananjaya family",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.30.34"
+  },
+  {
+   "name": "Achala",
+   "iast": "Acala",
+   "group": "Gandhara",
+   "who": "a son of the king of Gandhara, Shakuni's brother",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.31.7"
+  },
+  {
+   "name": "Rita",
+   "iast": "Ṛta",
+   "group": "King",
+   "who": "a king at the Rajasuya (the reading is uncertain)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.31.7"
+  },
+  {
+   "name": "Machella",
+   "iast": "Mācella",
+   "group": "King",
+   "who": "a great warrior at the Rajasuya",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.31.13"
+  },
+  {
+   "name": "Ulmuka",
+   "iast": "Ulmuka",
+   "group": "Vrishni",
+   "who": "a son of Balarama",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.31.16"
+  },
+  {
+   "name": "Babhru",
+   "iast": "Babhru",
+   "group": "Vrishni",
+   "who": "a Vrishni at the Rajasuya",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.31.15"
   }
  ],
  "not_vyasa": [

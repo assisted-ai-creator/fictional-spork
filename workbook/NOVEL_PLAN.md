@@ -231,8 +231,8 @@ drafting. It is refined while drafting.
 | 8 | The Wrestling Match | 2.21–2.22 | ✅ drafted. Bhīma and Jarāsaṃdha wrestle fourteen days; his death (L-110); the kings freed; Sahadeva consecrated. |
 | 9 | The Northern Quarter | 2.23–2.25 | ✅ drafted. The four brothers set out; Arjuna in the north; Bhagadatta; the Northern Kurus. |
 | 10 | East, South and West | 2.26–2.29 | ✅ drafted. Bhīma (Karṇa defeated); Sahadeva (Agni at Māhiṣmatī; envoys to Vibhīṣaṇa, L-111); Nakula (Śalya). |
-| 11 | The Consecration | 2.30–2.32 | The Rājasūya performed. |
-| 12 | The Guest Gift | 2.33–2.36 | The first honour given to Kṛṣṇa; Śiśupāla objects. |
+| 11 | The Rajasuya | 2.30–2.32 | ✅ drafted. Kṛṣṇa's wealth; the priests; the kings arrive; the Kauravas' tasks (L-112); the sacrifice. |
+| 12 | The Guest Gift | 2.33–2.36 | ✅ drafted. Nārada's thought; the gift to Kṛṣṇa; Śiśupāla's protest; Bhīṣma's answer; Sahadeva's challenge. |
 | 13 | Shishupala | 2.37–2.42 | Bhīṣma's answer; Śiśupāla's birth and the hundred offences; his death. |
 | 14 | Duryodhana in the Hall | 2.43–2.44 | The crystal floor and the pool; his envy. |
 | 15 | Shakuni's Plan | 2.45–2.49 | The dice proposed; Duryodhana's list of the tribute. |

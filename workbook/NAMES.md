@@ -158,7 +158,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sagara** | Sagara | named in Yama's hall (2.8) |  |  |  |
 | **Sahajanya** | Sahajanyā | named in Kubera's hall (2.10) |  |  |  |
 | **Samhrada** | Saṃhrāda | named in Varuna's hall (2.9) |  |  |  |
-| **Samjaya** | Saṃjaya | named in Yama's hall (2.8) |  |  |  |
+| **Samjaya** | Saṃjaya | named in Yama's hall (2.8); also Samjaya who returns the kings' courtesies at the Rajasuya (2.32.5) |  |  |  |
 | **Samkashya** | Sāṃkāśya | named in Yama's hall (2.8) |  |  |  |
 | **Samkriti** | Sāṃkṛti | named in Yama's hall (2.8) |  |  |  |
 | **Samvarta** | Saṃvarta | named in Indra's hall (2.7) |  |  |  |
@@ -219,7 +219,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vrishadarbhi** | Vṛṣādarbhi | named in Yama's hall (2.8) |  |  |  |
 | **Vrishasena** | Vṛṣasena | named in Yama's hall (2.8) |  |  |  |
 | **Vyashva** | Vyaśva | named in Yama's hall (2.8) |  |  |  |
-| **Shishupala** | Śiśupāla | king of Chedi, Jarasandha's general; killed by Krishna at the Rajasuya |  |  | Sisupala |
+| **Shishupala** | Śiśupāla | king of Chedi, Jarasandha's general; killed by Krishna at the Rajasuya | Sunitha |  | Sisupala |
 | **Aditi** | Aditi | mother of the Adityas |  |  |  |
 | **Amsha** | Aṃśa | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
 | **Aryaman** | Aryaman | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
@@ -253,6 +253,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shaunaka** | Śaunaka | head of the household of sages in the Naimisha forest | kulapati |  | Saunaka |
 | **Ugrashravas** | Ugraśravas | the bard, son of Lomaharshana, who tells the epic in the Naimisha forest | Sauti, Lomaharshani | Sauti | Ugrasrava, Ugrasravas |
 | **Vaishampayana** | Vaiśaṃpāyana | Vyasa's pupil, who tells the epic to Janamejaya |  |  | Vaisampayana, Vaishampayan |
+| **Achala** | Acala | a son of the king of Gandhara, Shakuni's brother |  |  |  |
 | **Bala** | Bala | a son of the king of Gandhara, brother of Shakuni; named among the suitors at Draupadi's bridegroom choice; also the name of a demon slain by Indra ("slayer of Bala") |  |  |  |
 | **Brihadbala** | Bṛhadbala | a son of the king of Gandhara, brother of Shakuni; named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Shakuni** | Śakuni | Gandhari's brother, son of Subala; the dice player | Saubala | Saubala | Sakuni, Shakunee |
@@ -367,6 +368,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kshemaka** | Kṣemaka | a king present in Yudhishthira's hall |  |  |  |
 | **Kuninda** | Kuṇinda | a king present in Yudhishthira's hall |  |  |  |
 | **Lohita** | Lohita | a king of the north with ten provinces |  |  |  |
+| **Machella** | Mācella | a great warrior at the Rajasuya |  |  |  |
 | **Madayanti** | Madayantī | wife of Saudasa (Kalmashapada), mother of Ashmaka by Vasishtha |  |  |  |
 | **Mahabhisha** | Mahābhiṣa | a king of Ikshvaku's line in heaven, cursed by Brahma for gazing at Ganga; reborn as Shantanu |  |  |  |
 | **Manu** | Manu | Manu son of Vivasvat (through Martanda in 1.70), from whom the human race descends | Vaivasvata |  |  |
@@ -378,6 +380,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Pundraka** | Puṇḍraka | a king present in Yudhishthira's hall |  |  |  |
 | **Puru** | Pūru | Yayati's youngest son, by Sharmishtha, who took his father's old age; founder of the Paurava line |  |  |  |
 | **Pururavas** | Purūravas | son of Ila, husband of Urvashi, ancestor of the Lunar line | Aila |  | Pururava |
+| **Rita** | Ṛta | a king at the Rajasuya (the reading is uncertain) |  |  |  |
 | **Samgramajit** | Saṃgrāmajit | a king present in Yudhishthira's hall |  |  |  |
 | **Shakuntala** | Śakuntalā | daughter of Vishvamitra and Menaka, raised by Kanva; wife of Dushyanta, mother of Bharata |  |  | Sakuntala, Shakuntalaa |
 | **Shalva** | Śālva | king of the Shalvas and lord of Saubha, whom Amba had chosen; beaten by Bhishma at Varanasi | lord of Saubha |  |  |
@@ -483,6 +486,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shrutakarman** | Śrutakarman | son of Draupadi and Arjuna | Shrutakarma |  |  |
 | **Shrutasena** | Śrutasena | son of Draupadi and Sahadeva |  |  |  |
 | **Sutasoma** | Sutasoma | son of Draupadi and Bhima |  |  |  |
+| **Vishoka** | Viśoka | a servant of Yudhishthira who sees to the food at the Rajasuya |  |  |  |
 | **Yudhishthira** | Yudhiṣṭhira | eldest son of Kunti, by Dharma; the dharma king | Ajatashatru, Dharmaraja, Kaunteya, Partha | Ajatashatru | Yudhistira, Yudhishtira, Yudhisthira, Yudhishthir, Yudhisthir |
 | **Vishvagashva** | Viṣvagaśva | a Paurava king defeated by Arjuna |  |  |  |
 | **Bhadra** | Bhadrā | Vyushitashva's wife, daughter of Kakshivat; also the name of Kubera's wife (1.191.6) |  |  |  |
@@ -590,6 +594,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sumantu** | Sumantu | a seer present in Yudhishthira's hall |  |  |  |
 | **Sumukha** | Sumukha | a seer present in Yudhishthira's hall |  |  |  |
 | **Supratika** | Supratīka | Vibhavasu's younger brother, who wanted their wealth divided; becomes the elephant |  |  |  |
+| **Susaman** | Susāman | the Sama singer at the Rajasuya, of the Dhananjaya family |  |  |  |
 | **Sutyapala** | Sutyapāla | a seer present in Yudhishthira's hall |  |  |  |
 | **Tittiri** | Tittiri | a seer present in Yudhishthira's hall |  |  |  |
 | **Traivani** | Traivaṇi | a seer present in Yudhishthira's hall |  |  |  |
@@ -649,7 +654,9 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Hanuman** | Hanūmat | the monkey, son of the wind; he meets Bhima in Book 3 and promises to sit on Arjuna's banner (3.150.15); not named on the banner at 1.216 |  |  | Hanumana |
 | **Akrura** | Akrūra | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Anadhrishti** | Anādhṛṣṭi | a Vrishni hero who comes to Indraprastha with Krishna |  |  |  |
+| **Anakadundubhi** | Ānakadundubhi | Vasudeva, Krishna's father |  |  |  |
 | **Andhakabhoja** | Andhakabhoja | a Yadava chief whose two sons are named among the great warriors |  |  |  |
+| **Babhru** | Babhru | a Vrishni at the Rajasuya |  |  |  |
 | **Balarama** | Balarāma | Krishna's elder brother, the plough-bearer | Baladeva, Rama, Samkarshana, Halayudha, Kamapala | Baladeva | Balram, Balaram |
 | **Bhangakara** | Bhaṅgakāra | a Vrishni named at the Raivataka festival (the reading is uncertain) |  |  |  |
 | **Bhanu** | Bhānu | a Vrishni hero |  |  |  |
@@ -684,6 +691,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sutanu** | Sutanu | Ahuka's daughter, given to Akrura |  |  |  |
 | **Uddhava** | Uddhava | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Ugrasena** | Ugrasena | king of the Vrishnis |  |  |  |
+| **Ulmuka** | Ulmuka | a son of Balarama |  |  |  |
 | **Ushinara** | Uśīnara | a Vrishni named among the suitors at Draupadi's bridegroom choice; also the name of Shibi's father |  |  |  |
 | **Vatapati** | Vātapati | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Viduratha** | Vidūratha | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |

@@ -18,6 +18,20 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 2, chapters 11–12 drafted: the Rajasuya and the guest gift
+- Ch 11 *The Rajasuya* (CE 2.30–32) and Ch 12 *The Guest Gift* (2.33–36): the land's prosperity;
+  Krishna's wealth; Vyasa's priests; the kings and the Kauravas arrive; the tasks given out;
+  the sacrifice; Narada's thought that Narayana is born as Krishna; the first honour to Krishna;
+  Shishupala's walk-out; Bhishma's praise of Krishna; Sahadeva's challenge. About 4,300 words.
+
+### Reference
+- Ledger **L-112**: Krishna washing the brahmins' feet, and Karna at the treasury, are only in
+  rejected lines. In the CE Duryodhana receives the gifts.
+
+### Workbook
+- `names.json`: +9 (Anakadundubhi, Vishoka, Susaman, Achala, Rita, Machella, Ulmuka, Babhru,
+  Shalva); Sunitha added to Shishupala's names.
+
 ### Novel: Book 2, chapters 9–10 drafted: the conquest of the quarters
 - Ch 9 *The Northern Quarter* (CE 2.23–25) and Ch 10 *East, South and West* (2.26–29):
   Arjuna's campaign in the north, Bhagadatta, the Kimpurushas and the Northern Kurus; Bhima's
