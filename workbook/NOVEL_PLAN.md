@@ -154,7 +154,9 @@ against the CE when the Book is drafted.
 | 68 | The Cow Nandini | 1.164–1.165 | ✅ drafted. Vasiṣṭha's forbearance; Viśvāmitra and Nandinī; brahmin power (L-69 corrected). |
 | 69 | Kalmashapada | 1.166–1.168 | ✅ drafted. Śakti's curse; the hundred sons eaten; Vasiṣṭha cannot die; the child in the womb; Aśmaka. |
 | 70 | Aurva | 1.169–1.171 | ✅ drafted. Parāśara's rage; the Bhṛgus slaughtered; Aurva's fire becomes the Mare's Head. |
-| 71… | The gandharva's tales and the svayaṃvara | 1.172–1.189 | Parāśara's sacrifice; the brahmin woman's curse; Dhaumya; the svayaṃvara; the five husbands. |
+| 71 | Dhaumya | 1.172–1.174 | ✅ drafted. Parāśara's rākṣasa sacrifice; the brahmin woman's curse; Dhaumya chosen. |
+| 72 | The Bow and the Target | 1.175–1.176 | ✅ drafted. The road to Pāñcāla; the potter's workshop; the bow and the aerial device; Draupadī enters (L-94). |
+| 73… | The svayaṃvara | 1.177–1.189 | The kings named; the kings fail; Arjuna wins; the fight; the five husbands. |
 
 ---
 

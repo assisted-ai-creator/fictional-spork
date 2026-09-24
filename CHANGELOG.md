@@ -18,6 +18,19 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 71–72 drafted: Dhaumya, and the road to Panchala
+- Ch 71 *Dhaumya* (CE 1.172–174) and Ch 72 *The Bow and the Target* (1.175–176):
+  Parashara's rakshasa sacrifice; the brahmin woman's curse on Kalmashapada; Dhaumya
+  becomes the Pandavas' priest; the journey to Panchala; the arena, the bow and the
+  target; Draupadi enters. About 2,350 words.
+
+### Reference
+- Ledger **L-94**: the revolving fish and its reflection in water are in neither the
+  CE nor Ganguli; the CE's target is golden, above an aerial device (1.176.10, 34).
+
+### Workbook
+- `names.json`: +3 (Dhaumya, Devala, Pulastya); Madayanti checked.
+
 ### Novel: Book 1, chapters 69–70 drafted: Vasishtha's sorrow
 - Ch 69 *Kalmashapada* (CE 1.166–168) and Ch 70 *Aurva* (1.169–171): the king cursed
   to eat men; the deaths of Vasishtha's hundred sons; his failed attempts to die;

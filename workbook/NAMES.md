@@ -167,7 +167,9 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Bhrigu** | Bhṛgu | seer, son of Brahma, ancestor of the Bhargavas (Shaunaka's line) |  |  |  |
 | **Chyavana** | Cyavana | son of Bhrigu, 'the Fallen One' |  |  | Chyavan |
 | **Dadhicha** | Dadhīca | seer from whose bones Indra's thunderbolt was made | Dadhichi |  |  |
+| **Devala** | Devala | seer, Dhaumya's elder brother |  |  |  |
 | **Devayani** | Devayānī | daughter of Shukra; wife of Yayati; mother of Yadu and Turvasu |  |  | Devyani |
+| **Dhaumya** | Dhaumya | Devala's younger brother, the Pandavas' family priest |  |  |  |
 | **Dhaumya of the Ayodas** | Dhaumya Āyoda | teacher of Aruni, Upamanyu and Veda. NOT the Dhaumya who becomes the Pandavas' priest (1.174) |  |  |  |
 | **Dirghatamas** | Dīrghatamas | son of Utathya, cursed in the womb by Brihaspati to be born blind; fathers sons for King Bali |  |  | Dirghatama |
 | **Durvasas** | Durvāsas | the fierce brahmin who gave Pritha the mantra to call the gods |  |  | Durvasa |
@@ -185,6 +187,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Parashara** | Parāśara | son of Shakti; father of Vyasa by Satyavati |  |  | Parasara |
 | **Pramadvara** | Pramadvarā | daughter of Vishvavasu and Menaka, raised by Sthulakesha; Ruru's wife |  |  |  |
 | **Pramati** | Pramati | son of Chyavana and Sukanya; father of Ruru |  |  |  |
+| **Pulastya** | Pulastya | seer, ancestor of the rakshasas, who stopped Parashara's sacrifice |  |  |  |
 | **Puloma** | Pulomā | Bhrigu's wife, mother of Chyavana (the rakshasa is Puloman) |  |  |  |
 | **Rama Jamadagnya** | Rāma Jāmadagnya | son of Jamadagni, the Bhrigu warrior-brahmin who destroyed the kshatriyas and made the five lakes of blood; later Bhishma's opponent and Karna's teacher. The CE never calls him 'Parashurama' (ledger L-62): write 'Rama, son of Jamadagni', 'Rama Jamadagnya' or 'Bhargava Rama' | Bhargava Rama | Jamadagnya | Parashuram, Parashurama, Parasurama, Parshuram |
 | **Ruru** | Ruru | son of Pramati; gives half his life to Pramadvara |  |  |  |

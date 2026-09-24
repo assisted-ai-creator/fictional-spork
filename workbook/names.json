@@ -2592,6 +2592,36 @@
    "dialogue": [],
    "flag": [],
    "ref": "1.169.11"
+  },
+  {
+   "name": "Dhaumya",
+   "iast": "Dhaumya",
+   "group": "Seer",
+   "who": "Devala's younger brother, the Pandavas' family priest",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.174.2"
+  },
+  {
+   "name": "Devala",
+   "iast": "Devala",
+   "group": "Seer",
+   "who": "seer, Dhaumya's elder brother",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.174.2"
+  },
+  {
+   "name": "Pulastya",
+   "iast": "Pulastya",
+   "group": "Seer",
+   "who": "seer, ancestor of the rakshasas, who stopped Parashara's sacrifice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.172.9"
   }
  ],
  "not_vyasa": [
