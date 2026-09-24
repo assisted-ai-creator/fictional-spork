@@ -18,6 +18,14 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 52–53 drafted: what Arjuna learned; the Nivatakavachas
+- Ch 52 *What Arjuna Learned* (CE 3.164–165) and Ch 53 *The Nivatakavachas* (3.166–169), both in Arjuna's
+  own voice: the world-guardians' weapons; Indra's test; Matali's chariot and Amaravati; the teacher's fee;
+  the battle beneath the ocean, the danavas' magic, Matali's despair, the thunderbolt weapon, and the city
+  that once belonged to the gods. About 4,200 words.
+- Checked: Arjuna's account has no Urvashi episode, which is not in the CE (L-25).
+- Names: Nivatakavachas added.
+
 ### Novel: Book 3, chapters 50–51 drafted: Kubera; Arjuna returns
 - Ch 50 *Kubera* (CE 3.158–160) and Ch 51 *Arjuna Returns* (3.161–163): Yudhishthira's rebuke of Bhima;
   Kubera's coming, his release from Agastya's curse and his counsel; Dhaumya on the four quarters, Meru and

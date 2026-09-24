@@ -242,6 +242,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shishupala** | Śiśupāla | king of Chedi, Jarasandha's general; killed by Krishna at the Rajasuya | Sunitha |  | Sisupala |
 | **Subahu** | Subāhu | king of the Chedis, in whose city Damayanti lives with the queen mother; also Subahu, king of the Kunindas on the Himalaya, who keeps the Pandavas' servants and chariots (3.141.24–29) |  |  |  |
 | **Virabahu** | Vīrabāhu | king of the Chedis, husband of Damayanti's mother's sister; father of Subahu |  |  |  |
+| **Nivatakavachas** | Nivātakavaca | danavas, enemies of Indra, three crores of them, living in a stronghold in the ocean; Arjuna's teacher's fee is to kill them (3.45; 3.165–169) |  |  |  |
 | **Aditi** | Aditi | mother of the Adityas |  |  |  |
 | **Amsha** | Aṃśa | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
 | **Aryaman** | Aryaman | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |

@@ -2,7 +2,7 @@
 
 # Contents
 
-**166 chapters, 354,684 words.** 166 drafted
+**168 chapters, 358,917 words.** 168 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -189,5 +189,7 @@
 | 49 | [Maniman](../novel/book-03-aranyaka/49-maniman.md) | 3.156-157 | drafted | 2,169 |
 | 50 | [Kubera](../novel/book-03-aranyaka/50-kubera.md) | 3.158-160 | drafted | 2,882 |
 | 51 | [Arjuna Returns](../novel/book-03-aranyaka/51-arjuna-returns.md) | 3.161-163 | drafted | 2,436 |
+| 52 | [What Arjuna Learned](../novel/book-03-aranyaka/52-what-arjuna-learned.md) | 3.164-165 | drafted | 1,870 |
+| 53 | [The Nivatakavachas](../novel/book-03-aranyaka/53-the-nivatakavachas.md) | 3.166-169 | drafted | 2,363 |
 
-*Book 3 so far: 130,423 words.*
+*Book 3 so far: 134,656 words.*

@@ -304,8 +304,8 @@ are refined while drafting.
 | 49 | Maniman | 3.156–3.157 | ✅ drafted. Ārṣṭiṣeṇa's questions and warning; the fifth year; Suparṇa's wind and Draupadī's wish; Bhīma climbs to Kubera's dwelling and kills the yakṣas and Maṇimān. |
 | 50 | Kubera | 3.158–3.160 | ✅ drafted. Yudhiṣṭhira's rebuke; Kubera comes in anger and is pleased; Agastya's curse and Maṇimān's spitting (L-136); Kubera's counsel and news of Arjuna and Śaṃtanu; Dhaumya on the quarters, Meru and the sun. |
 | 51 | Arjuna Returns | 3.161–3.163 | ✅ drafted. The waiting; Mātali brings Arjuna; the ornaments for Draupadī; Indra's visit; Arjuna's account of his austerity and the Kirāta, and the Pāśupata (L-120). |
-| 52 | What Arjuna Learned | 3.164–3.165 | Arjuna tells of Śiva and Indra's heaven. |
-| 53 | The Nivatakavachas | 3.166–3.169 | Arjuna fights the Nivātakavacas. |
+| 52 | What Arjuna Learned | 3.164–3.165 | ✅ drafted. The world-guardians' weapons; Indra's test; Mātali's chariot; Amarāvatī; Citrasena's teaching; the teacher's fee; the diadem, armour and Devadatta. |
+| 53 | The Nivatakavachas | 3.166–3.169 | ✅ drafted. The ocean and the city; the battle of arrows; rains of rock, water, fire and wind; Mātali's despair; the thunderbolt weapon; the city that was the gods'. |
 | 54 | Hiranyapura | 3.170–3.172 | The flying city; Arjuna shows the weapons and is stopped. |
 | 55 | The Serpent | 3.173–3.176 | Bhīma seized by the serpent. |
 | 56 | Nahusha's Questions | 3.177–3.178 | Yudhiṣṭhira answers the serpent Nahuṣa. |
