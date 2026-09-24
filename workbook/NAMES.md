@@ -9,15 +9,24 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Nandini** | Nandinī | Vasishtha's wish-granting cow (named at 1.165; unnamed in 1.93) |  |  |  |
 | **Adrika** | Adrikā | an apsaras cursed to be a fish in the Yamuna; mother of Satyavati and Matsya |  |  |  |
 | **Budbuda** | Budbudā | one of the five apsarases cursed to be crocodiles and freed by Arjuna |  |  |  |
+| **Chitralekha** | Citralekhā | an apsaras who dances for Arjuna in Indra's hall |  |  |  |
+| **Dundu** | Ḍuṇḍu | an apsaras who dances for Arjuna in Indra's hall |  |  |  |
+| **Gauri** | Gaurī | an apsaras who dances for Arjuna in Indra's hall |  |  |  |
 | **Ghritachi** | Ghṛtācī | apsaras at whose sight Bharadvaja shed the seed that became Drona |  |  |  |
+| **Gopali** | Gopālī | an apsaras who dances for Arjuna in Indra's hall |  |  |  |
 | **Jalapadi** | Jālapadī | the divine girl Indra sent to disturb Sharadvat |  |  |  |
+| **Kumbhayoni** | Kumbhayoni | an apsaras who dances for Arjuna in Indra's hall |  |  |  |
 | **Lata** | Latā | one of the five apsarases cursed to be crocodiles and freed by Arjuna |  |  |  |
 | **Menaka** | Menakā | an apsaras; mother of Pramadvara (and, later, of Shakuntala) |  |  |  |
+| **Prajagara** | Prajāgarā | an apsaras who dances for Arjuna in Indra's hall |  |  |  |
+| **Purvachitti** | Pūrvacitti | an apsaras who dances for Arjuna in Indra's hall |  |  |  |
 | **Samichi** | Samīcī | one of the five apsarases cursed to be crocodiles and freed by Arjuna |  |  |  |
 | **Saurabheyi** | Saurabheyī | one of the five apsarases cursed to be crocodiles and freed by Arjuna |  |  |  |
+| **Svayamprabha** | Svayaṃprabhā | an apsaras who dances for Arjuna in Indra's hall |  |  |  |
 | **Tilottama** | Tilottamā | the woman Vishvakarman made from every beautiful thing, to divide Sunda and Upasunda |  |  |  |
 | **Urvashi** | Urvaśī | the apsaras, wife of Pururavas |  |  | Urvasi |
 | **Varga** | Vargā | one of the five apsarases cursed to be crocodiles and freed by Arjuna |  |  |  |
+| **Varuthini** | Varūthinī | an apsaras who dances for Arjuna in Indra's hall |  |  |  |
 | **Anuvinda** | Anuvinda | one of the two princes of Avanti |  |  |  |
 | **Vinda** | Vinda | one of the two princes of Avanti |  |  |  |
 | **Darada** | Darada | a Bahlika king whom Shishupala says split the earth at his birth |  |  |  |
@@ -236,6 +245,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Dhatri** | Dhātṛ | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
 | **Jaya** | Jaya | a god who takes up a pestle at Khandava; also a Kaurava-side player at the dice game (2.52.13) |  |  |  |
 | **Jayanta** | Jayanta | son of Indra and Shachi |  |  |  |
+| **Kapila** | Kapila | the god who with a look burned the sons of Sagara as they dug to Rasatala; Indra calls him Vishnu |  |  |  |
 | **Mitra** | Mitra | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
 | **Parameshthin** | Parameṣṭhin | "the one who stands highest", a divine being at Brahma's court |  |  |  |
 | **Pushan** | Pūṣan | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
@@ -243,6 +253,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shachi** | Śacī | Indra's wife | Indrani, Paulomi |  |  |
 | **Soma** | Soma | the moon god, who gave Varuna the bow Gandiva |  |  |  |
 | **Svaha** | Svāhā | wife of Agni, the fire |  |  |  |
+| **Tara** | Tārā | Brihaspati's wife; the gods and daityas fought the war named after her |  |  |  |
 | **Tvashtri** | Tvaṣṭṛ | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
 | **Uma** | Umā | Shiva's wife, daughter of the king of mountains |  |  |  |
 | **Vishvakarman** | Viśvakarman | the craftsman of the gods |  |  | Vishwakarma, Vishvakarma |
@@ -279,6 +290,8 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Uluka** | Ulūka | son of Shakuni ("son of the gambler") |  |  |  |
 | **Vrishaka** | Vṛṣaka | a son of the king of Gandhara, brother of Shakuni; named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Angaraparna** | Aṅgāraparṇa | gandharva king beaten by Arjuna at the Ganga; renamed Chitraratha, then Dagdharatha | Chitraratha, Dagdharatha |  |  |
+| **Haha** | Hāhā | a gandharva, named with Huhu |  |  |  |
+| **Huhu** | Hūhū | a gandharva, named with Haha |  |  |  |
 | **Kumbhinasi** | Kumbhīnasī | Angaraparna's wife, who begged Yudhishthira for his life |  |  |  |
 | **Tumburu** | Tumburu | chief singer among the gandharvas |  |  |  |
 | **Vishvavasu** | Viśvāvasu | king of the gandharvas, father of Pramadvara |  |  |  |
@@ -286,6 +299,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Bhaga** | Bhaga | an Aditya whose eyes Shiva took away |  |  |  |
 | **Dharma** | Dharma | the god of dharma, lord of the dead's justice; born as Vidura by Animandavya's curse |  |  |  |
 | **Kubera** | Kubera | lord of wealth, whose gardens lie on the northern mountains | Vaishravana |  |  |
+| **Matali** | Mātali | Indra's charioteer |  |  |  |
 | **Nirriti** | Nirṛti | goddess of decay; the south-west is her quarter |  |  |  |
 | **Shiva** | Śiva | the great god; the CE also calls him Hara, Rudra, Mahadeva, Shankara | Hara, Rudra, Mahadeva, Shankara, Ishana, Girisha, Sthanu, Maheshvara, Shambhu, Bhava, Sharva, Kapardin |  |  |
 | **Skanda** | Skanda | the war god, called Guha and Kumara; son of Fire, the Krittikas, Rudra and Ganga | Guha, Kumara, Kartikeya, Mahasena |  |  |
@@ -324,7 +338,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Bahushali** | Bāhuśālin | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  | Bahushalin |
 | **Balaki** | Balākin | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Bhimavegadhara** | Bhīmavegadhara | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
-| **Chitrasena** | Citrasena | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Chitrasena** | Citrasena | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice; also the gandharva who teaches Arjuna music and dance in Indra's heaven (3.45.6-8), and an apsaras (3.44.30). Same name, different beings: say which from context |  |  |  |
 | **Duhshala** | Duḥśalā | Dhritarashtra and Gandhari's one daughter; wife of Jayadratha |  |  | Dushala, Dussala |
 | **Duhshasana** | Duḥśāsana | second son of Dhritarashtra and Gandhari |  |  | Dushasana, Dussasana, Dushashan, Dushshasana |
 | **Durvishaha** | Durviṣaha | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
@@ -335,7 +349,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kundaja** | Kuṇḍaja | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Nandaka** | Nandaka | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Purochana** | Purocana | Duryodhana's minister who built the house of lac at Varanavata |  |  |  |
-| **Saha** | Saha | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Saha** | Saha | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice; also an apsaras (3.44.30) |  |  |  |
 | **Sukundala** | Sukuṇḍala | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Ugrayudha** | Ugrāyudha | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Vatavega** | Vātavega | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
@@ -392,6 +406,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Machella** | Mācella | a great warrior at the Rajasuya |  |  |  |
 | **Madayanti** | Madayantī | wife of Saudasa (Kalmashapada), mother of Ashmaka by Vasishtha |  |  |  |
 | **Mahabhisha** | Mahābhiṣa | a king of Ikshvaku's line in heaven, cursed by Brahma for gazing at Ganga; reborn as Shantanu |  |  |  |
+| **Mandhatar** | Māndhātṛ | an ancient king, the best of kings, who rose to heaven |  |  |  |
 | **Manu** | Manu | Manu son of Vivasvat (through Martanda in 1.70), from whom the human race descends | Vaivasvata |  |  |
 | **Meghavahana** | Meghavāhana | a king allied to Jarasandha |  |  |  |
 | **Munjaketu** | Muñjaketu | a king present in Yudhishthira's hall |  |  |  |
@@ -491,6 +506,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Hiranyadhanus** | Hiraṇyadhanus | king of the Nishadas, Ekalavya's father |  |  |  |
 | **Damayanti** | Damayantī | Nala's wife, a model of devotion |  |  |  |
 | **Nala** | Nala | king of the Nishadhas, Damayanti's husband; his story is told in Book 3 |  |  |  |
+| **Pushkara** | Puṣkara | Nala's brother, who won Nala's kingdom from him at dice |  |  |  |
 | **Dhrishtadyumna** | Dhṛṣṭadyumna | Drupada's son, born from the sacrificial fire to kill Drona | Parshata |  | Dhristadyumna, Drishtadyumna |
 | **Drupada** | Drupada | king of the Panchalas, Drona's childhood friend and enemy | Yajnasena |  |  |
 | **Prishata** | Pṛṣata | king of the Panchalas, Bharadvaja's friend, Drupada's father |  |  |  |

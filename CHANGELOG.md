@@ -18,6 +18,17 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 16–17 drafted: Indra's heaven; Dhritarashtra's fear
+- Ch 16 *Indra's Heaven* (CE 3.42–45) and Ch 17 *Dhritarashtra's Fear* (3.46–49): the guardians
+  of the world give Arjuna their weapons; Matali's chariot and the rise through the stars;
+  Arjuna on Indra's throne and five years in heaven; Indra's message by Lomasha; Dhritarashtra's
+  fear and Sanjaya's retelling of Krishna's vow in the forest (a CE doublet of 3.13); Bhima's
+  "a day for a year"; Brihadashva comes to tell of Nala. About 6,600 words.
+- Checked: the "war over Tara" (*tārakāmaya*, 3.42.28) is the war for Brihaspati's wife, not
+  the demon Taraka. Urvashi's curse is again confirmed outside the CE (App. I No. 6; L-25).
+- Names: Matali, Haha, Huhu, Mandhatar, Kapila (3.45.25), Tara, Pushkara and nine apsarases
+  added; Chitrasena and Saha notes extended for the gandharva and the apsaras of the same name.
+
 ### Novel: Book 3, chapters 13–15 drafted: Vyasa's counsel; Arjuna goes north; the hunter
 - Ch 13 *Vyasa's Counsel* (CE 3.36–37), Ch 14 *Arjuna Goes North* (3.38–39) and Ch 15 *The
   Hunter* (3.40–41): Bhima's plea to count the forest months as years; Yudhishthira's fear of

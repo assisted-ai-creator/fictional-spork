@@ -2668,7 +2668,7 @@
    "name": "Saha",
    "iast": "Saha",
    "group": "Kaurava",
-   "who": "a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice",
+   "who": "a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice; also an apsaras (3.44.30)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -2800,7 +2800,7 @@
    "name": "Chitrasena",
    "iast": "Citrasena",
    "group": "Kaurava",
-   "who": "a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice",
+   "who": "a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice; also the gandharva who teaches Arjuna music and dance in Indra's heaven (3.45.6-8), and an apsaras (3.44.30). Same name, different beings: say which from context",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -8003,6 +8003,166 @@
    "dialogue": [],
    "flag": [],
    "ref": "3.32.11"
+  },
+  {
+   "name": "Matali",
+   "iast": "Mātali",
+   "group": "God",
+   "who": "Indra's charioteer",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.42.38"
+  },
+  {
+   "name": "Haha",
+   "iast": "Hāhā",
+   "group": "Gandharva",
+   "who": "a gandharva, named with Huhu",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.44.14"
+  },
+  {
+   "name": "Huhu",
+   "iast": "Hūhū",
+   "group": "Gandharva",
+   "who": "a gandharva, named with Haha",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.44.14"
+  },
+  {
+   "name": "Purvachitti",
+   "iast": "Pūrvacitti",
+   "group": "Apsaras",
+   "who": "an apsaras who dances for Arjuna in Indra's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.44.29"
+  },
+  {
+   "name": "Svayamprabha",
+   "iast": "Svayaṃprabhā",
+   "group": "Apsaras",
+   "who": "an apsaras who dances for Arjuna in Indra's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.44.29"
+  },
+  {
+   "name": "Dundu",
+   "iast": "Ḍuṇḍu",
+   "group": "Apsaras",
+   "who": "an apsaras who dances for Arjuna in Indra's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.44.29"
+  },
+  {
+   "name": "Gauri",
+   "iast": "Gaurī",
+   "group": "Apsaras",
+   "who": "an apsaras who dances for Arjuna in Indra's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.44.29"
+  },
+  {
+   "name": "Varuthini",
+   "iast": "Varūthinī",
+   "group": "Apsaras",
+   "who": "an apsaras who dances for Arjuna in Indra's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.44.29"
+  },
+  {
+   "name": "Gopali",
+   "iast": "Gopālī",
+   "group": "Apsaras",
+   "who": "an apsaras who dances for Arjuna in Indra's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.44.29"
+  },
+  {
+   "name": "Kumbhayoni",
+   "iast": "Kumbhayoni",
+   "group": "Apsaras",
+   "who": "an apsaras who dances for Arjuna in Indra's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.44.29"
+  },
+  {
+   "name": "Prajagara",
+   "iast": "Prajāgarā",
+   "group": "Apsaras",
+   "who": "an apsaras who dances for Arjuna in Indra's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.44.29"
+  },
+  {
+   "name": "Chitralekha",
+   "iast": "Citralekhā",
+   "group": "Apsaras",
+   "who": "an apsaras who dances for Arjuna in Indra's hall",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.44.29"
+  },
+  {
+   "name": "Mandhatar",
+   "iast": "Māndhātṛ",
+   "group": "King",
+   "who": "an ancient king, the best of kings, who rose to heaven",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.43.37"
+  },
+  {
+   "name": "Kapila",
+   "iast": "Kapila",
+   "group": "Deity",
+   "who": "the god who with a look burned the sons of Sagara as they dug to Rasatala; Indra calls him Vishnu",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.45.25"
+  },
+  {
+   "name": "Tara",
+   "iast": "Tārā",
+   "group": "Deity",
+   "who": "Brihaspati's wife; the gods and daityas fought the war named after her",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.42.28"
+  },
+  {
+   "name": "Pushkara",
+   "iast": "Puṣkara",
+   "group": "Nishadha",
+   "who": "Nala's brother, who won Nala's kingdom from him at dice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.49.40"
   }
  ],
  "not_vyasa": [
