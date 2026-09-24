@@ -31,6 +31,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sarisrikva** | Sārisṛkva | second of the four Sharngaka fledglings |  |  |  |
 | **Stambamitra** | Stambamitra | third of the four Sharngaka fledglings |  |  |  |
 | **Sudhanvan** | Sudhanvan | son of Angiras, who staked his life against Virochana in Vidura's story |  |  |  |
+| **Ahuti** | Āhuti | a king Krishna beat at Jaruthi |  |  |  |
 | **Aida** | Aiḍa | named in Yama's hall (2.8) |  |  |  |
 | **Ajaka** | Ajaka | named in Yama's hall (2.8) |  |  |  |
 | **Alarka** | Alarka | named in Yama's hall (2.8) |  |  |  |
@@ -76,13 +77,14 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Gautami** | Gautamī | named in Brahma's hall (2.11) |  |  |  |
 | **Gavishtha** | Gaviṣṭha | named in Indra's hall (2.7) |  |  |  |
 | **Ghatodara** | Ghaṭodara | named in Varuna's hall (2.9) |  |  |  |
+| **Gopati** | Gopati | a king Krishna killed on the Iravati |  |  |  |
 | **Hariman** | Harimat | named in Brahma's hall (2.11) |  |  |  |
 | **Harishchandra** | Hariścandra | named in Indra's hall (2.7) |  |  |  |
 | **Havishman** | Haviṣmat | named in Indra's hall (2.7) |  |  |  |
 | **Hemanetra** | Hemanetra | named in Kubera's hall (2.10) |  |  |  |
 | **Hiranyada** | Hiraṇyada | named in Indra's hall (2.7) |  |  |  |
 | **Hridya** | Hṛdya | named in Indra's hall (2.7) |  |  |  |
-| **Indradyumna** | Indradyumna | named in Yama's hall (2.8) |  |  |  |
+| **Indradyumna** | Indradyumna | named in Yama's hall (2.8); also a king Krishna killed (3.13.29) |  |  |  |
 | **Indratapana** | Indratāpana | named in Varuna's hall (2.9) |  |  |  |
 | **Ira** | Irā | named in Kubera's hall (2.10) |  |  |  |
 | **Janaka** | Janaka | named in Yama's hall (2.8); also King Janaka of Videha, defeated by Bhima (2.27.12) |  |  |  |
@@ -166,10 +168,12 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Samvarta** | Saṃvarta | named in Indra's hall (2.7) |  |  |  |
 | **Sandroshtha** | Sāndroṣṭha | named in Kubera's hall (2.10) |  |  |  |
 | **Satyavan** | Satyavat | named in Indra's hall (2.7) |  |  |  |
+| **Shaibya** | Śaibya | a king Krishna beat at Jaruthi |  |  |  |
 | **Shanaishchara** | Śanaiścara | named in Brahma's hall (2.11) |  |  |  |
 | **Sharabha** | Śarabha | named in Yama's hall (2.8) |  |  |  |
 | **Sharyati** | Śaryāti | named in Yama's hall (2.8) |  |  |  |
 | **Shashabindu** | Śaśabindu | named in Yama's hall (2.8) |  |  |  |
+| **Shatadhanvan** | Śatadhanvan | a king Krishna beat at Jaruthi |  |  |  |
 | **Shataratha** | Śataratha | named in Yama's hall (2.8) |  |  |  |
 | **Shatyayana** | Śāṭyāyana | named in Indra's hall (2.7) |  |  |  |
 | **Shikhavarta** | Śikhāvarta | named in Kubera's hall (2.10) |  |  |  |
@@ -186,6 +190,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Surupa** | Surūpa | named in Varuna's hall (2.9) |  |  |  |
 | **Susimha** | Susiṃha | named in Yama's hall (2.8) |  |  |  |
 | **Svana** | Svana | named in Varuna's hall (2.9) |  |  |  |
+| **Talaketu** | Tālaketu | a king Krishna killed on the Iravati |  |  |  |
 | **Tarkshya** | Tārkṣya | named in Indra's hall (2.7) |  |  |  |
 | **Trasadasyu** | Trasadasyu | named in Yama's hall (2.8) |  |  |  |
 | **Trigarta** | Trigarta | named in Yama's hall (2.8) |  |  |  |
@@ -222,6 +227,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vrishasena** | Vṛṣasena | named in Yama's hall (2.8) |  |  |  |
 | **Vyashva** | Vyaśva | named in Yama's hall (2.8) |  |  |  |
 | **Damaghosha** | Damaghoṣa | king of Chedi, Shishupala's father |  |  |  |
+| **Dhrishtaketu** | Dhṛṣṭaketu | king of the Chedis after Shishupala; ally of the Pandavas |  |  |  |
 | **Shishupala** | Śiśupāla | king of Chedi, Jarasandha's general; killed by Krishna at the Rajasuya | Sunitha |  | Sisupala |
 | **Aditi** | Aditi | mother of the Adityas |  |  |  |
 | **Amsha** | Aṃśa | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
@@ -244,8 +250,10 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Hiranyakashipu** | Hiraṇyakaśipu | a great asura king, ancestor of Nikumbha |  |  | Hiranyakasipu |
 | **Jambha** | Jambha | an asura given up by the great asuras, as Kavya advised |  |  |  |
 | **Maya** | Maya | an asura, Namuchi's brother, spared at the burning of Khandava at Arjuna's word |  |  |  |
+| **Muru** | Muru | a demon whose nooses Krishna cut |  |  |  |
 | **Namuchi** | Namuci | an asura slain by Indra; Maya's brother |  |  |  |
 | **Nikumbha** | Nikumbha | a daitya lord of Hiranyakashipu's line, father of Sunda and Upasunda |  |  |  |
+| **Nisunda** | Nisunda | a demon Krishna killed |  |  |  |
 | **Paka** | Pāka | a demon slain by Indra, who is called "chastiser of Paka" |  |  |  |
 | **Prahlada** | Prahlāda | a great asura, son of Hiranyakashipu. The CE spells him Prahrada in Book 1 (1.59.18) and Prahlada in Book 2 (2.9.12); the novel follows the text. A snake named Prahlada sits in Varuna's hall (2.9.10) | Prahrada |  |  |
 | **Putana** | Pūtanā | the demoness Krishna killed in his childhood, named in Shishupala's taunts |  |  |  |
@@ -278,6 +286,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shiva** | Śiva | the great god; the CE also calls him Hara, Rudra, Mahadeva, Shankara | Hara, Rudra, Mahadeva, Shankara, Ishana, Girisha, Sthanu, Maheshvara, Shambhu |  |  |
 | **Skanda** | Skanda | the war god, called Guha and Kumara; son of Fire, the Krittikas, Rudra and Ganga | Guha, Kumara, Kartikeya, Mahasena |  |  |
 | **Vayu** | Vāyu | the Wind, father of Bhima | Maruta, Pavana |  |  |
+| **Viraj** | Virāj | a cosmic being; Krishna lived with Brahma in his house |  |  |  |
 | **Agni** | Agni | the fire god | Pavaka, Jatavedas, Vibhavasu, Hutashana |  |  |
 | **Akupara** | Akūpāra | king of the tortoises; the base of Mandara at the churning (not called an avatar of Vishnu; see L-64) |  |  |  |
 | **Ananta** | Ananta | the mighty god who tears up Mandara for the churning |  |  |  |
@@ -291,7 +300,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Indra** | Indra | king of the gods | Shakra, Purandara, Vasava, Maghavat, Maghavan, Shatakratu | Shakra |  |
 | **Kadru** | Kadrū | daughter of the creator, wife of Kashyapa, mother of a thousand nagas |  |  | Kadroo |
 | **Nara** | Nara | the god who fights beside Narayana with a divine bow |  |  |  |
-| **Rahu** | Rāhu | a danava who drinks the nectar disguised as a god; his head is cut off by the discus |  |  |  |
+| **Rahu** | Rāhu | a danava who drinks the nectar disguised as a god; his head is cut off by the discus | Svarbhanu |  |  |
 | **Sarama** | Saramā | the dog of the gods, who curses Janamejaya |  |  |  |
 | **Shri** | Śrī | goddess of fortune, risen from the churned butter | Lakshmi |  | Sri |
 | **Varuna** | Varuṇa | lord of the waters; the ocean asks for a share of the nectar |  |  |  |
@@ -368,7 +377,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kamala** | Kamala | a king present in Yudhishthira's hall |  |  |  |
 | **Kampana** | Kampana | a king present in Yudhishthira's hall |  |  |  |
 | **Ketuman** | Ketumat | a king present in Yudhishthira's hall |  |  | Ketumat |
-| **Kratha** | Kratha | an overlord of kings defeated by Bhima |  |  |  |
+| **Kratha** | Kratha | an overlord of kings defeated by Bhima; also a king Krishna beat at Jaruthi (3.13.27) |  |  |  |
 | **Kritakshana** | Kṛtakṣaṇa | a king present in Yudhishthira's hall |  |  |  |
 | **Kritavirya** | Kṛtavīrya | king who enriched the Bhrigus; father of Arjuna Kartavirya |  |  |  |
 | **Kshemajit** | Kṣemajit | a king present in Yudhishthira's hall |  |  |  |
@@ -494,8 +503,9 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Prativindhya** | Prativindhya | son of Draupadi and Yudhishthira; also a king of the north defeated by Arjuna (2.23.15) |  |  |  |
 | **Sahadeva** | Sahadeva | younger of Madri's twin sons, by the Ashvins; also the name of Jarasandha's son, consecrated king of Magadha by Krishna (2.20.29; 2.22.39) |  |  | Sahdev, Sahadev |
 | **Shatanika** | Śatānīka | son of Draupadi and Nakula, named after a royal seer of the Kuru line |  |  |  |
-| **Shrutakarman** | Śrutakarman | son of Draupadi and Arjuna | Shrutakarma |  |  |
-| **Shrutasena** | Śrutasena | son of Draupadi and Sahadeva |  |  |  |
+| **Shrutakarman** | Śrutakarman | son of Draupadi. The CE's lists differ: Arjuna's son at 1.213.76 and 3.224.10, Sahadeva's at 1.90.82 and 3.13.66 | Shrutakarma |  |  |
+| **Shrutakirti** | Śrutakīrti | son of Draupadi and Arjuna in the lists at 1.57.102, 1.90.82 and 3.13.65; the lists at 1.213.76 and 3.224.10 give Arjuna's son as Shrutakarman |  |  |  |
+| **Shrutasena** | Śrutasena | son of Draupadi and Sahadeva (1.57.103, 1.213, 3.224.10); the lists at 1.90.82 and 3.13.66 give Sahadeva's son as Shrutakarman |  |  |  |
 | **Sutasoma** | Sutasoma | son of Draupadi and Bhima |  |  |  |
 | **Vishoka** | Viśoka | a servant of Yudhishthira who sees to the food at the Rajasuya |  |  |  |
 | **Yudhishthira** | Yudhiṣṭhira | eldest son of Kunti, by Dharma; the dharma king | Ajatashatru, Dharmaraja, Kaunteya, Partha | Ajatashatru | Yudhistira, Yudhishtira, Yudhisthira, Yudhishthir, Yudhisthir |
@@ -716,6 +726,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kuntibhoja** | Kuntibhoja | Shura's cousin, who adopted Pritha, hence 'Kunti' |  |  |  |
 | **Shura** | Śūra | chief of the Yadus, father of Vasudeva and of Pritha (Kunti) |  |  |  |
 | **Vasudeva** | Vasudeva | son of Shura, father of Krishna; Pritha's brother. Not Krishna's patronymic 'Vasudeva' (Vāsudeva), which the novel avoids as a name for Krishna where it would confuse |  |  |  |
+| **Kasheruman** | Kaśerumān | a Yavana Krishna killed |  |  |  |
 | **Mura** | Mura | one of two Yavana lords ruled by Bhagadatta |  |  |  |
 
 ## Not in Vyasa's text

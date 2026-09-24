@@ -1325,7 +1325,9 @@
    "iast": "Rāhu",
    "group": "Gods",
    "who": "a danava who drinks the nectar disguised as a god; his head is cut off by the discus",
-   "aka": [],
+   "aka": [
+    "Svarbhanu"
+   ],
    "dialogue": [],
    "flag": [],
    "ref": "1.17.4"
@@ -3974,7 +3976,7 @@
    "name": "Shrutakarman",
    "iast": "Śrutakarman",
    "group": "Pandava",
-   "who": "son of Draupadi and Arjuna",
+   "who": "son of Draupadi. The CE's lists differ: Arjuna's son at 1.213.76 and 3.224.10, Sahadeva's at 1.90.82 and 3.13.66",
    "aka": [
     "Shrutakarma"
    ],
@@ -3996,7 +3998,7 @@
    "name": "Shrutasena",
    "iast": "Śrutasena",
    "group": "Pandava",
-   "who": "son of Draupadi and Sahadeva",
+   "who": "son of Draupadi and Sahadeva (1.57.103, 1.213, 3.224.10); the lists at 1.90.82 and 3.13.66 give Sahadeva's son as Shrutakarman",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -6032,7 +6034,7 @@
    "name": "Indradyumna",
    "iast": "Indradyumna",
    "group": "Catalogue",
-   "who": "named in Yama's hall (2.8)",
+   "who": "named in Yama's hall (2.8); also a king Krishna killed (3.13.29)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -7335,7 +7337,7 @@
    "name": "Kratha",
    "iast": "Kratha",
    "group": "King",
-   "who": "an overlord of kings defeated by Bhima",
+   "who": "an overlord of kings defeated by Bhima; also a king Krishna beat at Jaruthi (3.13.27)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -7640,6 +7642,116 @@
    "dialogue": [],
    "flag": [],
    "ref": "3.11.22"
+  },
+  {
+   "name": "Shrutakirti",
+   "iast": "Śrutakīrti",
+   "group": "Pandava",
+   "who": "son of Draupadi and Arjuna in the lists at 1.57.102, 1.90.82 and 3.13.65; the lists at 1.213.76 and 3.224.10 give Arjuna's son as Shrutakarman",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.90.82"
+  },
+  {
+   "name": "Dhrishtaketu",
+   "iast": "Dhṛṣṭaketu",
+   "group": "Chedi",
+   "who": "king of the Chedis after Shishupala; ally of the Pandavas",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.13.2"
+  },
+  {
+   "name": "Ahuti",
+   "iast": "Āhuti",
+   "group": "Catalogue",
+   "who": "a king Krishna beat at Jaruthi",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.13.27"
+  },
+  {
+   "name": "Shaibya",
+   "iast": "Śaibya",
+   "group": "Catalogue",
+   "who": "a king Krishna beat at Jaruthi",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.13.27"
+  },
+  {
+   "name": "Shatadhanvan",
+   "iast": "Śatadhanvan",
+   "group": "Catalogue",
+   "who": "a king Krishna beat at Jaruthi",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.13.27"
+  },
+  {
+   "name": "Kasheruman",
+   "iast": "Kaśerumān",
+   "group": "Yavana",
+   "who": "a Yavana Krishna killed",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.13.29"
+  },
+  {
+   "name": "Gopati",
+   "iast": "Gopati",
+   "group": "Catalogue",
+   "who": "a king Krishna killed on the Iravati",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.13.30"
+  },
+  {
+   "name": "Talaketu",
+   "iast": "Tālaketu",
+   "group": "Catalogue",
+   "who": "a king Krishna killed on the Iravati",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.13.30"
+  },
+  {
+   "name": "Muru",
+   "iast": "Muru",
+   "group": "Demon",
+   "who": "a demon whose nooses Krishna cut",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.13.26"
+  },
+  {
+   "name": "Nisunda",
+   "iast": "Nisunda",
+   "group": "Demon",
+   "who": "a demon Krishna killed",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.13.26"
+  },
+  {
+   "name": "Viraj",
+   "iast": "Virāj",
+   "group": "God",
+   "who": "a cosmic being; Krishna lived with Brahma in his house",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.13.36"
   }
  ],
  "not_vyasa": [

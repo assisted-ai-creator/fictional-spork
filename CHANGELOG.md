@@ -18,6 +18,20 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 4–5 drafted: Kirmira and Krishna in the forest
+- Ch 4 *Kirmira* (CE 3.12) and Ch 5 *Krishna in the Forest* (3.13): Vidura's telling of Bhima's
+  fight with Kirmira; the allies' visit; Arjuna's recital of Krishna's deeds; Nara and
+  Narayana; Draupadi's lament and her retelling of the wrongs since childhood; Krishna's promise
+  that she will be queen of kings. About 4,300 words.
+- Finding: the CE's own lists of Draupadi's sons disagree. Arjuna's son is Shrutakirti at
+  1.57.102, 1.90.82 and 3.13.65, but Shrutakarman at 1.213.76 and 3.224.10; Sahadeva's son is
+  Shrutakarman at 1.90.82 and 3.13.66, but Shrutasena elsewhere. The novel follows each passage
+  and notes the difference; `names.json` now records it.
+
+### Workbook
+- `names.json`: +11 (Shrutakirti, Dhrishtaketu, Ahuti, Shaibya, Shatadhanvan, Kasheruman,
+  Gopati, Talaketu, Muru, Nisunda, Viraj); Svarbhanu added to Rahu's names.
+
 ### Novel: Book 3 (Aranyaka Parva) begun: plan and chapters 1–3
 - **Book 3 plan**: 95 chapters drawn up from the opening of each of the 299 CE adhyayas, now
   in `workbook/NOVEL_PLAN.md`. Titles and groupings are provisional and will be refined while

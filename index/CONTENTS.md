@@ -2,7 +2,7 @@
 
 # Contents
 
-**118 chapters, 232,624 words.** 118 drafted
+**120 chapters, 236,930 words.** 120 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -141,5 +141,7 @@
 | 1 | [The Sun's Gift](../novel/book-03-aranyaka/01-the-suns-gift.md) | 3.1-4 | drafted | 4,295 |
 | 2 | [Vidura's Counsel](../novel/book-03-aranyaka/02-viduras-counsel.md) | 3.5-7 | drafted | 1,880 |
 | 3 | [Maitreya's Curse](../novel/book-03-aranyaka/03-maitreyas-curse.md) | 3.8-11 | drafted | 2,188 |
+| 4 | [Kirmira](../novel/book-03-aranyaka/04-kirmira.md) | 3.12 | drafted | 1,692 |
+| 5 | [Krishna in the Forest](../novel/book-03-aranyaka/05-krishna-in-the-forest.md) | 3.13 | drafted | 2,614 |
 
-*Book 3 so far: 8,363 words.*
+*Book 3 so far: 12,669 words.*

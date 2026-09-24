@@ -256,8 +256,8 @@ are refined while drafting.
 | 1 | The Sun's Gift | 3.1–3.4 | ✅ drafted. The citizens turned back; Śaunaka's teaching; Dhaumya and the Sun's 108 names; the food that does not run out (L-23). |
 | 2 | Vidura's Counsel | 3.5–3.7 | ✅ drafted. Vidura's counsel and dismissal; Kāmyaka; Dhṛtarāṣṭra's remorse; the reconciliation. |
 | 3 | Maitreya's Curse | 3.8–3.11 | ✅ drafted. Karṇa's plan stopped by Vyāsa; Surabhi and Indra; Maitreya's curse (L-29). |
-| 4 | Kirmira | 3.12 | Vidura tells how Bhīma killed the rākṣasa Kirmīra. |
-| 5 | Krishna in the Forest | 3.13 | The Vṛṣṇis visit; Draupadī's lament to Kṛṣṇa; his promise. |
+| 4 | Kirmira | 3.12 | ✅ drafted. Vidura's telling: Kirmīra blocks the way; Dhaumya's spells; Bhīma kills him. |
+| 5 | Krishna in the Forest | 3.13 | ✅ drafted. Arjuna recites Kṛṣṇa's deeds; Nara and Nārāyaṇa; Draupadī's lament; "you will be queen of kings". |
 | 6 | Shalva's Attack | 3.14–3.17 | Why Kṛṣṇa was absent: Śālva's siege of Dvārakā. |
 | 7 | Pradyumna | 3.18–3.20 | Pradyumna fights Śālva; his charioteer. |
 | 8 | The Flying City | 3.21–3.23 | Kṛṣṇa destroys Saubha and Śālva; he leaves the Pāṇḍavas. |
