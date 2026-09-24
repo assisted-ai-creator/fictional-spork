@@ -18,6 +18,18 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 18–19 drafted: Nala and Damayanti; the bridegroom choice
+- Ch 18 *Nala and Damayanti* (CE 3.50–53) and Ch 19 *The Bridegroom Choice* (3.54–57): the
+  opening of Brihadashva's tale of Nala, told inside his quotation marks as the gandharva's tale
+  of Tapati is in Book 1. The golden geese; the gods' errand; the five Nalas and the signs of the
+  gods; the eight boons; Kali's grudge; the game with Pushkara; the children sent to Kundina.
+  About 4,400 words.
+- Checked: in the CE it is Kali, not Dvapara, who becomes "the bull" among the dice (3.56.6);
+  the birth of Nala's children is not narrated in the CE (\*229).
+- Ledger: new L-122 (the swan messenger: geese in the CE, and no curse).
+- Names: Damana, Dama, Danta, Kandarpa, Kali (the spirit of the dice, not Satyavati), Dvapara,
+  Brihatsena, Varshneya (Nala's charioteer, not Krishna) and Rituparna added.
+
 ### Novel: Book 3, chapters 16–17 drafted: Indra's heaven; Dhritarashtra's fear
 - Ch 16 *Indra's Heaven* (CE 3.42–45) and Ch 17 *Dhritarashtra's Fear* (3.46–49): the guardians
   of the world give Arjuna their weapons; Matali's chariot and the rise through the stars;

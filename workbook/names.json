@@ -380,7 +380,7 @@
    "name": "Bhima",
    "iast": "Bhīma",
    "group": "Pandava",
-   "who": "second son of Kunti, by Vayu the wind; immensely strong",
+   "who": "second son of Kunti, by Vayu the wind; immensely strong; also the name of the king of Vidarbha, Damayanti's father (3.50.5), inside Brihadashva's tale only",
    "aka": [
     "Bhimasena",
     "Vrikodara"
@@ -7211,7 +7211,7 @@
    "name": "Indrasena",
    "iast": "Indrasena",
    "group": "Pandava",
-   "who": "Yudhishthira's messenger and charioteer; follows the Pandavas into the forest (3.1.10)",
+   "who": "Yudhishthira's messenger and charioteer; follows the Pandavas into the forest (3.1.10); also the name of both of Nala's children, the boy Indrasena and the girl Indrasena (3.57.21)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -8163,6 +8163,96 @@
    "dialogue": [],
    "flag": [],
    "ref": "3.49.40"
+  },
+  {
+   "name": "Damana",
+   "iast": "Damana",
+   "group": "Seer",
+   "who": "a brahmin seer who gave King Bhima of Vidarbha the boon of children; also the name of Damayanti's youngest brother (3.50.9)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.50.6"
+  },
+  {
+   "name": "Dama",
+   "iast": "Dama",
+   "group": "Vidarbha",
+   "who": "Damayanti's brother",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.50.9"
+  },
+  {
+   "name": "Danta",
+   "iast": "Dānta",
+   "group": "Vidarbha",
+   "who": "Damayanti's brother",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.50.9"
+  },
+  {
+   "name": "Kandarpa",
+   "iast": "Kandarpa",
+   "group": "Deity",
+   "who": "the god of love",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.50.14"
+  },
+  {
+   "name": "Kali",
+   "iast": "Kali",
+   "group": "Deity",
+   "who": "the spirit of the losing throw at dice, who possessed Nala. Not Kali (Kālī), Satyavati's name",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.55.1"
+  },
+  {
+   "name": "Dvapara",
+   "iast": "Dvāpara",
+   "group": "Deity",
+   "who": "Kali's companion, who entered the dice against Nala",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.55.1"
+  },
+  {
+   "name": "Brihatsena",
+   "iast": "Bṛhatsenā",
+   "group": "Vidarbha",
+   "who": "Damayanti's nurse",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.57.4"
+  },
+  {
+   "name": "Varshneya",
+   "iast": "Vārṣṇeya",
+   "group": "Nishadha",
+   "who": "Nala's charioteer, who took his children to Vidarbha and then served Rituparna. Not Krishna, who is also called Varshneya",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.57.9"
+  },
+  {
+   "name": "Rituparna",
+   "iast": "Ṛtuparṇa",
+   "group": "Ikshvaku",
+   "who": "king of Ayodhya, master of dice, whom Nala serves as charioteer",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.57.22"
   }
  ],
  "not_vyasa": [

@@ -270,8 +270,8 @@ are refined while drafting.
 | 15 | The Hunter | 3.40–3.41 | ✅ drafted. Śiva as a Kirāta; the boar Mūka; the fight (L-26; no clay image, L-120); Nara; the Pāśupata. |
 | 16 | Indra's Heaven | 3.42–3.45 | ✅ drafted. Yama, Varuṇa and Kubera give their weapons; Mātali's chariot; the stars as the lights of the righteous; Indra's throne; five years in heaven; Lomaśa sent (no Urvaśī, L-25). |
 | 17 | Dhritarashtra's Fear | 3.46–3.49 | ✅ drafted. Dhṛtarāṣṭra's fear; Sañjaya retells Kṛṣṇa's vow (a doublet of 3.13); the forest food; Bhīma's "a day for a year"; Bṛhadaśva comes. |
-| 18 | Nala and Damayanti | 3.50–3.53 | The swan; the gods' errand; Nala as their envoy. |
-| 19 | The Bridegroom Choice | 3.54–3.57 | Damayantī chooses Nala; Kali and Dvāpara; the dice. |
+| 18 | Nala and Damayanti | 3.50–3.53 | ✅ drafted. Nala and Damayanti; the golden geese (L-122); the gods make Nala their messenger; Damayanti's answer. |
+| 19 | The Bridegroom Choice | 3.54–3.57 | ✅ drafted. The five Nalas and the signs of the gods; the eight boons; Kali and Dvāpara; the game with Puṣkara; the children sent to Vidarbha. |
 | 20 | The Forest | 3.58–3.60 | Nala loses all; he leaves Damayantī in the forest. |
 | 21 | Damayanti Alone | 3.61 | Damayantī's wanderings; the hunter; the ascetics. |
 | 22 | The Caravan | 3.62–3.64 | The caravan; Cedi; Nala and Karkoṭaka; Ṛtuparṇa. |

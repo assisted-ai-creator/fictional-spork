@@ -2,13 +2,13 @@
 
 # Coverage of the Critical Edition
 
-**11,384 of 73,815 verses covered (15.42%).** A verse is covered when a chapter's `ce` spans include it.
+**11,581 of 73,815 verses covered (15.69%).** A verse is covered when a chapter's `ce` spans include it.
 
 | Book | Adhyāyas complete | Verses covered | Progress | Next uncovered |
 |------|-------------------|----------------|----------|----------------|
 | 1. Adi | 225/225 | 7,196/7,196 | `██████████` 100.0% | none |
 | 2. Sabha | 72/72 | 2,390/2,390 | `██████████` 100.0% | none |
-| 3. Aranyaka | 49/299 | 1,798/10,316 | `█░░░░░░░░░` 17.4% | 3.50 |
+| 3. Aranyaka | 57/299 | 1,995/10,316 | `█░░░░░░░░░` 19.3% | 3.58 |
 | 4. Virata | 0/67 | 0/1,824 | `░░░░░░░░░░` 0.0% | 4.1 |
 | 5. Udyoga | 0/197 | 0/6,063 | `░░░░░░░░░░` 0.0% | 5.1 |
 | 6. Bhishma | 0/117 | 0/5,406 | `░░░░░░░░░░` 0.0% | 6.1 |
@@ -37,4 +37,4 @@
 
 ### Book 3
 
-* Complete adhyāyas: 3.1–3.49
+* Complete adhyāyas: 3.1–3.57
