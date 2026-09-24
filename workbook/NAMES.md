@@ -18,6 +18,8 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Tilottama** | Tilottamā | the woman Vishvakarman made from every beautiful thing, to divide Sunda and Upasunda |  |  |  |
 | **Urvashi** | Urvaśī | the apsaras, wife of Pururavas |  |  | Urvasi |
 | **Varga** | Vargā | one of the five apsarases cursed to be crocodiles and freed by Arjuna |  |  |  |
+| **Kamsa** | Kaṃsa | the tyrant of Mathura, Jarasandha's son-in-law, killed by Krishna and Balarama |  |  | Kansa |
+| **Sunaman** | Sunāman | killed with Kamsa |  |  |  |
 | **Jarita** | Jaritā | a female Sharngaka bird, mother of Mandapala's four sons |  |  |  |
 | **Jaritari** | Jaritāri | eldest of the four Sharngaka fledglings |  |  |  |
 | **Lapita** | Lapitā | Mandapala's second mate |  |  |  |
@@ -213,6 +215,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vrishadarbhi** | Vṛṣādarbhi | named in Yama's hall (2.8) |  |  |  |
 | **Vrishasena** | Vṛṣasena | named in Yama's hall (2.8) |  |  |  |
 | **Vyashva** | Vyaśva | named in Yama's hall (2.8) |  |  |  |
+| **Shishupala** | Śiśupāla | king of Chedi, Jarasandha's general; killed by Krishna at the Rajasuya |  |  | Sisupala |
 | **Aditi** | Aditi | mother of the Adityas |  |  |  |
 | **Amsha** | Aṃśa | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
 | **Aryaman** | Aryaman | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
@@ -286,6 +289,9 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sainya** | Sainya | one of Krishna's chariot horses |  |  |  |
 | **Sugriva** | Sugrīva | one of Krishna's chariot horses |  |  |  |
 | **Sudakshina** | Sudakṣiṇa | king of the Kambojas, named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Dantavakra** | Dantavakra | a king allied to Jarasandha |  |  |  |
+| **Karusha** | Karūṣa | a king allied to Jarasandha |  |  |  |
+| **Vakra** | Vakra | lord of the Karushas who fights with magic, Jarasandha's follower |  |  |  |
 | **Amba** | Ambā | eldest princess of Kashi, carried off by Bhishma |  |  |  |
 | **Suvarnavarman** | Suvarṇavarman | king of Kashi, Vapushtama's father |  |  |  |
 | **Bahushali** | Bāhuśālin | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  | Bahushalin |
@@ -342,6 +348,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Girika** | Girikā | Vasu's wife, daughter of the mountain Kolahala and the river Shuktimati |  |  |  |
 | **Jatasura** | Jaṭāsura | a king present in Yudhishthira's hall |  |  |  |
 | **Kakshasena** | Kakṣasena | a king present in Yudhishthira's hall |  |  |  |
+| **Kalabha** | Kalabha | a king allied to Jarasandha |  |  |  |
 | **Kalmashapada** | Kalmāṣapāda | Ikshvaku king cursed by Shakti to eat men; freed by Vasishtha; father (by Vasishtha) of Ashmaka | Saudasa, Mitrasaha |  |  |
 | **Kamala** | Kamala | a king present in Yudhishthira's hall |  |  |  |
 | **Kampana** | Kampana | a king present in Yudhishthira's hall |  |  |  |
@@ -354,6 +361,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Madayanti** | Madayantī | wife of Saudasa (Kalmashapada), mother of Ashmaka by Vasishtha |  |  |  |
 | **Mahabhisha** | Mahābhiṣa | a king of Ikshvaku's line in heaven, cursed by Brahma for gazing at Ganga; reborn as Shantanu |  |  |  |
 | **Manu** | Manu | Manu son of Vivasvat (through Martanda in 1.70), from whom the human race descends | Vaivasvata |  |  |
+| **Meghavahana** | Meghavāhana | a king allied to Jarasandha |  |  |  |
 | **Munjaketu** | Muñjaketu | a king present in Yudhishthira's hall |  |  |  |
 | **Nahusha** | Nahuṣa | son of Ayus, father of Yayati; for a time he made himself Indra |  |  | Nahush |
 | **Paushya** | Pauṣya | king whose queen gives her earrings to Uttanka |  |  |  |
@@ -380,7 +388,9 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vivardhana** | Vivardhana | a king present in Yudhishthira's hall |  |  |  |
 | **Vrishaparvan** | Vṛṣaparvan | king of the asuras, Shukra's patron, father of Sharmishtha |  |  | Vrishaparva |
 | **Yadu** | Yadu | Yayati's eldest son, by Devayani; ancestor of the Yadavas |  |  |  |
+| **Yauvanashva** | Yauvanāśva | an emperor of old who gave up taxes; he laid a mace at Bindusaras |  |  |  |
 | **Yayati** | Yayāti | son of Nahusha, husband of Devayani and Sharmishtha, who traded his old age for Puru's youth |  |  | Yayathi |
+| **Purujit** | Purujit | Kunti's brother, Yudhishthira's maternal uncle |  |  |  |
 | **Ambalika** | Ambālikā | princess of Kashi; Vichitravirya's wife; mother of Pandu |  |  |  |
 | **Ambika** | Ambikā | princess of Kashi; Vichitravirya's wife; mother of Dhritarashtra | Kausalya |  |  |
 | **Ashvatthama** | Aśvatthāman | son of Drona and Kripi | Drauni | Drauni | Ashwatthama, Aswatthama, Ashwathama, Ashvathama |
@@ -410,8 +420,13 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Rukmaratha** | Rukmaratha | son of Shalya |  |  |  |
 | **Shalya** | Śalya | king of Madra, Madri's brother |  |  | Salya |
 | **Ambuvicha** | Ambuvīca | an ancient king of Magadha in Karna's tale, who kept his throne though helpless |  |  |  |
+| **Asti** | Asti | Jarasandha's daughter, Kamsa's wife |  |  |  |
+| **Dibhaka** | Ḍibhaka | one of Jarasandha's two great warriors; drowned himself in the Yamuna |  |  |  |
+| **Hamsa** | Haṃsa | one of Jarasandha's two great warriors; drowned himself in the Yamuna |  |  |  |
+| **Jarasandha** | Jarāsaṃdha | king of Magadha, born in two halves and joined by the rakshasi Jara; holds kings captive for sacrifice | Barhadratha |  | Jarasandh, Jarasanda |
 | **Mahakarni** | Mahākarṇi | Ambuvicha's minister, who tried and failed to seize his kingdom |  |  |  |
 | **Meghasandhi** | Meghasaṃdhi | a prince of Magadha, named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Prapti** | Prāpti | Jarasandha's daughter, Kamsa's wife |  |  |  |
 | **Babhruvahana** | Babhruvāhana | son of Arjuna and Chitrangada, heir of Chitravahana's line |  |  |  |
 | **Chitravahana** | Citravāhana | king of Manalura, father of Chitrangada |  |  |  |
 | **Prabhankara** | Prabhaṃkara | an ancestor of Chitravahana, granted one child in each generation by Shiva |  |  |  |
@@ -441,6 +456,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Bhima** | Bhīma | second son of Kunti, by Vayu the wind; immensely strong | Bhimasena, Vrikodara | Bhimasena, Vrikodara | Bheem, Bheema, Bhim |
 | **Draupadi** | Draupadī | daughter of Drupada, born from the sacrificial altar; wife of the five Pandavas | Krishnaa, Panchali, Yajnaseni | Panchali | Draupdi, Dropadi |
 | **Ghatotkacha** | Ghaṭotkaca | son of Bhima and the rakshasi Hidimba |  |  | Ghatotkach |
+| **Indrasena** | Indrasena | Yudhishthira's messenger and charioteer |  |  |  |
 | **Iravan** | Irāvān (Irāvat) | Arjuna's son by a daughter of the snake king, unnamed in the CE (6.86.6-8; the vulgate makes her Ulupi, ledger L-103); dies in battle (not a self-sacrifice: ledger L-37) | Iravat |  | Aravan, Iravat |
 | **Kunti** | Kuntī | Pritha, daughter of Shura, adopted by Kuntibhoja; Pandu's senior wife; mother of Karna, Yudhishthira, Bhima and Arjuna | Pritha | Pritha | Kunthi |
 | **Madri** | Mādrī | princess of Madra, Shalya's sister; Pandu's second wife; mother of Nakula and Sahadeva |  |  |  |
@@ -456,6 +472,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vyushitashva** | Vyuṣitāśva | Paurava king whose dead body gave his widow Bhadra seven sons |  |  |  |
 | **Baka** | Baka | man-eating rakshasa near Ekachakra, killed by Bhima |  |  | Bakasura |
 | **Hidimba** | Hiḍimba / Hiḍimbā | a rakshasa brother and sister of the forest. Bhima kills the brother and marries the sister. In English the names collide, so give context until the brother is dead |  |  | Hidimbi, Hidimbaa |
+| **Jara** | Jarā | the rakshasi who joined the two halves of Jarasandha |  |  |  |
 | **Kinkara** | Kiṃkara | rakshasa who possessed Kalmashapada |  |  |  |
 | **Puloman** | Puloman (Pulomā, m.) | the rakshasa who carries off Bhrigu's wife |  |  |  |
 | **Adrishyanti** | Adṛśyantī | Shakti's wife, mother of Parashara |  |  |  |
@@ -476,6 +493,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Bhaluki** | Bhāluki | a seer present in Yudhishthira's hall |  |  |  |
 | **Bharadvaja** | Bharadvāja | seer, Drona's father |  |  |  |
 | **Bhrigu** | Bhṛgu | seer, son of Brahma, ancestor of the Bhargavas (Shaunaka's line) |  |  |  |
+| **Chandakaushika** | Caṇḍakauśika | son of Gautama Kakshivat; gives Brihadratha the mango |  |  |  |
 | **Chyavana** | Cyavana | son of Bhrigu, 'the Fallen One' |  |  | Chyavan |
 | **Dadhicha** | Dadhīca | seer from whose bones Indra's thunderbolt was made | Dadhichi |  |  |
 | **Damoshnisha** | Dāmoṣṇīṣa | a seer present in Yudhishthira's hall |  |  |  |
@@ -580,7 +598,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Bhagiratha** | Bhagīratha | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Bhoja** | Bhoja | a warrior paired with Ashvatthama among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Bhuri** | Bhūri | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
-| **Brihadratha** | Bṛhadratha | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Brihadratha** | Bṛhadratha | a king named among the suitors at Draupadi's bridegroom choice; also King Brihadratha of Magadha, Jarasandha's father (2.16.12) |  |  |  |
 | **Brihanta** | Bṛhanta | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Brihatkshatra** | Bṛhatkṣatra | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Chandrasena** | Candrasena | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
@@ -614,18 +632,22 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Hanuman** | Hanūmat | the monkey, son of the wind; he meets Bhima in Book 3 and promises to sit on Arjuna's banner (3.150.15); not named on the banner at 1.216 |  |  | Hanumana |
 | **Akrura** | Akrūra | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Anadhrishti** | Anādhṛṣṭi | a Vrishni hero who comes to Indraprastha with Krishna |  |  |  |
+| **Andhakabhoja** | Andhakabhoja | a Yadava chief whose two sons are named among the great warriors |  |  |  |
 | **Balarama** | Balarāma | Krishna's elder brother, the plough-bearer | Baladeva, Rama, Samkarshana, Halayudha, Kamapala | Baladeva | Balram, Balaram |
 | **Bhangakara** | Bhaṅgakāra | a Vrishni named at the Raivataka festival (the reading is uncertain) |  |  |  |
 | **Bhanu** | Bhānu | a Vrishni hero |  |  |  |
+| **Chakradeva** | Cakradeva | a Vrishni chariot warrior |  |  |  |
 | **Charudeshna** | Cārudeṣṇa | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Chekitana** | Cekitāna | a warrior named among the suitors at Draupadi's bridegroom choice; later an ally of the Pandavas |  |  |  |
 | **Devaki** | Devakī | mother of Krishna |  |  |  |
 | **Gada** | Gada | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Hridika** | Hṛdika | father of Kritavarma |  |  |  |
 | **Jhilli** | Jhillī | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Kahva** | Kahva | a Vrishni great warrior |  |  |  |
 | **Kanka** | Kaṅka | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Krishna** | Kṛṣṇa | son of Vasudeva and Devaki, of the Vrishni clan; Arjuna's friend and charioteer | Vasudeva, Keshava, Madhava, Govinda, Janardana, Hrishikesha, Madhusudana, Achyuta, Varshneya, Dasharha, Damodara, Shauri | Keshava, Madhava, Govinda, Janardana, Vasudeva | Krishn, Krsna |
 | **Kritavarma** | Kṛtavarman | Bhoja/Vrishni warrior who fights for the Kauravas | Hardikya |  | Kritavarman, Kritvarma |
+| **Nidanta** | Nidānta | a Vrishni great warrior |  |  |  |
 | **Nishatha** | Niśaṭha | a Vrishni hero |  |  |  |
 | **Pindaraka** | Piṇḍāraka | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Pradyumna** | Pradyumna | Krishna's son by Rukmini ("Rukmini's son") | Raukmineya |  |  |
@@ -635,12 +657,14 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Rukmini** | Rukmiṇī | mother of a son of Krishna's line named at Draupadi's bridegroom choice |  |  |  |
 | **Samba** | Sāmba | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Samika** | Samīka | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Samitimjaya** | Samitiṃjaya | a Vrishni great warrior |  |  |  |
 | **Saramejaya** | Sāramejaya | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Sarana** | Sāraṇa | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Satyaka** | Satyaka | a Vrishni hero |  |  |  |
 | **Satyaki** | Sātyaki | Vrishni hero, Arjuna's pupil and ally | Yuyudhana, Shaineya | Yuyudhana |  |
 | **Shanku** | Śaṅku | a Vrishni hero |  |  |  |
 | **Subhadra** | Subhadrā | Krishna's sister; Arjuna's wife; mother of Abhimanyu |  |  |  |
+| **Sutanu** | Sutanu | Ahuka's daughter, given to Akrura |  |  |  |
 | **Uddhava** | Uddhava | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Ugrasena** | Ugrasena | king of the Vrishnis |  |  |  |
 | **Ushinara** | Uśīnara | a Vrishni named among the suitors at Draupadi's bridegroom choice; also the name of Shibi's father |  |  |  |
@@ -650,6 +674,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kuntibhoja** | Kuntibhoja | Shura's cousin, who adopted Pritha, hence 'Kunti' |  |  |  |
 | **Shura** | Śūra | chief of the Yadus, father of Vasudeva and of Pritha (Kunti) |  |  |  |
 | **Vasudeva** | Vasudeva | son of Shura, father of Krishna; Pritha's brother. Not Krishna's patronymic 'Vasudeva' (Vāsudeva), which the novel avoids as a name for Krishna where it would confuse |  |  |  |
+| **Mura** | Mura | one of two Yavana lords ruled by Bhagadatta |  |  |  |
 
 ## Not in Vyasa's text
 

@@ -3150,7 +3150,7 @@
    "name": "Brihadratha",
    "iast": "Bṛhadratha",
    "group": "Suitor",
-   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice; also King Brihadratha of Magadha, Jarasandha's father (2.16.12)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -6949,6 +6949,265 @@
    "dialogue": [],
    "flag": [],
    "ref": "2.11"
+  },
+  {
+   "name": "Jarasandha",
+   "iast": "Jarāsaṃdha",
+   "group": "Magadha",
+   "who": "king of Magadha, born in two halves and joined by the rakshasi Jara; holds kings captive for sacrifice",
+   "aka": [
+    "Barhadratha"
+   ],
+   "dialogue": [],
+   "flag": [
+    "Jarasandh",
+    "Jarasanda"
+   ],
+   "ref": "2.13.8"
+  },
+  {
+   "name": "Chandakaushika",
+   "iast": "Caṇḍakauśika",
+   "group": "Seer",
+   "who": "son of Gautama Kakshivat; gives Brihadratha the mango",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.16.22"
+  },
+  {
+   "name": "Jara",
+   "iast": "Jarā",
+   "group": "Rakshasa",
+   "who": "the rakshasi who joined the two halves of Jarasandha",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.16.38"
+  },
+  {
+   "name": "Hamsa",
+   "iast": "Haṃsa",
+   "group": "Magadha",
+   "who": "one of Jarasandha's two great warriors; drowned himself in the Yamuna",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.13.11"
+  },
+  {
+   "name": "Dibhaka",
+   "iast": "Ḍibhaka",
+   "group": "Magadha",
+   "who": "one of Jarasandha's two great warriors; drowned himself in the Yamuna",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.13.11"
+  },
+  {
+   "name": "Vakra",
+   "iast": "Vakra",
+   "group": "Karusha",
+   "who": "lord of the Karushas who fights with magic, Jarasandha's follower",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.13.10"
+  },
+  {
+   "name": "Dantavakra",
+   "iast": "Dantavakra",
+   "group": "Karusha",
+   "who": "a king allied to Jarasandha",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.13.12"
+  },
+  {
+   "name": "Karusha",
+   "iast": "Karūṣa",
+   "group": "Karusha",
+   "who": "a king allied to Jarasandha",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.13.12"
+  },
+  {
+   "name": "Kalabha",
+   "iast": "Kalabha",
+   "group": "King",
+   "who": "a king allied to Jarasandha",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.13.12"
+  },
+  {
+   "name": "Meghavahana",
+   "iast": "Meghavāhana",
+   "group": "King",
+   "who": "a king allied to Jarasandha",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.13.12"
+  },
+  {
+   "name": "Mura",
+   "iast": "Mura",
+   "group": "Yavana",
+   "who": "one of two Yavana lords ruled by Bhagadatta",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.13.13"
+  },
+  {
+   "name": "Purujit",
+   "iast": "Purujit",
+   "group": "Kunti",
+   "who": "Kunti's brother, Yudhishthira's maternal uncle",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.13.16"
+  },
+  {
+   "name": "Kamsa",
+   "iast": "Kaṃsa",
+   "group": "Bhoja",
+   "who": "the tyrant of Mathura, Jarasandha's son-in-law, killed by Krishna and Balarama",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Kansa"
+   ],
+   "ref": "2.13.29"
+  },
+  {
+   "name": "Asti",
+   "iast": "Asti",
+   "group": "Magadha",
+   "who": "Jarasandha's daughter, Kamsa's wife",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.13.30"
+  },
+  {
+   "name": "Prapti",
+   "iast": "Prāpti",
+   "group": "Magadha",
+   "who": "Jarasandha's daughter, Kamsa's wife",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.13.30"
+  },
+  {
+   "name": "Sutanu",
+   "iast": "Sutanu",
+   "group": "Vrishni",
+   "who": "Ahuka's daughter, given to Akrura",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.13.32"
+  },
+  {
+   "name": "Sunaman",
+   "iast": "Sunāman",
+   "group": "Bhoja",
+   "who": "killed with Kamsa",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.13.33"
+  },
+  {
+   "name": "Chakradeva",
+   "iast": "Cakradeva",
+   "group": "Vrishni",
+   "who": "a Vrishni chariot warrior",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.13.56"
+  },
+  {
+   "name": "Samitimjaya",
+   "iast": "Samitiṃjaya",
+   "group": "Vrishni",
+   "who": "a Vrishni great warrior",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.13.57"
+  },
+  {
+   "name": "Kahva",
+   "iast": "Kahva",
+   "group": "Vrishni",
+   "who": "a Vrishni great warrior",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.13.58"
+  },
+  {
+   "name": "Nidanta",
+   "iast": "Nidānta",
+   "group": "Vrishni",
+   "who": "a Vrishni great warrior",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.13.58"
+  },
+  {
+   "name": "Andhakabhoja",
+   "iast": "Andhakabhoja",
+   "group": "Vrishni",
+   "who": "a Yadava chief whose two sons are named among the great warriors",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.13.58"
+  },
+  {
+   "name": "Yauvanashva",
+   "iast": "Yauvanāśva",
+   "group": "King",
+   "who": "an emperor of old who gave up taxes; he laid a mace at Bindusaras",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.3.5"
+  },
+  {
+   "name": "Indrasena",
+   "iast": "Indrasena",
+   "group": "Pandava",
+   "who": "Yudhishthira's messenger and charioteer",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.12.30"
+  },
+  {
+   "name": "Shishupala",
+   "iast": "Śiśupāla",
+   "group": "Chedi",
+   "who": "king of Chedi, Jarasandha's general; killed by Krishna at the Rajasuya",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Sisupala"
+   ],
+   "ref": "2.4.25"
   }
  ],
  "not_vyasa": [

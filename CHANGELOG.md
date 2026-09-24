@@ -18,6 +18,22 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 2, chapters 5–6 drafted: Jarasandha
+- Ch 5 *Krishna's Counsel* (CE 2.12–15) and Ch 6 *Jara* (2.16–17): Yudhishthira weighs the
+  Rajasuya and sends for Krishna; Krishna's account of the kshatriya lines, of Jarasandha's
+  allies, of Kamsa, Hamsa and Dibhaka, and of the Yadavas' flight to Dvaraka; the eighty-six
+  captive kings; the debate between Yudhishthira, Bhima, Krishna and Arjuna; Brihadratha,
+  Chandakaushika's mango, and the two halves joined by the rakshasi Jara. About 5,150 words.
+  The Book 2 plan now has 19 chapters.
+
+### Reference
+- Ledger **L-109**: Krishna's eighteen battles with Jarasandha, and the mace hurled to
+  Mathura, are only in rejected lines.
+
+### Workbook
+- `names.json`: +26 (Jarasandha, Shishupala, Kamsa, Jara, Chandakaushika, Hamsa, Dibhaka and
+  others from 2.12–17).
+
 ### Novel: Book 2, chapters 3–4 drafted: the halls of the gods
 - Ch 3 *The Halls of the Gods* (CE 2.6–10) and Ch 4 *Pandu's Message* (2.11): Narada
   describes the halls of Indra, Yama, Varuna, Kubera and Brahma, with their lists kept in

@@ -225,20 +225,21 @@ drafting. It is refined while drafting.
 | 2 | Narada's Questions | 2.4–2.5 | ✅ drafted. The hall opened; the seers and kings; Nārada's "I hope…" questions on kingship, all kept. |
 | 3 | The Halls of the Gods | 2.6–2.10 | ✅ drafted. The halls of Indra, Yama, Varuṇa and Kubera, with their full lists. |
 | 4 | Pandu's Message | 2.11 | ✅ drafted. Brahmā's hall; Hariścandra's Rājasūya (L-108); Pāṇḍu's message; the dangers of the sacrifice. |
-| 5 | Jarasandha | 2.12–2.17 | The Rājasūya planned; Kṛṣṇa on Jarāsaṃdha; his birth from two halves; Jarā. |
-| 6 | The Wrestling Match | 2.18–2.22 | Kṛṣṇa, Bhīma and Arjuna go to Girivraja; Bhīma kills Jarāsaṃdha; the kings freed. |
-| 7 | The Four Quarters | 2.23–2.29 | The brothers' conquests, north, east, south and west. |
-| 8 | The Consecration | 2.30–2.32 | The Rājasūya performed. |
-| 9 | The Guest Gift | 2.33–2.36 | The first honour given to Kṛṣṇa; Śiśupāla objects. |
-| 10 | Shishupala | 2.37–2.42 | Bhīṣma's answer; Śiśupāla's birth and the hundred offences; his death. |
-| 11 | Duryodhana in the Hall | 2.43–2.44 | The crystal floor and the pool; his envy. |
-| 12 | Shakuni's Plan | 2.45–2.49 | The dice proposed; Duryodhana's list of the tribute. |
-| 13 | The Invitation | 2.50–2.53 | Vidura sent to Indraprastha; Yudhiṣṭhira accepts. |
-| 14 | The Game | 2.54–2.58 | Wealth, kingdom, brothers and himself lost. |
-| 15 | The Wager | 2.59–2.60 | Draupadī staked and lost; Prātikāmin; Duḥśāsana drags her in. |
-| 16 | The Question | 2.61–2.62 | Draupadī's question; Vikarṇa; Karṇa; the disrobing. |
-| 17 | Draupadi's Boons | 2.63–2.65 | The omens; Dhṛtarāṣṭra's boons; the return. |
-| 18 | The Second Game | 2.66–2.72 | The recall; the exile staked and lost; the departure; Vidura and Dhṛtarāṣṭra. |
+| 5 | Krishna's Counsel | 2.12–2.15 | ✅ drafted. The Rājasūya considered; Kṛṣṇa on Jarāsaṃdha and the flight to Dvārakā (L-109); Bhīma, Yudhiṣṭhira, Arjuna. |
+| 6 | Jara | 2.16–2.17 | ✅ drafted. Kṛṣṇa's plan; Bṛhadratha, the mango, the two halves joined by Jarā; the prophecy. |
+| 7 | The Wrestling Match | 2.18–2.22 | Kṛṣṇa, Bhīma and Arjuna go to Girivraja; Bhīma kills Jarāsaṃdha; the kings freed. |
+| 8 | The Four Quarters | 2.23–2.29 | The brothers' conquests, north, east, south and west. |
+| 9 | The Consecration | 2.30–2.32 | The Rājasūya performed. |
+| 10 | The Guest Gift | 2.33–2.36 | The first honour given to Kṛṣṇa; Śiśupāla objects. |
+| 11 | Shishupala | 2.37–2.42 | Bhīṣma's answer; Śiśupāla's birth and the hundred offences; his death. |
+| 12 | Duryodhana in the Hall | 2.43–2.44 | The crystal floor and the pool; his envy. |
+| 13 | Shakuni's Plan | 2.45–2.49 | The dice proposed; Duryodhana's list of the tribute. |
+| 14 | The Invitation | 2.50–2.53 | Vidura sent to Indraprastha; Yudhiṣṭhira accepts. |
+| 15 | The Game | 2.54–2.58 | Wealth, kingdom, brothers and himself lost. |
+| 16 | The Wager | 2.59–2.60 | Draupadī staked and lost; Prātikāmin; Duḥśāsana drags her in. |
+| 17 | The Question | 2.61–2.62 | Draupadī's question; Vikarṇa; Karṇa; the disrobing. |
+| 18 | Draupadi's Boons | 2.63–2.65 | The omens; Dhṛtarāṣṭra's boons; the return. |
+| 19 | The Second Game | 2.66–2.72 | The recall; the exile staked and lost; the departure; Vidura and Dhṛtarāṣṭra. |
 
 ## Books 2–18: provisional sub-parvas
 
