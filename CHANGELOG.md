@@ -18,6 +18,15 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 11–12 drafted: Draupadi and the Creator; Bhima's challenge
+- Ch 11 *Draupadi and the Creator* (CE 3.31–33) and Ch 12 *Bhima's Challenge* (3.34–35):
+  Draupadi's charge that the Lord plays with creatures like toys; Yudhishthira's defence of dharma
+  for its own sake; Draupadi on fate, chance and effort; Bhima's case for war and his teaching on
+  dharma, wealth and desire; Yudhishthira's admission that the disaster came of his own folly, and
+  his promise to keep his word. About 5,900 words.
+- Ledger L-116 is borne out again: at 3.35.3–4 Yudhishthira himself says Shakuni played "by
+  tricks", with no word of loaded dice.
+
 ### Novel: Book 3, chapters 9–10 drafted: Dvaitavana and Draupadi's anger
 - Ch 9 *Dvaitavana* (CE 3.24–27) and Ch 10 *Draupadi's Anger* (3.28–30): the people of
   Kurujangala mourn; the move to the lake of Dvaitavana; Markandeya's smile and his memory of

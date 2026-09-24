@@ -263,8 +263,8 @@ are refined while drafting.
 | 8 | The Flying City | 3.21–3.23 | ✅ drafted. The battle over the ocean; the false message and the illusion of Vasudeva's fall; Sudarśana; the allies leave. |
 | 9 | Dvaitavana | 3.24–3.27 | ✅ drafted. The people mourn; Arjuna chooses Dvaitavana; Mārkaṇḍeya remembers Rāma; Baka Dālbhya on brahmins and kings. |
 | 10 | Draupadi's Anger | 3.28–3.30 | ✅ drafted. "Why does your anger not grow?"; Prahlāda and Bali; Yudhiṣṭhira on anger; Kāśyapa's verses on patience. |
-| 11 | Draupadi and the Creator | 3.31–3.33 | Draupadī blames the Creator; Yudhiṣṭhira's reply; Draupadī on action. |
-| 12 | Bhima's Challenge | 3.34–3.35 | Bhīma urges war; Yudhiṣṭhira holds to his word. |
+| 11 | Draupadi and the Creator | 3.31–3.33 | ✅ drafted. The Lord who plays with creatures; Yudhiṣṭhira on dharma for its own sake; Draupadī on fate, chance and effort. |
+| 12 | Bhima's Challenge | 3.34–3.35 | ✅ drafted. Bhīma on dharma, wealth and desire; "march now"; Yudhiṣṭhira owns his folly and keeps his word (L-116). |
 | 13 | Vyasa's Counsel | 3.36–3.37 | Bhīma again; Vyāsa comes and gives Yudhiṣṭhira a spell for Arjuna. |
 | 14 | Arjuna Goes North | 3.38–3.39 | Arjuna leaves for Indra; the ascetic Indra; Janamejaya asks. |
 | 15 | The Hunter | 3.40–3.41 | Śiva as a Kirāta; the fight; the Pāśupata weapon. |
