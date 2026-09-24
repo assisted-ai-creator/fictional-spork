@@ -6,6 +6,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 
 | Name | IAST | Who | Also called (in the text) | Dialogue | Never write |
 |------|------|-----|---------------------------|----------|-------------|
+| **Nandini** | Nandinī | Vasishtha's wish-granting cow (named at 1.165; unnamed in 1.93) |  |  |  |
 | **Adrika** | Adrikā | an apsaras cursed to be a fish in the Yamuna; mother of Satyavati and Matsya |  |  |  |
 | **Ghritachi** | Ghṛtācī | apsaras at whose sight Bharadvaja shed the seed that became Drona |  |  |  |
 | **Jalapadi** | Jālapadī | the divine girl Indra sent to disturb Sharadvat |  |  |  |
@@ -75,6 +76,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Devaka** | Devaka | king whose daughter by a shudra woman married Vidura |  |  |  |
 | **Druhyu** | Druhyu | Yayati's son by Sharmishtha |  |  |  |
 | **Dushyanta** | Duḥṣanta | Paurava king who marries Shakuntala by the gandharva rite and later denies her until a heavenly voice speaks; father of Bharata |  |  | Dushmanta, Dusyanta, Dushyant |
+| **Gadhi** | Gādhi | king of Kanyakubja, Vishvamitra's father |  |  |  |
 | **Girika** | Girikā | Vasu's wife, daughter of the mountain Kolahala and the river Shuktimati |  |  |  |
 | **Madayanti** | Madayantī | wife of Saudasa (Kalmashapada), mother of Ashmaka by Vasishtha |  |  |  |
 | **Mahabhisha** | Mahābhiṣa | a king of Ikshvaku's line in heaven, cursed by Brahma for gazing at Ganga; reborn as Shantanu |  |  |  |
@@ -113,10 +115,12 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Pandu** | Pāṇḍu | pale son of Vyasa and Ambalika; king; father of the Pandavas |  |  |  |
 | **Parikshit** | Parikṣit | son of Abhimanyu and Uttara; father of Janamejaya; killed by the snake Takshaka |  |  | Parikshith, Parikshita, Pariksit |
 | **Pratipa** | Pratīpa | Kuru king, father of Devapi, Shantanu and Bahlika; Ganga sat on his right thigh | Paryashravas |  |  |
+| **Samvarana** | Saṃvaraṇa | son of Riksha, king of the Bharatas, husband of Tapati, father of Kuru |  |  |  |
 | **Sanjaya** | Saṃjaya | Dhritarashtra's charioteer and counsellor, given divine sight by Vyasa | Gavalgani |  | Sanjay |
 | **Satyavati** | Satyavatī | the fisherman's adopted daughter who became Shantanu's queen; mother of Vyasa | Kali, Gandhavati, Yojanagandha, Matsyagandha, Satya |  | Satyawati |
 | **Shantanu** | Śaṃtanu | king of Hastinapura; husband of Ganga, then of Satyavati; father of Bhishma |  |  | Santanu, Shantnu |
 | **Somadatta** | Somadatta | the Bahlika prince, Bhishma's cousin's son; father of Bhurishravas |  |  |  |
+| **Tapati** | Tapatī | daughter of the Sun, Savitri's younger sister; Samvarana's wife and Kuru's mother; hence Arjuna is 'Tapatya' |  |  |  |
 | **Vichitravirya** | Vicitravīrya | younger son of Shantanu and Satyavati; husband of Ambika and Ambalika |  |  | Vichitraveerya |
 | **Vidura** | Vidura | son of Vyasa and a serving woman; Dharma born as a man; wise counsellor | Kshattri |  |  |
 | **Shalya** | Śalya | king of Madra, Madri's brother |  |  | Salya |

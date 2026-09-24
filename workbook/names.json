@@ -2497,6 +2497,46 @@
    "dialogue": [],
    "flag": [],
    "ref": "1.158.31"
+  },
+  {
+   "name": "Tapati",
+   "iast": "Tapatī",
+   "group": "Kuru",
+   "who": "daughter of the Sun, Savitri's younger sister; Samvarana's wife and Kuru's mother; hence Arjuna is 'Tapatya'",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.160.6"
+  },
+  {
+   "name": "Samvarana",
+   "iast": "Saṃvaraṇa",
+   "group": "Kuru",
+   "who": "son of Riksha, king of the Bharatas, husband of Tapati, father of Kuru",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.89.30"
+  },
+  {
+   "name": "Gadhi",
+   "iast": "Gādhi",
+   "group": "King",
+   "who": "king of Kanyakubja, Vishvamitra's father",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.165.3"
+  },
+  {
+   "name": "Nandini",
+   "iast": "Nandinī",
+   "group": "Animal",
+   "who": "Vasishtha's wish-granting cow (named at 1.165; unnamed in 1.93)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.165.15"
   }
  ],
  "not_vyasa": [

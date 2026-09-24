@@ -301,8 +301,7 @@ king, whose bright history is called the Mahabharata.
 
 * **Which Vasu, and which cow.** In the CE, the Vasu who steals the cow is **Dyaus**
   (1.93.17, 26, 37, 42), led on by his wife, with "Prithu and the others" helping
-  (1.93.11, 26). The cow is not named. Ganguli's vulgate text calls her Nandini (G
-  1.99). The popular name "Prabhasa" for the thief is in neither. See ledger
+  (1.93.11, 26). The cow is not named here. Ganguli's vulgate text calls her Nandini (G 1.99). The CE does call Vasishtha's cow Nandini in a different story, Vishvamitra's attempt to take her (1.165.15–22). The popular name "Prabhasa" for the thief is in neither. See ledger
   **L-69**.
 
 **Choices.**

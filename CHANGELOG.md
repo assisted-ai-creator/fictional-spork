@@ -18,6 +18,19 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 67–68 drafted: the gandharva's tales
+- Ch 67 *Tapati* (CE 1.159–163) and Ch 68 *The Cow Nandini* (1.164–165): why a king
+  needs a family priest; Samvarana and the Sun's daughter Tapati; Vasishtha;
+  Vishvamitra's attempt to seize the cow Nandini. About 3,950 words.
+
+### Reference
+- Ledger **L-69** corrected: the CE does name Vasishtha's cow Nandini, in the
+  Vishvamitra story (1.165.15–22), though not in the Vasus' story (1.93). Chapter
+  34's note updated to match.
+
+### Workbook
+- `names.json`: +4 (Tapati, Samvarana, Gadhi, Nandini).
+
 ### Novel: Book 1, chapters 65–66 drafted: Draupadi's birth and the gandharva
 - Ch 65 *Born of the Fire* (CE 1.153–156) and Ch 66 *Angaraparna* (1.157–158): the
   travelling brahmin's tale of Drona, Drupada and Yaja's sacrifice; the births of
