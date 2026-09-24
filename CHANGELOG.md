@@ -18,6 +18,15 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 13–15 drafted: Vyasa's counsel; Arjuna goes north; the hunter
+- Ch 13 *Vyasa's Counsel* (CE 3.36–37), Ch 14 *Arjuna Goes North* (3.38–39) and Ch 15 *The
+  Hunter* (3.40–41): Bhima's plea to count the forest months as years; Yudhishthira's fear of
+  Karna; Vyasa's Pratismriti; Draupadi's farewell to Arjuna; Indra's test at Indrakila; Arjuna's
+  austerities; the fight with Shiva as a Kirata and the gift of the Pashupata. About 5,500 words.
+- Ledger: L-26 given full verse references; new L-120 (the clay image and garland, \*171, not in
+  the CE) and L-121 (Draupadi's "cow" complaint in her farewell, \*146, not in the CE).
+- Names: Muka added; Bhava, Sharva and Kapardin added as names of Shiva.
+
 ### Novel: Book 3, chapters 11–12 drafted: Draupadi and the Creator; Bhima's challenge
 - Ch 11 *Draupadi and the Creator* (CE 3.31–33) and Ch 12 *Bhima's Challenge* (3.34–35):
   Draupadi's charge that the Lord plays with creatures like toys; Yudhishthira's defence of dharma

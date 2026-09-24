@@ -251,6 +251,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Jambha** | Jambha | an asura given up by the great asuras, as Kavya advised |  |  |  |
 | **Keshin** | Keśin | a demon killed by Krishna |  |  |  |
 | **Maya** | Maya | an asura, Namuchi's brother, spared at the burning of Khandava at Arjuna's word |  |  |  |
+| **Muka** | Mūka | a son of Diti who took the form of a boar to kill Arjuna and was shot by Arjuna and Shiva together |  |  |  |
 | **Muru** | Muru | a demon whose nooses Krishna cut |  |  |  |
 | **Namuchi** | Namuci | an asura slain by Indra; Maya's brother |  |  |  |
 | **Nikumbha** | Nikumbha | a daitya lord of Hiranyakashipu's line, father of Sunda and Upasunda |  |  |  |
@@ -286,7 +287,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Dharma** | Dharma | the god of dharma, lord of the dead's justice; born as Vidura by Animandavya's curse |  |  |  |
 | **Kubera** | Kubera | lord of wealth, whose gardens lie on the northern mountains | Vaishravana |  |  |
 | **Nirriti** | Nirṛti | goddess of decay; the south-west is her quarter |  |  |  |
-| **Shiva** | Śiva | the great god; the CE also calls him Hara, Rudra, Mahadeva, Shankara | Hara, Rudra, Mahadeva, Shankara, Ishana, Girisha, Sthanu, Maheshvara, Shambhu |  |  |
+| **Shiva** | Śiva | the great god; the CE also calls him Hara, Rudra, Mahadeva, Shankara | Hara, Rudra, Mahadeva, Shankara, Ishana, Girisha, Sthanu, Maheshvara, Shambhu, Bhava, Sharva, Kapardin |  |  |
 | **Skanda** | Skanda | the war god, called Guha and Kumara; son of Fire, the Krittikas, Rudra and Ganga | Guha, Kumara, Kartikeya, Mahasena |  |  |
 | **Vayu** | Vāyu | the Wind, father of Bhima | Maruta, Pavana, Shvasana |  |  |
 | **Viraj** | Virāj | a cosmic being; Krishna lived with Brahma in his house |  |  |  |
@@ -582,6 +583,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kritachetas** | Kṛtacetas | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
 | **Kritashrama** | Kṛtaśrama | a seer present in Yudhishthira's hall |  |  |  |
 | **Lavanashva** | Lavaṇāśva | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
+| **Lomasha** | Lomaśa | a great seer who brings Arjuna's news from Indra's heaven and guides the Pandavas' pilgrimage |  |  |  |
 | **Mahashiras** | Mahāśiras | a seer present in Yudhishthira's hall |  |  |  |
 | **Maitreya** | Maitreya | a seer present in Yudhishthira's hall |  |  |  |
 | **Mamata** | Mamatā | wife of Utathya, mother of Dirghatamas |  |  |  |

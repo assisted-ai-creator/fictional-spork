@@ -2113,7 +2113,10 @@
     "Girisha",
     "Sthanu",
     "Maheshvara",
-    "Shambhu"
+    "Shambhu",
+    "Bhava",
+    "Sharva",
+    "Kapardin"
    ],
    "dialogue": [],
    "flag": [],
@@ -7649,6 +7652,16 @@
    "ref": "3.11.22"
   },
   {
+   "name": "Muka",
+   "iast": "Mūka",
+   "group": "Demon",
+   "who": "a son of Diti who took the form of a boar to kill Arjuna and was shot by Arjuna and Shiva together",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.40.7"
+  },
+  {
    "name": "Shrutakirti",
    "iast": "Śrutakīrti",
    "group": "Pandava",
@@ -7980,6 +7993,16 @@
    "dialogue": [],
    "flag": [],
    "ref": "3.27.22"
+  },
+  {
+   "name": "Lomasha",
+   "iast": "Lomaśa",
+   "group": "Seer",
+   "who": "a great seer who brings Arjuna's news from Indra's heaven and guides the Pandavas' pilgrimage",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.32.11"
   }
  ],
  "not_vyasa": [

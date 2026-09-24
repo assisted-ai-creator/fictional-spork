@@ -2,7 +2,7 @@
 
 # Contents
 
-**127 chapters, 254,662 words.** 127 drafted
+**130 chapters, 260,212 words.** 130 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -150,5 +150,8 @@
 | 10 | [Draupadi's Anger](../novel/book-03-aranyaka/10-draupadis-anger.md) | 3.28-30 | drafted | 2,875 |
 | 11 | [Draupadi and the Creator](../novel/book-03-aranyaka/11-draupadi-and-the-creator.md) | 3.31-33 | drafted | 3,258 |
 | 12 | [Bhima's Challenge](../novel/book-03-aranyaka/12-bhimas-challenge.md) | 3.34-35 | drafted | 2,659 |
+| 13 | [Vyasa's Counsel](../novel/book-03-aranyaka/13-vyasas-counsel.md) | 3.36-37 | drafted | 1,662 |
+| 14 | [Arjuna Goes North](../novel/book-03-aranyaka/14-arjuna-goes-north.md) | 3.38-39 | drafted | 1,831 |
+| 15 | [The Hunter](../novel/book-03-aranyaka/15-the-hunter.md) | 3.40-41 | drafted | 2,057 |
 
-*Book 3 so far: 30,401 words.*
+*Book 3 so far: 35,951 words.*

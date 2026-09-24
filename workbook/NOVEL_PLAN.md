@@ -265,9 +265,9 @@ are refined while drafting.
 | 10 | Draupadi's Anger | 3.28–3.30 | ✅ drafted. "Why does your anger not grow?"; Prahlāda and Bali; Yudhiṣṭhira on anger; Kāśyapa's verses on patience. |
 | 11 | Draupadi and the Creator | 3.31–3.33 | ✅ drafted. The Lord who plays with creatures; Yudhiṣṭhira on dharma for its own sake; Draupadī on fate, chance and effort. |
 | 12 | Bhima's Challenge | 3.34–3.35 | ✅ drafted. Bhīma on dharma, wealth and desire; "march now"; Yudhiṣṭhira owns his folly and keeps his word (L-116). |
-| 13 | Vyasa's Counsel | 3.36–3.37 | Bhīma again; Vyāsa comes and gives Yudhiṣṭhira a spell for Arjuna. |
-| 14 | Arjuna Goes North | 3.38–3.39 | Arjuna leaves for Indra; the ascetic Indra; Janamejaya asks. |
-| 15 | The Hunter | 3.40–3.41 | Śiva as a Kirāta; the fight; the Pāśupata weapon. |
+| 13 | Vyasa's Counsel | 3.36–3.37 | ✅ drafted. Bhīma: time wastes us, count the months as years; Yudhiṣṭhira's fear of Karṇa; Vyāsa gives the Pratismṛti; back to Kāmyaka. |
+| 14 | Arjuna Goes North | 3.38–3.39 | ✅ drafted. The secret teaching; Draupadī's farewell (L-121); Indra as an ascetic at Indrakīla; the austerities; the seers go to Śiva. |
+| 15 | The Hunter | 3.40–3.41 | ✅ drafted. Śiva as a Kirāta; the boar Mūka; the fight (L-26; no clay image, L-120); Nara; the Pāśupata. |
 | 16 | Indra's Heaven | 3.42–3.45 | The guardians' weapons; Mātali's chariot; Amarāvatī; Arjuna honoured. |
 | 17 | Dhritarashtra's Fear | 3.46–3.49 | Dhṛtarāṣṭra and Saṃjaya; the Pāṇḍavas in Kāmyaka; Bṛhadaśva arrives. |
 | 18 | Nala and Damayanti | 3.50–3.53 | The swan; the gods' errand; Nala as their envoy. |
