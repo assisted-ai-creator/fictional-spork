@@ -302,8 +302,8 @@ are refined while drafting.
 | 47 | Kubera's Lake | 3.151–3.154 | ✅ drafted. Bhīma will not beg; the Krodhavaśa guards killed; Kubera's leave; the omens and Yudhiṣṭhira's rebuke; Jaṭāsura carries off Yudhiṣṭhira, the twins and Draupadī and is killed. |
 | 48 | Gandhamadana | 3.155 | ✅ drafted. Arjuna's fifth year; seven nights with the royal seer Vṛṣaparvan; the White Mountain and Mālyavant; the trees, birds and ores of Gandhamādana; Ārṣṭiṣeṇa's hermitage. |
 | 49 | Maniman | 3.156–3.157 | ✅ drafted. Ārṣṭiṣeṇa's questions and warning; the fifth year; Suparṇa's wind and Draupadī's wish; Bhīma climbs to Kubera's dwelling and kills the yakṣas and Maṇimān. |
-| 50 | Kubera | 3.158–3.160 | Kubera comes; his counsel. |
-| 51 | Arjuna Returns | 3.161–3.163 | Indra's chariot; Arjuna rejoins his brothers. |
+| 50 | Kubera | 3.158–3.160 | ✅ drafted. Yudhiṣṭhira's rebuke; Kubera comes in anger and is pleased; Agastya's curse and Maṇimān's spitting (L-136); Kubera's counsel and news of Arjuna and Śaṃtanu; Dhaumya on the quarters, Meru and the sun. |
+| 51 | Arjuna Returns | 3.161–3.163 | ✅ drafted. The waiting; Mātali brings Arjuna; the ornaments for Draupadī; Indra's visit; Arjuna's account of his austerity and the Kirāta, and the Pāśupata (L-120). |
 | 52 | What Arjuna Learned | 3.164–3.165 | Arjuna tells of Śiva and Indra's heaven. |
 | 53 | The Nivatakavachas | 3.166–3.169 | Arjuna fights the Nivātakavacas. |
 | 54 | Hiranyapura | 3.170–3.172 | The flying city; Arjuna shows the weapons and is stopped. |

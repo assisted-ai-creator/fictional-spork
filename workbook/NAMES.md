@@ -278,7 +278,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Maya** | Maya | an asura, Namuchi's brother, spared at the burning of Khandava at Arjuna's word |  |  |  |
 | **Muka** | Mūka | a son of Diti who took the form of a boar to kill Arjuna and was shot by Arjuna and Shiva together |  |  |  |
 | **Muru** | Muru | a demon whose nooses Krishna cut |  |  |  |
-| **Namuchi** | Namuci | an asura slain by Indra; Maya's brother |  |  |  |
+| **Namuchi** | Namuci | an asura slain by Indra; Maya's brother |  |  | Namuci |
 | **Nikumbha** | Nikumbha | a daitya lord of Hiranyakashipu's line, father of Sunda and Upasunda |  |  |  |
 | **Nisunda** | Nisunda | a demon Krishna killed |  |  |  |
 | **Paka** | Pāka | a demon slain by Indra, who is called "chastiser of Paka" |  |  |  |
@@ -498,7 +498,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Satyavati** | Satyavatī | the fisherman's adopted daughter who became Shantanu's queen; mother of Vyasa | Kali, Gandhavati, Yojanagandha, Matsyagandha, Satya |  | Satyawati |
 | **Satyavrata** | Satyavrata | a player at the dice game, on the Kaurava side |  |  |  |
 | **Saumadatti** | Saumadatti | Somadatta's son, named as an ally of Duryodhana |  |  |  |
-| **Shantanu** | Śaṃtanu | king of Hastinapura; husband of Ganga, then of Satyavati; father of Bhishma |  |  | Santanu, Shantnu |
+| **Shantanu** | Śaṃtanu | king of Hastinapura; husband of Ganga, then of Satyavati; father of Bhishma |  |  | Santanu, Shantnu, Shamtanu |
 | **Somadatta** | Somadatta | the Bahlika prince, Bhishma's cousin's son; father of Bhurishravas |  |  |  |
 | **Tapati** | Tapatī | daughter of the Sun, Savitri's younger sister; Samvarana's wife and Kuru's mother; hence Arjuna is 'Tapatya' |  |  |  |
 | **Vichitravirya** | Vicitravīrya | younger son of Shantanu and Satyavati; husband of Ambika and Ambalika |  |  | Vichitraveerya |

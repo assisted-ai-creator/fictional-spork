@@ -112,7 +112,8 @@
    "dialogue": [],
    "flag": [
     "Santanu",
-    "Shantnu"
+    "Shantnu",
+    "Shamtanu"
    ],
    "ref": ""
   },
@@ -4078,7 +4079,9 @@
    "who": "an asura slain by Indra; Maya's brother",
    "aka": [],
    "dialogue": [],
-   "flag": [],
+   "flag": [
+    "Namuci"
+   ],
    "ref": "1.217.21"
   },
   {

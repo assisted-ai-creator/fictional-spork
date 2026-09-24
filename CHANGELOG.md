@@ -18,6 +18,15 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 50–51 drafted: Kubera; Arjuna returns
+- Ch 50 *Kubera* (CE 3.158–160) and Ch 51 *Arjuna Returns* (3.161–163): Yudhishthira's rebuke of Bhima;
+  Kubera's coming, his release from Agastya's curse and his counsel; Dhaumya on the four quarters, Meru and
+  the road of the sun; the long wait on the mountain; Matali brings Arjuna down; Indra's visit; Arjuna's own
+  account of his austerity, the fight with the Kirata and the gift of the Pashupata. About 5,300 words.
+- Ledger: new L-136 (Kubera's curse and Maniman's spitting are in the CE); L-120 extended (the clay image is
+  rejected again in Arjuna's retelling, \*839).
+- Names: flags added for the spellings Shamtanu and Namuci.
+
 ### Novel: Book 3, chapters 48–49 drafted: Gandhamadana; Maniman
 - Ch 48 *Gandhamadana* (CE 3.155) and Ch 49 *Maniman* (3.156–157): the road north to the royal seer
   Vrishaparvan's hermitage; the White Mountain and Malyavant; the full catalogue of the trees, birds, lakes and
