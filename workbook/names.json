@@ -8444,6 +8444,106 @@
    "dialogue": [],
    "flag": [],
    "ref": "3.83.39"
+  },
+  {
+   "name": "Mathara",
+   "iast": "Māṭhara",
+   "group": "Seer",
+   "who": "a seer whose holy forest is in the south",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.86.7"
+  },
+  {
+   "name": "Trinasomagni",
+   "iast": "Tṛṇasomāgni",
+   "group": "Seer",
+   "who": "a pupil of Agastya with a hermitage on Mount Devasabha",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.86.14"
+  },
+  {
+   "name": "Vishravas",
+   "iast": "Viśravas",
+   "group": "Seer",
+   "who": "a sage, father of Kubera, whose dwelling is on the Narmada",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.87.3"
+  },
+  {
+   "name": "Vaivarnya",
+   "iast": "Vaivarṇya",
+   "group": "Seer",
+   "who": "one of two seers of the Drishadvati; the reading is uncertain",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.88.10"
+  },
+  {
+   "name": "Varna",
+   "iast": "Varṇa",
+   "group": "Seer",
+   "who": "one of two seers of the Drishadvati; the reading is uncertain",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.88.10"
+  },
+  {
+   "name": "Jamadagni",
+   "iast": "Jamadagni",
+   "group": "Seer",
+   "who": "a great Bhargava seer, father of Rama Jamadagnya",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.86.9"
+  },
+  {
+   "name": "Lomapada",
+   "iast": "Lomapāda",
+   "group": "King",
+   "who": "king of the Angas, in whose land Rishyashringa is brought",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.91.8"
+  },
+  {
+   "name": "Ikshvaku",
+   "iast": "Ikṣvāku",
+   "group": "King",
+   "who": "an ancient king, founder of the solar line",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.83.110"
+  },
+  {
+   "name": "Shamatha",
+   "iast": "Śamaṭha",
+   "group": "Brahmin",
+   "who": "a brahmin who tells the Pandavas of King Gaya's sacrifice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.93.16"
+  },
+  {
+   "name": "Amurtarayas",
+   "iast": "Amūrtarayas",
+   "group": "King",
+   "who": "father of King Gaya",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.93.16"
   }
  ],
  "not_vyasa": [

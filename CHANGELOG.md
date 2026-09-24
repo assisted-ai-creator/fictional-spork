@@ -18,6 +18,15 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 30–31 drafted: Dhaumya's fords; Lomasha
+- Ch 30 *Dhaumya's Fords* (CE 3.84–88) and Ch 31 *Lomasha* (3.89–93): Yudhishthira's image of Karna
+  as a forest fire and Arjuna as the cloud; Dhaumya's holy places of the four quarters, with Dvaravati
+  and Badari; Lomasha's news of Arjuna and Indra's promise to remove the fear of Karna; the followers
+  sent to Hastinapura; the pilgrimage begins; Lomasha on why the wicked prosper; Naimisha, Prayaga and
+  the four-month rite at Gaya. About 5,100 words.
+- Names: Mathara, Trinasomagni, Vishravas, Vaivarnya, Varna, Jamadagni, Lomapada, Ikshvaku, Shamatha
+  and Amurtarayas added.
+
 ### Novel: Book 3, chapters 28–29 drafted: the road to Gaya; Prayaga (Pulastya's fords complete)
 - Ch 28 *The Road to Gaya* (CE 3.82) and Ch 29 *Prayaga* (3.83; the plan's "Pulastya's Fords II–III"
   renamed) finish Pulastya's account of the fords: the Sarasvati's source, Gangadvara, Naimisha,

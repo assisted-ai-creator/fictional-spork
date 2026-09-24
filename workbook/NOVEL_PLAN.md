@@ -282,8 +282,8 @@ are refined while drafting.
 | 27 | Kurukshetra | 3.81 | ✅ drafted. Kurukṣetra: the gatekeepers; Rāma's lakes of blood; Maṅkaṇaka's dance; Pṛthūdaka; Saṃnihitī; the Samantapañcaka. |
 | 28 | The Road to Gaya | 3.82 | ✅ drafted. The Sarasvatī's source; Śākambharī; Gaṅgādvāra; Naimiṣa; Vārāṇasī (L-125); Gayā and the undying banyan; Rājagṛha; Śālagrāma; the Kauśikī. |
 | 29 | Prayaga | 3.83 | ✅ drafted. The south: Gokarṇa, the Godāvarī, Daṇḍaka, Citrakūṭa; Prayāga; Pulastya's blessing; Nārada sends Yudhiṣṭhira on pilgrimage. |
-| 30 | Dhaumya's Fords | 3.84–3.88 | Dhaumya names the holy places of the four quarters. |
-| 31 | Lomasha | 3.89–3.93 | Lomaśa brings Arjuna's news; the pilgrimage begins; Naimiṣa. |
+| 30 | Dhaumya's Fords | 3.84–3.88 | ✅ drafted. Yudhiṣṭhira's cloud and fire; the four quarters; Dvāravatī and Kṛṣṇa as eternal dharma; Badarī. |
+| 31 | Lomasha | 3.89–3.93 | ✅ drafted. Lomaśa's news and Indra's word on Karṇa; the followers sent home; the start; why the wicked prosper; Naimiṣa, Prayāga, Gayā. |
 | 32 | Agastya and Lopamudra | 3.94–3.97 | Ilvala and Vātāpi; Agastya's marriage; the wealth he begged. |
 | 33 | Agastya Drinks the Ocean | 3.98–3.103 | Vṛtra and Dadhīca; the Kāleyas; Vindhya; the ocean drunk. |
 | 34 | Bhagiratha | 3.104–3.108 | Sagara's sons; Kapila; Bhagīratha brings down the Gaṅgā. |

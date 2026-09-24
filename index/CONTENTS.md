@@ -2,7 +2,7 @@
 
 # Contents
 
-**144 chapters, 301,085 words.** 144 drafted
+**146 chapters, 306,214 words.** 146 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -167,5 +167,7 @@
 | 27 | [Kurukshetra](../novel/book-03-aranyaka/27-kurukshetra.md) | 3.81 | drafted | 4,419 |
 | 28 | [The Road to Gaya](../novel/book-03-aranyaka/28-the-road-to-gaya.md) | 3.82 | drafted | 3,387 |
 | 29 | [Prayaga](../novel/book-03-aranyaka/29-prayaga.md) | 3.83 | drafted | 2,490 |
+| 30 | [Dhaumya's Fords](../novel/book-03-aranyaka/30-dhaumyas-fords.md) | 3.84-88 | drafted | 2,453 |
+| 31 | [Lomasha](../novel/book-03-aranyaka/31-lomasha.md) | 3.89-93 | drafted | 2,676 |
 
-*Book 3 so far: 76,824 words.*
+*Book 3 so far: 81,953 words.*
