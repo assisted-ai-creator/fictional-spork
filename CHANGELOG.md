@@ -18,6 +18,24 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 76–78 drafted: the five husbands
+- Ch 76 *Drupada's Test* (CE 1.185–186), Ch 77 *One Wife for Five* (1.187–188) and
+  Ch 78 *The Five Indras* (1.189): Dhrishtadyumna's report; the priest's embassy; the goods
+  laid out to test the guests; the Pandavas revealed; Drupada's objection; the views of
+  Drupada, Dhrishtadyumna, Yudhishthira and Kunti; Vyasa's story of the five Indras and Shri;
+  Drupada's divine sight. About 4,000 words.
+- Noted: Yudhishthira cites only Jatila as a precedent in the CE (Varkshi is \*1910); the
+  five-times boon is told twice in the CE (1.157, 1.189).
+
+### Reference
+- Ledger **L-97**: Balarama and Krishna from Hari's white and black hairs is CE 1.189.31.
+- Ledger **L-98**: the Pandavas as five Indras, Draupadi as Shri, is CE; the names of the
+  earlier Indras are only in \*1916.
+
+### Workbook
+- `names.json`: +3 (Jatila, Shachi, Vivasvat); Lakshmi and Girisha added as other names
+  of Shri and Shiva.
+
 ### Novel: Book 1, chapters 73–75 drafted: the bridegroom choice
 - Ch 73 *The Bow Is Strung* (CE 1.177–179), Ch 74 *The Kings Attack* (1.180–181) and
   Ch 75 *Share It All Together* (1.182–184): the suitors named; the kings fail at the bow;

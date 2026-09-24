@@ -12,6 +12,8 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Jalapadi** | Jālapadī | the divine girl Indra sent to disturb Sharadvat |  |  |  |
 | **Menaka** | Menakā | an apsaras; mother of Pramadvara (and, later, of Shakuntala) |  |  |  |
 | **Urvashi** | Urvaśī | the apsaras, wife of Pururavas |  |  | Urvasi |
+| **Shachi** | Śacī | Indra's wife |  |  |  |
+| **Vivasvat** | Vivasvat | the sun god, father of Yama |  |  | Vivaswat, Vivasvan |
 | **Gavalgana** | Gavalgaṇa | the suta, father of Sanjaya |  |  |  |
 | **Lohitaksha** | Lohitākṣa | the red-eyed suta, builder of Janamejaya's place of sacrifice, who foretold that a brahmin would stop the rite |  |  |  |
 | **Lomaharshana** | Lomaharṣaṇa | father of Ugrashravas, a bard |  |  | Lomaharsana |
@@ -32,7 +34,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Bhaga** | Bhaga | an Aditya whose eyes Shiva took away |  |  |  |
 | **Dharma** | Dharma | the god of dharma, lord of the dead's justice; born as Vidura by Animandavya's curse |  |  |  |
 | **Kubera** | Kubera | lord of wealth, whose gardens lie on the northern mountains |  |  |  |
-| **Shiva** | Śiva | the great god; the CE also calls him Hara, Rudra, Mahadeva, Shankara | Hara, Rudra, Mahadeva, Shankara, Ishana |  |  |
+| **Shiva** | Śiva | the great god; the CE also calls him Hara, Rudra, Mahadeva, Shankara | Hara, Rudra, Mahadeva, Shankara, Ishana, Girisha |  |  |
 | **Skanda** | Skanda | the war god, called Guha and Kumara; son of Fire, the Krittikas, Rudra and Ganga | Guha, Kumara, Kartikeya |  |  |
 | **Vayu** | Vāyu | the Wind, father of Bhima | Maruta, Pavana |  |  |
 | **Agni** | Agni | the fire god | Pavaka, Jatavedas, Vibhavasu, Hutashana |  |  |
@@ -45,12 +47,12 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Dhanvantari** | Dhanvantari | the god who rises from the ocean carrying the nectar in a white pot |  |  |  |
 | **Dyaus** | Dyaus | the Vasu who stole Vasishtha's cow and was reborn as Bhishma (not 'Prabhasa'; see L-69) | Dyu |  |  |
 | **Garuda** | Garuḍa | Vinata's younger son, the destroyer of snakes | Suparna, Vainateya |  | Garud |
-| **Indra** | Indra | king of the gods | Shakra, Purandara, Vasava, Maghavat | Shakra |  |
+| **Indra** | Indra | king of the gods | Shakra, Purandara, Vasava, Maghavat, Maghavan, Shatakratu | Shakra |  |
 | **Kadru** | Kadrū | daughter of the creator, wife of Kashyapa, mother of a thousand nagas |  |  | Kadroo |
 | **Nara** | Nara | the god who fights beside Narayana with a divine bow |  |  |  |
 | **Rahu** | Rāhu | a danava who drinks the nectar disguised as a god; his head is cut off by the discus |  |  |  |
 | **Sarama** | Saramā | the dog of the gods, who curses Janamejaya |  |  |  |
-| **Shri** | Śrī | goddess of fortune, risen from the churned butter |  |  | Sri |
+| **Shri** | Śrī | goddess of fortune, risen from the churned butter | Lakshmi |  | Sri |
 | **Varuna** | Varuṇa | lord of the waters; the ocean asks for a share of the nectar |  |  |  |
 | **Vinata** | Vinatā | daughter of the creator, wife of Kashyapa, mother of Aruna and Garuda |  |  | Vinita |
 | **Vishnu** | Viṣṇu | the god who counsels the churning, takes a woman's form to win back the nectar, and wields the discus Sudarshana | Narayana, Hari, Achyuta |  | Vishnoo |
@@ -203,6 +205,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Gauramukha** | Gauramukha | Shamika's pupil, sent to warn Parikshit |  |  |  |
 | **Ghurnika** | Ghūrṇikā | Devayani's maid |  |  |  |
 | **Jaratkaru** | Jaratkāru | a Yayavara seer of strict vows who marries only a bride of his own name; Astika's father. His wife, Vasuki's sister, has the same name (1.13.34) |  |  | Jaratkaaru, Jaratkara |
+| **Jatila** | Jaṭilā | a woman of the Gautama line who lived with seven seers; Yudhishthira's precedent for Draupadi's marriage |  |  |  |
 | **Kacha** | Kaca | son of Brihaspati, who learns the art of raising the dead from Shukra |  |  | Kach |
 | **Kakshivat** | Kākṣīvat | eldest of the eleven sons of Dirghatamas by Sudeshna's servant |  |  | Kakshivan, Kakshivant |
 | **Kanva** | Kaṇva | the Kashyapa seer on the Malini who raised Shakuntala | the Kashyapa |  | Kanwa |

@@ -159,7 +159,10 @@ against the CE when the Book is drafted.
 | 73 | The Bow Is Strung | 1.177–1.179 | ✅ drafted. The suitors named; the kings fail; Kṛṣṇa spots the Pāṇḍavas; Arjuna hits the target (L-95). |
 | 74 | The Kings Attack | 1.180–1.181 | ✅ drafted. The kings rush Drupada; Arjuna and Karṇa; Bhīma throws Śalya; Kṛṣṇa calms the kings. |
 | 75 | Share It All Together | 1.182–1.184 | ✅ drafted. "Alms"; Kuntī's words; Yudhiṣṭhira's decision; Kṛṣṇa's visit; Dhṛṣṭadyumna spies (L-96). |
-| 76… | The five husbands | 1.185–1.189 | Drupada's priest; the palace; Drupada's objection; Vyāsa's explanation. |
+| 76 | Drupada's Test | 1.185–1.186 | ✅ drafted. Dhṛṣṭadyumna's report; the priest; Yudhiṣṭhira's answer; the goods laid out; the brothers choose weapons. |
+| 77 | One Wife for Five | 1.187–1.188 | ✅ drafted. The Pāṇḍavas revealed; Drupada's objection; Vyāsa hears each view (L-96). |
+| 78 | The Five Indras | 1.189 | ✅ drafted. Yama's sacrifice; Indra humbled; the five Indras and Śrī; the two hairs; divine sight; the five-times boon (L-97, L-98). |
+| 79… | The wedding and after | 1.190–1.199 | The wedding; Kuntī's blessing; news reaches Hastinapura; the council; Vidura's embassy; Indraprastha. |
 
 ---
 

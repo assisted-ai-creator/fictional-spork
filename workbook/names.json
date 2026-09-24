@@ -1118,7 +1118,9 @@
     "Shakra",
     "Purandara",
     "Vasava",
-    "Maghavat"
+    "Maghavat",
+    "Maghavan",
+    "Shatakratu"
    ],
    "dialogue": [
     "Shakra"
@@ -1295,7 +1297,9 @@
    "iast": "Śrī",
    "group": "Gods",
    "who": "goddess of fortune, risen from the churned butter",
-   "aka": [],
+   "aka": [
+    "Lakshmi"
+   ],
    "dialogue": [],
    "flag": [
     "Sri"
@@ -2099,7 +2103,8 @@
     "Rudra",
     "Mahadeva",
     "Shankara",
-    "Ishana"
+    "Ishana",
+    "Girisha"
    ],
    "dialogue": [],
    "flag": [],
@@ -3494,6 +3499,39 @@
    "dialogue": [],
    "flag": [],
    "ref": "1.181.29"
+  },
+  {
+   "name": "Jatila",
+   "iast": "Jaṭilā",
+   "group": "Seer",
+   "who": "a woman of the Gautama line who lived with seven seers; Yudhishthira's precedent for Draupadi's marriage",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.188.14"
+  },
+  {
+   "name": "Shachi",
+   "iast": "Śacī",
+   "group": "Deity",
+   "who": "Indra's wife",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.181.18"
+  },
+  {
+   "name": "Vivasvat",
+   "iast": "Vivasvat",
+   "group": "Deity",
+   "who": "the sun god, father of Yama",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Vivaswat",
+    "Vivasvan"
+   ],
+   "ref": "1.189.1"
   }
  ],
  "not_vyasa": [
