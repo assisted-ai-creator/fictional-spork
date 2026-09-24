@@ -1649,7 +1649,7 @@
    "name": "Manu",
    "iast": "Manu",
    "group": "King",
-   "who": "Manu son of Vivasvat (through Martanda in 1.70), from whom the human race descends",
+   "who": "Manu son of Vivasvat (through Martanda in 1.70), from whom the human race descends; the fish saves him from the flood (3.185)",
    "aka": [
     "Vaivasvata"
    ],
@@ -5317,7 +5317,7 @@
    "name": "Atri",
    "iast": "Atri",
    "group": "Catalogue",
-   "who": "named in Indra's hall (2.7)",
+   "who": "named in Indra's hall (2.7); the seer who praises King Vainya (3.183)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -5327,7 +5327,7 @@
    "name": "Tarkshya",
    "iast": "Tārkṣya",
    "group": "Catalogue",
-   "who": "named in Indra's hall (2.7)",
+   "who": "named in Indra's hall (2.7); also Arishtanemi Tarkshya, a sage whose son is killed and lives again (3.182), and who questions Sarasvati (3.184)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -5997,7 +5997,7 @@
    "name": "Vainya",
    "iast": "Vainya",
    "group": "Catalogue",
-   "who": "named in Yama's hall (2.8)",
+   "who": "named in Yama's hall (2.8); also the royal seer Vainya, praised by Atri at his horse sacrifice (3.183)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -8393,7 +8393,7 @@
    "name": "Sanatkumara",
    "iast": "Sanatkumāra",
    "group": "Seer",
-   "who": "a son of Brahma, who sang the praise of Prithudaka",
+   "who": "a son of Brahma, who sang the praise of Prithudaka; he settles the dispute between Atri and Gautama (3.183.20–27)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -8998,6 +8998,36 @@
    "dialogue": [],
    "flag": [],
    "ref": "3.180.7"
+  },
+  {
+   "name": "Gautama",
+   "iast": "Gautama",
+   "group": "Seer",
+   "who": "the seer who disputes with Atri at Vainya's sacrifice (3.183); not Kripa or Sharadvat, who are also called Gautama",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.183.6"
+  },
+  {
+   "name": "Sarasvati",
+   "iast": "Sarasvatī",
+   "group": "God",
+   "who": "the river and goddess; she teaches the sage Tarkshya (3.184)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.184.1"
+  },
+  {
+   "name": "Haihayas",
+   "iast": "Haihaya",
+   "group": "People",
+   "who": "a line of kings; a Haihaya prince kills Tarkshya's son by mistake (3.182)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.182.3"
   }
  ],
  "not_vyasa": [

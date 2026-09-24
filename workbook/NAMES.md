@@ -58,7 +58,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Arshtishena** | Ārṣṭiṣeṇa | named in Yama's hall (2.8); also the royal seer, lean with austerity, whose hermitage on Gandhamadana the Pandavas reach (3.155.89–3.156) |  |  |  |
 | **Ashravya** | Āśrāvya | named in Indra's hall (2.7) |  |  |  |
 | **Ashvatara** | Aśvatara | named in Varuna's hall (2.9) |  |  |  |
-| **Atri** | Atri | named in Indra's hall (2.7) |  |  |  |
+| **Atri** | Atri | named in Indra's hall (2.7); the seer who praises King Vainya (3.183) |  |  |  |
 | **Balahaka** | Balāhaka | named in Varuna's hall (2.9) |  |  |  |
 | **Bhangasvari** | Bhāṅgāsvari | named in Yama's hall (2.8); in 3.68.2 the patronymic of Rituparna |  |  |  |
 | **Bhava** | Bhava | named in Yama's hall (2.8) |  |  |  |
@@ -202,7 +202,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Susimha** | Susiṃha | named in Yama's hall (2.8) |  |  |  |
 | **Svana** | Svana | named in Varuna's hall (2.9) |  |  |  |
 | **Talaketu** | Tālaketu | a king Krishna killed on the Iravati |  |  |  |
-| **Tarkshya** | Tārkṣya | named in Indra's hall (2.7) |  |  |  |
+| **Tarkshya** | Tārkṣya | named in Indra's hall (2.7); also Arishtanemi Tarkshya, a sage whose son is killed and lives again (3.182), and who questions Sarasvati (3.184) |  |  |  |
 | **Trasadasyu** | Trasadasyu | named in Yama's hall (2.8) |  |  |  |
 | **Trigarta** | Trigarta | named in Yama's hall (2.8) |  |  |  |
 | **Trinaka** | Tṛṇaka | named in Yama's hall (2.8) |  |  |  |
@@ -212,7 +212,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Udarashandilya** | Udaraśāṇḍilya | named in Indra's hall (2.7) |  |  |  |
 | **Ushadgava** | Uśadgava | named in Yama's hall (2.8) |  |  |  |
 | **Vadhryashva** | Vadhryaśva | named in Yama's hall (2.8) |  |  |  |
-| **Vainya** | Vainya | named in Yama's hall (2.8) |  |  |  |
+| **Vainya** | Vainya | named in Yama's hall (2.8); also the royal seer Vainya, praised by Atri at his horse sacrifice (3.183) |  |  |  |
 | **Vaishvanara** | Vaiśvānara | named in Indra's hall (2.7) |  |  |  |
 | **Valin** | Vālin | named in Varuna's hall (2.9); also the monkey king, son of Shakra, brother of Sugriva, killed by Rama (3.147.25–32) |  |  |  |
 | **Valmiki** | Vālmīki | named in Indra's hall (2.7) |  |  |  |
@@ -319,6 +319,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kubera** | Kubera | lord of wealth, whose gardens lie on the northern mountains | Vaishravana, Paulastya |  |  |
 | **Matali** | Mātali | Indra's charioteer |  |  |  |
 | **Nirriti** | Nirṛti | goddess of decay; the south-west is her quarter |  |  |  |
+| **Sarasvati** | Sarasvatī | the river and goddess; she teaches the sage Tarkshya (3.184) |  |  |  |
 | **Shiva** | Śiva | the great god; the CE also calls him Hara, Rudra, Mahadeva, Shankara | Hara, Rudra, Mahadeva, Shankara, Ishana, Girisha, Sthanu, Maheshvara, Shambhu, Bhava, Sharva, Kapardin |  |  |
 | **Skanda** | Skanda | the war god, called Guha and Kumara; son of Fire, the Krittikas, Rudra and Ganga | Guha, Kumara, Kartikeya, Mahasena, Karttikeya |  |  |
 | **Tvashtar** | Tvaṣṭṛ | the divine craftsman, who made the thunderbolt |  |  |  |
@@ -437,7 +438,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Madayanti** | Madayantī | wife of Saudasa (Kalmashapada), mother of Ashmaka by Vasishtha |  |  |  |
 | **Mahabhisha** | Mahābhiṣa | a king of Ikshvaku's line in heaven, cursed by Brahma for gazing at Ganga; reborn as Shantanu |  |  |  |
 | **Mandhatar** | Māndhātṛ | an ancient king, the best of kings, who rose to heaven |  |  |  |
-| **Manu** | Manu | Manu son of Vivasvat (through Martanda in 1.70), from whom the human race descends | Vaivasvata |  |  |
+| **Manu** | Manu | Manu son of Vivasvat (through Martanda in 1.70), from whom the human race descends; the fish saves him from the flood (3.185) | Vaivasvata |  |  |
 | **Meghavahana** | Meghavāhana | a king allied to Jarasandha |  |  |  |
 | **Munjaketu** | Muñjaketu | a king present in Yudhishthira's hall |  |  |  |
 | **Nahusha** | Nahuṣa | son of Ayus, father of Yayati; for a time he made himself Indra; cursed by Agastya to be a serpent, he seizes Bhima and is freed by Yudhishthira's answers (3.176–178) |  |  | Nahush |
@@ -568,6 +569,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vishoka** | Viśoka | a servant of Yudhishthira who sees to the food at the Rajasuya; also named as a charioteer, leading the others when they rejoin the Pandavas at Subahu's city (3.174.14) |  |  |  |
 | **Yudhishthira** | Yudhiṣṭhira | eldest son of Kunti, by Dharma; the dharma king | Ajatashatru, Dharmaraja, Kaunteya, Partha | Ajatashatru | Yudhistira, Yudhishtira, Yudhisthira, Yudhishthir, Yudhisthir |
 | **Vishvagashva** | Viṣvagaśva | a Paurava king defeated by Arjuna |  |  |  |
+| **Haihayas** | Haihaya | a line of kings; a Haihaya prince kills Tarkshya's son by mistake (3.182) |  |  |  |
 | **Ajamidha** | Ajamīḍha | an ancestor of the Kurus; Kuru kings are called Ajamidhas after him |  |  |  |
 | **Bhadra** | Bhadrā | Vyushitashva's wife, daughter of Kakshivat; also the name of Kubera's wife (1.191.6); also Bhadra of Vaishali, carried off by Shishupala (2.42.11) |  |  |  |
 | **Ila** | Iḍā | parent of Pururavas, who is called Aila after Ila |  |  |  |
@@ -620,6 +622,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Durvasas** | Durvāsas | the fierce brahmin who gave Pritha the mantra to call the gods |  |  | Durvasa |
 | **Galava** | Gālava | a seer present in Yudhishthira's hall |  |  |  |
 | **Gauramukha** | Gauramukha | Shamika's pupil, sent to warn Parikshit |  |  |  |
+| **Gautama** | Gautama | the seer who disputes with Atri at Vainya's sacrifice (3.183); not Kripa or Sharadvat, who are also called Gautama |  |  |  |
 | **Ghatajanuka** | Ghaṭajānuka | a seer present in Yudhishthira's hall |  |  |  |
 | **Ghurnika** | Ghūrṇikā | Devayani's maid |  |  |  |
 | **Haribabhru** | Haribabhru | a seer present in Yudhishthira's hall |  |  |  |
@@ -693,7 +696,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sahasrapad** | Sahasrapād | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
 | **Sahasrapat** | Sahasrapād | seer cursed to be a dundubha snake |  |  |  |
 | **Sanatana** | Sanātana | a seer present in Yudhishthira's hall |  |  |  |
-| **Sanatkumara** | Sanatkumāra | a son of Brahma, who sang the praise of Prithudaka |  |  |  |
+| **Sanatkumara** | Sanatkumāra | a son of Brahma, who sang the praise of Prithudaka; he settles the dispute between Atri and Gautama (3.183.20–27) |  |  |  |
 | **Sarika** | Sārika | a seer present in Yudhishthira's hall |  |  |  |
 | **Sarpamali** | Sarpamālin | a seer present in Yudhishthira's hall |  |  | Sarpamalin |
 | **Savarni** | Sāvarṇi | a seer present in Yudhishthira's hall |  |  |  |

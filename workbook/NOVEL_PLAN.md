@@ -310,8 +310,8 @@ are refined while drafting.
 | 55 | The Serpent | 3.173–3.176 | ✅ drafted. Four years on the mountain; the brothers urge the return; Lomaśa leaves; Viśākhayūpa and Dvaitavana; Bhīma seized by Nahuṣa; the omens. |
 | 56 | Nahusha's Questions | 3.177–3.178 | ✅ drafted. Who is a brahmin (L-138); giving and truth; the self, the mind and the understanding; Nahuṣa's pride and Agastya's curse; Bhīma freed and rebuked. |
 | 57 | Markandeya | 3.179–3.181 | ✅ drafted. The rains and autumn by the Sarasvatī; Kṛṣṇa and Satyabhāmā at Kāmyaka; Draupadī's sons in Dvārakā; Mārkaṇḍeya and Nārada; how deeds bear fruit; the four fortunes. |
-| 58 | The Greatness of Brahmins | 3.182–3.185 | Tales of brahmins; Sarasvatī; Manu and the fish. |
-| 59 | Markandeya in the Flood | 3.186 | The end of the age; the child on the banyan. |
+| 58 | Manu and the Fish | 3.182–3.185 | ✅ drafted. Tārkṣya's son who lives again; Atri, Vainya and Sanatkumāra's judgement; Sarasvatī's teaching; Manu, the fish and the flood; the fish is Brahmā (L-139). |
+| 59 | Markandeya in the Flood | 3.186 | ✅ drafted. The lengths of the ages; the signs of the end; the seven suns, the fire and the rain; the child on the banyan; the world inside his body. |
 | 60 | The Age of Kali | 3.187–3.188 | The god's self-account; the Kali age. |
 | 61 | Kalki | 3.189–3.191 | Kalki; Parīkṣit and the frog-maiden; Indradyumna. |
 | 62 | Dhundhumara | 3.192–3.195 | Uttaṅka; Kuvalāśva kills Dhundhu. |

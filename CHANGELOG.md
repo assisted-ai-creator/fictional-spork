@@ -18,6 +18,16 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 58–59 drafted: Manu and the fish; Markandeya in the flood
+- Ch 58 *Manu and the Fish* (CE 3.182–185; retitled from "The Greatness of Brahmins") and Ch 59 *Markandeya
+  in the Flood* (3.186): the Haihaya prince and Tarkshya's son; Atri, Vainya and Sanatkumara's judgement on
+  kings; Sarasvati's teaching to Tarkshya; Manu, the fish, the flood and Naubandhana; the lengths of the four
+  ages, the signs of the end of the age, the fire and the flood; the child on the banyan and the world inside
+  his body. About 6,200 words.
+- Ledger: new L-139 (in the CE the fish is Brahma, not Vishnu's Matsya).
+- Names: Gautama (the seer), Sarasvati and the Haihayas added; Tarkshya, Vainya, Atri, Sanatkumara and Manu
+  extended.
+
 ### Novel: Book 3, chapters 56–57 drafted: Nahusha's questions; Markandeya
 - Ch 56 *Nahusha's Questions* (CE 3.177–178) and Ch 57 *Markandeya* (3.179–181): the serpent's questions on
   who is a brahmin, what is to be known, the way to heaven and the self; Nahusha's own account of his fall;
