@@ -18,6 +18,16 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 46–47 drafted: the ages of the world; Kubera's lake
+- Ch 46 *The Ages of the World* (CE 3.148–150) and Ch 47 *Kubera's Lake* (3.151–154): Hanuman's account of
+  the Krita, Treta, Dvapara and Kali ages; the form Bhima cannot look at; Hanuman's teaching on the dharma of
+  the classes and of kings; his promise to roar from Arjuna's banner; Bhima at Kubera's lotus pool, the
+  Krodhavasha guards and Kubera's leave; the omens and Yudhishthira's rebuke; Jatasura's abduction and death.
+  About 5,700 words.
+- Ledger: new L-135 (Hanuman's offer is to kill the Dhartarashtras or crush the city; bringing Duryodhana
+  bound is rejected).
+- Names: Krodhavashas added; the rakshasa Jatasura noted beside the king of that name.
+
 ### Novel: Book 3, chapters 44–45 drafted: the storm; Hanuman
 - Ch 44 *The Storm* (CE 3.143–145) and Ch 45 *Hanuman* (3.146–147): the storm of wind, dust and stones on
   Gandhamadana; Draupadi faints and Yudhishthira blames himself; Ghatotkacha carries them to Badari and the

@@ -4857,7 +4857,7 @@
    "name": "Jatasura",
    "iast": "Jaṭāsura",
    "group": "King",
-   "who": "a king present in Yudhishthira's hall",
+   "who": "a king present in Yudhishthira's hall; also a rakshasa who lived with the Pandavas disguised as a brahmin, carried off Yudhishthira, the twins and Draupadi, and was killed by Bhima (3.154)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -8944,6 +8944,16 @@
     "Seeta"
    ],
    "ref": "3.147.32"
+  },
+  {
+   "name": "Krodhavashas",
+   "iast": "Krodhavaśa",
+   "group": "Rakshasa",
+   "who": "rakshasas who guard Kubera's lotus pool on Kailasa (3.151.10)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.151.10"
   }
  ],
  "not_vyasa": [

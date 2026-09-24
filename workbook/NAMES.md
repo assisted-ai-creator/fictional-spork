@@ -415,7 +415,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Girika** | Girikā | Vasu's wife, daughter of the mountain Kolahala and the river Shuktimati |  |  |  |
 | **Ikshvaku** | Ikṣvāku | an ancient king, founder of the solar line |  |  |  |
 | **Jantu** | Jantu | Somaka's son, sacrificed and born again as the eldest of a hundred |  |  |  |
-| **Jatasura** | Jaṭāsura | a king present in Yudhishthira's hall |  |  |  |
+| **Jatasura** | Jaṭāsura | a king present in Yudhishthira's hall; also a rakshasa who lived with the Pandavas disguised as a brahmin, carried off Yudhishthira, the twins and Draupadi, and was killed by Bhima (3.154) |  |  |  |
 | **Kakshasena** | Kakṣasena | a king present in Yudhishthira's hall |  |  |  |
 | **Kalabha** | Kalabha | a king allied to Jarasandha |  |  |  |
 | **Kalmashapada** | Kalmāṣapāda | Ikshvaku king cursed by Shakti to eat men; freed by Vasishtha; father (by Vasishtha) of Ashmaka | Saudasa, Mitrasaha |  |  |
@@ -574,6 +574,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Jara** | Jarā | the rakshasi who joined the two halves of Jarasandha |  |  |  |
 | **Kinkara** | Kiṃkara | rakshasa who possessed Kalmashapada |  |  |  |
 | **Kirmira** | Kirmīra | rakshasa killed by Bhima in the Kamyaka forest |  |  |  |
+| **Krodhavashas** | Krodhavaśa | rakshasas who guard Kubera's lotus pool on Kailasa (3.151.10) |  |  |  |
 | **Puloman** | Puloman (Pulomā, m.) | the rakshasa who carries off Bhrigu's wife |  |  |  |
 | **Ravana** | Rāvaṇa | king of the rakshasas who carried off Sita; his story is told at 3.258–275 |  |  | Raavan, Ravan |
 | **Adrishyanti** | Adṛśyantī | Shakti's wife, mother of Parashara |  |  |  |

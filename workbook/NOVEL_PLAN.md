@@ -298,8 +298,8 @@ are refined while drafting.
 | 43 | Into the Mountains | 3.140–3.142 | ✅ drafted. Lomaśa's warning and prayer; Bhīma will carry Draupadī and the twins; Subāhu of the Kunindas; Yudhiṣṭhira's longing for Arjuna. |
 | 44 | The Storm | 3.143–3.145 | ✅ drafted. The storm on Gandhamādana; Draupadī faints; Ghaṭotkaca and his rakṣasas carry them past the Northern Kurus to Badarī, the hermitage of Nara and Nārāyaṇa. |
 | 45 | Hanuman | 3.146–3.147 | ✅ drafted. The saugandhika lotus; Bhīma storms up the mountain; the old monkey on the path and the tail he cannot lift (L-132); Hanumān's story of Rāma (L-133, L-134). |
-| 46 | The Ages of the World | 3.148–3.150 | Hanumān tells of the ages and shows his form. |
-| 47 | Kubera's Lake | 3.151–3.154 | The lotus pond; the rākṣasa guards; Jaṭāsura. |
+| 46 | The Ages of the World | 3.148–3.150 | ✅ drafted. Hanumān on the four ages; his great form; the dharma of kings; the promise to roar from Arjuna's banner (L-106, L-135); the saugandhika forest. |
+| 47 | Kubera's Lake | 3.151–3.154 | ✅ drafted. Bhīma will not beg; the Krodhavaśa guards killed; Kubera's leave; the omens and Yudhiṣṭhira's rebuke; Jaṭāsura carries off Yudhiṣṭhira, the twins and Draupadī and is killed. |
 | 48 | Gandhamadana | 3.155 | The journey across Gandhamādana. |
 | 49 | Maniman | 3.156–3.157 | Ārṣṭiṣeṇa; Bhīma kills the yakṣas and Maṇimān. |
 | 50 | Kubera | 3.158–3.160 | Kubera comes; his counsel. |
