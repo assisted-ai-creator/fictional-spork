@@ -165,7 +165,7 @@ on Nala. Lomasha tells the Pandavas, in their exile, how Arjuna is faring in
 heaven. The Pandavas go on pilgrimage, and Jatasura is killed. Draupadi sends
 Bhimasena to Gandhamadana for the flowers of the mandara tree, and he breaks
 into the lotus pool; there he fights a great battle with rakshasas, and with
-mighty yakshas led by Manimat. Here is the tale of Agastya, who ate the asura
+mighty yakshas led by Maniman. Here is the tale of Agastya, who ate the asura
 Vatapi, and who went to Lopamudra so that he might have a son. Then comes the
 tale of the hawk and the dove, in which Indra, Agni and Dharma test King Shibi.
 Here are the life of Rishyashringa, a celibate from boyhood, and the life of

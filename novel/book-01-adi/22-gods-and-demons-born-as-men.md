@@ -73,7 +73,7 @@ The eldest asura of the four sons of Anayu, bright Vikshara, became the king
 Vasumitra. The second, the great asura after Vikshara, lord of men, became a
 king famous as the lord of the Pamsu kingdom. The best of the asuras known as
 Balavira became a lord of men, Paundramatsyaka. The great asura known as Vritra,
-king, became a royal seer, a lord of men, named Manimat. His younger brother,
+king, became a royal seer, a lord of men, named Maniman. His younger brother,
 the asura Krodhahantri, became a king on earth known as Danda. The other, called
 Krodhavardhana, became a lord of men known as Dandadhara.
 
@@ -82,7 +82,7 @@ courage of tigers. In Magadha the glorious Jayatsena became king, the eldest of
 those eight Kaleyas, a great asura. The second of them, as glorious as Indra,
 became the lord of men named Aparajita. The third, great king, a strong-armed
 great asura, was born as the king of the Nishadas, of terrible valour on earth.
-Another of them, called the fourth, became famous on earth as Shrenimat, the
+Another of them, called the fourth, became famous on earth as Shreniman, the
 best of royal seers. The fifth, the best of them, a great asura, became famous
 here as Mahaujas, the scorcher of enemies. The sixth, a wise great asura among
 them, became famous on earth as Abhiru, the best of royal seers. And King

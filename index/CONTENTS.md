@@ -2,7 +2,7 @@
 
 # Contents
 
-**72 chapters, 137,418 words.** 72 drafted
+**75 chapters, 141,531 words.** 75 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -81,5 +81,8 @@
 | 70 | [Aurva](../novel/book-01-adi/70-aurva.md) | 1.169-171 | drafted | 1,621 |
 | 71 | [Dhaumya](../novel/book-01-adi/71-dhaumya.md) | 1.172-174 | drafted | 1,209 |
 | 72 | [The Bow and the Target](../novel/book-01-adi/72-the-bow-and-the-target.md) | 1.175-176 | drafted | 1,134 |
+| 73 | [The Bow Is Strung](../novel/book-01-adi/73-the-bow-is-strung.md) | 1.177-179 | drafted | 1,430 |
+| 74 | [The Kings Attack](../novel/book-01-adi/74-the-kings-attack.md) | 1.180-181 | drafted | 1,496 |
+| 75 | [Share It All Together](../novel/book-01-adi/75-share-it-all-together.md) | 1.182-184 | drafted | 1,187 |
 
-*Book 1 so far: 137,418 words.*
+*Book 1 so far: 141,531 words.*

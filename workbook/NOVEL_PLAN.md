@@ -156,7 +156,10 @@ against the CE when the Book is drafted.
 | 70 | Aurva | 1.169–1.171 | ✅ drafted. Parāśara's rage; the Bhṛgus slaughtered; Aurva's fire becomes the Mare's Head. |
 | 71 | Dhaumya | 1.172–1.174 | ✅ drafted. Parāśara's rākṣasa sacrifice; the brahmin woman's curse; Dhaumya chosen. |
 | 72 | The Bow and the Target | 1.175–1.176 | ✅ drafted. The road to Pāñcāla; the potter's workshop; the bow and the aerial device; Draupadī enters (L-94). |
-| 73… | The svayaṃvara | 1.177–1.189 | The kings named; the kings fail; Arjuna wins; the fight; the five husbands. |
+| 73 | The Bow Is Strung | 1.177–1.179 | ✅ drafted. The suitors named; the kings fail; Kṛṣṇa spots the Pāṇḍavas; Arjuna hits the target (L-95). |
+| 74 | The Kings Attack | 1.180–1.181 | ✅ drafted. The kings rush Drupada; Arjuna and Karṇa; Bhīma throws Śalya; Kṛṣṇa calms the kings. |
+| 75 | Share It All Together | 1.182–1.184 | ✅ drafted. "Alms"; Kuntī's words; Yudhiṣṭhira's decision; Kṛṣṇa's visit; Dhṛṣṭadyumna spies (L-96). |
+| 76… | The five husbands | 1.185–1.189 | Drupada's priest; the palace; Drupada's objection; Vyāsa's explanation. |
 
 ---
 

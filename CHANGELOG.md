@@ -18,6 +18,27 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 73–75 drafted: the bridegroom choice
+- Ch 73 *The Bow Is Strung* (CE 1.177–179), Ch 74 *The Kings Attack* (1.180–181) and
+  Ch 75 *Share It All Together* (1.182–184): the suitors named; the kings fail at the bow;
+  Arjuna hits the target; the kings attack Drupada; Arjuna against Karna, Bhima against
+  Shalya; Krishna calms the kings; Kunti's "share it together"; Yudhishthira's decision;
+  Krishna's visit; Dhrishtadyumna spies on the family. About 4,100 words.
+- Noted in chapter notes: the CE's list of suitors has no Shishupala or Jarasandha (vulgate
+  \*1819, \*1821); Karna is not defeated but withdraws (1.181.21).
+
+### Reference
+- Ledger **L-95**: Draupadi's "I will not choose a suta" is only in rejected passage \*1827.
+- Ledger **L-96**: Kunti's unseeing words begin the five-husband marriage; Yudhishthira's
+  decision, for fear of a split among the brothers, settles it.
+
+### Workbook
+- `names.json`: +86, mostly the suitors of 1.177 (the sons of Dhritarashtra, the Vrishnis,
+  Virata's sons, Somadatta's sons and others), plus Rukmini, Rohini and Devaki; Damodara
+  added to Krishna's names; "Samika" removed from Shamika's flags, since the Vrishni Samika
+  (*Samīka*) is a different person. Chapters 3 and 22 respelled Manimat, Shrenimat as
+  Maniman, Shreniman, per the -mat stem rule.
+
 ### Novel: Book 1, chapters 71–72 drafted: Dhaumya, and the road to Panchala
 - Ch 71 *Dhaumya* (CE 1.172–174) and Ch 72 *The Bow and the Target* (1.175–176):
   Parashara's rakshasa sacrifice; the brahmin woman's curse on Kalmashapada; Dhaumya

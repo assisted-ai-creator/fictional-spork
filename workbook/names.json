@@ -659,7 +659,8 @@
     "Madhusudana",
     "Achyuta",
     "Varshneya",
-    "Dasharha"
+    "Dasharha",
+    "Damodara"
    ],
    "dialogue": [
     "Keshava",
@@ -1406,7 +1407,6 @@
    "aka": [],
    "dialogue": [],
    "flag": [
-    "Samika",
     "Shameek"
    ],
    "ref": "1.38.3"
@@ -2622,6 +2622,878 @@
    "dialogue": [],
    "flag": [],
    "ref": "1.172.9"
+  },
+  {
+   "name": "Durvishaha",
+   "iast": "Durviṣaha",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.1-3"
+  },
+  {
+   "name": "Dushpradharshana",
+   "iast": "Duṣpradharṣaṇa",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.1-3"
+  },
+  {
+   "name": "Saha",
+   "iast": "Saha",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.1-3"
+  },
+  {
+   "name": "Vatavega",
+   "iast": "Vātavega",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.1-3"
+  },
+  {
+   "name": "Bhimavegadhara",
+   "iast": "Bhīmavegadhara",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.1-3"
+  },
+  {
+   "name": "Ugrayudha",
+   "iast": "Ugrāyudha",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.1-3"
+  },
+  {
+   "name": "Balaki",
+   "iast": "Balākin",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.1-3"
+  },
+  {
+   "name": "Kanakayu",
+   "iast": "Kanakāyu",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.1-3"
+  },
+  {
+   "name": "Sukundala",
+   "iast": "Sukuṇḍala",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.1-3"
+  },
+  {
+   "name": "Kanakadhvaja",
+   "iast": "Kanakadhvaja",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.1-3"
+  },
+  {
+   "name": "Nandaka",
+   "iast": "Nandaka",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.1-3"
+  },
+  {
+   "name": "Bahushali",
+   "iast": "Bāhuśālin",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Bahushalin"
+   ],
+   "ref": "1.177.1-3"
+  },
+  {
+   "name": "Kundaja",
+   "iast": "Kuṇḍaja",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.1-3"
+  },
+  {
+   "name": "Vikata",
+   "iast": "Vikaṭa",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.1-3"
+  },
+  {
+   "name": "Virochana",
+   "iast": "Virocana",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.2"
+  },
+  {
+   "name": "Chitrasena",
+   "iast": "Citrasena",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.3"
+  },
+  {
+   "name": "Suvarchas",
+   "iast": "Suvarcas",
+   "group": "Suitor",
+   "who": "name of a son of Dhritarashtra and of other suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.3"
+  },
+  {
+   "name": "Bala",
+   "iast": "Bala",
+   "group": "Gandhara",
+   "who": "a son of the king of Gandhara, brother of Shakuni; named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.5"
+  },
+  {
+   "name": "Vrishaka",
+   "iast": "Vṛṣaka",
+   "group": "Gandhara",
+   "who": "a son of the king of Gandhara, brother of Shakuni; named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.5"
+  },
+  {
+   "name": "Brihadbala",
+   "iast": "Bṛhadbala",
+   "group": "Gandhara",
+   "who": "a son of the king of Gandhara, brother of Shakuni; named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.5"
+  },
+  {
+   "name": "Bhoja",
+   "iast": "Bhoja",
+   "group": "Suitor",
+   "who": "a warrior paired with Ashvatthama among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.6"
+  },
+  {
+   "name": "Brihanta",
+   "iast": "Bṛhanta",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.7"
+  },
+  {
+   "name": "Maniman",
+   "iast": "Maṇimat",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Manimat"
+   ],
+   "ref": "1.177.7"
+  },
+  {
+   "name": "Dandadhara",
+   "iast": "Daṇḍadhāra",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.7"
+  },
+  {
+   "name": "Jayatsena",
+   "iast": "Jayatsena",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.7"
+  },
+  {
+   "name": "Vardhakshemi",
+   "iast": "Vārdhakṣemi",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.8"
+  },
+  {
+   "name": "Senabindu",
+   "iast": "Senābindu",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.8"
+  },
+  {
+   "name": "Abhibhu",
+   "iast": "Abhibhū",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.9"
+  },
+  {
+   "name": "Sudama",
+   "iast": "Sudāman",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Sudaman"
+   ],
+   "ref": "1.177.9"
+  },
+  {
+   "name": "Sumitra",
+   "iast": "Sumitra",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.9"
+  },
+  {
+   "name": "Sukumara",
+   "iast": "Sukumāra",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.9"
+  },
+  {
+   "name": "Vrika",
+   "iast": "Vṛka",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.9"
+  },
+  {
+   "name": "Satyadhriti",
+   "iast": "Satyadhṛti",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.9"
+  },
+  {
+   "name": "Suryadhvaja",
+   "iast": "Sūryadhvaja",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.10"
+  },
+  {
+   "name": "Rochamana",
+   "iast": "Rocamāna",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.10"
+  },
+  {
+   "name": "Nila",
+   "iast": "Nīla",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.10"
+  },
+  {
+   "name": "Chitrayudha",
+   "iast": "Citrāyudha",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.10"
+  },
+  {
+   "name": "Amshuman",
+   "iast": "Aṃśumat",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Amshumat"
+   ],
+   "ref": "1.177.10"
+  },
+  {
+   "name": "Shreniman",
+   "iast": "Śreṇimat",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Shrenimat"
+   ],
+   "ref": "1.177.10"
+  },
+  {
+   "name": "Chandrasena",
+   "iast": "Candrasena",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.11"
+  },
+  {
+   "name": "Samudrasena",
+   "iast": "Samudrasena",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.11"
+  },
+  {
+   "name": "Jalasandha",
+   "iast": "Jalasaṃdha",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.11"
+  },
+  {
+   "name": "Sudanda",
+   "iast": "Sudaṇḍa",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.11"
+  },
+  {
+   "name": "Danda",
+   "iast": "Daṇḍa",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.11"
+  },
+  {
+   "name": "Bhuri",
+   "iast": "Bhūri",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.14"
+  },
+  {
+   "name": "Shala",
+   "iast": "Śala",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.14"
+  },
+  {
+   "name": "Dridhadhanva",
+   "iast": "Dṛḍhadhanvan",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Dridhadhanvan"
+   ],
+   "ref": "1.177.15"
+  },
+  {
+   "name": "Sushena",
+   "iast": "Suṣeṇa",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.15"
+  },
+  {
+   "name": "Bhagiratha",
+   "iast": "Bhagīratha",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.19"
+  },
+  {
+   "name": "Brihatkshatra",
+   "iast": "Bṛhatkṣatra",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.19"
+  },
+  {
+   "name": "Brihadratha",
+   "iast": "Bṛhadratha",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.19"
+  },
+  {
+   "name": "Shrutayu",
+   "iast": "Śrutāyu",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.19"
+  },
+  {
+   "name": "Shubhangada",
+   "iast": "Śubhāṅgada",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.20"
+  },
+  {
+   "name": "Vatsaraja",
+   "iast": "Vatsarāja",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.20"
+  },
+  {
+   "name": "Meghasandhi",
+   "iast": "Meghasaṃdhi",
+   "group": "Magadha",
+   "who": "a prince of Magadha, named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.7"
+  },
+  {
+   "name": "Shankha",
+   "iast": "Śaṅkha",
+   "group": "Matsya",
+   "who": "son of Virata",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.8"
+  },
+  {
+   "name": "Uttara",
+   "iast": "Uttara",
+   "group": "Matsya",
+   "who": "son of Virata",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.8"
+  },
+  {
+   "name": "Chekitana",
+   "iast": "Cekitāna",
+   "group": "Vrishni",
+   "who": "a warrior named among the suitors at Draupadi's bridegroom choice; later an ally of the Pandavas",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.10"
+  },
+  {
+   "name": "Paundraka Vasudeva",
+   "iast": "Pauṇḍraka Vāsudeva",
+   "group": "Suitor",
+   "who": "king of the Pundras, named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.12"
+  },
+  {
+   "name": "Bhagadatta",
+   "iast": "Bhagadatta",
+   "group": "Suitor",
+   "who": "a mighty king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.12"
+  },
+  {
+   "name": "Rukmangada",
+   "iast": "Rukmāṅgada",
+   "group": "Madra",
+   "who": "son of Shalya",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.13"
+  },
+  {
+   "name": "Rukmaratha",
+   "iast": "Rukmaratha",
+   "group": "Madra",
+   "who": "son of Shalya",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.13"
+  },
+  {
+   "name": "Bhurishravas",
+   "iast": "Bhūriśravas",
+   "group": "Kuru",
+   "who": "son of Somadatta",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.14"
+  },
+  {
+   "name": "Sudakshina",
+   "iast": "Sudakṣiṇa",
+   "group": "Kamboja",
+   "who": "king of the Kambojas, named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.15"
+  },
+  {
+   "name": "Rukmini",
+   "iast": "Rukmiṇī",
+   "group": "Vrishni",
+   "who": "mother of a son of Krishna's line named at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.16"
+  },
+  {
+   "name": "Samba",
+   "iast": "Sāmba",
+   "group": "Vrishni",
+   "who": "a Vrishni named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.16-18"
+  },
+  {
+   "name": "Charudeshna",
+   "iast": "Cārudeṣṇa",
+   "group": "Vrishni",
+   "who": "a Vrishni named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.16-18"
+  },
+  {
+   "name": "Sarana",
+   "iast": "Sāraṇa",
+   "group": "Vrishni",
+   "who": "a Vrishni named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.16-18"
+  },
+  {
+   "name": "Gada",
+   "iast": "Gada",
+   "group": "Vrishni",
+   "who": "a Vrishni named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.16-18"
+  },
+  {
+   "name": "Akrura",
+   "iast": "Akrūra",
+   "group": "Vrishni",
+   "who": "a Vrishni named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.16-18"
+  },
+  {
+   "name": "Uddhava",
+   "iast": "Uddhava",
+   "group": "Vrishni",
+   "who": "a Vrishni named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.16-18"
+  },
+  {
+   "name": "Prithu",
+   "iast": "Pṛthu",
+   "group": "Vrishni",
+   "who": "a Vrishni named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.16-18"
+  },
+  {
+   "name": "Viprithu",
+   "iast": "Vipṛthu",
+   "group": "Vrishni",
+   "who": "a Vrishni named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.16-18"
+  },
+  {
+   "name": "Viduratha",
+   "iast": "Vidūratha",
+   "group": "Vrishni",
+   "who": "a Vrishni named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.16-18"
+  },
+  {
+   "name": "Kanka",
+   "iast": "Kaṅka",
+   "group": "Vrishni",
+   "who": "a Vrishni named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.16-18"
+  },
+  {
+   "name": "Samika",
+   "iast": "Samīka",
+   "group": "Vrishni",
+   "who": "a Vrishni named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.16-18"
+  },
+  {
+   "name": "Saramejaya",
+   "iast": "Sāramejaya",
+   "group": "Vrishni",
+   "who": "a Vrishni named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.16-18"
+  },
+  {
+   "name": "Vatapati",
+   "iast": "Vātapati",
+   "group": "Vrishni",
+   "who": "a Vrishni named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.16-18"
+  },
+  {
+   "name": "Jhilli",
+   "iast": "Jhillī",
+   "group": "Vrishni",
+   "who": "a Vrishni named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.16-18"
+  },
+  {
+   "name": "Pindaraka",
+   "iast": "Piṇḍāraka",
+   "group": "Vrishni",
+   "who": "a Vrishni named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.16-18"
+  },
+  {
+   "name": "Ushinara",
+   "iast": "Uśīnara",
+   "group": "Vrishni",
+   "who": "a Vrishni named among the suitors at Draupadi's bridegroom choice; also the name of Shibi's father",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.16-18"
+  },
+  {
+   "name": "Hridika",
+   "iast": "Hṛdika",
+   "group": "Vrishni",
+   "who": "father of Kritavarma",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.17"
+  },
+  {
+   "name": "Bahlika",
+   "iast": "Bāhlika",
+   "group": "Suitor",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.19"
+  },
+  {
+   "name": "Uluka",
+   "iast": "Ulūka",
+   "group": "Gandhara",
+   "who": "son of Shakuni (\"son of the gambler\")",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.177.20"
+  },
+  {
+   "name": "Rohini",
+   "iast": "Rohiṇī",
+   "group": "Vrishni",
+   "who": "mother of Balarama",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.183.2"
+  },
+  {
+   "name": "Devaki",
+   "iast": "Devakī",
+   "group": "Vrishni",
+   "who": "mother of Krishna",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.181.29"
   }
  ],
  "not_vyasa": [
