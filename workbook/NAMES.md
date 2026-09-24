@@ -98,10 +98,12 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Bali** | Bali | king who rescued Dirghatamas from the Ganga and had him father sons on his queen (not the asura Bali) |  |  |  |
 | **Bharata** | Bharata | son of Dushyanta and Shakuntala, first called Sarvadamana; the emperor from whom the Bharatas take their name | Sarvadamana |  |  |
 | **Darva** | Dārva | lord of Magadha killed at Rajagriha in Pandu's campaign (vulgate 'Dirgha') |  |  | Dhirga |
+| **Dasharatha** | Daśaratha | father of Rama of Ayodhya ("Rama, Dasharatha's son", 1.197.6) |  |  |  |
 | **Devaka** | Devaka | king whose daughter by a shudra woman married Vidura |  |  |  |
 | **Druhyu** | Druhyu | Yayati's son by Sharmishtha |  |  |  |
 | **Dushyanta** | Duḥṣanta | Paurava king who marries Shakuntala by the gandharva rite and later denies her until a heavenly voice speaks; father of Bharata |  |  | Dushmanta, Dusyanta, Dushyant |
 | **Gadhi** | Gādhi | king of Kanyakubja, Vishvamitra's father |  |  |  |
+| **Gaya** | Gaya | an ancient king, a model of dharma and truthfulness |  |  |  |
 | **Girika** | Girikā | Vasu's wife, daughter of the mountain Kolahala and the river Shuktimati |  |  |  |
 | **Kalmashapada** | Kalmāṣapāda | Ikshvaku king cursed by Shakti to eat men; freed by Vasishtha; father (by Vasishtha) of Ashmaka | Saudasa, Mitrasaha |  |  |
 | **Kritavirya** | Kṛtavīrya | king who enriched the Bhrigus; father of Arjuna Kartavirya |  |  |  |
@@ -153,6 +155,8 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Rukmangada** | Rukmāṅgada | son of Shalya |  |  |  |
 | **Rukmaratha** | Rukmaratha | son of Shalya |  |  |  |
 | **Shalya** | Śalya | king of Madra, Madri's brother |  |  | Salya |
+| **Ambuvicha** | Ambuvīca | an ancient king of Magadha in Karna's tale, who kept his throne though helpless |  |  |  |
+| **Mahakarni** | Mahākarṇi | Ambuvicha's minister, who tried and failed to seize his kingdom |  |  |  |
 | **Meghasandhi** | Meghasaṃdhi | a prince of Magadha, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Matsya** | Matsya | the king born with Satyavati from the fish; founder of the Matsya line |  |  |  |
 | **Shankha** | Śaṅkha | son of Virata |  |  |  |

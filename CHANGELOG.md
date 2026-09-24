@@ -18,6 +18,19 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 81–82 drafted: the council and Indraprastha
+- Ch 81 *The Council* (CE 1.195–197) and Ch 82 *Indraprastha* (1.198–199): Bhishma, Drona,
+  Karna and Vidura advise Dhritarashtra; Vidura's embassy to Drupada; the Pandavas' return
+  to Hastinapura; half the kingdom and Khandavaprastha; the city of Indraprastha built.
+  About 3,300 words. This completes the Viduragamana and Rajyalambha sub-parvas.
+
+### Reference
+- Ledger **L-101**: Vishvakarman building Indraprastha is only in rejected passages; in the
+  CE the Pandavas lay out the city with Vyasa at their head (1.199.28).
+
+### Workbook
+- `names.json`: +4 (Ambuvicha, Mahakarni, Gaya, Dasharatha).
+
 ### Novel: Book 1, chapters 79–80 drafted: the wedding, and the news at Hastinapura
 - Ch 79 *The Wedding* (CE 1.190–191) and Ch 80 *Good Fortune* (1.192–194): Drupada consents;
   Dhaumya weds Draupadi to each brother on successive days; Drupada's and Krishna's gifts;

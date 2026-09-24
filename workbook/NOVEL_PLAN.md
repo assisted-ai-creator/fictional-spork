@@ -164,7 +164,9 @@ against the CE when the Book is drafted.
 | 78 | The Five Indras | 1.189 | ✅ drafted. Yama's sacrifice; Indra humbled; the five Indras and Śrī; the two hairs; divine sight; the five-times boon (L-97, L-98). |
 | 79 | The Wedding | 1.190–1.191 | ✅ drafted. Drupada consents; five weddings on five days; a virgin again each day (L-99); Kuntī's blessing; Kṛṣṇa's gifts. |
 | 80 | Good Fortune | 1.192–1.194 | ✅ drafted. The kings learn the truth; "Good fortune!" (L-100); Duryodhana's schemes; Karṇa urges war. |
-| 81… | The council and the return | 1.195–1.199 | Bhīṣma, Droṇa and Vidura advise; Vidura's embassy; the return; Khāṇḍavaprastha. |
+| 81 | The Council | 1.195–1.197 | ✅ drafted. Bhīṣma: give half; Droṇa: an embassy; Karṇa's tale of Ambuvīca; Vidura: "where Kṛṣṇa is, there is victory". |
+| 82 | Indraprastha | 1.198–1.199 | ✅ drafted. Vidura's embassy; the return; half the kingdom; Khāṇḍavaprastha; the city built (L-101). |
+| 83… | Narada's warning; Arjuna's exile | 1.200–1.212 | Sunda and Upasunda; the pact over Draupadī; Arjuna's twelve years; Ulūpī, Citrāṅgadā, Subhadrā. |
 
 ---
 

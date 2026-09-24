@@ -3586,6 +3586,46 @@
    "dialogue": [],
    "flag": [],
    "ref": "1.194.17"
+  },
+  {
+   "name": "Ambuvicha",
+   "iast": "Ambuvīca",
+   "group": "Magadha",
+   "who": "an ancient king of Magadha in Karna's tale, who kept his throne though helpless",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.196.17"
+  },
+  {
+   "name": "Mahakarni",
+   "iast": "Mahākarṇi",
+   "group": "Magadha",
+   "who": "Ambuvicha's minister, who tried and failed to seize his kingdom",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.196.19"
+  },
+  {
+   "name": "Gaya",
+   "iast": "Gaya",
+   "group": "King",
+   "who": "an ancient king, a model of dharma and truthfulness",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.197.6"
+  },
+  {
+   "name": "Dasharatha",
+   "iast": "Daśaratha",
+   "group": "King",
+   "who": "father of Rama of Ayodhya (\"Rama, Dasharatha's son\", 1.197.6)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.197.6"
   }
  ],
  "not_vyasa": [
