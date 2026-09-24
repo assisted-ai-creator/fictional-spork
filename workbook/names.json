@@ -2783,7 +2783,7 @@
    "name": "Virochana",
    "iast": "Virocana",
    "group": "Kaurava",
-   "who": "a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice",
+   "who": "a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice; also the daitya, Prahlada's son, in Vidura's story (2.61.59)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -7573,6 +7573,26 @@
    "dialogue": [],
    "flag": [],
    "ref": "2.42.36"
+  },
+  {
+   "name": "Pratikamin",
+   "iast": "Prātikāmin",
+   "group": "Kuru",
+   "who": "the usher (a suta) sent by Duryodhana to fetch Draupadi",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.60.1"
+  },
+  {
+   "name": "Sudhanvan",
+   "iast": "Sudhanvan",
+   "group": "Brahmin",
+   "who": "son of Angiras, who staked his life against Virochana in Vidura's story",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.61.59"
   }
  ],
  "not_vyasa": [
@@ -7602,7 +7622,7 @@
   },
   {
    "name": "Aravan",
-   "match": "Aravan",
+   "match": "\\bAravan\\b",
    "ledger": "L-37",
    "note": "Tamil form; the epic's Iravan dies in battle"
   },

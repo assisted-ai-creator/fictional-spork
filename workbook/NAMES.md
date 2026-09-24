@@ -30,6 +30,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Lapita** | Lapitā | Mandapala's second mate |  |  |  |
 | **Sarisrikva** | Sārisṛkva | second of the four Sharngaka fledglings |  |  |  |
 | **Stambamitra** | Stambamitra | third of the four Sharngaka fledglings |  |  |  |
+| **Sudhanvan** | Sudhanvan | son of Angiras, who staked his life against Virochana in Vidura's story |  |  |  |
 | **Aida** | Aiḍa | named in Yama's hall (2.8) |  |  |  |
 | **Ajaka** | Ajaka | named in Yama's hall (2.8) |  |  |  |
 | **Alarka** | Alarka | named in Yama's hall (2.8) |  |  |  |
@@ -325,7 +326,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vatavega** | Vātavega | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Vikarna** | Vikarṇa | a son of Dhritarashtra who speaks for Draupadi in the hall |  |  |  |
 | **Vikata** | Vikaṭa | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
-| **Virochana** | Virocana | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Virochana** | Virocana | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice; also the daitya, Prahlada's son, in Vidura's story (2.61.59) |  |  |  |
 | **Vivimshati** | Viviṃśati | one of Dhritarashtra's sons |  |  | Vivinsati |
 | **Yuyutsu** | Yuyutsu | Dhritarashtra's son by a vaishya woman |  |  |  |
 | **Adhiratha** | Adhiratha | the charioteer (suta) who raised Karna |  |  |  |
@@ -427,6 +428,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kripi** | Kṛpī | Kripa's twin sister; Drona's wife |  |  |  |
 | **Pandu** | Pāṇḍu | pale son of Vyasa and Ambalika; king; father of the Pandavas |  |  |  |
 | **Parikshit** | Parikṣit | son of Abhimanyu and Uttara; father of Janamejaya; killed by the snake Takshaka |  |  | Parikshith, Parikshita, Pariksit |
+| **Pratikamin** | Prātikāmin | the usher (a suta) sent by Duryodhana to fetch Draupadi |  |  |  |
 | **Pratipa** | Pratīpa | Kuru king, father of Devapi, Shantanu and Bahlika; Ganga sat on his right thigh | Paryashravas |  |  |
 | **Purumitra** | Purumitra | a player at the dice game, on the Kaurava side |  |  |  |
 | **Samvarana** | Saṃvaraṇa | son of Riksha, king of the Bharatas, husband of Tapati, father of Kuru |  |  |  |

@@ -239,8 +239,8 @@ drafting. It is refined while drafting.
 | 16 | The Tribute | 2.46–2.49 | ✅ drafted. The CE's second telling; Dhṛtarāṣṭra urges restraint; the pools and the door (L-17); the tribute of every quarter; the consecration. |
 | 17 | The Invitation | 2.50–2.53 | ✅ drafted. Duryodhana's policy of kings; the hall built (doublet of 2.45); Vidura sent; "Once challenged, I never turn back"; the first throw. |
 | 18 | The Game | 2.54–2.58 | ✅ drafted. The stakes and "Won!" (L-116); Vidura's warnings and Duryodhana's abuse; the brothers and himself lost; Draupadi staked at Śakuni's prompting (L-117). |
-| 19 | The Wager | 2.59–2.60 | Draupadī staked and lost; Prātikāmin; Duḥśāsana drags her in. |
-| 20 | The Question | 2.61–2.62 | Draupadī's question; Vikarṇa; Karṇa; the disrobing. |
+| 19 | The Wager | 2.59–2.60 | ✅ drafted. Vidura: "she was staked by a king who was not his own master"; Prātikāmin; "Whom did you lose first?"; Duḥśāsana drags her in; Bhīṣma cannot answer (L-118). |
+| 20 | The Question | 2.61–2.62 | ✅ drafted. Bhīma and Arjuna; Vikarṇa's answer; Karṇa's reply; the garments (L-19); Bhīma's oath (L-20); Prahlāda and Sudhanvan; Bhīṣma defers to Yudhiṣṭhira; Bhīma held by dharma. |
 | 21 | Draupadi's Boons | 2.63–2.65 | The omens; Dhṛtarāṣṭra's boons; the return. |
 | 22 | The Second Game | 2.66–2.72 | The recall; the exile staked and lost; the departure; Vidura and Dhṛtarāṣṭra. |
 

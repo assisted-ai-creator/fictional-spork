@@ -18,6 +18,23 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 2, chapters 19–20 drafted: the wager and the question
+- Ch 19 *The Wager* (CE 2.59–60) and Ch 20 *The Question* (2.61–62): Vidura's warning that
+  Draupadi was staked by a king who no longer owned himself; the usher Pratikamin and
+  Draupadi's question; Duhshasana drags her into the hall by the hair; her appeal to the
+  elders and Bhishma's "dharma is subtle"; Vikarna's answer and Karna's reply; the garments
+  that appear again and again, given plainly, with no cause named; Bhima's oath; Vidura's tale
+  of Prahlada, Sudhanvan and Kashyapa; Duryodhana's challenge and Bhima's answer. About 4,800
+  words.
+
+### Reference
+- Ledger **L-118**: "It is no assembly where there are no elders" is a rejected line in the dice
+  scene (\*540); the CE gives the verse to Vidura in Book 5 (5.35.49).
+
+### Tools and workbook
+- `names.json`: the watch-list pattern for "Aravan" now matches the whole word only, so
+  "caravan" is no longer flagged. +2 names (Pratikamin, Sudhanvan); Virochana extended.
+
 ### Novel: Book 2, chapters 17–18 drafted: the invitation and the game
 - Ch 17 *The Invitation* (CE 2.50–53) and Ch 18 *The Game* (2.54–58): Dhritarashtra's plea and
   Duryodhana's policy of kings; Shakuni's bow of dice; the hall built; Vidura sent to invite
