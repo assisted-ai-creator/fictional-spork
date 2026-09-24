@@ -258,9 +258,9 @@ are refined while drafting.
 | 3 | Maitreya's Curse | 3.8–3.11 | ✅ drafted. Karṇa's plan stopped by Vyāsa; Surabhi and Indra; Maitreya's curse (L-29). |
 | 4 | Kirmira | 3.12 | ✅ drafted. Vidura's telling: Kirmīra blocks the way; Dhaumya's spells; Bhīma kills him. |
 | 5 | Krishna in the Forest | 3.13 | ✅ drafted. Arjuna recites Kṛṣṇa's deeds; Nara and Nārāyaṇa; Draupadī's lament; "you will be queen of kings". |
-| 6 | Shalva's Attack | 3.14–3.17 | Why Kṛṣṇa was absent: Śālva's siege of Dvārakā. |
-| 7 | Pradyumna | 3.18–3.20 | Pradyumna fights Śālva; his charioteer. |
-| 8 | The Flying City | 3.21–3.23 | Kṛṣṇa destroys Saubha and Śālva; he leaves the Pāṇḍavas. |
+| 6 | Shalva's Attack | 3.14–3.17 | ✅ drafted. "If I had been in Dvārakā"; Śālva's raid; the defences of Dvārakā; Sāmba and Cārudeṣṇa. |
+| 7 | Pradyumna | 3.18–3.20 | ✅ drafted. Pradyumna and Śālva; the charioteer rebuked; the arrow withheld by Nārada and the Wind. |
+| 8 | The Flying City | 3.21–3.23 | ✅ drafted. The battle over the ocean; the false message and the illusion of Vasudeva's fall; Sudarśana; the allies leave. |
 | 9 | Dvaitavana | 3.24–3.27 | The move to Dvaitavana; the brahmins; Mārkaṇḍeya and Baka Dālbhya. |
 | 10 | Draupadi's Anger | 3.28–3.30 | Draupadī urges war; Prahlāda and Bali on forgiveness and force; Yudhiṣṭhira on anger. |
 | 11 | Draupadi and the Creator | 3.31–3.33 | Draupadī blames the Creator; Yudhiṣṭhira's reply; Draupadī on action. |

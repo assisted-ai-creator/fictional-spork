@@ -18,6 +18,19 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 6–8 drafted: Krishna and Shalva
+- Ch 6 *Shalva's Attack* (CE 3.14–17), Ch 7 *Pradyumna* (3.18–20) and Ch 8 *The Flying City*
+  (3.21–23): why Krishna was not at the dicing; Shalva's siege of Dvaraka and its defences;
+  Samba, Charudeshna and Pradyumna in battle; Pradyumna's rebuke to his charioteer and the arrow
+  he was told to withhold; Krishna's battle over the ocean, the false news of his father's death,
+  the illusions, and the destruction of Saubha and Shalva by the discus; the allies go home, and
+  Dhrishtadyumna takes Draupadi's sons. About 6,700 words.
+
+### Workbook
+- `names.json`: +6 (Kshemavriddhi, Vegavat, Vivindhya, Jambavati, Keshin, Virasena); Ahuka
+  added to Ugrasena's names and Shvasana to Vayu's. Shalva's entry now notes that the CE calls
+  both Amba's Shalva and Dvaraka's attacker "lord of Saubha" without saying they are one man.
+
 ### Novel: Book 3, chapters 4–5 drafted: Kirmira and Krishna in the forest
 - Ch 4 *Kirmira* (CE 3.12) and Ch 5 *Krishna in the Forest* (3.13): Vidura's telling of Bhima's
   fight with Kirmira; the allies' visit; Arjuna's recital of Krishna's deeds; Nara and

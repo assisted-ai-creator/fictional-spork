@@ -2,7 +2,7 @@
 
 # Contents
 
-**120 chapters, 236,930 words.** 120 drafted
+**123 chapters, 243,589 words.** 123 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -143,5 +143,8 @@
 | 3 | [Maitreya's Curse](../novel/book-03-aranyaka/03-maitreyas-curse.md) | 3.8-11 | drafted | 2,188 |
 | 4 | [Kirmira](../novel/book-03-aranyaka/04-kirmira.md) | 3.12 | drafted | 1,692 |
 | 5 | [Krishna in the Forest](../novel/book-03-aranyaka/05-krishna-in-the-forest.md) | 3.13 | drafted | 2,614 |
+| 6 | [Shalva's Attack](../novel/book-03-aranyaka/06-shalvas-attack.md) | 3.14-17 | drafted | 2,113 |
+| 7 | [Pradyumna](../novel/book-03-aranyaka/07-pradyumna.md) | 3.18-20 | drafted | 1,959 |
+| 8 | [The Flying City](../novel/book-03-aranyaka/08-the-flying-city.md) | 3.21-23 | drafted | 2,587 |
 
-*Book 3 so far: 12,669 words.*
+*Book 3 so far: 19,328 words.*

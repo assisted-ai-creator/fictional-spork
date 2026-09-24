@@ -249,6 +249,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vivasvat** | Vivasvat | the sun god, father of Yama | Surya, Arka, Ravi |  | Vivaswat, Vivasvan |
 | **Hiranyakashipu** | Hiraṇyakaśipu | a great asura king, ancestor of Nikumbha |  |  | Hiranyakasipu |
 | **Jambha** | Jambha | an asura given up by the great asuras, as Kavya advised |  |  |  |
+| **Keshin** | Keśin | a demon killed by Krishna |  |  |  |
 | **Maya** | Maya | an asura, Namuchi's brother, spared at the burning of Khandava at Arjuna's word |  |  |  |
 | **Muru** | Muru | a demon whose nooses Krishna cut |  |  |  |
 | **Namuchi** | Namuci | an asura slain by Indra; Maya's brother |  |  |  |
@@ -260,6 +261,8 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shambara** | Śambara | an asura killed by Indra |  |  |  |
 | **Sunda** | Sunda | an asura, Upasunda's brother; the two kill each other over Tilottama |  |  |  |
 | **Upasunda** | Upasunda | an asura, Sunda's brother |  |  |  |
+| **Vegavat** | Vegavat | a daitya of Shalva's army, killed by Samba |  |  |  |
+| **Vivindhya** | Vivindhya | a danava of Shalva's army, killed by Charudeshna |  |  |  |
 | **Vritra** | Vṛtra | the demon slain by Indra ("slayer of Vritra") |  |  |  |
 | **Gavalgana** | Gavalgaṇa | the suta, father of Sanjaya |  |  |  |
 | **Lohitaksha** | Lohitākṣa | the red-eyed suta, builder of Janamejaya's place of sacrifice, who foretold that a brahmin would stop the rite |  |  |  |
@@ -285,7 +288,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Nirriti** | Nirṛti | goddess of decay; the south-west is her quarter |  |  |  |
 | **Shiva** | Śiva | the great god; the CE also calls him Hara, Rudra, Mahadeva, Shankara | Hara, Rudra, Mahadeva, Shankara, Ishana, Girisha, Sthanu, Maheshvara, Shambhu |  |  |
 | **Skanda** | Skanda | the war god, called Guha and Kumara; son of Fire, the Krittikas, Rudra and Ganga | Guha, Kumara, Kartikeya, Mahasena |  |  |
-| **Vayu** | Vāyu | the Wind, father of Bhima | Maruta, Pavana |  |  |
+| **Vayu** | Vāyu | the Wind, father of Bhima | Maruta, Pavana, Shvasana |  |  |
 | **Viraj** | Virāj | a cosmic being; Krishna lived with Brahma in his house |  |  |  |
 | **Agni** | Agni | the fire god | Pavaka, Jatavedas, Vibhavasu, Hutashana |  |  |
 | **Akupara** | Akūpāra | king of the tortoises; the base of Mandara at the churning (not called an avatar of Vishnu; see L-64) |  |  |  |
@@ -399,7 +402,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Rita** | Ṛta | a king at the Rajasuya (the reading is uncertain) |  |  |  |
 | **Samgramajit** | Saṃgrāmajit | a king present in Yudhishthira's hall |  |  |  |
 | **Shakuntala** | Śakuntalā | daughter of Vishvamitra and Menaka, raised by Kanva; wife of Dushyanta, mother of Bharata |  |  | Sakuntala, Shakuntalaa |
-| **Shalva** | Śālva | king of the Shalvas and lord of Saubha, whom Amba had chosen; beaten by Bhishma at Varanasi | lord of Saubha |  |  |
+| **Shalva** | Śālva | king of the Shalvas and lord of Saubha, whom Amba had chosen; beaten by Bhishma at Varanasi; a Shalva, lord of Saubha, also attacks Dvaraka and is killed by Krishna (3.15–22). The CE calls both 'lord of Saubha' but does not say they are the same man | lord of Saubha |  |  |
 | **Sharmishtha** | Śarmiṣṭhā | daughter of the asura king Vrishaparvan; Devayani's rival and servant; mother of Druhyu, Anu and Puru |  |  | Sarmishtha, Sharmista |
 | **Shibi** | Śibi | son of Ushinara, a royal seer of unequalled generosity, a grandson of Yayati through his daughter | Aushinara |  | Sibi |
 | **Shrutayudha** | Śrutāyudha | a king present in Yudhishthira's hall |  |  |  |
@@ -415,6 +418,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vapushtama** | Vapuṣṭamā | daughter of Suvarnavarman of Kashi; Janamejaya's wife |  |  |  |
 | **Vasudana** | Vasudāna | a king present in Yudhishthira's hall |  |  |  |
 | **Vasumanas** | Vasumanas | royal seer, son of Rushadashva, a grandson of Yayati through his daughter | Vasumat |  |  |
+| **Virasena** | Vīrasena | father of Nala |  |  |  |
 | **Vivardhana** | Vivardhana | a king present in Yudhishthira's hall |  |  |  |
 | **Vrishaparvan** | Vṛṣaparvan | king of the asuras, Shukra's patron, father of Sharmishtha |  |  | Vrishaparva |
 | **Yadu** | Yadu | Yayati's eldest son, by Devayani; ancestor of the Yadavas |  |  |  |
@@ -638,6 +642,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vyasa** | Vyāsa | Krishna Dvaipayana, son of Parashara and Satyavati; maker of the epic and father of Dhritarashtra, Pandu and Vidura | Krishna Dvaipayana, Dvaipayana, Parasharya | Dvaipayana | Vyas, Ved Vyas |
 | **Yaja** | Yāja | Kashyapa seer who performed Drupada's sacrifice for a son |  |  |  |
 | **Yajnavalkya** | Yājñavalkya | a seer present in Yudhishthira's hall |  |  |  |
+| **Kshemavriddhi** | Kṣemavṛddhi | Shalva's counsellor and army commander, driven off by Samba |  |  |  |
 | **Kritin** | Kṛtin | king of the Shukaras, who brought elephants to the Rajasuya |  |  |  |
 | **Abhibhu** | Abhibhū | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Amshuman** | Aṃśumat | a king named among the suitors at Draupadi's bridegroom choice |  |  | Amshumat |
@@ -693,6 +698,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Devaki** | Devakī | mother of Krishna |  |  |  |
 | **Gada** | Gada | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Hridika** | Hṛdika | father of Kritavarma |  |  |  |
+| **Jambavati** | Jāmbavatī | Krishna's wife, mother of Samba |  |  |  |
 | **Jhilli** | Jhillī | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Kahva** | Kahva | a Vrishni great warrior |  |  |  |
 | **Kanka** | Kaṅka | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
@@ -717,7 +723,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Subhadra** | Subhadrā | Krishna's sister; Arjuna's wife; mother of Abhimanyu |  |  |  |
 | **Sutanu** | Sutanu | Ahuka's daughter, given to Akrura |  |  |  |
 | **Uddhava** | Uddhava | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
-| **Ugrasena** | Ugrasena | king of the Vrishnis |  |  |  |
+| **Ugrasena** | Ugrasena | king of the Vrishnis | Ahuka |  |  |
 | **Ulmuka** | Ulmuka | a son of Balarama |  |  |  |
 | **Ushinara** | Uśīnara | a Vrishni named among the suitors at Draupadi's bridegroom choice; also the name of Shibi's father |  |  |  |
 | **Vatapati** | Vātapati | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |

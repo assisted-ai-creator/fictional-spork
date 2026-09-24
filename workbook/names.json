@@ -1942,7 +1942,7 @@
    "name": "Shalva",
    "iast": "Śālva",
    "group": "King",
-   "who": "king of the Shalvas and lord of Saubha, whom Amba had chosen; beaten by Bhishma at Varanasi",
+   "who": "king of the Shalvas and lord of Saubha, whom Amba had chosen; beaten by Bhishma at Varanasi; a Shalva, lord of Saubha, also attacks Dvaraka and is killed by Krishna (3.15–22). The CE calls both 'lord of Saubha' but does not say they are the same man",
    "aka": [
     "lord of Saubha"
    ],
@@ -2290,7 +2290,8 @@
    "who": "the Wind, father of Bhima",
    "aka": [
     "Maruta",
-    "Pavana"
+    "Pavana",
+    "Shvasana"
    ],
    "dialogue": [],
    "flag": [],
@@ -3925,7 +3926,9 @@
    "iast": "Ugrasena",
    "group": "Vrishni",
    "who": "king of the Vrishnis",
-   "aka": [],
+   "aka": [
+    "Ahuka"
+   ],
    "dialogue": [],
    "flag": [],
    "ref": "1.211.8"
@@ -7752,6 +7755,66 @@
    "dialogue": [],
    "flag": [],
    "ref": "3.13.36"
+  },
+  {
+   "name": "Kshemavriddhi",
+   "iast": "Kṣemavṛddhi",
+   "group": "Shalva",
+   "who": "Shalva's counsellor and army commander, driven off by Samba",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.17.11"
+  },
+  {
+   "name": "Vegavat",
+   "iast": "Vegavat",
+   "group": "Demon",
+   "who": "a daitya of Shalva's army, killed by Samba",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.17.17"
+  },
+  {
+   "name": "Vivindhya",
+   "iast": "Vivindhya",
+   "group": "Demon",
+   "who": "a danava of Shalva's army, killed by Charudeshna",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.17.22"
+  },
+  {
+   "name": "Jambavati",
+   "iast": "Jāmbavatī",
+   "group": "Vrishni",
+   "who": "Krishna's wife, mother of Samba",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.17.12"
+  },
+  {
+   "name": "Keshin",
+   "iast": "Keśin",
+   "group": "Demon",
+   "who": "a demon killed by Krishna",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.15.10"
+  },
+  {
+   "name": "Virasena",
+   "iast": "Vīrasena",
+   "group": "King",
+   "who": "father of Nala",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.14.5"
   }
  ],
  "not_vyasa": [
