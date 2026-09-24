@@ -437,7 +437,7 @@
    "name": "Sahadeva",
    "iast": "Sahadeva",
    "group": "Pandava",
-   "who": "younger of Madri's twin sons, by the Ashvins",
+   "who": "younger of Madri's twin sons, by the Ashvins; also the name of Jarasandha's son, consecrated king of Magadha by Krishna (2.20.29; 2.22.39)",
    "aka": [],
    "dialogue": [],
    "flag": [
@@ -7208,6 +7208,56 @@
     "Sisupala"
    ],
    "ref": "2.4.25"
+  },
+  {
+   "name": "Dambhodbhava",
+   "iast": "Dambhodbhava",
+   "group": "King",
+   "who": "a proud king of old who perished with his army",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.20.22"
+  },
+  {
+   "name": "Arbuda",
+   "iast": "Arbuda",
+   "group": "Naga",
+   "who": "a snake of Magadha",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.19.9"
+  },
+  {
+   "name": "Shakravapi",
+   "iast": "Śakravāpin",
+   "group": "Naga",
+   "who": "a snake of Magadha",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.19.9"
+  },
+  {
+   "name": "Svastika",
+   "iast": "Svastika",
+   "group": "Naga",
+   "who": "a snake of Magadha",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.19.9"
+  },
+  {
+   "name": "Mani",
+   "iast": "Maṇi",
+   "group": "Naga",
+   "who": "a snake of Magadha, for whose sake the clouds never leave it",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.19.9"
   }
  ],
  "not_vyasa": [

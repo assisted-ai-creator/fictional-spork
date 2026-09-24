@@ -2,7 +2,7 @@
 
 # Contents
 
-**98 chapters, 183,458 words.** 98 drafted
+**100 chapters, 187,618 words.** 100 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -114,5 +114,7 @@
 | 4 | [Pandu's Message](../novel/book-02-sabha/04-pandus-message.md) | 2.11 | drafted | 1,625 |
 | 5 | [Krishna's Counsel](../novel/book-02-sabha/05-krishnas-counsel.md) | 2.12-15 | drafted | 3,342 |
 | 6 | [Jara](../novel/book-02-sabha/06-jara.md) | 2.16-17 | drafted | 1,801 |
+| 7 | [Girivraja](../novel/book-02-sabha/07-girivraja.md) | 2.18-20 | drafted | 2,483 |
+| 8 | [The Wrestling Match](../novel/book-02-sabha/08-the-wrestling-match.md) | 2.21-22 | drafted | 1,677 |
 
-*Book 2 so far: 14,732 words.*
+*Book 2 so far: 18,892 words.*

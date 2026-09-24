@@ -18,6 +18,21 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 2, chapters 7–8 drafted: the death of Jarasandha
+- Ch 7 *Girivraja* (CE 2.18–20) and Ch 8 *The Wrestling Match* (2.21–22): Krishna, Bhima and
+  Arjuna go to Magadha as brahmin graduates, break the drums and the peak of Chaityaka, and
+  challenge Jarasandha; Bhima wrestles him for fourteen days and kills him; the captive kings are
+  freed; Jarasandha's son Sahadeva is consecrated. About 4,150 words. The Book 2 plan now has
+  20 chapters.
+
+### Reference
+- Ledger **L-110**: Jarasandha torn in two, and Krishna's reed, are not in the CE. Bhima whirls
+  him and breaks him (2.22.5–6).
+
+### Workbook
+- `names.json`: +5 (Dambhodbhava and the snakes of Magadha); Sahadeva's entry notes
+  Jarasandha's son of the same name.
+
 ### Novel: Book 2, chapters 5–6 drafted: Jarasandha
 - Ch 5 *Krishna's Counsel* (CE 2.12–15) and Ch 6 *Jara* (2.16–17): Yudhishthira weighs the
   Rajasuya and sends for Krishna; Krishna's account of the kshatriya lines, of Jarasandha's

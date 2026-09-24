@@ -335,6 +335,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Bhimaratha** | Bhīmaratha | a king present in Yudhishthira's hall |  |  |  |
 | **Bhishmaka** | Bhīṣmaka | a king present in Yudhishthira's hall |  |  |  |
 | **Chanura** | Cāṇūra | a king present in Yudhishthira's hall |  |  |  |
+| **Dambhodbhava** | Dambhodbhava | a proud king of old who perished with his army |  |  |  |
 | **Darva** | Dārva | lord of Magadha killed at Rajagriha in Pandu's campaign (vulgate 'Dirgha') |  |  | Dhirga |
 | **Dasharatha** | Daśaratha | father of Rama of Ayodhya ("Rama, Dasharatha's son", 1.197.6) |  |  |  |
 | **Devaka** | Devaka | king whose daughter by a shudra woman married Vidura |  |  |  |
@@ -435,10 +436,14 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Uttara** | Uttara | son of Virata |  |  |  |
 | **Virata** | Virāṭa | king of the Matsyas, host of the Pandavas' year in hiding |  |  | Viraat |
 | **Airavata** | Airāvata | a chief naga, brother of Vasuki (not the elephant of the same name) |  |  |  |
+| **Arbuda** | Arbuda | a snake of Magadha |  |  |  |
 | **Ashvasena** | Aśvasena | Takshaka's son, who escapes the burning of Khandava and is cursed by Arjuna, Agni and Krishna |  |  |  |
 | **Elapatra** | Elāpatra | the snake who remembers Brahma's words and counsels Vasuki to give his sister to Jaratkaru |  |  |  |
 | **Kauravya** | Kauravya | a snake of Airavata's line, Ulupi's father |  |  |  |
+| **Mani** | Maṇi | a snake of Magadha, for whose sake the clouds never leave it |  |  |  |
+| **Shakravapi** | Śakravāpin | a snake of Magadha |  |  |  |
 | **Shesha** | Śeṣa | eldest of the snakes; leaves his brothers for austerity and holds up the earth at Brahma's command | Ananta |  | Sesha, Seshanaga |
+| **Svastika** | Svastika | a snake of Magadha |  |  |  |
 | **Takshaka** | Takṣaka | the snake king who kills Parikshit |  |  | Taksaka |
 | **Ulupi** | Ulūpī | daughter of the snake Kauravya; she draws Arjuna into the snake world at Gangadvara |  |  |  |
 | **Vasuki** | Vāsuki | king of the snakes; the rope at the churning; gives his sister Jaratkaru to the seer Jaratkaru |  |  |  |
@@ -462,7 +467,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Madri** | Mādrī | princess of Madra, Shalya's sister; Pandu's second wife; mother of Nakula and Sahadeva |  |  |  |
 | **Nakula** | Nakula | elder of Madri's twin sons, by the Ashvins |  |  | Nakul |
 | **Prativindhya** | Prativindhya | son of Draupadi and Yudhishthira |  |  |  |
-| **Sahadeva** | Sahadeva | younger of Madri's twin sons, by the Ashvins |  |  | Sahdev, Sahadev |
+| **Sahadeva** | Sahadeva | younger of Madri's twin sons, by the Ashvins; also the name of Jarasandha's son, consecrated king of Magadha by Krishna (2.20.29; 2.22.39) |  |  | Sahdev, Sahadev |
 | **Shatanika** | Śatānīka | son of Draupadi and Nakula, named after a royal seer of the Kuru line |  |  |  |
 | **Shrutakarman** | Śrutakarman | son of Draupadi and Arjuna | Shrutakarma |  |  |
 | **Shrutasena** | Śrutasena | son of Draupadi and Sahadeva |  |  |  |
