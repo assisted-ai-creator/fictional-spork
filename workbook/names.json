@@ -2444,6 +2444,59 @@
     "Bakasura"
    ],
    "ref": "1.148.3"
+  },
+  {
+   "name": "Yaja",
+   "iast": "Yāja",
+   "group": "Seer",
+   "who": "Kashyapa seer who performed Drupada's sacrifice for a son",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.155.7"
+  },
+  {
+   "name": "Upayaja",
+   "iast": "Upayāja",
+   "group": "Seer",
+   "who": "Yaja's younger brother, who refused Drupada and sent him to Yaja",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.155.7"
+  },
+  {
+   "name": "Prishati",
+   "iast": "Pṛṣatī",
+   "group": "Panchala",
+   "who": "Drupada's queen, mother (by adoption of the fire-born twins) of Dhrishtadyumna and Draupadi",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.155.34"
+  },
+  {
+   "name": "Angaraparna",
+   "iast": "Aṅgāraparṇa",
+   "group": "Gandharva",
+   "who": "gandharva king beaten by Arjuna at the Ganga; renamed Chitraratha, then Dagdharatha",
+   "aka": [
+    "Chitraratha",
+    "Dagdharatha"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.158.12"
+  },
+  {
+   "name": "Kumbhinasi",
+   "iast": "Kumbhīnasī",
+   "group": "Gandharva",
+   "who": "Angaraparna's wife, who begged Yudhishthira for his life",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.158.31"
   }
  ],
  "not_vyasa": [

@@ -148,7 +148,9 @@ against the CE when the Book is drafted.
 | 62 | The Brahmin's House | 1.145–1.146 | ✅ drafted. Life by alms; the brahmin's lament; his wife's argument. |
 | 63 | Kunti's Offer | 1.147–1.149 | ✅ drafted. The daughter and the little boy; Baka's toll; Kuntī offers a son. |
 | 64 | Baka | 1.150–1.152 | ✅ drafted. Yudhiṣṭhira's protest; Bhīma eats the meal and breaks Baka; the secret kept (L-91). |
-| 65… | Draupadī's birth and the svayaṃvara | 1.153–1.189 | The brahmin's tale of Draupadī and Dhṛṣṭadyumna; the journey to Pāñcāla; the gandharva Aṅgāraparṇa; the svayaṃvara. |
+| 65 | Born of the Fire | 1.153–1.156 | ✅ drafted. The brahmin's tale; Yāja's sacrifice; Dhṛṣṭadyumna and Kṛṣṇā born; Kuntī proposes Pāñcāla (L-92). |
+| 66 | Angaraparna | 1.157–1.158 | ✅ drafted. Vyāsa's tale of the five-times boon; the gandharva at the Gaṅgā (L-93). |
+| 67… | The gandharva's tales and the svayaṃvara | 1.159–1.189 | Tapatī; Vasiṣṭha and Viśvāmitra; Kalmāṣapāda; Aurva; Dhaumya; the svayaṃvara; the five husbands. |
 
 ---
 

@@ -18,6 +18,22 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 65–66 drafted: Draupadi's birth and the gandharva
+- Ch 65 *Born of the Fire* (CE 1.153–156) and Ch 66 *Angaraparna* (1.157–158): the
+  travelling brahmin's tale of Drona, Drupada and Yaja's sacrifice; the births of
+  Dhrishtadyumna and Krishna; Vyasa's tale of the five-times boon; Arjuna defeats
+  the gandharva Angaraparna at the Ganga. About 3,900 words.
+
+### Reference
+- Ledger **L-92**: Drupada's sacrifice asks only for a son to kill Drona; the wish
+  for Arjuna as son-in-law is a later addition there (CE mentions it first at
+  1.176.8).
+- Ledger **L-93**: Draupadi's former life is CE (1.157, 1.189), but the name
+  "Nalayani" is not.
+
+### Workbook
+- `names.json`: +5 (Yaja, Upayaja, Prishati, Angaraparna, Kumbhinasi).
+
 ### Novel: Book 1, chapters 62–64 drafted: Ekachakra and Baka
 - Ch 62 *The Brahmin's House* (CE 1.145–146), Ch 63 *Kunti's Offer* (1.147–149)
   and Ch 64 *Baka* (1.150–152): life by alms in Ekachakra; the brahmin family's

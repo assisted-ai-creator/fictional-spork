@@ -19,6 +19,8 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vaishampayana** | Vaiśaṃpāyana | Vyasa's pupil, who tells the epic to Janamejaya |  |  | Vaisampayana, Vaishampayan |
 | **Shakuni** | Śakuni | Gandhari's brother, son of Subala; the dice player | Saubala | Saubala | Sakuni, Shakunee |
 | **Subala** | Subala | king of Gandhara, father of Gandhari and Shakuni |  |  |  |
+| **Angaraparna** | Aṅgāraparṇa | gandharva king beaten by Arjuna at the Ganga; renamed Chitraratha, then Dagdharatha | Chitraratha, Dagdharatha |  |  |
+| **Kumbhinasi** | Kumbhīnasī | Angaraparna's wife, who begged Yudhishthira for his life |  |  |  |
 | **Tumburu** | Tumburu | chief singer among the gandharvas |  |  |  |
 | **Vishvavasu** | Viśvāvasu | king of the gandharvas, father of Pramadvara |  |  |  |
 | **Ashvins** | Aśvinau | the twin gods, fathers of Nakula and Sahadeva | Nasatya, Dasra |  |  |
@@ -130,6 +132,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Dhrishtadyumna** | Dhṛṣṭadyumna | Drupada's son, born from the sacrificial fire to kill Drona | Parshata |  | Dhristadyumna, Drishtadyumna |
 | **Drupada** | Drupada | king of the Panchalas, Drona's childhood friend and enemy | Yajnasena |  |  |
 | **Prishata** | Pṛṣata | king of the Panchalas, Bharadvaja's friend, Drupada's father |  |  |  |
+| **Prishati** | Pṛṣatī | Drupada's queen, mother (by adoption of the fire-born twins) of Dhrishtadyumna and Draupadi |  |  |  |
 | **Shikhandi** | Śikhaṇḍin | Drupada's child, born a daughter, who became a man; Amba reborn | Shikhandini (as a girl) |  | Shikhandin, Sikhandi, Shikhandee |
 | **Abhimanyu** | Abhimanyu | son of Arjuna and Subhadra | Saubhadra |  |  |
 | **Arjuna** | Arjuna | third son of Kunti, by Indra; the great archer | Partha, Dhananjaya, Phalguna, Kiritin, Bibhatsu, Savyasachin, Gudakesha, Jishnu, Vijaya | Partha, Dhananjaya | Arjun |
@@ -191,6 +194,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Supratika** | Supratīka | Vibhavasu's younger brother, who wanted their wealth divided; becomes the elephant |  |  |  |
 | **Uddalaka** | Uddālaka | seer, father of Shvetaketu |  |  |  |
 | **Upamanyu** | Upamanyu | Dhaumya's pupil who praised the Ashvins |  |  |  |
+| **Upayaja** | Upayāja | Yaja's younger brother, who refused Drupada and sent him to Yaja |  |  |  |
 | **Utathya** | Utathya | seer, elder brother of Brihaspati, husband of Mamata |  |  |  |
 | **Uttanka** | Uttaṅka | pupil of Veda who fetches the queen's earrings and urges Janamejaya to take revenge |  |  | Utanka |
 | **Vasishtha** | Vasiṣṭha | the seer, son of Varuna, also called Apava; cursed the Vasus; taught Devavrata the Vedas | Apava |  | Vashishta, Vasistha |
@@ -198,6 +202,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vibhavasu** | Vibhāvasu | an angry seer who curses his brother to become an elephant and is himself cursed to become a tortoise |  |  |  |
 | **Vishvamitra** | Viśvāmitra | a kshatriya who became a brahmin by austerity; father of Shakuntala by Menaka | Kaushika |  | Visvamitra, Viswamitra |
 | **Vyasa** | Vyāsa | Krishna Dvaipayana, son of Parashara and Satyavati; maker of the epic and father of Dhritarashtra, Pandu and Vidura | Krishna Dvaipayana, Dvaipayana, Parasharya | Dvaipayana | Vyas, Ved Vyas |
+| **Yaja** | Yāja | Kashyapa seer who performed Drupada's sacrifice for a son |  |  |  |
 | **Balarama** | Balarāma | Krishna's elder brother, the plough-bearer | Baladeva, Rama, Samkarshana, Halayudha | Baladeva | Balram, Balaram |
 | **Krishna** | Kṛṣṇa | son of Vasudeva and Devaki, of the Vrishni clan; Arjuna's friend and charioteer | Vasudeva, Keshava, Madhava, Govinda, Janardana, Hrishikesha, Madhusudana, Achyuta, Varshneya, Dasharha | Keshava, Madhava, Govinda, Janardana, Vasudeva | Krishn, Krsna |
 | **Kritavarma** | Kṛtavarman | Bhoja/Vrishni warrior who fights for the Kauravas | Hardikya |  | Kritavarman, Kritvarma |

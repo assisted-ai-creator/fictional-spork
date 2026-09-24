@@ -2,7 +2,7 @@
 
 # Contents
 
-**64 chapters, 123,666 words.** 64 drafted
+**66 chapters, 127,596 words.** 66 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -73,5 +73,7 @@
 | 62 | [The Brahmin's House](../novel/book-01-adi/62-the-brahmins-house.md) | 1.145-146 | drafted | 1,739 |
 | 63 | [Kunti's Offer](../novel/book-01-adi/63-kuntis-offer.md) | 1.147-149 | drafted | 1,385 |
 | 64 | [Baka](../novel/book-01-adi/64-baka.md) | 1.150-152 | drafted | 1,478 |
+| 65 | [Born of the Fire](../novel/book-01-adi/65-born-of-the-fire.md) | 1.153-156 | drafted | 2,310 |
+| 66 | [Angaraparna](../novel/book-01-adi/66-angaraparna.md) | 1.157-158 | drafted | 1,620 |
 
-*Book 1 so far: 123,666 words.*
+*Book 1 so far: 127,596 words.*
