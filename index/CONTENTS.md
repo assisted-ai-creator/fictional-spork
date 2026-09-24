@@ -2,7 +2,7 @@
 
 # Contents
 
-**123 chapters, 243,589 words.** 123 drafted
+**125 chapters, 248,745 words.** 125 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -146,5 +146,7 @@
 | 6 | [Shalva's Attack](../novel/book-03-aranyaka/06-shalvas-attack.md) | 3.14-17 | drafted | 2,113 |
 | 7 | [Pradyumna](../novel/book-03-aranyaka/07-pradyumna.md) | 3.18-20 | drafted | 1,959 |
 | 8 | [The Flying City](../novel/book-03-aranyaka/08-the-flying-city.md) | 3.21-23 | drafted | 2,587 |
+| 9 | [Dvaitavana](../novel/book-03-aranyaka/09-dvaitavana.md) | 3.24-27 | drafted | 2,281 |
+| 10 | [Draupadi's Anger](../novel/book-03-aranyaka/10-draupadis-anger.md) | 3.28-30 | drafted | 2,875 |
 
-*Book 3 so far: 19,328 words.*
+*Book 3 so far: 24,484 words.*

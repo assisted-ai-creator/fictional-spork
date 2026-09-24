@@ -18,6 +18,16 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 9–10 drafted: Dvaitavana and Draupadi's anger
+- Ch 9 *Dvaitavana* (CE 3.24–27) and Ch 10 *Draupadi's Anger* (3.28–30): the people of
+  Kurujangala mourn; the move to the lake of Dvaitavana; Markandeya's smile and his memory of
+  Rama; Baka Dalbhya's counsel; Draupadi's challenge, the story of Prahlada and Bali, and
+  Yudhishthira's answer on anger and patience with Kashyapa's verses. About 5,100 words.
+
+### Workbook
+- `names.json`: +16 (Rama Dasharathi and the seers of 3.27.22–24); Dalbhya added to Baka Dalbhya;
+  Bali and Lakshmana extended.
+
 ### Novel: Book 3, chapters 6–8 drafted: Krishna and Shalva
 - Ch 6 *Shalva's Attack* (CE 3.14–17), Ch 7 *Pradyumna* (3.18–20) and Ch 8 *The Flying City*
   (3.21–23): why Krishna was not at the dicing; Shalva's siege of Dvaraka and its defences;

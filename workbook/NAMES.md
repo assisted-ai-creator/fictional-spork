@@ -107,7 +107,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kundaladhara** | Kuṇḍaladhara | named in Varuna's hall (2.9) |  |  |  |
 | **Kushika** | Kuśika | named in Yama's hall (2.8) |  |  |  |
 | **Kustumburu** | Kustumburu | named in Kubera's hall (2.10) |  |  |  |
-| **Lakshmana** | Lakṣmaṇa | named in Yama's hall (2.8) |  |  |  |
+| **Lakshmana** | Lakṣmaṇa | named in Yama's hall (2.8); also Rama's brother, son of Dasharatha (3.26.8) |  |  |  |
 | **Likhita** | Likhita | named in Indra's hall (2.7) |  |  |  |
 | **Madhu** | Madhu | named in Yama's hall (2.8) |  |  |  |
 | **Mahaparshva** | Mahāpārśva | named in Varuna's hall (2.9) |  |  |  |
@@ -312,6 +312,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Yama** | Yama | lord of the dead, also called king of dharma | Dharmaraja, Vaivasvata |  |  |
 | **Sainya** | Sainya | one of Krishna's chariot horses |  |  |  |
 | **Sugriva** | Sugrīva | one of Krishna's chariot horses |  |  |  |
+| **Rama Dasharathi** | Rāma Dāśarathi | son of Dasharatha, who lived in the forest at his father's word; his story is told at 3.257–276 | Dasharathi, Raghava |  |  |
 | **Sudakshina** | Sudakṣiṇa | king of the Kambojas, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Dantavakra** | Dantavakra | a king allied to Jarasandha |  |  |  |
 | **Karusha** | Karūṣa | a king allied to Jarasandha; Shishupala carried off Bhadra of Vaishali for Karusha (2.42.11) |  |  |  |
@@ -356,7 +357,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Arjuna Kartavirya** | Arjuna Kārtavīrya | thousand-armed king of the Haihayas, killed by Rama Jamadagnya; say 'Arjuna, the Haihaya king' to keep him apart from the Pandava | Kartavirya |  |  |
 | **Ashmaka** | Aśmaka | son of Madayanti by Vasishtha |  |  |  |
 | **Ashtaka** | Aṣṭaka | royal seer, a grandson of Yayati through his daughter, who questions and helps save him |  |  |  |
-| **Bali** | Bali | king who rescued Dirghatamas from the Ganga and had him father sons on his queen (not the asura Bali) |  |  |  |
+| **Bali** | Bali | king who rescued Dirghatamas from the Ganga and had him father sons on his queen (not the asura Bali); also Bali, the asura son of Virochana and grandson of Prahlada (3.29) |  |  |  |
 | **Bharata** | Bharata | son of Dushyanta and Shakuntala, first called Sarvadamana; the emperor from whom the Bharatas take their name | Sarvadamana |  |  |
 | **Bhimaratha** | Bhīmaratha | a king present in Yudhishthira's hall |  |  |  |
 | **Bhishmaka** | Bhīṣmaka | a king present in Yudhishthira's hall |  |  |  |
@@ -537,11 +538,12 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Aurva** | Aurva | Bhrigu born from his mother's thigh; his anger became the Mare's Head fire in the sea |  |  |  |
 | **Aushija** | Auśija | a seer present in Yudhishthira's hall |  |  |  |
 | **Babhrumali** | Babhrumālin | a seer present in Yudhishthira's hall |  |  | Babhrumalin |
-| **Baka Dalbhya** | Baka Dālbhya | a seer present in Yudhishthira's hall |  |  |  |
+| **Baka Dalbhya** | Baka Dālbhya | a seer present in Yudhishthira's hall | Dalbhya |  |  |
 | **Balavaka** | Balavāka | a seer present in Yudhishthira's hall |  |  |  |
 | **Bhaluki** | Bhāluki | a seer present in Yudhishthira's hall |  |  |  |
 | **Bharadvaja** | Bharadvāja | seer, Drona's father |  |  |  |
 | **Bhrigu** | Bhṛgu | seer, son of Brahma, ancestor of the Bhargavas (Shaunaka's line) |  |  |  |
+| **Brihadashva** | Bṛhadaśva | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
 | **Chandakaushika** | Caṇḍakauśika | son of Gautama Kakshivat; gives Brihadratha the mango |  |  |  |
 | **Chyavana** | Cyavana | son of Bhrigu, 'the Fallen One' |  |  | Chyavan |
 | **Dadhicha** | Dadhīca | seer from whose bones Indra's thunderbolt was made | Dadhichi |  |  |
@@ -557,6 +559,8 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Ghatajanuka** | Ghaṭajānuka | a seer present in Yudhishthira's hall |  |  |  |
 | **Ghurnika** | Ghūrṇikā | Devayani's maid |  |  |  |
 | **Haribabhru** | Haribabhru | a seer present in Yudhishthira's hall |  |  |  |
+| **Harita** | Hārīta | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
+| **Hotravahana** | Hotravāhana | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
 | **Jaimini** | Jaimini | a seer present in Yudhishthira's hall |  |  |  |
 | **Janghabandhu** | Jaṅghābandhu | a seer present in Yudhishthira's hall |  |  |  |
 | **Jaratkaru** | Jaratkāru | a Yayavara seer of strict vows who marries only a bride of his own name; Astika's father. His wife, Vasuki's sister, has the same name (1.13.34) |  |  | Jaratkaaru, Jaratkara |
@@ -567,6 +571,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kalapa** | Kalāpa | a seer present in Yudhishthira's hall |  |  |  |
 | **Kanva** | Kaṇva | the Kashyapa seer on the Malini who raised Shakuntala | the Kashyapa |  | Kanwa |
 | **Karkara** | Karkara | a seer present in Yudhishthira's hall |  |  |  |
+| **Karnashravas** | Karṇaśravas | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
 | **Kashyapa** | Kāśyapa | lord of creatures, husband of Kadru and Vinata, father of the snakes, Aruna and Garuda (1.14); the same name is borne by the brahmin healer whom Takshaka turns back from saving Parikshit (1.38–39) |  |  |  |
 | **Katha** | Kaṭha | a seer present in Yudhishthira's hall |  |  |  |
 | **Kaundinya** | Kauṇḍinya | a seer present in Yudhishthira's hall |  |  |  |
@@ -574,7 +579,9 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kindama** | Kiṃdama | the sage who, in a deer's form, was shot by Pandu while mating, and cursed him |  |  | Kindam, Kimdama |
 | **Kopavegashravas** | Kopavegaśravas | a seer present in Yudhishthira's hall |  |  |  |
 | **Krisha** | Kṛśa | a seer's son, Shringin's friend, whose teasing provokes the curse |  |  |  |
+| **Kritachetas** | Kṛtacetas | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
 | **Kritashrama** | Kṛtaśrama | a seer present in Yudhishthira's hall |  |  |  |
+| **Lavanashva** | Lavaṇāśva | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
 | **Mahashiras** | Mahāśiras | a seer present in Yudhishthira's hall |  |  |  |
 | **Maitreya** | Maitreya | a seer present in Yudhishthira's hall |  |  |  |
 | **Mamata** | Mamatā | wife of Utathya, mother of Dirghatamas |  |  |  |
@@ -582,6 +589,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Markandeya** | Mārkaṇḍeya | a seer present in Yudhishthira's hall |  |  |  |
 | **Maunjayana** | Mauñjāyana | a seer present in Yudhishthira's hall |  |  |  |
 | **Meru Savarni** | Merusāvarṇi | a seer who taught Yudhishthira on the Himalaya |  |  |  |
+| **Munja** | Muñja | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
 | **Nachiketa** | Nāciketa | a seer present in Yudhishthira's hall |  |  |  |
 | **Narada** | Nārada | the divine seer who wanders the worlds; he warns the Pandavas with the tale of Sunda and Upasunda |  |  | Naarad, Narad |
 | **Paila** | Paila | a seer present in Yudhishthira's hall |  |  |  |
@@ -599,7 +607,10 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Raibhya** | Raibhya | a seer present in Yudhishthira's hall |  |  |  |
 | **Raivata** | Raivata | a seer present in Yudhishthira's hall |  |  |  |
 | **Rama Jamadagnya** | Rāma Jāmadagnya | son of Jamadagni, the Bhrigu warrior-brahmin who destroyed the kshatriyas and made the five lakes of blood; later Bhishma's opponent and Karna's teacher. The CE never calls him 'Parashurama' (ledger L-62): write 'Rama, son of Jamadagni', 'Rama Jamadagnya' or 'Bhargava Rama' | Bhargava Rama, Jamadagnya | Jamadagnya | Parashuram, Parashurama, Parasurama, Parshuram |
+| **Ritavak** | Ṛtavāk | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
+| **Ritavasu** | Ṛtāvasu | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
 | **Ruru** | Ruru | son of Pramati; gives half his life to Pramadvara |  |  |  |
+| **Sahasrapad** | Sahasrapād | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
 | **Sahasrapat** | Sahasrapād | seer cursed to be a dundubha snake |  |  |  |
 | **Sanatana** | Sanātana | a seer present in Yudhishthira's hall |  |  |  |
 | **Sarika** | Sārika | a seer present in Yudhishthira's hall |  |  |  |
@@ -620,16 +631,20 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Somashravas** | Somaśravas | Janamejaya's family priest, son of Shrutashravas by a snake-woman |  |  |  |
 | **Sthulakesha** | Sthūlakeśa | seer who raised Pramadvara |  |  |  |
 | **Sthulashiras** | Sthūlaśiras | a seer present in Yudhishthira's hall |  |  |  |
+| **Sthunakarna** | Sthūṇakarṇa | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
+| **Suhotra** | Suhotra | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
 | **Sumantu** | Sumantu | a seer present in Yudhishthira's hall |  |  |  |
 | **Sumukha** | Sumukha | a seer present in Yudhishthira's hall |  |  |  |
 | **Supratika** | Supratīka | Vibhavasu's younger brother, who wanted their wealth divided; becomes the elephant |  |  |  |
 | **Susaman** | Susāman | the Sama singer at the Rajasuya, of the Dhananjaya family |  |  |  |
 | **Sutyapala** | Sutyapāla | a seer present in Yudhishthira's hall |  |  |  |
+| **Suvak** | Suvāk | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
 | **Tittiri** | Tittiri | a seer present in Yudhishthira's hall |  |  |  |
 | **Traivani** | Traivaṇi | a seer present in Yudhishthira's hall |  |  |  |
 | **Uddalaka** | Uddālaka | seer, father of Shvetaketu |  |  |  |
 | **Upamanyu** | Upamanyu | Dhaumya's pupil who praised the Ashvins |  |  |  |
 | **Upayaja** | Upayāja | Yaja's younger brother, who refused Drupada and sent him to Yaja |  |  |  |
+| **Urdhvaretas** | Ūrdhvaretas | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
 | **Utathya** | Utathya | seer, elder brother of Brihaspati, husband of Mamata |  |  |  |
 | **Uttanka** | Uttaṅka | pupil of Veda who fetches the queen's earrings and urges Janamejaya to take revenge |  |  | Utanka |
 | **Varaha** | Varāha | a seer present in Yudhishthira's hall |  |  |  |
@@ -639,6 +654,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Venujangha** | Veṇujaṅgha | a seer present in Yudhishthira's hall |  |  |  |
 | **Vibhavasu** | Vibhāvasu | an angry seer who curses his brother to become an elephant and is himself cursed to become a tortoise |  |  |  |
 | **Vishvamitra** | Viśvāmitra | a kshatriya who became a brahmin by austerity; father of Shakuntala by Menaka | Kaushika |  | Visvamitra, Viswamitra |
+| **Vrishamitra** | Vṛṣāmitra | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
 | **Vyasa** | Vyāsa | Krishna Dvaipayana, son of Parashara and Satyavati; maker of the epic and father of Dhritarashtra, Pandu and Vidura | Krishna Dvaipayana, Dvaipayana, Parasharya | Dvaipayana | Vyas, Ved Vyas |
 | **Yaja** | Yāja | Kashyapa seer who performed Drupada's sacrifice for a son |  |  |  |
 | **Yajnavalkya** | Yājñavalkya | a seer present in Yudhishthira's hall |  |  |  |
