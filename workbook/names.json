@@ -8766,6 +8766,36 @@
    "dialogue": [],
    "flag": [],
    "ref": "3.121.21"
+  },
+  {
+   "name": "Mada",
+   "iast": "Mada",
+   "group": "Demon",
+   "who": "a monster made by Chyavana to threaten Indra; later divided among drink, women, dice and hunting",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.124.19"
+  },
+  {
+   "name": "Yuvanashva",
+   "iast": "Yuvanāśva",
+   "group": "Ikshvaku",
+   "who": "a king who bore his son Mandhatar from his own side",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.126.5"
+  },
+  {
+   "name": "Jantu",
+   "iast": "Jantu",
+   "group": "King",
+   "who": "Somaka's son, sacrificed and born again as the eldest of a hundred",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.127.4"
   }
  ],
  "not_vyasa": [

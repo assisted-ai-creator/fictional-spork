@@ -2,7 +2,7 @@
 
 # Contents
 
-**152 chapters, 322,328 words.** 152 drafted
+**154 chapters, 326,871 words.** 154 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -175,5 +175,7 @@
 | 35 | [Rishyashringa](../novel/book-03-aranyaka/35-rishyashringa.md) | 3.109-113 | drafted | 2,993 |
 | 36 | [Rama Jamadagnya](../novel/book-03-aranyaka/36-rama-jamadagnya.md) | 3.114-118 | drafted | 2,898 |
 | 37 | [Prabhasa](../novel/book-03-aranyaka/37-prabhasa.md) | 3.119-121 | drafted | 2,157 |
+| 38 | [Chyavana](../novel/book-03-aranyaka/38-chyavana.md) | 3.122-125 | drafted | 2,157 |
+| 39 | [Mandhatar and Jantu](../novel/book-03-aranyaka/39-mandhatar-and-jantu.md) | 3.126-129 | drafted | 2,386 |
 
-*Book 3 so far: 98,067 words.*
+*Book 3 so far: 102,610 words.*

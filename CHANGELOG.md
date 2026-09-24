@@ -18,6 +18,14 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 38–39 drafted: Chyavana; Mandhatar and Jantu
+- Ch 38 *Chyavana* (CE 3.122–125) and Ch 39 *Mandhatar and Jantu* (3.126–129): Chyavana in the ant hill
+  and Sukanya's thorn; the Ashvins make him young and win a share of soma; Indra paralysed and the monster
+  Mada; Yuvanashva's pregnancy and Mandhatar fed on Indra's finger; Somaka's sacrifice of his only son and
+  his choice to share his priest's hell; the Yamuna and the gate of Kurukshetra, where Yudhishthira sees
+  Arjuna from afar. About 4,500 words.
+- Names: Chyavana, Mada, Yuvanashva, Somaka, Jantu, Ambarisha, Nabhaga and Marutta added where missing.
+
 ### Novel: Book 3, chapters 36–37 drafted: Rama Jamadagnya; Prabhasa
 - Ch 36 *Rama Jamadagnya* (CE 3.114–118) and Ch 37 *Prabhasa* (3.119–121): the Kalingas and the altar
   of the earth; Akritavrana's story of Richika, Jamadagni, Renuka and Kartavirya and the kshatriyas

@@ -274,6 +274,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Jambha** | Jambha | an asura given up by the great asuras, as Kavya advised |  |  |  |
 | **Kaleyas** | Kāleya | a host of danavas who followed Vritra and hid in the ocean; also called Kalakeyas |  |  |  |
 | **Keshin** | Keśin | a demon killed by Krishna |  |  |  |
+| **Mada** | Mada | a monster made by Chyavana to threaten Indra; later divided among drink, women, dice and hunting |  |  |  |
 | **Maya** | Maya | an asura, Namuchi's brother, spared at the burning of Khandava at Arjuna's word |  |  |  |
 | **Muka** | Mūka | a son of Diti who took the form of a boar to kill Arjuna and was shot by Arjuna and Shiva together |  |  |  |
 | **Muru** | Muru | a demon whose nooses Krishna cut |  |  |  |
@@ -347,6 +348,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Jivala** | Jīvala | one of Rituparna's charioteers, who serves with Bahuka |  |  |  |
 | **Rama Dasharathi** | Rāma Dāśarathi | son of Dasharatha, who lived in the forest at his father's word; his story is told at 3.257–276 | Dasharathi, Raghava |  |  |
 | **Rituparna** | Ṛtuparṇa | king of Ayodhya, master of dice, whom Nala serves as charioteer; called Bhangasvari, son of Bhangasvara (3.68.2) |  |  |  |
+| **Yuvanashva** | Yuvanāśva | a king who bore his son Mandhatar from his own side |  |  |  |
 | **Sudakshina** | Sudakṣiṇa | king of the Kambojas, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Dantavakra** | Dantavakra | a king allied to Jarasandha |  |  |  |
 | **Karusha** | Karūṣa | a king allied to Jarasandha; Shishupala carried off Bhadra of Vaishali for Karusha (2.42.11) |  |  |  |
@@ -410,6 +412,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Gaya** | Gaya | an ancient king, a model of dharma and truthfulness |  |  |  |
 | **Girika** | Girikā | Vasu's wife, daughter of the mountain Kolahala and the river Shuktimati |  |  |  |
 | **Ikshvaku** | Ikṣvāku | an ancient king, founder of the solar line |  |  |  |
+| **Jantu** | Jantu | Somaka's son, sacrificed and born again as the eldest of a hundred |  |  |  |
 | **Jatasura** | Jaṭāsura | a king present in Yudhishthira's hall |  |  |  |
 | **Kakshasena** | Kakṣasena | a king present in Yudhishthira's hall |  |  |  |
 | **Kalabha** | Kalabha | a king allied to Jarasandha |  |  |  |

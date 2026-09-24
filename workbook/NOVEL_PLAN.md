@@ -290,8 +290,8 @@ are refined while drafting.
 | 35 | Rishyashringa | 3.109–3.113 | ✅ drafted. The silent mountain; Ṛśyaśṛṅga born of a doe; the boat hermitage; the "young ascetic"; the rain; Śāntā (L-129). |
 | 36 | Rama Jamadagnya | 3.114–3.118 | ✅ drafted. The Kaliṅgas and the altar of the earth; Akṛtavraṇa's tale: Ṛcīka, Jamadagni, Reṇukā, Kārtavīrya, the kshatriyas destroyed; Rāma appears; south to Prabhāsa; the Vṛṣṇis come. |
 | 37 | Prabhasa | 3.119–3.121 | ✅ drafted. Balarāma's lament; Sātyaki's call to war and Abhimanyu as regent; Kṛṣṇa and Yudhiṣṭhira hold to the vow; the Payoṣṇī; Gaya's sacrifices; the Narmadā. |
-| 38 | Chyavana | 3.122–3.125 | Cyavana and Sukanyā; the Aśvins; Indra and Mada. |
-| 39 | Mandhatri and Jantu | 3.126–3.129 | Māndhātṛ's birth; Somaka and Jantu; Prajāpati's sacrifice. |
+| 38 | Chyavana | 3.122–3.125 | ✅ drafted. The ant hill and the thorn; Sukanyā given to Cyavana; the Aśvins and the lake; soma for the Aśvins; Mada; the Ārcīka mountain. |
+| 39 | Mandhatar and Jantu | 3.126–3.129 | ✅ drafted. Yuvanāśva drinks the water; Māndhātṛ born and fed on Indra's finger; Somaka sacrifices Jantu and shares his priest's hell; the Yamunā; Yudhiṣṭhira sees Arjuna. |
 | 40 | The Hawk and the Dove | 3.130–3.131 | The holy places; Uśīnara, the hawk and the dove. |
 | 41 | Ashtavakra | 3.132–3.134 | Aṣṭāvakra at Janaka's court; the debate with Bandin. |
 | 42 | Yavakri | 3.135–3.139 | Yavakrī, Raibhya and Bharadvāja; Arvāvasu and Parāvasu. |
