@@ -162,7 +162,9 @@ against the CE when the Book is drafted.
 | 76 | Drupada's Test | 1.185–1.186 | ✅ drafted. Dhṛṣṭadyumna's report; the priest; Yudhiṣṭhira's answer; the goods laid out; the brothers choose weapons. |
 | 77 | One Wife for Five | 1.187–1.188 | ✅ drafted. The Pāṇḍavas revealed; Drupada's objection; Vyāsa hears each view (L-96). |
 | 78 | The Five Indras | 1.189 | ✅ drafted. Yama's sacrifice; Indra humbled; the five Indras and Śrī; the two hairs; divine sight; the five-times boon (L-97, L-98). |
-| 79… | The wedding and after | 1.190–1.199 | The wedding; Kuntī's blessing; news reaches Hastinapura; the council; Vidura's embassy; Indraprastha. |
+| 79 | The Wedding | 1.190–1.191 | ✅ drafted. Drupada consents; five weddings on five days; a virgin again each day (L-99); Kuntī's blessing; Kṛṣṇa's gifts. |
+| 80 | Good Fortune | 1.192–1.194 | ✅ drafted. The kings learn the truth; "Good fortune!" (L-100); Duryodhana's schemes; Karṇa urges war. |
+| 81… | The council and the return | 1.195–1.199 | Bhīṣma, Droṇa and Vidura advise; Vidura's embassy; the return; Khāṇḍavaprastha. |
 
 ---
 

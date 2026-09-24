@@ -18,6 +18,21 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 79–80 drafted: the wedding, and the news at Hastinapura
+- Ch 79 *The Wedding* (CE 1.190–191) and Ch 80 *Good Fortune* (1.192–194): Drupada consents;
+  Dhaumya weds Draupadi to each brother on successive days; Drupada's and Krishna's gifts;
+  Kunti's blessing; the kings learn who the brahmins were; Dhritarashtra's "Good fortune!";
+  Duryodhana's schemes and Karna's call for war. About 2,550 words.
+
+### Reference
+- Ledger **L-99**: Draupadi's restored virginity is CE 1.190.14.
+- Ledger **L-100**: Dhritarashtra's "Good fortune!" is a genuine mistake in the CE (1.192.19);
+  the vulgate makes it a pretence (\*1949).
+
+### Workbook
+- `names.json`: +5 (Svaha, Damayanti, Nala, Arundhati, Paka); Indrani added to Shachi's names
+  and Vaishravana to Kubera's; Bhadra's entry notes Kubera's wife of the same name.
+
 ### Novel: Book 1, chapters 76–78 drafted: the five husbands
 - Ch 76 *Drupada's Test* (CE 1.185–186), Ch 77 *One Wife for Five* (1.187–188) and
   Ch 78 *The Five Indras* (1.189): Dhrishtadyumna's report; the priest's embassy; the goods

@@ -2,7 +2,7 @@
 
 # Contents
 
-**78 chapters, 145,533 words.** 78 drafted
+**80 chapters, 148,068 words.** 80 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -87,5 +87,7 @@
 | 76 | [Drupada's Test](../novel/book-01-adi/76-drupadas-test.md) | 1.185-186 | drafted | 1,218 |
 | 77 | [One Wife for Five](../novel/book-01-adi/77-one-wife-for-five.md) | 1.187-188 | drafted | 1,222 |
 | 78 | [The Five Indras](../novel/book-01-adi/78-the-five-indras.md) | 1.189 | drafted | 1,562 |
+| 79 | [The Wedding](../novel/book-01-adi/79-the-wedding.md) | 1.190-191 | drafted | 965 |
+| 80 | [Good Fortune](../novel/book-01-adi/80-good-fortune.md) | 1.192-194 | drafted | 1,570 |
 
-*Book 1 so far: 145,533 words.*
+*Book 1 so far: 148,068 words.*

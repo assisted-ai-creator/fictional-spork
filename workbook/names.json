@@ -2201,7 +2201,7 @@
    "name": "Bhadra",
    "iast": "Bhadrā",
    "group": "Puru",
-   "who": "Vyushitashva's wife, daughter of Kakshivat",
+   "who": "Vyushitashva's wife, daughter of Kakshivat; also the name of Kubera's wife (1.191.6)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -2212,7 +2212,9 @@
    "iast": "Kubera",
    "group": "God",
    "who": "lord of wealth, whose gardens lie on the northern mountains",
-   "aka": [],
+   "aka": [
+    "Vaishravana"
+   ],
    "dialogue": [],
    "flag": [],
    "ref": "1.111.7"
@@ -3515,7 +3517,9 @@
    "iast": "Śacī",
    "group": "Deity",
    "who": "Indra's wife",
-   "aka": [],
+   "aka": [
+    "Indrani"
+   ],
    "dialogue": [],
    "flag": [],
    "ref": "1.181.18"
@@ -3532,6 +3536,56 @@
     "Vivasvan"
    ],
    "ref": "1.189.1"
+  },
+  {
+   "name": "Svaha",
+   "iast": "Svāhā",
+   "group": "Deity",
+   "who": "wife of Agni, the fire",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.191.5"
+  },
+  {
+   "name": "Damayanti",
+   "iast": "Damayantī",
+   "group": "Nishadha",
+   "who": "Nala's wife, a model of devotion",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.191.5"
+  },
+  {
+   "name": "Nala",
+   "iast": "Nala",
+   "group": "Nishadha",
+   "who": "king of the Nishadhas, Damayanti's husband; his story is told in Book 3",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.191.5"
+  },
+  {
+   "name": "Arundhati",
+   "iast": "Arundhatī",
+   "group": "Seer",
+   "who": "Vasishtha's wife",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.191.6"
+  },
+  {
+   "name": "Paka",
+   "iast": "Pāka",
+   "group": "Demon",
+   "who": "a demon slain by Indra, who is called \"chastiser of Paka\"",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.194.17"
   }
  ],
  "not_vyasa": [
