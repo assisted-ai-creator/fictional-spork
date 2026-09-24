@@ -5782,7 +5782,7 @@
    "name": "Shuchi",
    "iast": "Śuci",
    "group": "Catalogue",
-   "who": "named in Yama's hall (2.8)",
+   "who": "named in Yama's hall (2.8); also the leader of the caravan Damayanti joins (3.61.121)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -6594,7 +6594,7 @@
    "name": "Manibhadra",
    "iast": "Maṇibhadra",
    "group": "Catalogue",
-   "who": "named in Kubera's hall (2.10)",
+   "who": "named in Kubera's hall (2.10); king of the yakshas, invoked by the caravan (3.61.123)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -8253,6 +8253,16 @@
    "dialogue": [],
    "flag": [],
    "ref": "3.57.22"
+  },
+  {
+   "name": "Subahu",
+   "iast": "Subāhu",
+   "group": "Chedi",
+   "who": "king of the Chedis, in whose city Damayanti lives with the queen mother",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.61.125"
   }
  ],
  "not_vyasa": [

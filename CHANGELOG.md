@@ -18,6 +18,15 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 20–21 drafted: the forest; Damayanti alone
+- Ch 20 *The Forest* (CE 3.58–60) and Ch 21 *Damayanti Alone* (3.61): Nala leaves the city; the
+  birds that are the dice; the cut cloth in the rest house; Damayanti's lament, the python and the
+  hunter she kills with a curse; her questions to the tiger, the mountain and the ashoka tree; the
+  hermitage that vanishes; the caravan bound for the Chedis. About 5,100 words.
+- Checked: the saying that truth outweighs a thousand horse sacrifices is a rejected line here
+  (\*259); the CE weighs truth against the four Vedas (3.61.16).
+- Names: Subahu added; Shuchi and Manibhadra notes extended.
+
 ### Novel: Book 3, chapters 18–19 drafted: Nala and Damayanti; the bridegroom choice
 - Ch 18 *Nala and Damayanti* (CE 3.50–53) and Ch 19 *The Bridegroom Choice* (3.54–57): the
   opening of Brihadashva's tale of Nala, told inside his quotation marks as the gandharva's tale

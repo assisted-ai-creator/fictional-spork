@@ -122,7 +122,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Mahaparshva** | Mahāpārśva | named in Varuna's hall (2.9) |  |  |  |
 | **Mahashva** | Mahāśva | named in Yama's hall (2.8) |  |  |  |
 | **Mandhatri** | Māndhātṛ | named in Yama's hall (2.8) |  |  |  |
-| **Manibhadra** | Maṇibhadra | named in Kubera's hall (2.10) |  |  |  |
+| **Manibhadra** | Maṇibhadra | named in Kubera's hall (2.10); king of the yakshas, invoked by the caravan (3.61.123) |  |  |  |
 | **Manthin** | Manthin | named in Indra's hall (2.7) |  |  |  |
 | **Marichi** | Marīci | named in Indra's hall (2.7) |  |  |  |
 | **Marutta** | Marutta | named in Indra's hall (2.7) |  |  |  |
@@ -187,7 +187,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shatyayana** | Śāṭyāyana | named in Indra's hall (2.7) |  |  |  |
 | **Shikhavarta** | Śikhāvarta | named in Kubera's hall (2.10) |  |  |  |
 | **Shonitoda** | Śoṇitoda | named in Kubera's hall (2.10) |  |  |  |
-| **Shuchi** | Śuci | named in Yama's hall (2.8) |  |  |  |
+| **Shuchi** | Śuci | named in Yama's hall (2.8); also the leader of the caravan Damayanti joins (3.61.121) |  |  |  |
 | **Shvetabhadra** | Śvetabhadra | named in Kubera's hall (2.10) |  |  |  |
 | **Somaka** | Somaka | named in Yama's hall (2.8) |  |  |  |
 | **Sudyumna** | Sudyumna | named in Yama's hall (2.8) |  |  |  |
@@ -238,6 +238,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Damaghosha** | Damaghoṣa | king of Chedi, Shishupala's father |  |  |  |
 | **Dhrishtaketu** | Dhṛṣṭaketu | king of the Chedis after Shishupala; ally of the Pandavas |  |  |  |
 | **Shishupala** | Śiśupāla | king of Chedi, Jarasandha's general; killed by Krishna at the Rajasuya | Sunitha |  | Sisupala |
+| **Subahu** | Subāhu | king of the Chedis, in whose city Damayanti lives with the queen mother |  |  |  |
 | **Aditi** | Aditi | mother of the Adityas |  |  |  |
 | **Amsha** | Aṃśa | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
 | **Aryaman** | Aryaman | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |

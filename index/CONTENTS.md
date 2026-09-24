@@ -2,7 +2,7 @@
 
 # Contents
 
-**134 chapters, 271,191 words.** 134 drafted
+**136 chapters, 276,297 words.** 136 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -157,5 +157,7 @@
 | 17 | [Dhritarashtra's Fear](../novel/book-03-aranyaka/17-dhritarashtras-fear.md) | 3.46-49 | drafted | 3,208 |
 | 18 | [Nala and Damayanti](../novel/book-03-aranyaka/18-nala-and-damayanti.md) | 3.50-53 | drafted | 2,302 |
 | 19 | [The Bridegroom Choice](../novel/book-03-aranyaka/19-the-bridegroom-choice.md) | 3.54-57 | drafted | 2,062 |
+| 20 | [The Forest](../novel/book-03-aranyaka/20-the-forest.md) | 3.58-60 | drafted | 2,170 |
+| 21 | [Damayanti Alone](../novel/book-03-aranyaka/21-damayanti-alone.md) | 3.61 | drafted | 2,936 |
 
-*Book 3 so far: 46,930 words.*
+*Book 3 so far: 52,036 words.*

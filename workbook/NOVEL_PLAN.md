@@ -272,8 +272,8 @@ are refined while drafting.
 | 17 | Dhritarashtra's Fear | 3.46–3.49 | ✅ drafted. Dhṛtarāṣṭra's fear; Sañjaya retells Kṛṣṇa's vow (a doublet of 3.13); the forest food; Bhīma's "a day for a year"; Bṛhadaśva comes. |
 | 18 | Nala and Damayanti | 3.50–3.53 | ✅ drafted. Nala and Damayanti; the golden geese (L-122); the gods make Nala their messenger; Damayanti's answer. |
 | 19 | The Bridegroom Choice | 3.54–3.57 | ✅ drafted. The five Nalas and the signs of the gods; the eight boons; Kali and Dvāpara; the game with Puṣkara; the children sent to Vidarbha. |
-| 20 | The Forest | 3.58–3.60 | Nala loses all; he leaves Damayantī in the forest. |
-| 21 | Damayanti Alone | 3.61 | Damayantī's wanderings; the hunter; the ascetics. |
+| 20 | The Forest | 3.58–3.60 | ✅ drafted. "Let Damayanti be the stake"; the birds that are the dice; the roads south; the cut cloth; the python and the hunter. |
+| 21 | Damayanti Alone | 3.61 | ✅ drafted. The wild forest; the tiger, the mountain and the ashoka tree; the vanishing hermitage; the caravan of the Chedis. |
 | 22 | The Caravan | 3.62–3.64 | The caravan; Cedi; Nala and Karkoṭaka; Ṛtuparṇa. |
 | 23 | The Search | 3.65–3.68 | Bhīma's brahmins search; Sudeva; Parṇāda's news. |
 | 24 | The Race to Vidarbha | 3.69–3.72 | Ṛtuparṇa's journey; the dice-lore; Kali leaves Nala; Keśinī sent. |
