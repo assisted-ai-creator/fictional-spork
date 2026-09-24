@@ -8404,6 +8404,46 @@
    "dialogue": [],
    "flag": [],
    "ref": "3.80.73"
+  },
+  {
+   "name": "Ahalya",
+   "iast": "Ahalyā",
+   "group": "Seer",
+   "who": "Gautama's wife, whose lake is a ford in Gautama's forest",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.82.93"
+  },
+  {
+   "name": "Shakambhari",
+   "iast": "Śākambharī",
+   "group": "Deity",
+   "who": "a goddess who lived on vegetables for a thousand divine years",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.82.11"
+  },
+  {
+   "name": "Maninaga",
+   "iast": "Maṇināga",
+   "group": "Naga",
+   "who": "a snake whose ford at Rajagriha protects from poison",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.82.91"
+  },
+  {
+   "name": "Sharabhanga",
+   "iast": "Śarabhaṅga",
+   "group": "Seer",
+   "who": "a seer whose hermitage is in the Dandaka forest",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.83.39"
   }
  ],
  "not_vyasa": [

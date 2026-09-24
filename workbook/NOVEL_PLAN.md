@@ -280,8 +280,8 @@ are refined while drafting.
 | 25 | Nala Returns | 3.73–3.78 | ✅ drafted. Water, fire and flowers; the taste of the meat; the Wind's witness; Nala's own form; Puṣkara spared; the secret of the dice for Yudhiṣṭhira (L-123). |
 | 26 | The Merit of the Fords | 3.79–3.80 | ✅ drafted. The brothers and Draupadī miss Arjuna; Nārada; Pulastya and Bhīṣma at Gaṅgādvāra; who wins the reward of the fords; Puṣkara round the west to the Sarasvatī. |
 | 27 | Kurukshetra | 3.81 | ✅ drafted. Kurukṣetra: the gatekeepers; Rāma's lakes of blood; Maṅkaṇaka's dance; Pṛthūdaka; Saṃnihitī; the Samantapañcaka. |
-| 28 | Pulastya's Fords II | 3.82 | The fords, continued. |
-| 29 | Pulastya's Fords III | 3.83 | The fords, concluded. |
+| 28 | The Road to Gaya | 3.82 | ✅ drafted. The Sarasvatī's source; Śākambharī; Gaṅgādvāra; Naimiṣa; Vārāṇasī (L-125); Gayā and the undying banyan; Rājagṛha; Śālagrāma; the Kauśikī. |
+| 29 | Prayaga | 3.83 | ✅ drafted. The south: Gokarṇa, the Godāvarī, Daṇḍaka, Citrakūṭa; Prayāga; Pulastya's blessing; Nārada sends Yudhiṣṭhira on pilgrimage. |
 | 30 | Dhaumya's Fords | 3.84–3.88 | Dhaumya names the holy places of the four quarters. |
 | 31 | Lomasha | 3.89–3.93 | Lomaśa brings Arjuna's news; the pilgrimage begins; Naimiṣa. |
 | 32 | Agastya and Lopamudra | 3.94–3.97 | Ilvala and Vātāpi; Agastya's marriage; the wealth he begged. |

@@ -18,6 +18,15 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 28–29 drafted: the road to Gaya; Prayaga (Pulastya's fords complete)
+- Ch 28 *The Road to Gaya* (CE 3.82) and Ch 29 *Prayaga* (3.83; the plan's "Pulastya's Fords II–III"
+  renamed) finish Pulastya's account of the fords: the Sarasvati's source, Gangadvara, Naimisha,
+  Varanasi, Gaya and its undying banyan, the east and the south, and Prayaga; Narada sends Yudhishthira
+  on pilgrimage with the seers and Lomasha. About 5,900 words.
+- Checked: the praise of Avimukta (Kashi) is a rejected passage in this list (\*419, \*421); the CE
+  gives Varanasi one verse (3.82.69). New ledger entry L-125.
+- Names: Ahalya, Shakambhari, Maninaga, Samvarta, Sharabhanga, Mahabhisha and Vainya added.
+
 ### Novel: Book 3, chapters 26–27 drafted: the merit of the fords; Kurukshetra
 - Ch 26 *The Merit of the Fords* (CE 3.79–80) and Ch 27 *Kurukshetra* (3.81; the plan's "Pulastya's
   Fords I" renamed): the brothers and Draupadi miss Arjuna; Narada retells Pulastya's teaching to

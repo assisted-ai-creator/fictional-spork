@@ -258,6 +258,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Rati** | Rati | wife of the god of love |  |  |  |
 | **Savitri** | Savitṛ | one of the gods who attack Krishna and Arjuna at Khandava; also a name of the sun (3.3.18) |  |  |  |
 | **Shachi** | Śacī | Indra's wife | Indrani, Paulomi |  |  |
+| **Shakambhari** | Śākambharī | a goddess who lived on vegetables for a thousand divine years |  |  |  |
 | **Soma** | Soma | the moon god, who gave Varuna the bow Gandiva |  |  |  |
 | **Svaha** | Svāhā | wife of Agni, the fire |  |  |  |
 | **Tara** | Tārā | Brihaspati's wife; the gods and daityas fought the war named after her |  |  |  |
@@ -506,6 +507,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Elapatra** | Elāpatra | the snake who remembers Brahma's words and counsels Vasuki to give his sister to Jaratkaru |  |  |  |
 | **Kauravya** | Kauravya | a snake of Airavata's line, Ulupi's father |  |  |  |
 | **Mani** | Maṇi | a snake of Magadha, for whose sake the clouds never leave it |  |  |  |
+| **Maninaga** | Maṇināga | a snake whose ford at Rajagriha protects from poison |  |  |  |
 | **Shakravapi** | Śakravāpin | a snake of Magadha |  |  |  |
 | **Shesha** | Śeṣa | eldest of the snakes; leaves his brothers for austerity and holds up the earth at Brahma's command | Ananta |  | Sesha, Seshanaga |
 | **Svastika** | Svastika | a snake of Magadha |  |  |  |
@@ -556,6 +558,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Adrishyanti** | Adṛśyantī | Shakti's wife, mother of Parashara |  |  |  |
 | **Agastya** | Agastya | seer who hunted during a sacrifice and consecrated the deer to the gods |  |  |  |
 | **Agniveshya** | Agniveśya | sage who received the weapon of Fire from Bharadvaja and taught Drona |  |  |  |
+| **Ahalya** | Ahalyā | Gautama's wife, whose lake is a ford in Gautama's forest |  |  |  |
 | **Animandavya** | Aṇīmāṇḍavya | the seer impaled as a thief who cursed Dharma to be born as Vidura | Mandavya |  | Animandavya Rishi |
 | **Apsuhomya** | Apsuhomya | a seer present in Yudhishthira's hall |  |  |  |
 | **Arundhati** | Arundhatī | Vasishtha's wife |  |  |  |
@@ -654,6 +657,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shalihotra** | Śālihotra | the sage of horse lore |  |  |  |
 | **Shamika** | Śamīka | the silent sage on whose shoulder Parikshit hangs a dead snake; father of Shringin |  |  | Shameek |
 | **Shandilya** | Śāṇḍilya | a seer present in Yudhishthira's hall |  |  |  |
+| **Sharabhanga** | Śarabhaṅga | a seer whose hermitage is in the Dandaka forest |  |  |  |
 | **Sharadvat** | Śaradvat | Gautama's son, the archer-seer, father of Kripa and Kripi | Gautama |  | Saradvan, Sharadvan |
 | **Shikhavan** | Śikhāvat | a seer present in Yudhishthira's hall |  |  | Shikhavat |
 | **Shinivaka** | Śinīvāka | a seer present in Yudhishthira's hall |  |  |  |
