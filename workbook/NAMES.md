@@ -8,15 +8,21 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 |------|------|-----|---------------------------|----------|-------------|
 | **Nandini** | Nandinī | Vasishtha's wish-granting cow (named at 1.165; unnamed in 1.93) |  |  |  |
 | **Adrika** | Adrikā | an apsaras cursed to be a fish in the Yamuna; mother of Satyavati and Matsya |  |  |  |
+| **Budbuda** | Budbudā | one of the five apsarases cursed to be crocodiles and freed by Arjuna |  |  |  |
 | **Ghritachi** | Ghṛtācī | apsaras at whose sight Bharadvaja shed the seed that became Drona |  |  |  |
 | **Jalapadi** | Jālapadī | the divine girl Indra sent to disturb Sharadvat |  |  |  |
+| **Lata** | Latā | one of the five apsarases cursed to be crocodiles and freed by Arjuna |  |  |  |
 | **Menaka** | Menakā | an apsaras; mother of Pramadvara (and, later, of Shakuntala) |  |  |  |
+| **Samichi** | Samīcī | one of the five apsarases cursed to be crocodiles and freed by Arjuna |  |  |  |
+| **Saurabheyi** | Saurabheyī | one of the five apsarases cursed to be crocodiles and freed by Arjuna |  |  |  |
 | **Tilottama** | Tilottamā | the woman Vishvakarman made from every beautiful thing, to divide Sunda and Upasunda |  |  |  |
 | **Urvashi** | Urvaśī | the apsaras, wife of Pururavas |  |  | Urvasi |
+| **Varga** | Vargā | one of the five apsarases cursed to be crocodiles and freed by Arjuna |  |  |  |
 | **Budha** | Budha | the planet Mercury, son of the moon |  |  |  |
 | **Parameshthin** | Parameṣṭhin | "the one who stands highest", a divine being at Brahma's court |  |  |  |
 | **Shachi** | Śacī | Indra's wife | Indrani |  |  |
 | **Svaha** | Svāhā | wife of Agni, the fire |  |  |  |
+| **Uma** | Umā | Shiva's wife, daughter of the king of mountains |  |  |  |
 | **Vishvakarman** | Viśvakarman | the craftsman of the gods |  |  | Vishwakarma, Vishvakarma |
 | **Vivasvat** | Vivasvat | the sun god, father of Yama |  |  | Vivaswat, Vivasvan |
 | **Hiranyakashipu** | Hiraṇyakaśipu | a great asura king, ancestor of Nikumbha |  |  | Hiranyakasipu |
@@ -140,7 +146,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Ashvatthama** | Aśvatthāman | son of Drona and Kripi | Drauni | Drauni | Ashwatthama, Aswatthama, Ashwathama, Ashvathama |
 | **Bhishma** | Bhīṣma | Devavrata, son of Shantanu and Ganga, who vowed never to marry or rule | Devavrata, Gangeya, Shantanava | Gangeya, Devavrata | Bheeshma, Bhisma, Bhishm |
 | **Bhurishravas** | Bhūriśravas | son of Somadatta |  |  |  |
-| **Chitrangada** | Citrāṅgada | elder son of Shantanu and Satyavati (not the Manipur princess Chitrangada) |  |  |  |
+| **Chitrangada** | Citrāṅgada | elder son of Shantanu and Satyavati. The same name belongs to Chitravahana's daughter of Manalura, Arjuna's wife and mother of Babhruvahana (1.207.15), and to a suitor king (1.177.20) |  |  |  |
 | **Devapi** | Devāpi | Pratipa's eldest son, who left for the forest as a boy |  |  |  |
 | **Dhritarashtra** | Dhṛtarāṣṭra | blind elder son of Vyasa and Ambika; father of Duryodhana and his brothers |  |  | Dhritrashtra, Dhritarashtr, Dhrutarashtra |
 | **Drona** | Droṇa | Brahmin master of arms, son of Bharadvaja, born in a pot | Bharadvaja (son of) |  | Dronacharya, Dron |
@@ -166,14 +172,19 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Ambuvicha** | Ambuvīca | an ancient king of Magadha in Karna's tale, who kept his throne though helpless |  |  |  |
 | **Mahakarni** | Mahākarṇi | Ambuvicha's minister, who tried and failed to seize his kingdom |  |  |  |
 | **Meghasandhi** | Meghasaṃdhi | a prince of Magadha, named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Babhruvahana** | Babhruvāhana | son of Arjuna and Chitrangada, heir of Chitravahana's line |  |  |  |
+| **Chitravahana** | Citravāhana | king of Manalura, father of Chitrangada |  |  |  |
+| **Prabhankara** | Prabhaṃkara | an ancestor of Chitravahana, granted one child in each generation by Shiva |  |  |  |
 | **Matsya** | Matsya | the king born with Satyavati from the fish; founder of the Matsya line |  |  |  |
 | **Shankha** | Śaṅkha | son of Virata |  |  |  |
 | **Uttara** | Uttara | son of Virata |  |  |  |
 | **Virata** | Virāṭa | king of the Matsyas, host of the Pandavas' year in hiding |  |  | Viraat |
 | **Airavata** | Airāvata | a chief naga, brother of Vasuki (not the elephant of the same name) |  |  |  |
 | **Elapatra** | Elāpatra | the snake who remembers Brahma's words and counsels Vasuki to give his sister to Jaratkaru |  |  |  |
+| **Kauravya** | Kauravya | a snake of Airavata's line, Ulupi's father |  |  |  |
 | **Shesha** | Śeṣa | eldest of the snakes; leaves his brothers for austerity and holds up the earth at Brahma's command | Ananta |  | Sesha, Seshanaga |
 | **Takshaka** | Takṣaka | the snake king who kills Parikshit |  |  | Taksaka |
+| **Ulupi** | Ulūpī | daughter of the snake Kauravya; she draws Arjuna into the snake world at Gangadvara |  |  |  |
 | **Vasuki** | Vāsuki | king of the snakes; the rope at the churning; gives his sister Jaratkaru to the seer Jaratkaru |  |  |  |
 | **Ekalavya** | Ekalavya | son of the Nishada king Hiranyadhanus; taught himself before a clay Drona and gave his thumb |  |  |  |
 | **Hiranyadhanus** | Hiraṇyadhanus | king of the Nishadas, Ekalavya's father |  |  |  |
@@ -189,7 +200,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Bhima** | Bhīma | second son of Kunti, by Vayu the wind; immensely strong | Bhimasena, Vrikodara | Bhimasena, Vrikodara | Bheem, Bheema, Bhim |
 | **Draupadi** | Draupadī | daughter of Drupada, born from the sacrificial altar; wife of the five Pandavas | Krishnaa, Panchali, Yajnaseni | Panchali | Draupdi, Dropadi |
 | **Ghatotkacha** | Ghaṭotkaca | son of Bhima and the rakshasi Hidimba |  |  | Ghatotkach |
-| **Iravan** | Irāvān (Irāvat) | Arjuna's son by the Naga princess Ulupi; dies in battle (not a self-sacrifice: ledger L-37) | Iravat |  | Aravan, Iravat |
+| **Iravan** | Irāvān (Irāvat) | Arjuna's son by a daughter of the snake king, unnamed in the CE (6.86.6-8; the vulgate makes her Ulupi, ledger L-103); dies in battle (not a self-sacrifice: ledger L-37) | Iravat |  | Aravan, Iravat |
 | **Kunti** | Kuntī | Pritha, daughter of Shura, adopted by Kuntibhoja; Pandu's senior wife; mother of Karna, Yudhishthira, Bhima and Arjuna | Pritha | Pritha | Kunthi |
 | **Madri** | Mādrī | princess of Madra, Shalya's sister; Pandu's second wife; mother of Nakula and Sahadeva |  |  |  |
 | **Nakula** | Nakula | elder of Madri's twin sons, by the Ashvins |  |  | Nakul |

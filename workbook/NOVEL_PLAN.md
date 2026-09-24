@@ -168,7 +168,9 @@ against the CE when the Book is drafted.
 | 82 | Indraprastha | 1.198–1.199 | ✅ drafted. Vidura's embassy; the return; half the kingdom; Khāṇḍavaprastha; the city built (L-101). |
 | 83 | Sunda and Upasunda | 1.200–1.202 | ✅ drafted. Nārada's visit and warning; the asura brothers' austerity, boon and conquest. |
 | 84 | Tilottama | 1.203–1.204 | ✅ drafted. Tilottamā made; Śiva's four faces and Indra's thousand eyes (L-102); the brothers kill each other; the Pāṇḍavas' pact (L-16 revised). |
-| 85… | Arjuna's exile | 1.205–1.212 | The brahmin's cows; Arjuna breaks the pact; Ulūpī; Citrāṅgadā; the five apsarases; Subhadrā. |
+| 85 | The Brahmin's Cows | 1.205–1.206 | ✅ drafted. Arjuna breaks the pact to save a brahmin's cows; exile; Ulūpī (L-103). |
+| 86 | Chitrangada | 1.207–1.209 | ✅ drafted. Pilgrimage east; Citrāṅgadā of Maṇalūra (L-104); the five crocodile apsarases; Babhruvāhana. |
+| 87… | Subhadra | 1.210–1.213 | Prabhāsa and Raivataka; Subhadrā carried off; the return; Abhimanyu and Draupadī's sons. |
 
 ---
 

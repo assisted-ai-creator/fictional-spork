@@ -2,7 +2,7 @@
 
 # Contents
 
-**84 chapters, 154,615 words.** 84 drafted
+**86 chapters, 157,647 words.** 86 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -93,5 +93,7 @@
 | 82 | [Indraprastha](../novel/book-01-adi/82-indraprastha.md) | 1.198-199 | drafted | 1,558 |
 | 83 | [Sunda and Upasunda](../novel/book-01-adi/83-sunda-and-upasunda.md) | 1.200-202 | drafted | 1,872 |
 | 84 | [Tilottama](../novel/book-01-adi/84-tilottama.md) | 1.203-204 | drafted | 1,367 |
+| 85 | [The Brahmin's Cows](../novel/book-01-adi/85-the-brahmins-cows.md) | 1.205-206 | drafted | 1,483 |
+| 86 | [Chitrangada](../novel/book-01-adi/86-chitrangada.md) | 1.207-209 | drafted | 1,549 |
 
-*Book 1 so far: 154,615 words.*
+*Book 1 so far: 157,647 words.*

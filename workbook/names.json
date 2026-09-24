@@ -171,7 +171,7 @@
    "name": "Chitrangada",
    "iast": "Citrāṅgada",
    "group": "Kuru",
-   "who": "elder son of Shantanu and Satyavati (not the Manipur princess Chitrangada)",
+   "who": "elder son of Shantanu and Satyavati. The same name belongs to Chitravahana's daughter of Manalura, Arjuna's wife and mother of Babhruvahana (1.207.15), and to a suitor king (1.177.20)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -814,7 +814,7 @@
    "name": "Iravan",
    "iast": "Irāvān (Irāvat)",
    "group": "Pandava",
-   "who": "Arjuna's son by the Naga princess Ulupi; dies in battle (not a self-sacrifice: ledger L-37)",
+   "who": "Arjuna's son by a daughter of the snake king, unnamed in the CE (6.86.6-8; the vulgate makes her Ulupi, ledger L-103); dies in battle (not a self-sacrifice: ledger L-37)",
    "aka": [
     "Iravat"
    ],
@@ -3726,6 +3726,116 @@
    "dialogue": [],
    "flag": [],
    "ref": "1.203.4"
+  },
+  {
+   "name": "Ulupi",
+   "iast": "Ulūpī",
+   "group": "Naga",
+   "who": "daughter of the snake Kauravya; she draws Arjuna into the snake world at Gangadvara",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.206.13"
+  },
+  {
+   "name": "Kauravya",
+   "iast": "Kauravya",
+   "group": "Naga",
+   "who": "a snake of Airavata's line, Ulupi's father",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.206.14"
+  },
+  {
+   "name": "Chitravahana",
+   "iast": "Citravāhana",
+   "group": "Manalura",
+   "who": "king of Manalura, father of Chitrangada",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.207.14"
+  },
+  {
+   "name": "Prabhankara",
+   "iast": "Prabhaṃkara",
+   "group": "Manalura",
+   "who": "an ancestor of Chitravahana, granted one child in each generation by Shiva",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.207.17"
+  },
+  {
+   "name": "Babhruvahana",
+   "iast": "Babhruvāhana",
+   "group": "Manalura",
+   "who": "son of Arjuna and Chitrangada, heir of Chitravahana's line",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.209.24"
+  },
+  {
+   "name": "Varga",
+   "iast": "Vargā",
+   "group": "Apsaras",
+   "who": "one of the five apsarases cursed to be crocodiles and freed by Arjuna",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.208.19"
+  },
+  {
+   "name": "Saurabheyi",
+   "iast": "Saurabheyī",
+   "group": "Apsaras",
+   "who": "one of the five apsarases cursed to be crocodiles and freed by Arjuna",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.208.19"
+  },
+  {
+   "name": "Samichi",
+   "iast": "Samīcī",
+   "group": "Apsaras",
+   "who": "one of the five apsarases cursed to be crocodiles and freed by Arjuna",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.208.19"
+  },
+  {
+   "name": "Budbuda",
+   "iast": "Budbudā",
+   "group": "Apsaras",
+   "who": "one of the five apsarases cursed to be crocodiles and freed by Arjuna",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.208.19"
+  },
+  {
+   "name": "Lata",
+   "iast": "Latā",
+   "group": "Apsaras",
+   "who": "one of the five apsarases cursed to be crocodiles and freed by Arjuna",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.208.19"
+  },
+  {
+   "name": "Uma",
+   "iast": "Umā",
+   "group": "Deity",
+   "who": "Shiva's wife, daughter of the king of mountains",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.178.4"
   }
  ],
  "not_vyasa": [

@@ -18,6 +18,24 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 85–86 drafted: Arjuna's exile
+- Ch 85 *The Brahmin's Cows* (CE 1.205–206) and Ch 86 *Chitrangada* (1.207–209): Arjuna
+  breaks the pact to save a brahmin's cows and goes into exile; Ulupi at Gangadvara; the
+  pilgrimage east; Chitrangada of Manalura; the five apsarases freed from their crocodile
+  forms; Babhruvahana born. About 3,050 words.
+
+### Reference
+- Ledger **L-103**: in the CE's Adi Parva, Ulupi bears no child; Iravan's mother in Book 6 is
+  an unnamed snake princess (6.86.6–8).
+- Ledger **L-104**: the CE's Adi Parva names Chitrangada's city Manalura; Book 14 uses Manipura.
+  A warrior princess is not in the CE.
+- Ledger **L-16** extended: a second rejected line (\*2023) also has the year-by-year rule.
+
+### Workbook
+- `names.json`: +11 (Ulupi, Kauravya, Chitravahana, Prabhankara, Babhruvahana, the five
+  apsarases Varga, Saurabheyi, Samichi, Budbuda and Lata, and Uma); the entries for Chitrangada
+  and Iravan are corrected.
+
 ### Novel: Book 1, chapters 83–84 drafted: Narada's warning
 - Ch 83 *Sunda and Upasunda* (CE 1.200–202) and Ch 84 *Tilottama* (1.203–204): Narada visits
   Indraprastha and tells the tale of the asura brothers, their boon and conquest; Tilottama is
