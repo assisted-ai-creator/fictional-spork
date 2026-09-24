@@ -2,7 +2,7 @@
 
 # Contents
 
-**61 chapters, 119,064 words.** 61 drafted
+**64 chapters, 123,666 words.** 64 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -70,5 +70,8 @@
 | 59 | [Bhima Keeps Watch](../novel/book-01-adi/59-bhima-keeps-watch.md) | 1.137-138 | drafted | 1,151 |
 | 60 | [Hidimba](../novel/book-01-adi/60-hidimba.md) | 1.139-141 | drafted | 1,656 |
 | 61 | [Ghatotkacha](../novel/book-01-adi/61-ghatotkacha.md) | 1.142-144 | drafted | 1,986 |
+| 62 | [The Brahmin's House](../novel/book-01-adi/62-the-brahmins-house.md) | 1.145-146 | drafted | 1,739 |
+| 63 | [Kunti's Offer](../novel/book-01-adi/63-kuntis-offer.md) | 1.147-149 | drafted | 1,385 |
+| 64 | [Baka](../novel/book-01-adi/64-baka.md) | 1.150-152 | drafted | 1,478 |
 
-*Book 1 so far: 119,064 words.*
+*Book 1 so far: 123,666 words.*

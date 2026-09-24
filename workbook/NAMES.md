@@ -144,6 +144,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Yudhishthira** | Yudhiṣṭhira | eldest son of Kunti, by Dharma; the dharma king | Ajatashatru, Dharmaraja, Kaunteya, Partha | Ajatashatru | Yudhistira, Yudhishtira, Yudhisthira, Yudhishthir, Yudhisthir |
 | **Bhadra** | Bhadrā | Vyushitashva's wife, daughter of Kakshivat |  |  |  |
 | **Vyushitashva** | Vyuṣitāśva | Paurava king whose dead body gave his widow Bhadra seven sons |  |  |  |
+| **Baka** | Baka | man-eating rakshasa near Ekachakra, killed by Bhima |  |  | Bakasura |
 | **Hidimba** | Hiḍimba / Hiḍimbā | a rakshasa brother and sister of the forest. Bhima kills the brother and marries the sister. In English the names collide, so give context until the brother is dead |  |  | Hidimbi, Hidimbaa |
 | **Puloman** | Puloman (Pulomā, m.) | the rakshasa who carries off Bhrigu's wife |  |  |  |
 | **Agastya** | Agastya | seer who hunted during a sacrifice and consecrated the deer to the gods |  |  |  |

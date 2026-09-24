@@ -18,6 +18,19 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 62–64 drafted: Ekachakra and Baka
+- Ch 62 *The Brahmin's House* (CE 1.145–146), Ch 63 *Kunti's Offer* (1.147–149)
+  and Ch 64 *Baka* (1.150–152): life by alms in Ekachakra; the brahmin family's
+  debate over who will go to Baka; Kunti offers Bhima; Yudhishthira's protest;
+  Bhima eats the rakshasa's meal and kills him. About 4,600 words.
+
+### Reference
+- Ledger **L-91**: Baka's dismembering and Bhima's "ten years' meal" are later
+  additions; the eating of Baka's food is CE.
+
+### Workbook
+- `names.json`: +1 (Baka).
+
 ### Novel: Book 1, chapters 59–61 drafted: flight, Hidimba and Ghatotkacha
 - Ch 59 *Bhima Keeps Watch* (CE 1.137–138), Ch 60 *Hidimba* (1.139–141) and Ch 61
   *Ghatotkacha* (1.142–144): the ruins found and the false mourning; Bhima carries

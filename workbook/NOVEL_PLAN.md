@@ -145,7 +145,10 @@ against the CE when the Book is drafted.
 | 59 | Bhima Keeps Watch | 1.137–1.138 | ✅ drafted. The ruins found; Dhṛtarāṣṭra's mourning; the flight south; Bhīma's lament (L-88, L-89). |
 | 60 | Hidimba | 1.139–1.141 | ✅ drafted. The rākṣasa and his sister; her love for Bhīma; the fight begins. |
 | 61 | Ghatotkacha | 1.142–1.144 | ✅ drafted. Hiḍimba killed; Yudhiṣṭhira's terms; Ghaṭotkaca born; Vyāsa sends them to Ekacakrā (L-90). |
-| 62… | Ekacakrā and Baka | 1.145–1.152 | The brahmin's family; Kuntī offers Bhīma; Baka killed. |
+| 62 | The Brahmin's House | 1.145–1.146 | ✅ drafted. Life by alms; the brahmin's lament; his wife's argument. |
+| 63 | Kunti's Offer | 1.147–1.149 | ✅ drafted. The daughter and the little boy; Baka's toll; Kuntī offers a son. |
+| 64 | Baka | 1.150–1.152 | ✅ drafted. Yudhiṣṭhira's protest; Bhīma eats the meal and breaks Baka; the secret kept (L-91). |
+| 65… | Draupadī's birth and the svayaṃvara | 1.153–1.189 | The brahmin's tale of Draupadī and Dhṛṣṭadyumna; the journey to Pāñcāla; the gandharva Aṅgāraparṇa; the svayaṃvara. |
 
 ---
 

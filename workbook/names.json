@@ -2432,6 +2432,18 @@
    "dialogue": [],
    "flag": [],
    "ref": "1.132.2"
+  },
+  {
+   "name": "Baka",
+   "iast": "Baka",
+   "group": "Rakshasa",
+   "who": "man-eating rakshasa near Ekachakra, killed by Bhima",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Bakasura"
+   ],
+   "ref": "1.148.3"
   }
  ],
  "not_vyasa": [
