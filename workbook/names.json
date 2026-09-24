@@ -8544,6 +8544,78 @@
    "dialogue": [],
    "flag": [],
    "ref": "3.93.16"
+  },
+  {
+   "name": "Ilvala",
+   "iast": "Ilvala",
+   "group": "Demon",
+   "who": "a daitya of Manimati who killed brahmins by feeding them his brother Vatapi",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.94.4"
+  },
+  {
+   "name": "Vatapi",
+   "iast": "Vātāpi",
+   "group": "Demon",
+   "who": "Ilvala's younger brother, cooked as a goat and eaten by Agastya",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.94.4"
+  },
+  {
+   "name": "Lopamudra",
+   "iast": "Lopāmudrā",
+   "group": "Seer",
+   "who": "Agastya's wife, made by him and born to the king of Vidarbha",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.94.21"
+  },
+  {
+   "name": "Shrutarvan",
+   "iast": "Śrutarvan",
+   "group": "King",
+   "who": "a king whom Agastya asks for wealth",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.96.1"
+  },
+  {
+   "name": "Dridhasyu",
+   "iast": "Dṛḍhasyu",
+   "group": "Seer",
+   "who": "son of Agastya and Lopamudra, called Idhmavaha",
+   "aka": [
+    "Idhmavaha"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.97.23"
+  },
+  {
+   "name": "Kaleyas",
+   "iast": "Kāleya",
+   "group": "Demon",
+   "who": "a host of danavas who followed Vritra and hid in the ocean; also called Kalakeyas",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.98.3"
+  },
+  {
+   "name": "Tvashtar",
+   "iast": "Tvaṣṭṛ",
+   "group": "God",
+   "who": "the divine craftsman, who made the thunderbolt",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.98.22"
   }
  ],
  "not_vyasa": [

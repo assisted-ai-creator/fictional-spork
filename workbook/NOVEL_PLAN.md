@@ -284,8 +284,8 @@ are refined while drafting.
 | 29 | Prayaga | 3.83 | ✅ drafted. The south: Gokarṇa, the Godāvarī, Daṇḍaka, Citrakūṭa; Prayāga; Pulastya's blessing; Nārada sends Yudhiṣṭhira on pilgrimage. |
 | 30 | Dhaumya's Fords | 3.84–3.88 | ✅ drafted. Yudhiṣṭhira's cloud and fire; the four quarters; Dvāravatī and Kṛṣṇa as eternal dharma; Badarī. |
 | 31 | Lomasha | 3.89–3.93 | ✅ drafted. Lomaśa's news and Indra's word on Karṇa; the followers sent home; the start; why the wicked prosper; Naimiṣa, Prayāga, Gayā. |
-| 32 | Agastya and Lopamudra | 3.94–3.97 | Ilvala and Vātāpi; Agastya's marriage; the wealth he begged. |
-| 33 | Agastya Drinks the Ocean | 3.98–3.103 | Vṛtra and Dadhīca; the Kāleyas; Vindhya; the ocean drunk. |
+| 32 | Agastya and Lopamudra | 3.94–3.97 | ✅ drafted. Ilvala and Vātāpi; the ancestors in the pit; Lopāmudrā; the three kings' balanced accounts; Vātāpi digested (L-126); Dṛḍhasyu. |
+| 33 | Agastya Drinks the Ocean | 3.98–3.103 | ✅ drafted. Dadhīca's bones; Vṛtra killed; the Kāleyas in the ocean; the Vindhya (L-127); the ocean drunk and not given back. |
 | 34 | Bhagiratha | 3.104–3.108 | Sagara's sons; Kapila; Bhagīratha brings down the Gaṅgā. |
 | 35 | Rishyashringa | 3.109–3.113 | Nandā; Kauśikī; Ṛṣyaśṛṅga and the courtesan. |
 | 36 | Rama Jamadagnya | 3.114–3.118 | Kalinga; Rāma Jāmadagnya's story; the southern fords. |

@@ -268,7 +268,9 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vishvakarman** | Viśvakarman | the craftsman of the gods |  |  | Vishwakarma, Vishvakarma |
 | **Vivasvat** | Vivasvat | the sun god, father of Yama | Surya, Arka, Ravi |  | Vivaswat, Vivasvan |
 | **Hiranyakashipu** | Hiraṇyakaśipu | a great asura king, ancestor of Nikumbha |  |  | Hiranyakasipu |
+| **Ilvala** | Ilvala | a daitya of Manimati who killed brahmins by feeding them his brother Vatapi |  |  |  |
 | **Jambha** | Jambha | an asura given up by the great asuras, as Kavya advised |  |  |  |
+| **Kaleyas** | Kāleya | a host of danavas who followed Vritra and hid in the ocean; also called Kalakeyas |  |  |  |
 | **Keshin** | Keśin | a demon killed by Krishna |  |  |  |
 | **Maya** | Maya | an asura, Namuchi's brother, spared at the burning of Khandava at Arjuna's word |  |  |  |
 | **Muka** | Mūka | a son of Diti who took the form of a boar to kill Arjuna and was shot by Arjuna and Shiva together |  |  |  |
@@ -282,6 +284,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shambara** | Śambara | an asura killed by Indra |  |  |  |
 | **Sunda** | Sunda | an asura, Upasunda's brother; the two kill each other over Tilottama |  |  |  |
 | **Upasunda** | Upasunda | an asura, Sunda's brother |  |  |  |
+| **Vatapi** | Vātāpi | Ilvala's younger brother, cooked as a goat and eaten by Agastya |  |  |  |
 | **Vegavat** | Vegavat | a daitya of Shalva's army, killed by Samba |  |  |  |
 | **Vivindhya** | Vivindhya | a danava of Shalva's army, killed by Charudeshna |  |  |  |
 | **Vritra** | Vṛtra | the demon slain by Indra ("slayer of Vritra") |  |  |  |
@@ -312,6 +315,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Nirriti** | Nirṛti | goddess of decay; the south-west is her quarter |  |  |  |
 | **Shiva** | Śiva | the great god; the CE also calls him Hara, Rudra, Mahadeva, Shankara | Hara, Rudra, Mahadeva, Shankara, Ishana, Girisha, Sthanu, Maheshvara, Shambhu, Bhava, Sharva, Kapardin |  |  |
 | **Skanda** | Skanda | the war god, called Guha and Kumara; son of Fire, the Krittikas, Rudra and Ganga | Guha, Kumara, Kartikeya, Mahasena, Karttikeya |  |  |
+| **Tvashtar** | Tvaṣṭṛ | the divine craftsman, who made the thunderbolt |  |  |  |
 | **Vayu** | Vāyu | the Wind, father of Bhima | Maruta, Pavana, Shvasana |  |  |
 | **Viraj** | Virāj | a cosmic being; Krishna lived with Brahma in his house |  |  |  |
 | **Agni** | Agni | the fire god | Pavaka, Jatavedas, Vibhavasu, Hutashana |  |  |
@@ -437,6 +441,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shalva** | Śālva | king of the Shalvas and lord of Saubha, whom Amba had chosen; beaten by Bhishma at Varanasi; a Shalva, lord of Saubha, also attacks Dvaraka and is killed by Krishna (3.15–22). The CE calls both 'lord of Saubha' but does not say they are the same man | lord of Saubha |  |  |
 | **Sharmishtha** | Śarmiṣṭhā | daughter of the asura king Vrishaparvan; Devayani's rival and servant; mother of Druhyu, Anu and Puru |  |  | Sarmishtha, Sharmista |
 | **Shibi** | Śibi | son of Ushinara, a royal seer of unequalled generosity, a grandson of Yayati through his daughter | Aushinara |  | Sibi |
+| **Shrutarvan** | Śrutarvan | a king whom Agastya asks for wealth |  |  |  |
 | **Shrutayudha** | Śrutāyudha | a king present in Yudhishthira's hall |  |  |  |
 | **Sudeshna** | Sudeṣṇā | Bali's queen, mother of Anga by Dirghatamas (another Sudeshna is Virata's queen) |  |  |  |
 | **Sudharma** | Sudharman | a king present in Yudhishthira's hall; also Sudharma, king of Dasharna, made Bhima's general (2.26.5) |  |  | Sudharman |
@@ -590,6 +595,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Dhaumya** | Dhaumya | Devala's younger brother, the Pandavas' family priest |  |  |  |
 | **Dhaumya of the Ayodas** | Dhaumya Āyoda | teacher of Aruni, Upamanyu and Veda. NOT the Dhaumya who becomes the Pandavas' priest (1.174) |  |  |  |
 | **Dirghatamas** | Dīrghatamas | son of Utathya, cursed in the womb by Brihaspati to be born blind; fathers sons for King Bali |  |  | Dirghatama |
+| **Dridhasyu** | Dṛḍhasyu | son of Agastya and Lopamudra, called Idhmavaha | Idhmavaha |  |  |
 | **Durvasas** | Durvāsas | the fierce brahmin who gave Pritha the mantra to call the gods |  |  | Durvasa |
 | **Galava** | Gālava | a seer present in Yudhishthira's hall |  |  |  |
 | **Gauramukha** | Gauramukha | Shamika's pupil, sent to warn Parikshit |  |  |  |
@@ -622,6 +628,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kritashrama** | Kṛtaśrama | a seer present in Yudhishthira's hall |  |  |  |
 | **Lavanashva** | Lavaṇāśva | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
 | **Lomasha** | Lomaśa | a great seer who brings Arjuna's news from Indra's heaven and guides the Pandavas' pilgrimage |  |  |  |
+| **Lopamudra** | Lopāmudrā | Agastya's wife, made by him and born to the king of Vidarbha |  |  |  |
 | **Mahashiras** | Mahāśiras | a seer present in Yudhishthira's hall |  |  |  |
 | **Maitreya** | Maitreya | a seer present in Yudhishthira's hall |  |  |  |
 | **Mamata** | Mamatā | wife of Utathya, mother of Dirghatamas |  |  |  |

@@ -18,6 +18,17 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 32–33 drafted: Agastya and Lopamudra; Agastya drinks the ocean
+- Ch 32 *Agastya and Lopamudra* (CE 3.94–97) and Ch 33 *Agastya Drinks the Ocean* (3.98–103):
+  Ilvala and Vatapi; Agastya's ancestors in the pit; the making and marriage of Lopamudra; the three
+  kings whose income and expenses balanced; Vatapi eaten and digested; Dridhasyu; Dadhicha's bones and
+  the thunderbolt; Vritra's death; the Kaleyas in the ocean; the Vindhya; the ocean drunk dry.
+  About 5,200 words.
+- Ledger: new L-126 ("Vatapi, be digested" and Ilvala burned are rejected passages) and L-127 (the
+  Vindhya does not "bow" in the CE; it waits and does not grow).
+- Names: Ilvala, Vatapi, Lopamudra, Shrutarvan, Vadhryashva, Trasadasyu, Purukutsa, Dridhasyu,
+  the Kaleyas, Tvashtar and Jambha added.
+
 ### Novel: Book 3, chapters 30–31 drafted: Dhaumya's fords; Lomasha
 - Ch 30 *Dhaumya's Fords* (CE 3.84–88) and Ch 31 *Lomasha* (3.89–93): Yudhishthira's image of Karna
   as a forest fire and Arjuna as the cloud; Dhaumya's holy places of the four quarters, with Dvaravati

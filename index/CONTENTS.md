@@ -2,7 +2,7 @@
 
 # Contents
 
-**146 chapters, 306,214 words.** 146 drafted
+**148 chapters, 311,375 words.** 148 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -169,5 +169,7 @@
 | 29 | [Prayaga](../novel/book-03-aranyaka/29-prayaga.md) | 3.83 | drafted | 2,490 |
 | 30 | [Dhaumya's Fords](../novel/book-03-aranyaka/30-dhaumyas-fords.md) | 3.84-88 | drafted | 2,453 |
 | 31 | [Lomasha](../novel/book-03-aranyaka/31-lomasha.md) | 3.89-93 | drafted | 2,676 |
+| 32 | [Agastya and Lopamudra](../novel/book-03-aranyaka/32-agastya-and-lopamudra.md) | 3.94-97 | drafted | 2,163 |
+| 33 | [Agastya Drinks the Ocean](../novel/book-03-aranyaka/33-agastya-drinks-the-ocean.md) | 3.98-103 | drafted | 2,998 |
 
-*Book 3 so far: 81,953 words.*
+*Book 3 so far: 87,114 words.*
