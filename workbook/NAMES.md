@@ -309,7 +309,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Matali** | Mātali | Indra's charioteer |  |  |  |
 | **Nirriti** | Nirṛti | goddess of decay; the south-west is her quarter |  |  |  |
 | **Shiva** | Śiva | the great god; the CE also calls him Hara, Rudra, Mahadeva, Shankara | Hara, Rudra, Mahadeva, Shankara, Ishana, Girisha, Sthanu, Maheshvara, Shambhu, Bhava, Sharva, Kapardin |  |  |
-| **Skanda** | Skanda | the war god, called Guha and Kumara; son of Fire, the Krittikas, Rudra and Ganga | Guha, Kumara, Kartikeya, Mahasena |  |  |
+| **Skanda** | Skanda | the war god, called Guha and Kumara; son of Fire, the Krittikas, Rudra and Ganga | Guha, Kumara, Kartikeya, Mahasena, Karttikeya |  |  |
 | **Vayu** | Vāyu | the Wind, father of Bhima | Maruta, Pavana, Shvasana |  |  |
 | **Viraj** | Virāj | a cosmic being; Krishna lived with Brahma in his house |  |  |  |
 | **Agni** | Agni | the fire god | Pavaka, Jatavedas, Vibhavasu, Hutashana |  |  |
@@ -425,6 +425,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Pundraka** | Puṇḍraka | a king present in Yudhishthira's hall |  |  |  |
 | **Puru** | Pūru | Yayati's youngest son, by Sharmishtha, who took his father's old age; founder of the Paurava line |  |  |  |
 | **Pururavas** | Purūravas | son of Ila, husband of Urvashi, ancestor of the Lunar line | Aila |  | Pururava |
+| **Rantideva** | Rantideva | an ancient king, by whose leave pilgrims bathe in the Charmanvati |  |  |  |
 | **Rita** | Ṛta | a king at the Rajasuya (the reading is uncertain) |  |  |  |
 | **Samgramajit** | Saṃgrāmajit | a king present in Yudhishthira's hall |  |  |  |
 | **Shakuntala** | Śakuntalā | daughter of Vishvamitra and Menaka, raised by Kanva; wife of Dushyanta, mother of Bharata |  |  | Sakuntala, Shakuntalaa |
@@ -576,6 +577,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Dadhicha** | Dadhīca | seer from whose bones Indra's thunderbolt was made | Dadhichi |  |  |
 | **Damana** | Damana | a brahmin seer who gave King Bhima of Vidarbha the boon of children; also the name of Damayanti's youngest brother (3.50.9) |  |  |  |
 | **Damoshnisha** | Dāmoṣṇīṣa | a seer present in Yudhishthira's hall |  |  |  |
+| **Darbhin** | Darbhin | a seer who made the ford Avatirna and brought the four seas to it |  |  |  |
 | **Devala** | Devala | seer, Dhaumya's elder brother |  |  |  |
 | **Devayani** | Devayānī | daughter of Shukra; wife of Yayati; mother of Yadu and Turvasu |  |  | Devyani |
 | **Dhaumya** | Dhaumya | Devala's younger brother, the Pandavas' family priest |  |  |  |
@@ -598,6 +600,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kakshivat** | Kākṣīvat | eldest of the eleven sons of Dirghatamas by Sudeshna's servant |  |  | Kakshivan, Kakshivant |
 | **Kalapa** | Kalāpa | a seer present in Yudhishthira's hall |  |  |  |
 | **Kanva** | Kaṇva | the Kashyapa seer on the Malini who raised Shakuntala | the Kashyapa |  | Kanwa |
+| **Kapishthala** | Kapiṣṭhala | a great seer whose Kedara is a ford in Kurukshetra |  |  |  |
 | **Karkara** | Karkara | a seer present in Yudhishthira's hall |  |  |  |
 | **Karnashravas** | Karṇaśravas | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
 | **Kashyapa** | Kāśyapa | lord of creatures, husband of Kadru and Vinata, father of the snakes, Aruna and Garuda (1.14); the same name is borne by the brahmin healer whom Takshaka turns back from saving Parikshit (1.38–39) |  |  |  |
@@ -615,6 +618,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Maitreya** | Maitreya | a seer present in Yudhishthira's hall |  |  |  |
 | **Mamata** | Mamatā | wife of Utathya, mother of Dirghatamas |  |  |  |
 | **Mandapala** | Mandapāla | a seer who, denied heaven for want of sons, became a Sharngaka bird and fathered four sons on Jarita |  |  |  |
+| **Mankanaka** | Maṅkaṇaka | a seer whose cut hand ran with vegetable juice; he danced for joy until Shiva humbled him |  |  |  |
 | **Markandeya** | Mārkaṇḍeya | a seer present in Yudhishthira's hall |  |  |  |
 | **Maunjayana** | Mauñjāyana | a seer present in Yudhishthira's hall |  |  |  |
 | **Meru Savarni** | Merusāvarṇi | a seer who taught Yudhishthira on the Himalaya |  |  |  |
@@ -642,6 +646,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sahasrapad** | Sahasrapād | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
 | **Sahasrapat** | Sahasrapād | seer cursed to be a dundubha snake |  |  |  |
 | **Sanatana** | Sanātana | a seer present in Yudhishthira's hall |  |  |  |
+| **Sanatkumara** | Sanatkumāra | a son of Brahma, who sang the praise of Prithudaka |  |  |  |
 | **Sarika** | Sārika | a seer present in Yudhishthira's hall |  |  |  |
 | **Sarpamali** | Sarpamālin | a seer present in Yudhishthira's hall |  |  | Sarpamalin |
 | **Savarni** | Sāvarṇi | a seer present in Yudhishthira's hall |  |  |  |
@@ -782,6 +787,9 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kuntibhoja** | Kuntibhoja | Shura's cousin, who adopted Pritha, hence 'Kunti' |  |  |  |
 | **Shura** | Śūra | chief of the Yadus, father of Vasudeva and of Pritha (Kunti) |  |  |  |
 | **Vasudeva** | Vasudeva | son of Shura, father of Krishna; Pritha's brother. Not Krishna's patronymic 'Vasudeva' (Vāsudeva), which the novel avoids as a name for Krishna where it would confuse |  |  |  |
+| **Arantuka** | Arantuka | a yaksha, gatekeeper of Kurukshetra, marking its bounds |  |  |  |
+| **Machakruka** | Macakruka | a yaksha, gatekeeper of Kurukshetra |  |  |  |
+| **Tarantuka** | Tarantuka | a gatekeeper of Kurukshetra, marking its bounds |  |  |  |
 | **Kasheruman** | Kaśerumān | a Yavana Krishna killed |  |  |  |
 | **Mura** | Mura | one of two Yavana lords ruled by Bhagadatta |  |  |  |
 

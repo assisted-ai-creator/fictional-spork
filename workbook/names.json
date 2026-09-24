@@ -2439,7 +2439,8 @@
     "Guha",
     "Kumara",
     "Kartikeya",
-    "Mahasena"
+    "Mahasena",
+    "Karttikeya"
    ],
    "dialogue": [],
    "flag": [],
@@ -8323,6 +8324,86 @@
    "dialogue": [],
    "flag": [],
    "ref": "3.69.25"
+  },
+  {
+   "name": "Machakruka",
+   "iast": "Macakruka",
+   "group": "Yaksha",
+   "who": "a yaksha, gatekeeper of Kurukshetra",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.81.7"
+  },
+  {
+   "name": "Tarantuka",
+   "iast": "Tarantuka",
+   "group": "Yaksha",
+   "who": "a gatekeeper of Kurukshetra, marking its bounds",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.81.13"
+  },
+  {
+   "name": "Arantuka",
+   "iast": "Arantuka",
+   "group": "Yaksha",
+   "who": "a yaksha, gatekeeper of Kurukshetra, marking its bounds",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.81.42"
+  },
+  {
+   "name": "Mankanaka",
+   "iast": "Maṅkaṇaka",
+   "group": "Seer",
+   "who": "a seer whose cut hand ran with vegetable juice; he danced for joy until Shiva humbled him",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.81.97"
+  },
+  {
+   "name": "Darbhin",
+   "iast": "Darbhin",
+   "group": "Seer",
+   "who": "a seer who made the ford Avatirna and brought the four seas to it",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.81.133"
+  },
+  {
+   "name": "Kapishthala",
+   "iast": "Kapiṣṭhala",
+   "group": "Seer",
+   "who": "a great seer whose Kedara is a ford in Kurukshetra",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.81.59"
+  },
+  {
+   "name": "Sanatkumara",
+   "iast": "Sanatkumāra",
+   "group": "Seer",
+   "who": "a son of Brahma, who sang the praise of Prithudaka",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.81.127"
+  },
+  {
+   "name": "Rantideva",
+   "iast": "Rantideva",
+   "group": "King",
+   "who": "an ancient king, by whose leave pilgrims bathe in the Charmanvati",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.80.73"
   }
  ],
  "not_vyasa": [

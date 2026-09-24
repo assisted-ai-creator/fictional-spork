@@ -18,6 +18,15 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 26–27 drafted: the merit of the fords; Kurukshetra
+- Ch 26 *The Merit of the Fords* (CE 3.79–80) and Ch 27 *Kurukshetra* (3.81; the plan's "Pulastya's
+  Fords I" renamed): the brothers and Draupadi miss Arjuna; Narada retells Pulastya's teaching to
+  Bhishma; who wins the reward of the fords, and why the fords are open to the poor; the itinerary from
+  Pushkara to the Sarasvati, then the fords of Kurukshetra with Rama's lakes of blood, Mankanaka's dance,
+  Prithudaka and the bounds of the Samantapanchaka. Every ford and its reward is kept. About 8,200 words.
+- Names: Machakruka, Tarantuka, Arantuka, Mankanaka, Darbhin, Kapishthala, Sanatkumara and Rantideva
+  added; Karttikeya added as a name of Skanda.
+
 ### Novel: Book 3, chapters 24–25 drafted: the race to Vidarbha; Nala returns (the tale of Nala complete)
 - Ch 24 *The Race to Vidarbha* (CE 3.69–72) and Ch 25 *Nala Returns* (3.73–78) finish Brihadashva's
   tale of Nala (3.50–78, eight chapters): the drive to Kundina; the vibhitaka count and the exchange of

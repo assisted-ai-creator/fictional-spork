@@ -278,8 +278,8 @@ are refined while drafting.
 | 23 | The Search | 3.65–3.68 | ✅ drafted. Sudeva finds Damayantī by the mark between her brows; her aunt; the message sent out; Parṇāda's news; the "second bridegroom choice". |
 | 24 | The Race to Vidarbha | 3.69–3.72 | ✅ drafted. The thin horses; the vibhītaka count; the secrets exchanged; Kali leaves; the chariot's roar at Kuṇḍina; Keśinī's questions. |
 | 25 | Nala Returns | 3.73–3.78 | ✅ drafted. Water, fire and flowers; the taste of the meat; the Wind's witness; Nala's own form; Puṣkara spared; the secret of the dice for Yudhiṣṭhira (L-123). |
-| 26 | The Merit of the Fords | 3.79–3.80 | The Pāṇḍavas miss Arjuna; Nārada; Pulastya to Bhīṣma begins. |
-| 27 | Pulastya's Fords I | 3.81 | The fords of Kurukṣetra and beyond. |
+| 26 | The Merit of the Fords | 3.79–3.80 | ✅ drafted. The brothers and Draupadī miss Arjuna; Nārada; Pulastya and Bhīṣma at Gaṅgādvāra; who wins the reward of the fords; Puṣkara round the west to the Sarasvatī. |
+| 27 | Kurukshetra | 3.81 | ✅ drafted. Kurukṣetra: the gatekeepers; Rāma's lakes of blood; Maṅkaṇaka's dance; Pṛthūdaka; Saṃnihitī; the Samantapañcaka. |
 | 28 | Pulastya's Fords II | 3.82 | The fords, continued. |
 | 29 | Pulastya's Fords III | 3.83 | The fords, concluded. |
 | 30 | Dhaumya's Fords | 3.84–3.88 | Dhaumya names the holy places of the four quarters. |

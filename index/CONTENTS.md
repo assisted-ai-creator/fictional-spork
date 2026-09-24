@@ -2,7 +2,7 @@
 
 # Contents
 
-**140 chapters, 287,040 words.** 140 drafted
+**142 chapters, 295,208 words.** 142 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -163,5 +163,7 @@
 | 23 | [The Search](../novel/book-03-aranyaka/23-the-search.md) | 3.65-68 | drafted | 2,458 |
 | 24 | [The Race to Vidarbha](../novel/book-03-aranyaka/24-the-race-to-vidarbha.md) | 3.69-72 | drafted | 3,023 |
 | 25 | [Nala Returns](../novel/book-03-aranyaka/25-nala-returns.md) | 3.73-78 | drafted | 3,244 |
+| 26 | [The Merit of the Fords](../novel/book-03-aranyaka/26-the-merit-of-the-fords.md) | 3.79-80 | drafted | 3,749 |
+| 27 | [Kurukshetra](../novel/book-03-aranyaka/27-kurukshetra.md) | 3.81 | drafted | 4,419 |
 
-*Book 3 so far: 62,779 words.*
+*Book 3 so far: 70,947 words.*
