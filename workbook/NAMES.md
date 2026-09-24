@@ -227,7 +227,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Aryaman** | Aryaman | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
 | **Budha** | Budha | the planet Mercury, son of the moon |  |  |  |
 | **Dhatri** | Dhātṛ | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
-| **Jaya** | Jaya | a god who takes up a pestle at Khandava |  |  |  |
+| **Jaya** | Jaya | a god who takes up a pestle at Khandava; also a Kaurava-side player at the dice game (2.52.13) |  |  |  |
 | **Jayanta** | Jayanta | son of Indra and Shachi |  |  |  |
 | **Mitra** | Mitra | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
 | **Parameshthin** | Parameṣṭhin | "the one who stands highest", a divine being at Brahma's court |  |  |  |
@@ -241,6 +241,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vishvakarman** | Viśvakarman | the craftsman of the gods |  |  | Vishwakarma, Vishvakarma |
 | **Vivasvat** | Vivasvat | the sun god, father of Yama |  |  | Vivaswat, Vivasvan |
 | **Hiranyakashipu** | Hiraṇyakaśipu | a great asura king, ancestor of Nikumbha |  |  | Hiranyakasipu |
+| **Jambha** | Jambha | an asura given up by the great asuras, as Kavya advised |  |  |  |
 | **Maya** | Maya | an asura, Namuchi's brother, spared at the burning of Khandava at Arjuna's word |  |  |  |
 | **Namuchi** | Namuci | an asura slain by Indra; Maya's brother |  |  |  |
 | **Nikumbha** | Nikumbha | a daitya lord of Hiranyakashipu's line, father of Sunda and Upasunda |  |  |  |
@@ -427,9 +428,11 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Pandu** | Pāṇḍu | pale son of Vyasa and Ambalika; king; father of the Pandavas |  |  |  |
 | **Parikshit** | Parikṣit | son of Abhimanyu and Uttara; father of Janamejaya; killed by the snake Takshaka |  |  | Parikshith, Parikshita, Pariksit |
 | **Pratipa** | Pratīpa | Kuru king, father of Devapi, Shantanu and Bahlika; Ganga sat on his right thigh | Paryashravas |  |  |
+| **Purumitra** | Purumitra | a player at the dice game, on the Kaurava side |  |  |  |
 | **Samvarana** | Saṃvaraṇa | son of Riksha, king of the Bharatas, husband of Tapati, father of Kuru |  |  |  |
 | **Sanjaya** | Saṃjaya | Dhritarashtra's charioteer and counsellor, given divine sight by Vyasa | Gavalgani |  | Sanjay |
 | **Satyavati** | Satyavatī | the fisherman's adopted daughter who became Shantanu's queen; mother of Vyasa | Kali, Gandhavati, Yojanagandha, Matsyagandha, Satya |  | Satyawati |
+| **Satyavrata** | Satyavrata | a player at the dice game, on the Kaurava side |  |  |  |
 | **Saumadatti** | Saumadatti | Somadatta's son, named as an ally of Duryodhana |  |  |  |
 | **Shantanu** | Śaṃtanu | king of Hastinapura; husband of Ganga, then of Satyavati; father of Bhishma |  |  | Santanu, Shantnu |
 | **Somadatta** | Somadatta | the Bahlika prince, Bhishma's cousin's son; father of Bhurishravas |  |  |  |
@@ -494,6 +497,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vishoka** | Viśoka | a servant of Yudhishthira who sees to the food at the Rajasuya |  |  |  |
 | **Yudhishthira** | Yudhiṣṭhira | eldest son of Kunti, by Dharma; the dharma king | Ajatashatru, Dharmaraja, Kaunteya, Partha | Ajatashatru | Yudhistira, Yudhishtira, Yudhisthira, Yudhishthir, Yudhisthir |
 | **Vishvagashva** | Viṣvagaśva | a Paurava king defeated by Arjuna |  |  |  |
+| **Ajamidha** | Ajamīḍha | an ancestor of the Kurus; Kuru kings are called Ajamidhas after him |  |  |  |
 | **Bhadra** | Bhadrā | Vyushitashva's wife, daughter of Kakshivat; also the name of Kubera's wife (1.191.6); also Bhadra of Vaishali, carried off by Shishupala (2.42.11) |  |  |  |
 | **Vyushitashva** | Vyuṣitāśva | Paurava king whose dead body gave his widow Bhadra seven sons |  |  |  |
 | **Baka** | Baka | man-eating rakshasa near Ekachakra, killed by Bhima |  |  | Bakasura |

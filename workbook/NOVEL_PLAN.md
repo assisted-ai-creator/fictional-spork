@@ -237,8 +237,8 @@ drafting. It is refined while drafting.
 | 14 | Duryodhana in the Hall | 2.43–2.44 | ✅ drafted. The crystal floor and the pool; the Pāṇḍavas laugh (L-17); "I cannot live"; Śakuni proposes the dice. |
 | 15 | Shakuni's Plan | 2.45 | ✅ drafted. Duryodhana's envy; Śakuni offers the dice; the new hall; Vidura's protest; "It is fated." |
 | 16 | The Tribute | 2.46–2.49 | ✅ drafted. The CE's second telling; Dhṛtarāṣṭra urges restraint; the pools and the door (L-17); the tribute of every quarter; the consecration. |
-| 17 | The Invitation | 2.50–2.53 | Vidura sent to Indraprastha; Yudhiṣṭhira accepts. |
-| 18 | The Game | 2.54–2.58 | Wealth, kingdom, brothers and himself lost. |
+| 17 | The Invitation | 2.50–2.53 | ✅ drafted. Duryodhana's policy of kings; the hall built (doublet of 2.45); Vidura sent; "Once challenged, I never turn back"; the first throw. |
+| 18 | The Game | 2.54–2.58 | ✅ drafted. The stakes and "Won!" (L-116); Vidura's warnings and Duryodhana's abuse; the brothers and himself lost; Draupadi staked at Śakuni's prompting (L-117). |
 | 19 | The Wager | 2.59–2.60 | Draupadī staked and lost; Prātikāmin; Duḥśāsana drags her in. |
 | 20 | The Question | 2.61–2.62 | Draupadī's question; Vikarṇa; Karṇa; the disrobing. |
 | 21 | Draupadi's Boons | 2.63–2.65 | The omens; Dhṛtarāṣṭra's boons; the return. |

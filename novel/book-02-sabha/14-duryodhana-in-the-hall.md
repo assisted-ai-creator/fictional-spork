@@ -148,7 +148,8 @@ Duryodhana, "as it should be told. I will not be able to say it."
   Duryodhana reeling from the blow and falling at a second door, is \*424.
 * **Shakuni's dice.** In the CE Shakuni says only that he is the best player on earth (2.44.19).
   He says nothing about loaded dice or dice made from bones. See ledger L-18. The vulgate adds a
-  line that victory by cheating is possible (\*434). Not in the CE.
+  line that victory by cheating is possible (\*434). Not in the CE here, though in the game the
+  CE says at each throw that Shakuni "resorted to deceit" (2.54.7 and after). See ledger L-116.
 
 **Choices.**
 

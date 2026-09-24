@@ -18,6 +18,23 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 2, chapters 17–18 drafted: the invitation and the game
+- Ch 17 *The Invitation* (CE 2.50–53) and Ch 18 *The Game* (2.54–58): Dhritarashtra's plea and
+  Duryodhana's policy of kings; Shakuni's bow of dice; the hall built; Vidura sent to invite
+  Yudhishthira; the journey to Hastinapura; Yudhishthira's protest and vow; every stake and
+  every "Won!"; Vidura's warnings and Duryodhana's abuse of him; the brothers and Yudhishthira
+  himself lost; Draupadi staked. About 6,200 words.
+- Correction: the notes to chapters 14, 15 and 17 now say plainly that, although the rejected
+  lines \*434, \*448 and \*506 are not in the CE, the CE's own narrator says at each throw that
+  Shakuni "resorted to deceit" (2.54.7 and after).
+
+### Reference
+- Ledger **L-116** (Shakuni's deceit ✅, his magic dice ❌) and **L-117** (it was Shakuni who
+  proposed staking Draupadi 🔶).
+
+### Workbook
+- `names.json`: +4 (Satyavrata, Purumitra, Jambha, Ajamidha); Jaya extended.
+
 ### Novel: Book 2, chapters 15–16 drafted: Shakuni's plan and the tribute
 - Ch 15 *Shakuni's Plan* (CE 2.45) and Ch 16 *The Tribute* (2.46–49): Duryodhana's envy;
   Shakuni offers to win Yudhishthira's fortune at dice; the new hall; Vidura's protest and

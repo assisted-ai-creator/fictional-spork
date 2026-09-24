@@ -146,7 +146,9 @@ and 16).
 **Divergences.**
 
 * **Loaded dice.** The CE's Shakuni says only that he knows the game (2.45.37). The vulgate's
-  line that he will win "by cheating" is \*448. Not in the CE. See ledger L-18.
+  line that he will win "by cheating" is \*448. Not in the CE, though in the game itself the CE
+  says at each throw that Shakuni "resorted to deceit" (2.54.7 and after). See ledger L-18 and
+  L-116.
 * 2.45.27–29: the vulgate adds that Vasudeva consecrated Yudhishthira with a fine conch (\*442),
   and that rakshasas carried jars to the oceans for water (\*443). Its line that Arjuna went
   north and brought back tribute is \*444. Not in the CE, which leaves "they take it" without

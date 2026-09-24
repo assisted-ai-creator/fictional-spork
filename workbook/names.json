@@ -4151,7 +4151,7 @@
    "name": "Jaya",
    "iast": "Jaya",
    "group": "Deity",
-   "who": "a god who takes up a pestle at Khandava",
+   "who": "a god who takes up a pestle at Khandava; also a Kaurava-side player at the dice game (2.52.13)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -7533,6 +7533,46 @@
    "dialogue": [],
    "flag": [],
    "ref": "2.49.21"
+  },
+  {
+   "name": "Satyavrata",
+   "iast": "Satyavrata",
+   "group": "Kuru",
+   "who": "a player at the dice game, on the Kaurava side",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.52.13"
+  },
+  {
+   "name": "Purumitra",
+   "iast": "Purumitra",
+   "group": "Kuru",
+   "who": "a player at the dice game, on the Kaurava side",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.52.13"
+  },
+  {
+   "name": "Jambha",
+   "iast": "Jambha",
+   "group": "Demon",
+   "who": "an asura given up by the great asuras, as Kavya advised",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.55.11"
+  },
+  {
+   "name": "Ajamidha",
+   "iast": "Ajamīḍha",
+   "group": "Puru",
+   "who": "an ancestor of the Kurus; Kuru kings are called Ajamidhas after him",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.42.36"
   }
  ],
  "not_vyasa": [
