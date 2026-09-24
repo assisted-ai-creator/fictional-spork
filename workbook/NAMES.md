@@ -240,7 +240,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Damaghosha** | Damaghoṣa | king of Chedi, Shishupala's father |  |  |  |
 | **Dhrishtaketu** | Dhṛṣṭaketu | king of the Chedis after Shishupala; ally of the Pandavas |  |  |  |
 | **Shishupala** | Śiśupāla | king of Chedi, Jarasandha's general; killed by Krishna at the Rajasuya | Sunitha |  | Sisupala |
-| **Subahu** | Subāhu | king of the Chedis, in whose city Damayanti lives with the queen mother |  |  |  |
+| **Subahu** | Subāhu | king of the Chedis, in whose city Damayanti lives with the queen mother; also Subahu, king of the Kunindas on the Himalaya, who keeps the Pandavas' servants and chariots (3.141.24–29) |  |  |  |
 | **Virabahu** | Vīrabāhu | king of the Chedis, husband of Damayanti's mother's sister; father of Subahu |  |  |  |
 | **Aditi** | Aditi | mother of the Adityas |  |  |  |
 | **Amsha** | Aṃśa | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
@@ -398,6 +398,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Bharata** | Bharata | son of Dushyanta and Shakuntala, first called Sarvadamana; the emperor from whom the Bharatas take their name | Sarvadamana |  |  |
 | **Bhimaratha** | Bhīmaratha | a king present in Yudhishthira's hall |  |  |  |
 | **Bhishmaka** | Bhīṣmaka | a king present in Yudhishthira's hall |  |  |  |
+| **Brihaddyumna** | Bṛhaddyumna | a king for whom Raibhya performed sacrifices |  |  |  |
 | **Chanura** | Cāṇūra | a king present in Yudhishthira's hall |  |  |  |
 | **Dambhodbhava** | Dambhodbhava | a proud king of old who perished with his army |  |  |  |
 | **Darva** | Dārva | lord of Magadha killed at Rajagriha in Pandu's campaign (vulgate 'Dirgha') |  |  | Dhirga |
@@ -590,6 +591,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Aushija** | Auśija | a seer present in Yudhishthira's hall |  |  |  |
 | **Babhrumali** | Babhrumālin | a seer present in Yudhishthira's hall |  |  | Babhrumalin |
 | **Baka Dalbhya** | Baka Dālbhya | a seer present in Yudhishthira's hall | Dalbhya |  |  |
+| **Baladhi** | Bāladhi | a seer whose son's life was bound to the mountains |  |  |  |
 | **Balavaka** | Balavāka | a seer present in Yudhishthira's hall |  |  |  |
 | **Bandin** | Bandin | a son of Varuna, a master of debate at Janaka's court |  |  |  |
 | **Bhaluki** | Bhāluki | a seer present in Yudhishthira's hall |  |  |  |
@@ -604,6 +606,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Darbhin** | Darbhin | a seer who made the ford Avatirna and brought the four seas to it |  |  |  |
 | **Devala** | Devala | seer, Dhaumya's elder brother |  |  |  |
 | **Devayani** | Devayānī | daughter of Shukra; wife of Yayati; mother of Yadu and Turvasu |  |  | Devyani |
+| **Dhanushaksha** | Dhanuṣākṣa | a seer who had the mountains split by buffaloes |  |  |  |
 | **Dhaumya** | Dhaumya | Devala's younger brother, the Pandavas' family priest |  |  |  |
 | **Dhaumya of the Ayodas** | Dhaumya Āyoda | teacher of Aruni, Upamanyu and Veda. NOT the Dhaumya who becomes the Pandavas' priest (1.174) |  |  |  |
 | **Dirghatamas** | Dīrghatamas | son of Utathya, cursed in the womb by Brihaspati to be born blind; fathers sons for King Bali |  |  | Dirghatama |
@@ -650,6 +653,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Markandeya** | Mārkaṇḍeya | a seer present in Yudhishthira's hall |  |  |  |
 | **Mathara** | Māṭhara | a seer whose holy forest is in the south |  |  |  |
 | **Maunjayana** | Mauñjāyana | a seer present in Yudhishthira's hall |  |  |  |
+| **Medhavin** | Medhāvin | Baladhi's proud son, who died when the mountains were split |  |  |  |
 | **Meru Savarni** | Merusāvarṇi | a seer who taught Yudhishthira on the Himalaya |  |  |  |
 | **Mudgala** | Mudgala | a sage, husband of Nadayani Indrasena |  |  |  |
 | **Munja** | Muñja | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
@@ -659,6 +663,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Paila** | Paila | a seer present in Yudhishthira's hall |  |  |  |
 | **Painga** | Paiṅga | a seer present in Yudhishthira's hall |  |  |  |
 | **Parashara** | Parāśara | son of Shakti; father of Vyasa by Satyavati |  |  | Parasara |
+| **Paravasu** | Parāvasu | Raibhya's son, who killed his father by mistake |  |  |  |
 | **Parijata** | Pārijāta | a seer present in Yudhishthira's hall |  |  |  |
 | **Parijataka** | Pārijātaka | a seer present in Yudhishthira's hall |  |  |  |
 | **Parnada** | Parṇāda | a seer present in Yudhishthira's hall; also the brahmin who finds Bahuka at Ayodhya and brings back his answer to Damayanti (3.68.1) |  |  |  |
@@ -736,6 +741,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vyasa** | Vyāsa | Krishna Dvaipayana, son of Parashara and Satyavati; maker of the epic and father of Dhritarashtra, Pandu and Vidura | Krishna Dvaipayana, Dvaipayana, Parasharya | Dvaipayana | Vyas, Ved Vyas |
 | **Yaja** | Yāja | Kashyapa seer who performed Drupada's sacrifice for a son |  |  |  |
 | **Yajnavalkya** | Yājñavalkya | a seer present in Yudhishthira's hall |  |  |  |
+| **Yavakri** | Yavakrī | son of Bharadvaja, who won the Vedas by boon and was killed by Raibhya's demon; also called Yavakrita |  |  |  |
 | **Kshemavriddhi** | Kṣemavṛddhi | Shalva's counsellor and army commander, driven off by Samba |  |  |  |
 | **Kritin** | Kṛtin | king of the Shukaras, who brought elephants to the Rajasuya |  |  |  |
 | **Abhibhu** | Abhibhū | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
@@ -832,6 +838,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vasudeva** | Vasudeva | son of Shura, father of Krishna; Pritha's brother. Not Krishna's patronymic 'Vasudeva' (Vāsudeva), which the novel avoids as a name for Krishna where it would confuse |  |  |  |
 | **Arantuka** | Arantuka | a yaksha, gatekeeper of Kurukshetra, marking its bounds |  |  |  |
 | **Machakruka** | Macakruka | a yaksha, gatekeeper of Kurukshetra |  |  |  |
+| **Manichara** | Māṇicara | a yaksha who lives on Mount Mandara |  |  |  |
 | **Tarantuka** | Tarantuka | a gatekeeper of Kurukshetra, marking its bounds |  |  |  |
 | **Kasheruman** | Kaśerumān | a Yavana Krishna killed |  |  |  |
 | **Mura** | Mura | one of two Yavana lords ruled by Bhagadatta |  |  |  |

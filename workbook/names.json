@@ -8259,7 +8259,7 @@
    "name": "Subahu",
    "iast": "Subāhu",
    "group": "Chedi",
-   "who": "king of the Chedis, in whose city Damayanti lives with the queen mother",
+   "who": "king of the Chedis, in whose city Damayanti lives with the queen mother; also Subahu, king of the Kunindas on the Himalaya, who keeps the Pandavas' servants and chariots (3.141.24–29)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -8836,6 +8836,76 @@
    "dialogue": [],
    "flag": [],
    "ref": "3.132.4"
+  },
+  {
+   "name": "Yavakri",
+   "iast": "Yavakrī",
+   "group": "Seer",
+   "who": "son of Bharadvaja, who won the Vedas by boon and was killed by Raibhya's demon; also called Yavakrita",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.135.9"
+  },
+  {
+   "name": "Paravasu",
+   "iast": "Parāvasu",
+   "group": "Seer",
+   "who": "Raibhya's son, who killed his father by mistake",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.135.13"
+  },
+  {
+   "name": "Baladhi",
+   "iast": "Bāladhi",
+   "group": "Seer",
+   "who": "a seer whose son's life was bound to the mountains",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.136.3"
+  },
+  {
+   "name": "Medhavin",
+   "iast": "Medhāvin",
+   "group": "Seer",
+   "who": "Baladhi's proud son, who died when the mountains were split",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.136.7"
+  },
+  {
+   "name": "Dhanushaksha",
+   "iast": "Dhanuṣākṣa",
+   "group": "Seer",
+   "who": "a seer who had the mountains split by buffaloes",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.136.8"
+  },
+  {
+   "name": "Brihaddyumna",
+   "iast": "Bṛhaddyumna",
+   "group": "King",
+   "who": "a king for whom Raibhya performed sacrifices",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.139.1"
+  },
+  {
+   "name": "Manichara",
+   "iast": "Māṇicara",
+   "group": "Yaksha",
+   "who": "a yaksha who lives on Mount Mandara",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.140.4"
   }
  ],
  "not_vyasa": [

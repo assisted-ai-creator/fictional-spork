@@ -294,8 +294,8 @@ are refined while drafting.
 | 39 | Mandhatar and Jantu | 3.126–3.129 | ✅ drafted. Yuvanāśva drinks the water; Māndhātṛ born and fed on Indra's finger; Somaka sacrifices Jantu and shares his priest's hell; the Yamunā; Yudhiṣṭhira sees Arjuna. |
 | 40 | The Hawk and the Dove | 3.130–3.131 | ✅ drafted. Vinaśana; the Vipāśā; Kashmir; Uśīnara, the hawk and the dove (L-130). |
 | 41 | Ashtavakra | 3.132–3.134 | ✅ drafted. Kahoḍa's curse; Aṣṭāvakra and the gatekeeper; the king's riddles; the contest of numbers; Bandin, son of Varuṇa (L-131). |
-| 42 | Yavakri | 3.135–3.139 | Yavakrī, Raibhya and Bharadvāja; Arvāvasu and Parāvasu. |
-| 43 | Into the Mountains | 3.140–3.142 | The road north; Yudhiṣṭhira's warnings. |
+| 42 | Yavakri | 3.135–3.139 | ✅ drafted. Yavakrī's austerity and Indra's dam of sand; Bāladhi and Medhāvin; Raibhya's demon; Bharadvāja's curse; Parāvasu and Arvāvasu; all restored. |
+| 43 | Into the Mountains | 3.140–3.142 | ✅ drafted. Lomaśa's warning and prayer; Bhīma will carry Draupadī and the twins; Subāhu of the Kunindas; Yudhiṣṭhira's longing for Arjuna. |
 | 44 | The Storm | 3.143–3.145 | The storm; Draupadī faints; Ghaṭotkaca carries them. |
 | 45 | Hanuman | 3.146–3.147 | The saugandhika flower; Bhīma meets Hanumān. |
 | 46 | The Ages of the World | 3.148–3.150 | Hanumān tells of the ages and shows his form. |

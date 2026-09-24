@@ -2,7 +2,7 @@
 
 # Contents
 
-**156 chapters, 330,677 words.** 156 drafted
+**158 chapters, 334,842 words.** 158 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -179,5 +179,7 @@
 | 39 | [Mandhatar and Jantu](../novel/book-03-aranyaka/39-mandhatar-and-jantu.md) | 3.126-129 | drafted | 2,386 |
 | 40 | [The Hawk and the Dove](../novel/book-03-aranyaka/40-the-hawk-and-the-dove.md) | 3.130-131 | drafted | 1,173 |
 | 41 | [Ashtavakra](../novel/book-03-aranyaka/41-ashtavakra.md) | 3.132-134 | drafted | 2,633 |
+| 42 | [Yavakri](../novel/book-03-aranyaka/42-yavakri.md) | 3.135-139 | drafted | 2,579 |
+| 43 | [Into the Mountains](../novel/book-03-aranyaka/43-into-the-mountains.md) | 3.140-142 | drafted | 1,586 |
 
-*Book 3 so far: 106,416 words.*
+*Book 3 so far: 110,581 words.*

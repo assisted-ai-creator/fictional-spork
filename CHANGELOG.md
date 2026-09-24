@@ -18,6 +18,15 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 42–43 drafted: Yavakri; into the mountains
+- Ch 42 *Yavakri* (CE 3.135–139) and Ch 43 *Into the Mountains* (3.140–142): Yavakri's austerity and
+  Indra's dam of sand; Bharadvaja's tale of Baladhi and Medhavin; Raibhya's demon; Bharadvaja's curse and
+  death; Paravasu's killing of his father and Arvavasu's atonement; all brought back to life; the climb
+  towards Kailasa, Bhima's promise to carry Draupadi, and Yudhishthira's longing for Arjuna.
+  About 4,200 words.
+- Names: Yavakri, Paravasu, Baladhi, Medhavin, Dhanushaksha, Brihaddyumna and Manichara added; the second
+  Subahu (king of the Kunindas) noted.
+
 ### Novel: Book 3, chapters 40–41 drafted: the hawk and the dove; Ashtavakra
 - Ch 40 *The Hawk and the Dove* (CE 3.130–131) and Ch 41 *Ashtavakra* (3.132–134): the Sarasvati at
   Vinashana and the holy places of Kashmir; Indra and Agni test King Ushinara, who weighs his own flesh
