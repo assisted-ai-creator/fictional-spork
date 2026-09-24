@@ -20,6 +20,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Varga** | Vargā | one of the five apsarases cursed to be crocodiles and freed by Arjuna |  |  |  |
 | **Anuvinda** | Anuvinda | one of the two princes of Avanti |  |  |  |
 | **Vinda** | Vinda | one of the two princes of Avanti |  |  |  |
+| **Darada** | Darada | a Bahlika king whom Shishupala says split the earth at his birth |  |  |  |
 | **Jambhaka** | Jambhaka | father of a Bhoja king spared by Krishna |  |  |  |
 | **Kamsa** | Kaṃsa | the tyrant of Mathura, Jarasandha's son-in-law, killed by Krishna and Balarama |  |  | Kansa |
 | **Rukmin** | Rukmin | son of Bhishmaka, king at Bhojakata |  |  |  |
@@ -219,6 +220,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vrishadarbhi** | Vṛṣādarbhi | named in Yama's hall (2.8) |  |  |  |
 | **Vrishasena** | Vṛṣasena | named in Yama's hall (2.8) |  |  |  |
 | **Vyashva** | Vyaśva | named in Yama's hall (2.8) |  |  |  |
+| **Damaghosha** | Damaghoṣa | king of Chedi, Shishupala's father |  |  |  |
 | **Shishupala** | Śiśupāla | king of Chedi, Jarasandha's general; killed by Krishna at the Rajasuya | Sunitha |  | Sisupala |
 | **Aditi** | Aditi | mother of the Adityas |  |  |  |
 | **Amsha** | Aṃśa | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
@@ -244,6 +246,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Nikumbha** | Nikumbha | a daitya lord of Hiranyakashipu's line, father of Sunda and Upasunda |  |  |  |
 | **Paka** | Pāka | a demon slain by Indra, who is called "chastiser of Paka" |  |  |  |
 | **Prahlada** | Prahlāda | a great asura, son of Hiranyakashipu. The CE spells him Prahrada in Book 1 (1.59.18) and Prahlada in Book 2 (2.9.12); the novel follows the text. A snake named Prahlada sits in Varuna's hall (2.9.10) | Prahrada |  |  |
+| **Putana** | Pūtanā | the demoness Krishna killed in his childhood, named in Shishupala's taunts |  |  |  |
 | **Sunda** | Sunda | an asura, Upasunda's brother; the two kill each other over Tilottama |  |  |  |
 | **Upasunda** | Upasunda | an asura, Sunda's brother |  |  |  |
 | **Vritra** | Vṛtra | the demon slain by Indra ("slayer of Vritra") |  |  |  |
@@ -269,7 +272,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Dharma** | Dharma | the god of dharma, lord of the dead's justice; born as Vidura by Animandavya's curse |  |  |  |
 | **Kubera** | Kubera | lord of wealth, whose gardens lie on the northern mountains | Vaishravana |  |  |
 | **Shiva** | Śiva | the great god; the CE also calls him Hara, Rudra, Mahadeva, Shankara | Hara, Rudra, Mahadeva, Shankara, Ishana, Girisha, Sthanu, Maheshvara |  |  |
-| **Skanda** | Skanda | the war god, called Guha and Kumara; son of Fire, the Krittikas, Rudra and Ganga | Guha, Kumara, Kartikeya |  |  |
+| **Skanda** | Skanda | the war god, called Guha and Kumara; son of Fire, the Krittikas, Rudra and Ganga | Guha, Kumara, Kartikeya, Mahasena |  |  |
 | **Vayu** | Vāyu | the Wind, father of Bhima | Maruta, Pavana |  |  |
 | **Agni** | Agni | the fire god | Pavaka, Jatavedas, Vibhavasu, Hutashana |  |  |
 | **Akupara** | Akūpāra | king of the tortoises; the base of Mandara at the churning (not called an avatar of Vishnu; see L-64) |  |  |  |
@@ -295,7 +298,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sugriva** | Sugrīva | one of Krishna's chariot horses |  |  |  |
 | **Sudakshina** | Sudakṣiṇa | king of the Kambojas, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Dantavakra** | Dantavakra | a king allied to Jarasandha |  |  |  |
-| **Karusha** | Karūṣa | a king allied to Jarasandha |  |  |  |
+| **Karusha** | Karūṣa | a king allied to Jarasandha; Shishupala carried off Bhadra of Vaishali for Karusha (2.42.11) |  |  |  |
 | **Vakra** | Vakra | lord of the Karushas who fights with magic, Jarasandha's follower |  |  |  |
 | **Amba** | Ambā | eldest princess of Kashi, carried off by Bhishma |  |  |  |
 | **Subandhu** | Subandhu | king of Kashi, defeated by Bhima |  |  |  |
@@ -426,6 +429,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Samvarana** | Saṃvaraṇa | son of Riksha, king of the Bharatas, husband of Tapati, father of Kuru |  |  |  |
 | **Sanjaya** | Saṃjaya | Dhritarashtra's charioteer and counsellor, given divine sight by Vyasa | Gavalgani |  | Sanjay |
 | **Satyavati** | Satyavatī | the fisherman's adopted daughter who became Shantanu's queen; mother of Vyasa | Kali, Gandhavati, Yojanagandha, Matsyagandha, Satya |  | Satyawati |
+| **Saumadatti** | Saumadatti | Somadatta's son, named as an ally of Duryodhana |  |  |  |
 | **Shantanu** | Śaṃtanu | king of Hastinapura; husband of Ganga, then of Satyavati; father of Bhishma |  |  | Santanu, Shantnu |
 | **Somadatta** | Somadatta | the Bahlika prince, Bhishma's cousin's son; father of Bhurishravas |  |  |  |
 | **Tapati** | Tapatī | daughter of the Sun, Savitri's younger sister; Samvarana's wife and Kuru's mother; hence Arjuna is 'Tapatya' |  |  |  |
@@ -489,7 +493,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vishoka** | Viśoka | a servant of Yudhishthira who sees to the food at the Rajasuya |  |  |  |
 | **Yudhishthira** | Yudhiṣṭhira | eldest son of Kunti, by Dharma; the dharma king | Ajatashatru, Dharmaraja, Kaunteya, Partha | Ajatashatru | Yudhistira, Yudhishtira, Yudhisthira, Yudhishthir, Yudhisthir |
 | **Vishvagashva** | Viṣvagaśva | a Paurava king defeated by Arjuna |  |  |  |
-| **Bhadra** | Bhadrā | Vyushitashva's wife, daughter of Kakshivat; also the name of Kubera's wife (1.191.6) |  |  |  |
+| **Bhadra** | Bhadrā | Vyushitashva's wife, daughter of Kakshivat; also the name of Kubera's wife (1.191.6); also Bhadra of Vaishali, carried off by Shishupala (2.42.11) |  |  |  |
 | **Vyushitashva** | Vyuṣitāśva | Paurava king whose dead body gave his widow Bhadra seven sons |  |  |  |
 | **Baka** | Baka | man-eating rakshasa near Ekachakra, killed by Bhima |  |  | Bakasura |
 | **Hidimba** | Hiḍimba / Hiḍimbā | a rakshasa brother and sister of the forest. Bhima kills the brother and marries the sister. In English the names collide, so give context until the brother is dead |  |  | Hidimbi, Hidimbaa |
@@ -656,20 +660,21 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Anadhrishti** | Anādhṛṣṭi | a Vrishni hero who comes to Indraprastha with Krishna |  |  |  |
 | **Anakadundubhi** | Ānakadundubhi | Vasudeva, Krishna's father |  |  |  |
 | **Andhakabhoja** | Andhakabhoja | a Yadava chief whose two sons are named among the great warriors |  |  |  |
-| **Babhru** | Babhru | a Vrishni at the Rajasuya |  |  |  |
+| **Babhru** | Babhru | a Vrishni at the Rajasuya; his wife was carried off by Shishupala (2.42.10) |  |  |  |
 | **Balarama** | Balarāma | Krishna's elder brother, the plough-bearer | Baladeva, Rama, Samkarshana, Halayudha, Kamapala | Baladeva | Balram, Balaram |
 | **Bhangakara** | Bhaṅgakāra | a Vrishni named at the Raivataka festival (the reading is uncertain) |  |  |  |
 | **Bhanu** | Bhānu | a Vrishni hero |  |  |  |
 | **Chakradeva** | Cakradeva | a Vrishni chariot warrior |  |  |  |
 | **Charudeshna** | Cārudeṣṇa | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Chekitana** | Cekitāna | a warrior named among the suitors at Draupadi's bridegroom choice; later an ally of the Pandavas |  |  |  |
+| **Daruka** | Dāruka | Krishna's charioteer |  |  |  |
 | **Devaki** | Devakī | mother of Krishna |  |  |  |
 | **Gada** | Gada | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Hridika** | Hṛdika | father of Kritavarma |  |  |  |
 | **Jhilli** | Jhillī | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Kahva** | Kahva | a Vrishni great warrior |  |  |  |
 | **Kanka** | Kaṅka | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
-| **Krishna** | Kṛṣṇa | son of Vasudeva and Devaki, of the Vrishni clan; Arjuna's friend and charioteer | Vasudeva, Keshava, Madhava, Govinda, Janardana, Hrishikesha, Madhusudana, Achyuta, Varshneya, Dasharha, Damodara, Shauri | Keshava, Madhava, Govinda, Janardana, Vasudeva | Krishn, Krsna |
+| **Krishna** | Kṛṣṇa | son of Vasudeva and Devaki, of the Vrishni clan; Arjuna's friend and charioteer | Vasudeva, Keshava, Madhava, Govinda, Janardana, Hrishikesha, Madhusudana, Achyuta, Varshneya, Dasharha, Damodara, Shauri, Adhokshaja | Keshava, Madhava, Govinda, Janardana, Vasudeva | Krishn, Krsna |
 | **Kritavarma** | Kṛtavarman | Bhoja/Vrishni warrior who fights for the Kauravas | Hardikya |  | Kritavarman, Kritvarma |
 | **Nidanta** | Nidānta | a Vrishni great warrior |  |  |  |
 | **Nishatha** | Niśaṭha | a Vrishni hero |  |  |  |

@@ -2,7 +2,7 @@
 
 # Contents
 
-**104 chapters, 195,916 words.** 104 drafted
+**106 chapters, 201,610 words.** 106 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -120,5 +120,7 @@
 | 10 | [East, South and West](../novel/book-02-sabha/10-east-south-and-west.md) | 2.26-29 | drafted | 2,466 |
 | 11 | [The Rajasuya](../novel/book-02-sabha/11-the-rajasuya.md) | 2.30-32 | drafted | 2,088 |
 | 12 | [The Guest Gift](../novel/book-02-sabha/12-the-guest-gift.md) | 2.33-36 | drafted | 2,197 |
+| 13 | [Shishupala](../novel/book-02-sabha/13-shishupala.md) | 2.37-42 | drafted | 4,389 |
+| 14 | [Duryodhana in the Hall](../novel/book-02-sabha/14-duryodhana-in-the-hall.md) | 2.43-44 | drafted | 1,305 |
 
-*Book 2 so far: 27,190 words.*
+*Book 2 so far: 32,884 words.*

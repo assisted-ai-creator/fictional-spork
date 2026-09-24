@@ -18,6 +18,25 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 2, chapters 13–14 drafted: Shishupala and Duryodhana in the hall
+- Ch 13 *Shishupala* (CE 2.37–42) and Ch 14 *Duryodhana in the Hall* (2.43–44): Bhishma's dogs
+  and sleeping lion; Shishupala's taunts, the fable of the goose and the bhulinga bird; Bhima
+  held back; Shishupala's birth with three eyes and four arms and Krishna's promise to his aunt;
+  the challenge, Krishna's charges, the discus and the light entering Krishna; the Rajasuya
+  ends and Krishna goes home; Duryodhana's falls in Maya's hall, his despair, and Shakuni's
+  proposal of the dice. About 5,700 words.
+- Fidelity catches in the notes: nobody counts the hundred offences in the CE; Draupadi is not
+  among those who laugh at Duryodhana in the narration.
+
+### Reference
+- Ledger **L-113** (the hundred offences 🔶), **L-114** (the three eyes and four arms ✅),
+  **L-115** (Krishna's cut finger and Draupadi's sari ❌). L-109 to L-112 moved into the Sabha
+  section.
+
+### Workbook
+- `names.json`: +5 (Damaghosha, Daruka, Putana, Darada, Saumadatti); Adhokshaja added to
+  Krishna's names and Mahasena to Skanda's; Babhru, Bhadra and Karusha extended.
+
 ### Novel: Book 2, chapters 11–12 drafted: the Rajasuya and the guest gift
 - Ch 11 *The Rajasuya* (CE 2.30–32) and Ch 12 *The Guest Gift* (2.33–36): the land's prosperity;
   Krishna's wealth; Vyasa's priests; the kings and the Kauravas arrive; the tasks given out;

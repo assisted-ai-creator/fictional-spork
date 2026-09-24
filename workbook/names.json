@@ -661,7 +661,8 @@
     "Varshneya",
     "Dasharha",
     "Damodara",
-    "Shauri"
+    "Shauri",
+    "Adhokshaja"
    ],
    "dialogue": [
     "Keshava",
@@ -2205,7 +2206,7 @@
    "name": "Bhadra",
    "iast": "Bhadrā",
    "group": "Puru",
-   "who": "Vyushitashva's wife, daughter of Kakshivat; also the name of Kubera's wife (1.191.6)",
+   "who": "Vyushitashva's wife, daughter of Kakshivat; also the name of Kubera's wife (1.191.6); also Bhadra of Vaishali, carried off by Shishupala (2.42.11)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -2429,7 +2430,8 @@
    "aka": [
     "Guha",
     "Kumara",
-    "Kartikeya"
+    "Kartikeya",
+    "Mahasena"
    ],
    "dialogue": [],
    "flag": [],
@@ -7029,7 +7031,7 @@
    "name": "Karusha",
    "iast": "Karūṣa",
    "group": "Karusha",
-   "who": "a king allied to Jarasandha",
+   "who": "a king allied to Jarasandha; Shishupala carried off Bhadra of Vaishali for Karusha (2.42.11)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -7455,11 +7457,61 @@
    "name": "Babhru",
    "iast": "Babhru",
    "group": "Vrishni",
-   "who": "a Vrishni at the Rajasuya",
+   "who": "a Vrishni at the Rajasuya; his wife was carried off by Shishupala (2.42.10)",
    "aka": [],
    "dialogue": [],
    "flag": [],
    "ref": "2.31.15"
+  },
+  {
+   "name": "Damaghosha",
+   "iast": "Damaghoṣa",
+   "group": "Chedi",
+   "who": "king of Chedi, Shishupala's father",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.42.30"
+  },
+  {
+   "name": "Daruka",
+   "iast": "Dāruka",
+   "group": "Vrishni",
+   "who": "Krishna's charioteer",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.42.54"
+  },
+  {
+   "name": "Putana",
+   "iast": "Pūtanā",
+   "group": "Demon",
+   "who": "the demoness Krishna killed in his childhood, named in Shishupala's taunts",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.38.4"
+  },
+  {
+   "name": "Darada",
+   "iast": "Darada",
+   "group": "Bahlika",
+   "who": "a Bahlika king whom Shishupala says split the earth at his birth",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.41.8"
+  },
+  {
+   "name": "Saumadatti",
+   "iast": "Saumadatti",
+   "group": "Kuru",
+   "who": "Somadatta's son, named as an ally of Duryodhana",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.44.11"
   }
  ],
  "not_vyasa": [

@@ -233,8 +233,8 @@ drafting. It is refined while drafting.
 | 10 | East, South and West | 2.26–2.29 | ✅ drafted. Bhīma (Karṇa defeated); Sahadeva (Agni at Māhiṣmatī; envoys to Vibhīṣaṇa, L-111); Nakula (Śalya). |
 | 11 | The Rajasuya | 2.30–2.32 | ✅ drafted. Kṛṣṇa's wealth; the priests; the kings arrive; the Kauravas' tasks (L-112); the sacrifice. |
 | 12 | The Guest Gift | 2.33–2.36 | ✅ drafted. Nārada's thought; the gift to Kṛṣṇa; Śiśupāla's protest; Bhīṣma's answer; Sahadeva's challenge. |
-| 13 | Shishupala | 2.37–2.42 | Bhīṣma's answer; Śiśupāla's birth and the hundred offences; his death. |
-| 14 | Duryodhana in the Hall | 2.43–2.44 | The crystal floor and the pool; his envy. |
+| 13 | Shishupala | 2.37–2.42 | ✅ drafted. The dogs and the sleeping lion; Śiśupāla's taunts and the goose; his birth and the hundred offences (L-113, L-114); the discus and the light (L-115); the kings go home. |
+| 14 | Duryodhana in the Hall | 2.43–2.44 | ✅ drafted. The crystal floor and the pool; the Pāṇḍavas laugh (L-17); "I cannot live"; Śakuni proposes the dice. |
 | 15 | Shakuni's Plan | 2.45–2.49 | The dice proposed; Duryodhana's list of the tribute. |
 | 16 | The Invitation | 2.50–2.53 | Vidura sent to Indraprastha; Yudhiṣṭhira accepts. |
 | 17 | The Game | 2.54–2.58 | Wealth, kingdom, brothers and himself lost. |
