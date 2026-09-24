@@ -247,6 +247,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Paka** | Pāka | a demon slain by Indra, who is called "chastiser of Paka" |  |  |  |
 | **Prahlada** | Prahlāda | a great asura, son of Hiranyakashipu. The CE spells him Prahrada in Book 1 (1.59.18) and Prahlada in Book 2 (2.9.12); the novel follows the text. A snake named Prahlada sits in Varuna's hall (2.9.10) | Prahrada |  |  |
 | **Putana** | Pūtanā | the demoness Krishna killed in his childhood, named in Shishupala's taunts |  |  |  |
+| **Shambara** | Śambara | an asura killed by Indra |  |  |  |
 | **Sunda** | Sunda | an asura, Upasunda's brother; the two kill each other over Tilottama |  |  |  |
 | **Upasunda** | Upasunda | an asura, Sunda's brother |  |  |  |
 | **Vritra** | Vṛtra | the demon slain by Indra ("slayer of Vritra") |  |  |  |
@@ -573,7 +574,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Puloma** | Pulomā | Bhrigu's wife, mother of Chyavana (the rakshasa is Puloman) |  |  |  |
 | **Raibhya** | Raibhya | a seer present in Yudhishthira's hall |  |  |  |
 | **Raivata** | Raivata | a seer present in Yudhishthira's hall |  |  |  |
-| **Rama Jamadagnya** | Rāma Jāmadagnya | son of Jamadagni, the Bhrigu warrior-brahmin who destroyed the kshatriyas and made the five lakes of blood; later Bhishma's opponent and Karna's teacher. The CE never calls him 'Parashurama' (ledger L-62): write 'Rama, son of Jamadagni', 'Rama Jamadagnya' or 'Bhargava Rama' | Bhargava Rama | Jamadagnya | Parashuram, Parashurama, Parasurama, Parshuram |
+| **Rama Jamadagnya** | Rāma Jāmadagnya | son of Jamadagni, the Bhrigu warrior-brahmin who destroyed the kshatriyas and made the five lakes of blood; later Bhishma's opponent and Karna's teacher. The CE never calls him 'Parashurama' (ledger L-62): write 'Rama, son of Jamadagni', 'Rama Jamadagnya' or 'Bhargava Rama' | Bhargava Rama, Jamadagnya | Jamadagnya | Parashuram, Parashurama, Parasurama, Parshuram |
 | **Ruru** | Ruru | son of Pramati; gives half his life to Pramadvara |  |  |  |
 | **Sahasrapat** | Sahasrapād | seer cursed to be a dundubha snake |  |  |  |
 | **Sanatana** | Sanātana | a seer present in Yudhishthira's hall |  |  |  |
@@ -617,6 +618,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vyasa** | Vyāsa | Krishna Dvaipayana, son of Parashara and Satyavati; maker of the epic and father of Dhritarashtra, Pandu and Vidura | Krishna Dvaipayana, Dvaipayana, Parasharya | Dvaipayana | Vyas, Ved Vyas |
 | **Yaja** | Yāja | Kashyapa seer who performed Drupada's sacrifice for a son |  |  |  |
 | **Yajnavalkya** | Yājñavalkya | a seer present in Yudhishthira's hall |  |  |  |
+| **Kritin** | Kṛtin | king of the Shukaras, who brought elephants to the Rajasuya |  |  |  |
 | **Abhibhu** | Abhibhū | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Amshuman** | Aṃśumat | a king named among the suitors at Draupadi's bridegroom choice |  |  | Amshumat |
 | **Bahlika** | Bāhlika | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |

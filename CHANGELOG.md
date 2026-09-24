@@ -18,6 +18,20 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 2, chapters 15–16 drafted: Shakuni's plan and the tribute
+- Ch 15 *Shakuni's Plan* (CE 2.45) and Ch 16 *The Tribute* (2.46–49): Duryodhana's envy;
+  Shakuni offers to win Yudhishthira's fortune at dice; the new hall; Vidura's protest and
+  Dhritarashtra's "It is fated"; then the CE's second telling, with Dhritarashtra urging
+  restraint, Duryodhana's humiliations in Maya's hall, the tribute of every quarter in full,
+  Draupadi watching over the household, and the consecration. About 4,300 words.
+- The CE's doublet (2.45 and 2.46–49) is kept and noted; the plan's chapter 15 was split in two
+  and the later Book 2 rows renumbered.
+- Fidelity catches in the notes: Shakuni's "by cheating" (\*448) and Bhima's jeer at the door
+  (\*458) are rejected lines; Draupadi's laughter is only in Duryodhana's own account (2.46.30).
+
+### Workbook
+- `names.json`: +2 (Kritin, Shambara); Jamadagnya added to Rama Jamadagnya's names.
+
 ### Novel: Book 2, chapters 13–14 drafted: Shishupala and Duryodhana in the hall
 - Ch 13 *Shishupala* (CE 2.37–42) and Ch 14 *Duryodhana in the Hall* (2.43–44): Bhishma's dogs
   and sleeping lion; Shishupala's taunts, the fable of the goose and the bhulinga bird; Bhima

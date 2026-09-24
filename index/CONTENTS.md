@@ -2,7 +2,7 @@
 
 # Contents
 
-**106 chapters, 201,610 words.** 106 drafted
+**108 chapters, 205,929 words.** 108 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -122,5 +122,7 @@
 | 12 | [The Guest Gift](../novel/book-02-sabha/12-the-guest-gift.md) | 2.33-36 | drafted | 2,197 |
 | 13 | [Shishupala](../novel/book-02-sabha/13-shishupala.md) | 2.37-42 | drafted | 4,389 |
 | 14 | [Duryodhana in the Hall](../novel/book-02-sabha/14-duryodhana-in-the-hall.md) | 2.43-44 | drafted | 1,305 |
+| 15 | [Shakuni's Plan](../novel/book-02-sabha/15-shakunis-plan.md) | 2.45 | drafted | 1,306 |
+| 16 | [The Tribute](../novel/book-02-sabha/16-the-tribute.md) | 2.46-49 | drafted | 3,013 |
 
-*Book 2 so far: 32,884 words.*
+*Book 2 so far: 37,203 words.*

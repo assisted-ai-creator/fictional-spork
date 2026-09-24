@@ -868,7 +868,8 @@
    "group": "Seer",
    "who": "son of Jamadagni, the Bhrigu warrior-brahmin who destroyed the kshatriyas and made the five lakes of blood; later Bhishma's opponent and Karna's teacher. The CE never calls him 'Parashurama' (ledger L-62): write 'Rama, son of Jamadagni', 'Rama Jamadagnya' or 'Bhargava Rama'",
    "aka": [
-    "Bhargava Rama"
+    "Bhargava Rama",
+    "Jamadagnya"
    ],
    "dialogue": [
     "Jamadagnya"
@@ -7512,6 +7513,26 @@
    "dialogue": [],
    "flag": [],
    "ref": "2.44.11"
+  },
+  {
+   "name": "Kritin",
+   "iast": "Kṛtin",
+   "group": "Shukara",
+   "who": "king of the Shukaras, who brought elephants to the Rajasuya",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.48.24"
+  },
+  {
+   "name": "Shambara",
+   "iast": "Śambara",
+   "group": "Demon",
+   "who": "an asura killed by Indra",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.49.21"
   }
  ],
  "not_vyasa": [
