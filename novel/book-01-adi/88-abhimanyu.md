@@ -127,7 +127,7 @@ the Yamuna with Partha.
 
 ---
 
-Then Subhadra, Keshava's dear sister, bore a radiant son, Saubhadra, as Pauloma
+Then Subhadra, Keshava's dear sister, bore a radiant son, Saubhadra, as Paulomi
 bore Jayanta. Subhadra bore a hero, a bull among men, long-armed,
 great-spirited, with the eyes of a bull, a tamer of enemies. Because he was
 fearless, *abhi*, and full of spirit, *manyumat*, they called Arjuna's son, the
@@ -215,7 +215,7 @@ happy, tiger among kings.
 * 1.213.25 *dānapatiḥ*: "lord of gifts", Akrura.
 * 1.213.49 *pādagrāhaṇikam*: "the gift for touching the bride's feet".
 * 1.213.57 *śakraprasthe*: Shakraprastha, another name for Indraprastha.
-* 1.213.58 *paulomī*: Shachi, Puloman's daughter, mother of Jayanta.
+* 1.213.58 *paulomī*: Paulomi, that is Shachi, Puloman's daughter, mother of Jayanta.
 * 1.213.60 *abhīś ca manyumāṃś ca*: the text's etymology of Abhimanyu.
 * 1.213.65 *catuṣpādaṃ daśavidham*: the science of the bow "with four parts and ten kinds".
 * 1.213.74: the sense of the brahmins' words about Prativindhya is uncertain.

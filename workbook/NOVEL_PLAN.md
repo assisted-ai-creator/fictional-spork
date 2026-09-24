@@ -172,7 +172,9 @@ against the CE when the Book is drafted.
 | 86 | Chitrangada | 1.207–1.209 | ✅ drafted. Pilgrimage east; Citrāṅgadā of Maṇalūra (L-104); the five crocodile apsarases; Babhruvāhana. |
 | 87 | Subhadra | 1.210–1.212 | ✅ drafted. Prabhāsa, Raivataka, Dvārakā; Subhadrā seen and carried off (L-105); the Vṛṣṇis' fury; Balarāma. |
 | 88 | Abhimanyu | 1.213 | ✅ drafted. Kṛṣṇa's defence; the wedding; Draupadī's reproach; the cowherd-girl disguise; bridal gifts; Abhimanyu and Draupadī's five sons. |
-| 89… | The burning of Khandava | 1.214–1.225 | Agni's hunger; Gāṇḍīva and the discus; the burning; Maya spared; the Śārṅgaka birds. |
+| 89 | Agni's Hunger | 1.214–1.216 | ✅ drafted. Yudhiṣṭhira's rule; the Yamunā outing; Agni as a brahmin; Gāṇḍīva, the chariot, the discus (L-106, L-107). |
+| 90 | The Burning of Khandava | 1.217–1.219 | ✅ drafted. The slaughter; Indra's rain; Aśvasena; the gods routed; the voice; Maya spared; the six survivors. |
+| 91… | The Sharngaka birds | 1.220–1.225 | Mandapāla and Jaritā; the four fledglings; Agni's praise; Indra's boon; the end of Book 1. |
 
 ---
 

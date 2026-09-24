@@ -19,19 +19,31 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Urvashi** | Urvaśī | the apsaras, wife of Pururavas |  |  | Urvasi |
 | **Varga** | Vargā | one of the five apsarases cursed to be crocodiles and freed by Arjuna |  |  |  |
 | **Aditi** | Aditi | mother of the Adityas |  |  |  |
+| **Amsha** | Aṃśa | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
+| **Aryaman** | Aryaman | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
 | **Budha** | Budha | the planet Mercury, son of the moon |  |  |  |
+| **Dhatri** | Dhātṛ | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
+| **Jaya** | Jaya | a god who takes up a pestle at Khandava |  |  |  |
 | **Jayanta** | Jayanta | son of Indra and Shachi |  |  |  |
+| **Mitra** | Mitra | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
 | **Parameshthin** | Parameṣṭhin | "the one who stands highest", a divine being at Brahma's court |  |  |  |
-| **Shachi** | Śacī | Indra's wife | Indrani |  |  |
+| **Pushan** | Pūṣan | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
+| **Savitri** | Savitṛ | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
+| **Shachi** | Śacī | Indra's wife | Indrani, Paulomi |  |  |
+| **Soma** | Soma | the moon god, who gave Varuna the bow Gandiva |  |  |  |
 | **Svaha** | Svāhā | wife of Agni, the fire |  |  |  |
+| **Tvashtri** | Tvaṣṭṛ | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
 | **Uma** | Umā | Shiva's wife, daughter of the king of mountains |  |  |  |
 | **Vishvakarman** | Viśvakarman | the craftsman of the gods |  |  | Vishwakarma, Vishvakarma |
 | **Vivasvat** | Vivasvat | the sun god, father of Yama |  |  | Vivaswat, Vivasvan |
 | **Hiranyakashipu** | Hiraṇyakaśipu | a great asura king, ancestor of Nikumbha |  |  | Hiranyakasipu |
+| **Maya** | Maya | an asura, Namuchi's brother, spared at the burning of Khandava at Arjuna's word |  |  |  |
+| **Namuchi** | Namuci | an asura slain by Indra; Maya's brother |  |  |  |
 | **Nikumbha** | Nikumbha | a daitya lord of Hiranyakashipu's line, father of Sunda and Upasunda |  |  |  |
 | **Paka** | Pāka | a demon slain by Indra, who is called "chastiser of Paka" |  |  |  |
 | **Sunda** | Sunda | an asura, Upasunda's brother; the two kill each other over Tilottama |  |  |  |
 | **Upasunda** | Upasunda | an asura, Sunda's brother |  |  |  |
+| **Vritra** | Vṛtra | the demon slain by Indra ("slayer of Vritra") |  |  |  |
 | **Gavalgana** | Gavalgaṇa | the suta, father of Sanjaya |  |  |  |
 | **Lohitaksha** | Lohitākṣa | the red-eyed suta, builder of Janamejaya's place of sacrifice, who foretold that a brahmin would stop the rite |  |  |  |
 | **Lomaharshana** | Lomaharṣaṇa | father of Ugrashravas, a bard |  |  | Lomaharsana |
@@ -184,6 +196,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Uttara** | Uttara | son of Virata |  |  |  |
 | **Virata** | Virāṭa | king of the Matsyas, host of the Pandavas' year in hiding |  |  | Viraat |
 | **Airavata** | Airāvata | a chief naga, brother of Vasuki (not the elephant of the same name) |  |  |  |
+| **Ashvasena** | Aśvasena | Takshaka's son, who escapes the burning of Khandava and is cursed by Arjuna, Agni and Krishna |  |  |  |
 | **Elapatra** | Elāpatra | the snake who remembers Brahma's words and counsels Vasuki to give his sister to Jaratkaru |  |  |  |
 | **Kauravya** | Kauravya | a snake of Airavata's line, Ulupi's father |  |  |  |
 | **Shesha** | Śeṣa | eldest of the snakes; leaves his brothers for austerity and holds up the earth at Brahma's command | Ananta |  | Sesha, Seshanaga |
@@ -321,6 +334,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vardhakshemi** | Vārdhakṣemi | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Vatsaraja** | Vatsarāja | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Vrika** | Vṛka | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Hanuman** | Hanūmat | the monkey, son of the wind; he meets Bhima in Book 3 and promises to sit on Arjuna's banner (3.150.15); not named on the banner at 1.216 |  |  | Hanumana |
 | **Akrura** | Akrūra | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Anadhrishti** | Anādhṛṣṭi | a Vrishni hero who comes to Indraprastha with Krishna |  |  |  |
 | **Balarama** | Balarāma | Krishna's elder brother, the plough-bearer | Baladeva, Rama, Samkarshana, Halayudha, Kamapala | Baladeva | Balram, Balaram |

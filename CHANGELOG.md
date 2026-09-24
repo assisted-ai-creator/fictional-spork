@@ -18,6 +18,23 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 89–90 drafted: the burning of Khandava
+- Ch 89 *Agni's Hunger* (CE 1.214–216) and Ch 90 *The Burning of Khandava* (1.217–219):
+  Yudhishthira's rule; the outing to the Yamuna; Agni asks for the forest; Varuna's gifts of
+  Gandiva, the quivers, the monkey-bannered chariot, the discus and Kaumodaki; the burning;
+  Indra's rain and the gods' attack; the voice naming Nara and Narayana; Maya spared. About
+  4,350 words.
+
+### Reference
+- Ledger **L-106**: the banner monkey is not named at 1.216.13; Hanuman's place on Arjuna's
+  banner comes from his promise at 3.150.15.
+- Ledger **L-107**: Khandava was not burned to clear land for the city, and the Shvetaki
+  story and "fifteen days" are not in the CE.
+
+### Workbook
+- `names.json`: +15 (Maya, Ashvasena, Soma, Namuchi, Vritra, the gods of 1.218.32–35, Jaya, and
+  Hanuman); Paulomi added to Shachi's names. Ch 88 respelled "Pauloma" as Paulomi.
+
 ### Novel: Book 1, chapters 87–88 drafted: Subhadra and Abhimanyu
 - Ch 87 *Subhadra* (CE 1.210–212) and Ch 88 *Abhimanyu* (1.213): Arjuna and Krishna at
   Prabhasa and Raivataka; Subhadra carried off; the Vrishnis' fury and Balarama's threat;

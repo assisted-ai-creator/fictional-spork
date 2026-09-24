@@ -3522,7 +3522,8 @@
    "group": "Deity",
    "who": "Indra's wife",
    "aka": [
-    "Indrani"
+    "Indrani",
+    "Paulomi"
    ],
    "dialogue": [],
    "flag": [],
@@ -4022,6 +4023,148 @@
    "dialogue": [],
    "flag": [],
    "ref": "1.213.73"
+  },
+  {
+   "name": "Maya",
+   "iast": "Maya",
+   "group": "Demon",
+   "who": "an asura, Namuchi's brother, spared at the burning of Khandava at Arjuna's word",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.219.35"
+  },
+  {
+   "name": "Ashvasena",
+   "iast": "Aśvasena",
+   "group": "Naga",
+   "who": "Takshaka's son, who escapes the burning of Khandava and is cursed by Arjuna, Agni and Krishna",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.218.5"
+  },
+  {
+   "name": "Soma",
+   "iast": "Soma",
+   "group": "Deity",
+   "who": "the moon god, who gave Varuna the bow Gandiva",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.216.3"
+  },
+  {
+   "name": "Namuchi",
+   "iast": "Namuci",
+   "group": "Demon",
+   "who": "an asura slain by Indra; Maya's brother",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.217.21"
+  },
+  {
+   "name": "Vritra",
+   "iast": "Vṛtra",
+   "group": "Demon",
+   "who": "the demon slain by Indra (\"slayer of Vritra\")",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.217.17"
+  },
+  {
+   "name": "Dhatri",
+   "iast": "Dhātṛ",
+   "group": "Deity",
+   "who": "one of the gods who attack Krishna and Arjuna at Khandava",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.218.32-35"
+  },
+  {
+   "name": "Tvashtri",
+   "iast": "Tvaṣṭṛ",
+   "group": "Deity",
+   "who": "one of the gods who attack Krishna and Arjuna at Khandava",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.218.32-35"
+  },
+  {
+   "name": "Amsha",
+   "iast": "Aṃśa",
+   "group": "Deity",
+   "who": "one of the gods who attack Krishna and Arjuna at Khandava",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.218.32-35"
+  },
+  {
+   "name": "Aryaman",
+   "iast": "Aryaman",
+   "group": "Deity",
+   "who": "one of the gods who attack Krishna and Arjuna at Khandava",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.218.32-35"
+  },
+  {
+   "name": "Mitra",
+   "iast": "Mitra",
+   "group": "Deity",
+   "who": "one of the gods who attack Krishna and Arjuna at Khandava",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.218.32-35"
+  },
+  {
+   "name": "Pushan",
+   "iast": "Pūṣan",
+   "group": "Deity",
+   "who": "one of the gods who attack Krishna and Arjuna at Khandava",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.218.32-35"
+  },
+  {
+   "name": "Savitri",
+   "iast": "Savitṛ",
+   "group": "Deity",
+   "who": "one of the gods who attack Krishna and Arjuna at Khandava",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.218.32-35"
+  },
+  {
+   "name": "Jaya",
+   "iast": "Jaya",
+   "group": "Deity",
+   "who": "a god who takes up a pestle at Khandava",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.218.32"
+  },
+  {
+   "name": "Hanuman",
+   "iast": "Hanūmat",
+   "group": "Vanara",
+   "who": "the monkey, son of the wind; he meets Bhima in Book 3 and promises to sit on Arjuna's banner (3.150.15); not named on the banner at 1.216",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Hanumana"
+   ],
+   "ref": "3.147"
   }
  ],
  "not_vyasa": [
