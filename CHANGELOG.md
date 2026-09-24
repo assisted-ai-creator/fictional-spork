@@ -18,6 +18,17 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 22–23 drafted: the caravan; the search
+- Ch 22 *The Caravan* (CE 3.62–64) and Ch 23 *The Search* (3.65–68): the elephants trample the
+  caravan; Damayanti as a sairandhri among the Chedis, on her own terms; Karkotaka's bite and the
+  name Bahuka; the evening verse at Ayodhya; Sudeva finds her by the mark between her brows; her
+  aunt the queen mother; the brahmins' message; Parnada's news; the plan of a second bridegroom
+  choice. About 4,500 words.
+- Checked: the line that the tale "destroys Kali" is rejected at 3.63.13 (\*301) but in the CE at
+  the end of the tale (3.78.10).
+- Names: Sudeva, Virabahu, Jivala and Rati added; Parnada, Sudama, Bhangasvari and Rituparna notes
+  extended.
+
 ### Novel: Book 3, chapters 20–21 drafted: the forest; Damayanti alone
 - Ch 20 *The Forest* (CE 3.58–60) and Ch 21 *Damayanti Alone* (3.61): Nala leaves the city; the
   birds that are the dice; the cut cloth in the rest house; Damayanti's lament, the python and the

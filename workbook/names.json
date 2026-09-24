@@ -2932,7 +2932,7 @@
    "name": "Sudama",
    "iast": "Sudāman",
    "group": "Suitor",
-   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice; also Sudama, lord of the Dasharnas, grandfather of Damayanti (3.66.12)",
    "aka": [],
    "dialogue": [],
    "flag": [
@@ -4402,7 +4402,7 @@
    "name": "Parnada",
    "iast": "Parṇāda",
    "group": "Seer",
-   "who": "a seer present in Yudhishthira's hall",
+   "who": "a seer present in Yudhishthira's hall; also the brahmin who finds Bahuka at Ayodhya and brings back his answer to Damayanti (3.68.1)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -5822,7 +5822,7 @@
    "name": "Bhangasvari",
    "iast": "Bhāṅgāsvari",
    "group": "Catalogue",
-   "who": "named in Yama's hall (2.8)",
+   "who": "named in Yama's hall (2.8); in 3.68.2 the patronymic of Rituparna",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -8248,7 +8248,7 @@
    "name": "Rituparna",
    "iast": "Ṛtuparṇa",
    "group": "Ikshvaku",
-   "who": "king of Ayodhya, master of dice, whom Nala serves as charioteer",
+   "who": "king of Ayodhya, master of dice, whom Nala serves as charioteer; called Bhangasvari, son of Bhangasvara (3.68.2)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -8263,6 +8263,46 @@
    "dialogue": [],
    "flag": [],
    "ref": "3.61.125"
+  },
+  {
+   "name": "Sudeva",
+   "iast": "Sudeva",
+   "group": "Brahmin",
+   "who": "a brahmin, friend of Damayanti's brother, who finds her among the Chedis and carries her message to Rituparna",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.65.6"
+  },
+  {
+   "name": "Virabahu",
+   "iast": "Vīrabāhu",
+   "group": "Chedi",
+   "who": "king of the Chedis, husband of Damayanti's mother's sister; father of Subahu",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.66.13"
+  },
+  {
+   "name": "Jivala",
+   "iast": "Jīvala",
+   "group": "Ikshvaku",
+   "who": "one of Rituparna's charioteers, who serves with Bahuka",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.64.7"
+  },
+  {
+   "name": "Rati",
+   "iast": "Rati",
+   "group": "Deity",
+   "who": "wife of the god of love",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.65.11"
   }
  ],
  "not_vyasa": [

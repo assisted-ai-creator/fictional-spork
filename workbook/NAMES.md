@@ -39,6 +39,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Lapita** | Lapitā | Mandapala's second mate |  |  |  |
 | **Sarisrikva** | Sārisṛkva | second of the four Sharngaka fledglings |  |  |  |
 | **Stambamitra** | Stambamitra | third of the four Sharngaka fledglings |  |  |  |
+| **Sudeva** | Sudeva | a brahmin, friend of Damayanti's brother, who finds her among the Chedis and carries her message to Rituparna |  |  |  |
 | **Sudhanvan** | Sudhanvan | son of Angiras, who staked his life against Virochana in Vidura's story |  |  |  |
 | **Ahuti** | Āhuti | a king Krishna beat at Jaruthi |  |  |  |
 | **Aida** | Aiḍa | named in Yama's hall (2.8) |  |  |  |
@@ -58,7 +59,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Ashvatara** | Aśvatara | named in Varuna's hall (2.9) |  |  |  |
 | **Atri** | Atri | named in Indra's hall (2.7) |  |  |  |
 | **Balahaka** | Balāhaka | named in Varuna's hall (2.9) |  |  |  |
-| **Bhangasvari** | Bhāṅgāsvari | named in Yama's hall (2.8) |  |  |  |
+| **Bhangasvari** | Bhāṅgāsvari | named in Yama's hall (2.8); in 3.68.2 the patronymic of Rituparna |  |  |  |
 | **Bhava** | Bhava | named in Yama's hall (2.8) |  |  |  |
 | **Bhimajanu** | Bhīmajānu | named in Yama's hall (2.8) |  |  |  |
 | **Bhuridyumna** | Bhūridyumna | named in Yama's hall (2.8) |  |  |  |
@@ -239,6 +240,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Dhrishtaketu** | Dhṛṣṭaketu | king of the Chedis after Shishupala; ally of the Pandavas |  |  |  |
 | **Shishupala** | Śiśupāla | king of Chedi, Jarasandha's general; killed by Krishna at the Rajasuya | Sunitha |  | Sisupala |
 | **Subahu** | Subāhu | king of the Chedis, in whose city Damayanti lives with the queen mother |  |  |  |
+| **Virabahu** | Vīrabāhu | king of the Chedis, husband of Damayanti's mother's sister; father of Subahu |  |  |  |
 | **Aditi** | Aditi | mother of the Adityas |  |  |  |
 | **Amsha** | Aṃśa | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
 | **Aryaman** | Aryaman | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
@@ -253,6 +255,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Mitra** | Mitra | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
 | **Parameshthin** | Parameṣṭhin | "the one who stands highest", a divine being at Brahma's court |  |  |  |
 | **Pushan** | Pūṣan | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
+| **Rati** | Rati | wife of the god of love |  |  |  |
 | **Savitri** | Savitṛ | one of the gods who attack Krishna and Arjuna at Khandava; also a name of the sun (3.3.18) |  |  |  |
 | **Shachi** | Śacī | Indra's wife | Indrani, Paulomi |  |  |
 | **Soma** | Soma | the moon god, who gave Varuna the bow Gandiva |  |  |  |
@@ -331,8 +334,9 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Yama** | Yama | lord of the dead, also called king of dharma | Dharmaraja, Vaivasvata |  |  |
 | **Sainya** | Sainya | one of Krishna's chariot horses |  |  |  |
 | **Sugriva** | Sugrīva | one of Krishna's chariot horses |  |  |  |
+| **Jivala** | Jīvala | one of Rituparna's charioteers, who serves with Bahuka |  |  |  |
 | **Rama Dasharathi** | Rāma Dāśarathi | son of Dasharatha, who lived in the forest at his father's word; his story is told at 3.257–276 | Dasharathi, Raghava |  |  |
-| **Rituparna** | Ṛtuparṇa | king of Ayodhya, master of dice, whom Nala serves as charioteer |  |  |  |
+| **Rituparna** | Ṛtuparṇa | king of Ayodhya, master of dice, whom Nala serves as charioteer; called Bhangasvari, son of Bhangasvara (3.68.2) |  |  |  |
 | **Sudakshina** | Sudakṣiṇa | king of the Kambojas, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Dantavakra** | Dantavakra | a king allied to Jarasandha |  |  |  |
 | **Karusha** | Karūṣa | a king allied to Jarasandha; Shishupala carried off Bhadra of Vaishali for Karusha (2.42.11) |  |  |  |
@@ -622,7 +626,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Parashara** | Parāśara | son of Shakti; father of Vyasa by Satyavati |  |  | Parasara |
 | **Parijata** | Pārijāta | a seer present in Yudhishthira's hall |  |  |  |
 | **Parijataka** | Pārijātaka | a seer present in Yudhishthira's hall |  |  |  |
-| **Parnada** | Parṇāda | a seer present in Yudhishthira's hall |  |  |  |
+| **Parnada** | Parṇāda | a seer present in Yudhishthira's hall; also the brahmin who finds Bahuka at Ayodhya and brings back his answer to Damayanti (3.68.1) |  |  |  |
 | **Parvata** | Parvata | a seer present in Yudhishthira's hall |  |  |  |
 | **Pavitrapani** | Pavitrapāṇi | a seer present in Yudhishthira's hall |  |  |  |
 | **Pramadvara** | Pramadvarā | daughter of Vishvavasu and Menaka, raised by Sthulakesha; Ruru's wife |  |  |  |
@@ -713,7 +717,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shreniman** | Śreṇimat | a king named among the suitors at Draupadi's bridegroom choice |  |  | Shrenimat |
 | **Shrutayu** | Śrutāyu | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Shubhangada** | Śubhāṅgada | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
-| **Sudama** | Sudāman | a king named among the suitors at Draupadi's bridegroom choice |  |  | Sudaman |
+| **Sudama** | Sudāman | a king named among the suitors at Draupadi's bridegroom choice; also Sudama, lord of the Dasharnas, grandfather of Damayanti (3.66.12) |  |  | Sudaman |
 | **Sudanda** | Sudaṇḍa | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Sukumara** | Sukumāra | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Sumitra** | Sumitra | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
