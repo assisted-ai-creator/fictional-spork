@@ -2,7 +2,7 @@
 
 # Contents
 
-**170 chapters, 364,290 words.** 170 drafted
+**172 chapters, 369,017 words.** 172 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -193,5 +193,7 @@
 | 53 | [The Nivatakavachas](../novel/book-03-aranyaka/53-the-nivatakavachas.md) | 3.166-169 | drafted | 2,363 |
 | 54 | [Hiranyapura](../novel/book-03-aranyaka/54-hiranyapura.md) | 3.170-172 | drafted | 2,405 |
 | 55 | [The Serpent](../novel/book-03-aranyaka/55-the-serpent.md) | 3.173-176 | drafted | 2,968 |
+| 56 | [Nahusha's Questions](../novel/book-03-aranyaka/56-nahushas-questions.md) | 3.177-178 | drafted | 1,974 |
+| 57 | [Markandeya](../novel/book-03-aranyaka/57-markandeya.md) | 3.179-181 | drafted | 2,753 |
 
-*Book 3 so far: 140,029 words.*
+*Book 3 so far: 144,756 words.*

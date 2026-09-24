@@ -18,6 +18,16 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 56–57 drafted: Nahusha's questions; Markandeya
+- Ch 56 *Nahusha's Questions* (CE 3.177–178) and Ch 57 *Markandeya* (3.179–181): the serpent's questions on
+  who is a brahmin, what is to be known, the way to heaven and the self; Nahusha's own account of his fall;
+  the rains and autumn by the Sarasvati; Krishna and Satyabhama at Kamyaka, with news of Draupadi's sons;
+  the coming of Markandeya and Narada; Markandeya on deeds and rebirth. About 4,700 words.
+- Ledger: new L-138 (a brahmin by conduct, not birth: one argument in Yudhishthira's dialogue with
+  Nahusha, with its context).
+- Fix: ch 55's note on Nahusha now points to his own account of the litter and Agastya at 3.178.33–38.
+- Names: Satyabhama added; Markandeya, Aniruddha and Sunitha extended.
+
 ### Novel: Book 3, chapters 54–55 drafted: Hiranyapura; the serpent
 - Ch 54 *Hiranyapura* (CE 3.170–172) and Ch 55 *The Serpent* (3.173–176): the flying city of the Paulomas
   and Kalakeyas and the Raudra weapon; Indra's gifts and the five years in heaven; Narada stops Arjuna's

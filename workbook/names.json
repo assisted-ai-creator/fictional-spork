@@ -4539,7 +4539,7 @@
    "name": "Markandeya",
    "iast": "Mārkaṇḍeya",
    "group": "Seer",
-   "who": "a seer present in Yudhishthira's hall",
+   "who": "a seer present in Yudhishthira's hall; the long-lived seer who tells the Pandavas many tales in the Kamyaka forest (3.180–221)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -5007,7 +5007,7 @@
    "name": "Aniruddha",
    "iast": "Aniruddha",
    "group": "King",
-   "who": "a king present in Yudhishthira's hall",
+   "who": "a king present in Yudhishthira's hall; also a Vrishni youth taught by Pradyumna (3.180.27)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -5217,7 +5217,7 @@
    "name": "Sunitha",
    "iast": "Sunītha",
    "group": "Catalogue",
-   "who": "named in Indra's hall (2.7)",
+   "who": "named in Indra's hall (2.7); also a Vrishni youth taught by Pradyumna (3.180.27)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -8988,6 +8988,16 @@
    "dialogue": [],
    "flag": [],
    "ref": "3.170.2"
+  },
+  {
+   "name": "Satyabhama",
+   "iast": "Satyabhāmā",
+   "group": "Vrishni",
+   "who": "Krishna's queen; she comes with him to the Pandavas in the Kamyaka forest (3.180.7)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.180.7"
   }
  ],
  "not_vyasa": [

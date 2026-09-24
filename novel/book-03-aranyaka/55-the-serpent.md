@@ -278,7 +278,7 @@ serpents, unable to move.
 **Divergences.**
 
 * **Nahusha's pride.** A rejected passage (\*875) has Nahusha tell how he won the lordship of the three worlds, was carried in a litter by a thousand sages and touched
-  Agastya with his foot. In the CE he says only that he fell through Agastya's curse and because he scorned the brahmins (3.176.14). The story is told in Book 5.
+  Agastya with his foot. Here in the CE he says only that he fell through Agastya's curse and because he scorned the brahmins (3.176.14); he tells Yudhishthira of the litter and the touch of his foot in the next chapter (3.178.33–38).
 * **Bhima's hunting.** An appendix passage (@18, after 3.175.11) describes Bhima killing great beasts in the forest. Not narrated.
 * **Yudhishthira's search.** Rejected passages (\*879–\*881) add the herds of dead beasts on Bhima's track and the barren ground of the cave. Not narrated.
 

@@ -195,7 +195,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sudyumna** | Sudyumna | named in Yama's hall (2.8) |  |  |  |
 | **Suhanu** | Suhanu | named in Varuna's hall (2.9) |  |  |  |
 | **Sumati** | Sumati | named in Varuna's hall (2.9) |  |  |  |
-| **Sunitha** | Sunītha | named in Indra's hall (2.7) |  |  |  |
+| **Sunitha** | Sunītha | named in Indra's hall (2.7); also a Vrishni youth taught by Pradyumna (3.180.27) |  |  |  |
 | **Surabhi** | Surabhi | named in Brahma's hall (2.11); the mother of cows, who wept for her weakest son (3.10) |  |  |  |
 | **Surasa** | Surasā | named in Brahma's hall (2.11) |  |  |  |
 | **Surupa** | Surūpa | named in Varuna's hall (2.9) |  |  |  |
@@ -393,7 +393,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Ahuka** | Āhuka | a king present in Yudhishthira's hall |  |  |  |
 | **Amurtarayas** | Amūrtarayas | father of King Gaya |  |  |  |
 | **Anga** | Aṅga | royal seer, son of Dirghatamas by Sudeshna |  |  |  |
-| **Aniruddha** | Aniruddha | a king present in Yudhishthira's hall |  |  |  |
+| **Aniruddha** | Aniruddha | a king present in Yudhishthira's hall; also a Vrishni youth taught by Pradyumna (3.180.27) |  |  |  |
 | **Anu** | Anu | Yayati's son by Sharmishtha |  |  |  |
 | **Arjuna Kartavirya** | Arjuna Kārtavīrya | thousand-armed king of the Haihayas, killed by Rama Jamadagnya; say 'Arjuna, the Haihaya king' to keep him apart from the Pandava | Kartavirya |  |  |
 | **Ashmaka** | Aśmaka | son of Madayanti by Vasishtha |  |  |  |
@@ -656,7 +656,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Mamata** | Mamatā | wife of Utathya, mother of Dirghatamas |  |  |  |
 | **Mandapala** | Mandapāla | a seer who, denied heaven for want of sons, became a Sharngaka bird and fathered four sons on Jarita |  |  |  |
 | **Mankanaka** | Maṅkaṇaka | a seer whose cut hand ran with vegetable juice; he danced for joy until Shiva humbled him |  |  |  |
-| **Markandeya** | Mārkaṇḍeya | a seer present in Yudhishthira's hall |  |  |  |
+| **Markandeya** | Mārkaṇḍeya | a seer present in Yudhishthira's hall; the long-lived seer who tells the Pandavas many tales in the Kamyaka forest (3.180–221) |  |  |  |
 | **Mathara** | Māṭhara | a seer whose holy forest is in the south |  |  |  |
 | **Maunjayana** | Mauñjāyana | a seer present in Yudhishthira's hall |  |  |  |
 | **Medhavin** | Medhāvin | Baladhi's proud son, who died when the mountains were split |  |  |  |
@@ -828,6 +828,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Samitimjaya** | Samitiṃjaya | a Vrishni great warrior |  |  |  |
 | **Saramejaya** | Sāramejaya | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Sarana** | Sāraṇa | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Satyabhama** | Satyabhāmā | Krishna's queen; she comes with him to the Pandavas in the Kamyaka forest (3.180.7) |  |  |  |
 | **Satyaka** | Satyaka | a Vrishni hero |  |  |  |
 | **Satyaki** | Sātyaki | Vrishni hero, Arjuna's pupil and ally | Yuyudhana, Shaineya | Yuyudhana |  |
 | **Shanku** | Śaṅku | a Vrishni hero |  |  |  |
