@@ -296,8 +296,8 @@ are refined while drafting.
 | 41 | Ashtavakra | 3.132–3.134 | ✅ drafted. Kahoḍa's curse; Aṣṭāvakra and the gatekeeper; the king's riddles; the contest of numbers; Bandin, son of Varuṇa (L-131). |
 | 42 | Yavakri | 3.135–3.139 | ✅ drafted. Yavakrī's austerity and Indra's dam of sand; Bāladhi and Medhāvin; Raibhya's demon; Bharadvāja's curse; Parāvasu and Arvāvasu; all restored. |
 | 43 | Into the Mountains | 3.140–3.142 | ✅ drafted. Lomaśa's warning and prayer; Bhīma will carry Draupadī and the twins; Subāhu of the Kunindas; Yudhiṣṭhira's longing for Arjuna. |
-| 44 | The Storm | 3.143–3.145 | The storm; Draupadī faints; Ghaṭotkaca carries them. |
-| 45 | Hanuman | 3.146–3.147 | The saugandhika flower; Bhīma meets Hanumān. |
+| 44 | The Storm | 3.143–3.145 | ✅ drafted. The storm on Gandhamādana; Draupadī faints; Ghaṭotkaca and his rakṣasas carry them past the Northern Kurus to Badarī, the hermitage of Nara and Nārāyaṇa. |
+| 45 | Hanuman | 3.146–3.147 | ✅ drafted. The saugandhika lotus; Bhīma storms up the mountain; the old monkey on the path and the tail he cannot lift (L-132); Hanumān's story of Rāma (L-133, L-134). |
 | 46 | The Ages of the World | 3.148–3.150 | Hanumān tells of the ages and shows his form. |
 | 47 | Kubera's Lake | 3.151–3.154 | The lotus pond; the rākṣasa guards; Jaṭāsura. |
 | 48 | Gandhamadana | 3.155 | The journey across Gandhamādana. |

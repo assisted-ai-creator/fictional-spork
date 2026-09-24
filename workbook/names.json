@@ -4025,7 +4025,7 @@
    "name": "Sugriva",
    "iast": "Sugrīva",
    "group": "Horse",
-   "who": "one of Krishna's chariot horses",
+   "who": "one of Krishna's chariot horses; also the monkey king, son of the Sun, Rama's ally and Hanuman's friend (3.147.25–32)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -6445,7 +6445,7 @@
    "name": "Valin",
    "iast": "Vālin",
    "group": "Catalogue",
-   "who": "named in Varuna's hall (2.9)",
+   "who": "named in Varuna's hall (2.9); also the monkey king, son of Shakra, brother of Sugriva, killed by Rama (3.147.25–32)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -8906,6 +8906,44 @@
    "dialogue": [],
    "flag": [],
    "ref": "3.140.4"
+  },
+  {
+   "name": "Kesarin",
+   "iast": "Kesarin",
+   "group": "Vanara",
+   "who": "the monkey in whose wife the Wind begot Hanuman (3.147.24)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.147.24"
+  },
+  {
+   "name": "Ravana",
+   "iast": "Rāvaṇa",
+   "group": "Rakshasa",
+   "who": "king of the rakshasas who carried off Sita; his story is told at 3.258–275",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Raavan",
+    "Ravan"
+   ],
+   "ref": "3.147.30"
+  },
+  {
+   "name": "Sita",
+   "iast": "Sītā",
+   "group": "Ikshvaku",
+   "who": "wife of Rama Dasharathi, carried off by Ravana (3.147.30–36); her story is told at 3.258–275",
+   "aka": [
+    "Vaidehi",
+    "Janaki"
+   ],
+   "dialogue": [],
+   "flag": [
+    "Seeta"
+   ],
+   "ref": "3.147.32"
   }
  ],
  "not_vyasa": [

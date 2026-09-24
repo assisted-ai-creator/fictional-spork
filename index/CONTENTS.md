@@ -2,7 +2,7 @@
 
 # Contents
 
-**158 chapters, 334,842 words.** 158 drafted
+**160 chapters, 339,563 words.** 160 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -181,5 +181,7 @@
 | 41 | [Ashtavakra](../novel/book-03-aranyaka/41-ashtavakra.md) | 3.132-134 | drafted | 2,633 |
 | 42 | [Yavakri](../novel/book-03-aranyaka/42-yavakri.md) | 3.135-139 | drafted | 2,579 |
 | 43 | [Into the Mountains](../novel/book-03-aranyaka/43-into-the-mountains.md) | 3.140-142 | drafted | 1,586 |
+| 44 | [The Storm](../novel/book-03-aranyaka/44-the-storm.md) | 3.143-145 | drafted | 1,935 |
+| 45 | [Hanuman](../novel/book-03-aranyaka/45-hanuman.md) | 3.146-147 | drafted | 2,786 |
 
-*Book 3 so far: 110,581 words.*
+*Book 3 so far: 115,302 words.*

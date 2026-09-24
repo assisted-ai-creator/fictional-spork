@@ -18,6 +18,16 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 44–45 drafted: the storm; Hanuman
+- Ch 44 *The Storm* (CE 3.143–145) and Ch 45 *Hanuman* (3.146–147): the storm of wind, dust and stones on
+  Gandhamadana; Draupadi faints and Yudhishthira blames himself; Ghatotkacha carries them to Badari and the
+  hermitage of Nara and Narayana; the wind brings the saugandhika lotus; Bhima's rampage up the mountain;
+  the old monkey who will not move, the tail Bhima cannot lift, and Hanuman's account of Rama.
+  About 4,700 words.
+- Ledger: new L-132 (the tail, and Hanuman does not know Bhima at first), L-133 (life as long as Rama's story
+  lasts) and L-134 (the burning of Lanka is one half-verse in the CE, at 3.266.68).
+- Names: Kesarin, Ravana and Sita added; the monkey kings Valin and Sugriva noted beside their namesakes.
+
 ### Novel: Book 3, chapters 42–43 drafted: Yavakri; into the mountains
 - Ch 42 *Yavakri* (CE 3.135–139) and Ch 43 *Into the Mountains* (3.140–142): Yavakri's austerity and
   Indra's dam of sand; Bharadvaja's tale of Baladhi and Medhavin; Raibhya's demon; Bharadvaja's curse and

@@ -214,7 +214,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vadhryashva** | Vadhryaśva | named in Yama's hall (2.8) |  |  |  |
 | **Vainya** | Vainya | named in Yama's hall (2.8) |  |  |  |
 | **Vaishvanara** | Vaiśvānara | named in Indra's hall (2.7) |  |  |  |
-| **Valin** | Vālin | named in Varuna's hall (2.9) |  |  |  |
+| **Valin** | Vālin | named in Varuna's hall (2.9); also the monkey king, son of Shakra, brother of Sugriva, killed by Rama (3.147.25–32) |  |  |  |
 | **Valmiki** | Vālmīki | named in Indra's hall (2.7) |  |  |  |
 | **Vamadeva** | Vāmadeva | named in Indra's hall (2.7) |  |  |  |
 | **Varahakarna** | Varāhakarṇa | named in Kubera's hall (2.10) |  |  |  |
@@ -342,12 +342,13 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vishnu** | Viṣṇu | the god who counsels the churning, takes a woman's form to win back the nectar, and wields the discus Sudarshana | Narayana, Hari, Achyuta |  | Vishnoo |
 | **Yama** | Yama | lord of the dead, also called king of dharma | Dharmaraja, Vaivasvata |  |  |
 | **Sainya** | Sainya | one of Krishna's chariot horses |  |  |  |
-| **Sugriva** | Sugrīva | one of Krishna's chariot horses |  |  |  |
+| **Sugriva** | Sugrīva | one of Krishna's chariot horses; also the monkey king, son of the Sun, Rama's ally and Hanuman's friend (3.147.25–32) |  |  |  |
 | **Amshumant** | Aṃśumant | son of Asamanjas, who brought back Sagara's horse |  |  |  |
 | **Asamanjas** | Asamañjas | Sagara's son by Shaibya, banished for drowning children |  |  |  |
 | **Jivala** | Jīvala | one of Rituparna's charioteers, who serves with Bahuka |  |  |  |
 | **Rama Dasharathi** | Rāma Dāśarathi | son of Dasharatha, who lived in the forest at his father's word; his story is told at 3.257–276 | Dasharathi, Raghava |  |  |
 | **Rituparna** | Ṛtuparṇa | king of Ayodhya, master of dice, whom Nala serves as charioteer; called Bhangasvari, son of Bhangasvara (3.68.2) |  |  |  |
+| **Sita** | Sītā | wife of Rama Dasharathi, carried off by Ravana (3.147.30–36); her story is told at 3.258–275 | Vaidehi, Janaki |  | Seeta |
 | **Yuvanashva** | Yuvanāśva | a king who bore his son Mandhatar from his own side |  |  |  |
 | **Sudakshina** | Sudakṣiṇa | king of the Kambojas, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Dantavakra** | Dantavakra | a king allied to Jarasandha |  |  |  |
@@ -574,6 +575,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kinkara** | Kiṃkara | rakshasa who possessed Kalmashapada |  |  |  |
 | **Kirmira** | Kirmīra | rakshasa killed by Bhima in the Kamyaka forest |  |  |  |
 | **Puloman** | Puloman (Pulomā, m.) | the rakshasa who carries off Bhrigu's wife |  |  |  |
+| **Ravana** | Rāvaṇa | king of the rakshasas who carried off Sita; his story is told at 3.258–275 |  |  | Raavan, Ravan |
 | **Adrishyanti** | Adṛśyantī | Shakti's wife, mother of Parashara |  |  |  |
 | **Agastya** | Agastya | seer who hunted during a sacrifice and consecrated the deer to the gods |  |  |  |
 | **Agniveshya** | Agniveśya | sage who received the weapon of Fire from Bharadvaja and taught Drona |  |  |  |
@@ -783,6 +785,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vatsaraja** | Vatsarāja | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Vrika** | Vṛka | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Hanuman** | Hanūmat | the monkey, son of the wind; he meets Bhima in Book 3 and promises to sit on Arjuna's banner (3.150.15); not named on the banner at 1.216 |  |  | Hanumana |
+| **Kesarin** | Kesarin | the monkey in whose wife the Wind begot Hanuman (3.147.24) |  |  |  |
 | **Brihatsena** | Bṛhatsenā | Damayanti's nurse |  |  |  |
 | **Dama** | Dama | Damayanti's brother |  |  |  |
 | **Danta** | Dānta | Damayanti's brother |  |  |  |
