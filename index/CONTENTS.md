@@ -2,7 +2,7 @@
 
 # Contents
 
-**94 chapters, 174,002 words.** 94 drafted
+**96 chapters, 178,315 words.** 96 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -110,5 +110,7 @@
 |---|---------|----|--------|-------|
 | 1 | [Maya's Hall](../novel/book-02-sabha/01-mayas-hall.md) | 2.1-3 | drafted | 1,664 |
 | 2 | [Narada's Questions](../novel/book-02-sabha/02-naradas-questions.md) | 2.4-5 | drafted | 3,612 |
+| 3 | [The Halls of the Gods](../novel/book-02-sabha/03-the-halls-of-the-gods.md) | 2.6-10 | drafted | 2,688 |
+| 4 | [Pandu's Message](../novel/book-02-sabha/04-pandus-message.md) | 2.11 | drafted | 1,625 |
 
-*Book 2 so far: 5,276 words.*
+*Book 2 so far: 9,589 words.*

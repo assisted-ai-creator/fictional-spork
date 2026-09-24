@@ -18,6 +18,20 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 2, chapters 3–4 drafted: the halls of the gods
+- Ch 3 *The Halls of the Gods* (CE 2.6–10) and Ch 4 *Pandu's Message* (2.11): Narada
+  describes the halls of Indra, Yama, Varuna, Kubera and Brahma, with their lists kept in
+  full; Harishchandra's Rajasuya; Pandu's message urging Yudhishthira to perform it. About
+  4,300 words. The Book 2 plan now has 18 chapters, since 2.6–11 was split in two.
+
+### Reference
+- Ledger **L-108**: Harishchandra's famous truthfulness story is not in the CE, which honours
+  him only as the performer of a Rajasuya.
+
+### Workbook
+- `names.json`: +191, the names in the catalogues of 2.7–11. The Prahlada entry notes that the
+  CE spells him Prahrada in Book 1 and Prahlada in Book 2.
+
 ### Novel: Book 2 (Sabha Parva) begun: chapters 1–2
 - New folder `novel/book-02-sabha/`. Book 2's chapter plan (17 chapters, CE 2.1–2.72) was
   drawn up from the CE and added to `NOVEL_PLAN.md`.
