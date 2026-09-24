@@ -276,8 +276,8 @@ are refined while drafting.
 | 21 | Damayanti Alone | 3.61 | ✅ drafted. The wild forest; the tiger, the mountain and the ashoka tree; the vanishing hermitage; the caravan of the Chedis. |
 | 22 | The Caravan | 3.62–3.64 | ✅ drafted. The elephants and the caravan; the sairandhrī's terms; Karkoṭaka's bite; Bāhuka at Ayodhyā; the evening verse. |
 | 23 | The Search | 3.65–3.68 | ✅ drafted. Sudeva finds Damayantī by the mark between her brows; her aunt; the message sent out; Parṇāda's news; the "second bridegroom choice". |
-| 24 | The Race to Vidarbha | 3.69–3.72 | Ṛtuparṇa's journey; the dice-lore; Kali leaves Nala; Keśinī sent. |
-| 25 | Nala Returns | 3.73–3.78 | Keśinī's report; the reunion; Nala wins back his kingdom. |
+| 24 | The Race to Vidarbha | 3.69–3.72 | ✅ drafted. The thin horses; the vibhītaka count; the secrets exchanged; Kali leaves; the chariot's roar at Kuṇḍina; Keśinī's questions. |
+| 25 | Nala Returns | 3.73–3.78 | ✅ drafted. Water, fire and flowers; the taste of the meat; the Wind's witness; Nala's own form; Puṣkara spared; the secret of the dice for Yudhiṣṭhira (L-123). |
 | 26 | The Merit of the Fords | 3.79–3.80 | The Pāṇḍavas miss Arjuna; Nārada; Pulastya to Bhīṣma begins. |
 | 27 | Pulastya's Fords I | 3.81 | The fords of Kurukṣetra and beyond. |
 | 28 | Pulastya's Fords II | 3.82 | The fords, continued. |

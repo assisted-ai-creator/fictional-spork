@@ -646,6 +646,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sarpamali** | Sarpamālin | a seer present in Yudhishthira's hall |  |  | Sarpamalin |
 | **Savarni** | Sāvarṇi | a seer present in Yudhishthira's hall |  |  |  |
 | **Shakti** | Śakti | Vasishtha's eldest son, eaten by Kalmashapada; father of Parashara | Shaktri |  | Sakti |
+| **Shalihotra** | Śālihotra | the sage of horse lore |  |  |  |
 | **Shamika** | Śamīka | the silent sage on whose shoulder Parikshit hangs a dead snake; father of Shringin |  |  | Shameek |
 | **Shandilya** | Śāṇḍilya | a seer present in Yudhishthira's hall |  |  |  |
 | **Sharadvat** | Śaradvat | Gautama's son, the archer-seer, father of Kripa and Kripi | Gautama |  | Saradvan, Sharadvan |
@@ -731,6 +732,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Brihatsena** | Bṛhatsenā | Damayanti's nurse |  |  |  |
 | **Dama** | Dama | Damayanti's brother |  |  |  |
 | **Danta** | Dānta | Damayanti's brother |  |  |  |
+| **Keshini** | Keśinī | Damayanti's maid, who tests Bahuka |  |  |  |
 | **Akrura** | Akrūra | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Anadhrishti** | Anādhṛṣṭi | a Vrishni hero who comes to Indraprastha with Krishna |  |  |  |
 | **Anakadundubhi** | Ānakadundubhi | Vasudeva, Krishna's father |  |  |  |

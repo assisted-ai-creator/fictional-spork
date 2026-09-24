@@ -8303,6 +8303,26 @@
    "dialogue": [],
    "flag": [],
    "ref": "3.65.11"
+  },
+  {
+   "name": "Keshini",
+   "iast": "Keśinī",
+   "group": "Vidarbha",
+   "who": "Damayanti's maid, who tests Bahuka",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.72.1"
+  },
+  {
+   "name": "Shalihotra",
+   "iast": "Śālihotra",
+   "group": "Seer",
+   "who": "the sage of horse lore",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.69.25"
   }
  ],
  "not_vyasa": [

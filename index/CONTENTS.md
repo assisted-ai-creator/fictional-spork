@@ -2,7 +2,7 @@
 
 # Contents
 
-**138 chapters, 280,773 words.** 138 drafted
+**140 chapters, 287,040 words.** 140 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -161,5 +161,7 @@
 | 21 | [Damayanti Alone](../novel/book-03-aranyaka/21-damayanti-alone.md) | 3.61 | drafted | 2,936 |
 | 22 | [The Caravan](../novel/book-03-aranyaka/22-the-caravan.md) | 3.62-64 | drafted | 2,018 |
 | 23 | [The Search](../novel/book-03-aranyaka/23-the-search.md) | 3.65-68 | drafted | 2,458 |
+| 24 | [The Race to Vidarbha](../novel/book-03-aranyaka/24-the-race-to-vidarbha.md) | 3.69-72 | drafted | 3,023 |
+| 25 | [Nala Returns](../novel/book-03-aranyaka/25-nala-returns.md) | 3.73-78 | drafted | 3,244 |
 
-*Book 3 so far: 56,512 words.*
+*Book 3 so far: 62,779 words.*

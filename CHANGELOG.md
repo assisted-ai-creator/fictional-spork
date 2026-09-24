@@ -18,6 +18,16 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 24–25 drafted: the race to Vidarbha; Nala returns (the tale of Nala complete)
+- Ch 24 *The Race to Vidarbha* (CE 3.69–72) and Ch 25 *Nala Returns* (3.73–78) finish Brihadashva's
+  tale of Nala (3.50–78, eight chapters): the drive to Kundina; the vibhitaka count and the exchange of
+  secrets; Kali leaves Nala; Keshini's tests; the taste of the meat; the Wind's witness; the second game
+  and Pushkara spared; Brihadashva teaches Yudhishthira the secret of the dice. About 6,300 words.
+- Checked: the CE does not say Bahuka lit the fire with the sun (3.73.12); Ganguli's "held it in the
+  sun" follows another reading.
+- Ledger: new L-123 (Yudhishthira learns the dice) and L-124 (Nala the cook).
+- Names: Keshini and Shalihotra added.
+
 ### Novel: Book 3, chapters 22–23 drafted: the caravan; the search
 - Ch 22 *The Caravan* (CE 3.62–64) and Ch 23 *The Search* (3.65–68): the elephants trample the
   caravan; Damayanti as a sairandhri among the Chedis, on her own terms; Karkotaka's bite and the
