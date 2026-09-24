@@ -18,6 +18,20 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 2, chapters 9–10 drafted: the conquest of the quarters
+- Ch 9 *The Northern Quarter* (CE 2.23–25) and Ch 10 *East, South and West* (2.26–29):
+  Arjuna's campaign in the north, Bhagadatta, the Kimpurushas and the Northern Kurus; Bhima's
+  campaign in the east, with Shishupala's tribute and Karna's defeat; Sahadeva's in the south,
+  with Agni at Mahishmati and the envoys to Vibhishana; Nakula's in the west, with Shalya. About
+  4,000 words. The Book 2 plan now has 21 chapters.
+
+### Reference
+- Ledger **L-111**: Ghatotkacha's embassy to Lanka is not in the CE. Sahadeva sends envoys.
+
+### Workbook
+- `names.json`: +13 (the kings of the conquests); entries for Nila, Vibhishana, Sudharma,
+  Prativindhya, Janaka, Kacha and Brihanta note the namesakes in 2.23–29.
+
 ### Novel: Book 2, chapters 7–8 drafted: the death of Jarasandha
 - Ch 7 *Girivraja* (CE 2.18–20) and Ch 8 *The Wrestling Match* (2.21–22): Krishna, Bhima and
   Arjuna go to Magadha as brahmin graduates, break the drums and the peak of Chaityaka, and

@@ -18,7 +18,11 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Tilottama** | Tilottamā | the woman Vishvakarman made from every beautiful thing, to divide Sunda and Upasunda |  |  |  |
 | **Urvashi** | Urvaśī | the apsaras, wife of Pururavas |  |  | Urvasi |
 | **Varga** | Vargā | one of the five apsarases cursed to be crocodiles and freed by Arjuna |  |  |  |
+| **Anuvinda** | Anuvinda | one of the two princes of Avanti |  |  |  |
+| **Vinda** | Vinda | one of the two princes of Avanti |  |  |  |
+| **Jambhaka** | Jambhaka | father of a Bhoja king spared by Krishna |  |  |  |
 | **Kamsa** | Kaṃsa | the tyrant of Mathura, Jarasandha's son-in-law, killed by Krishna and Balarama |  |  | Kansa |
+| **Rukmin** | Rukmin | son of Bhishmaka, king at Bhojakata |  |  |  |
 | **Sunaman** | Sunāman | killed with Kamsa |  |  |  |
 | **Jarita** | Jaritā | a female Sharngaka bird, mother of Mandapala's four sons |  |  |  |
 | **Jaritari** | Jaritāri | eldest of the four Sharngaka fledglings |  |  |  |
@@ -79,7 +83,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Indradyumna** | Indradyumna | named in Yama's hall (2.8) |  |  |  |
 | **Indratapana** | Indratāpana | named in Varuna's hall (2.9) |  |  |  |
 | **Ira** | Irā | named in Kubera's hall (2.10) |  |  |  |
-| **Janaka** | Janaka | named in Yama's hall (2.8) |  |  |  |
+| **Janaka** | Janaka | named in Yama's hall (2.8); also King Janaka of Videha, defeated by Bhima (2.27.12) |  |  |  |
 | **Kaitabha** | Kaiṭabha | named in Varuna's hall (2.9) |  |  |  |
 | **Kala** | Kāla | named in Indra's hall (2.7) |  |  |  |
 | **Kalaka** | Kālakā | named in Brahma's hall (2.11) |  |  |  |
@@ -201,7 +205,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vasuman** | Vasumat | named in Brahma's hall (2.11) |  |  |  |
 | **Vataskandha** | Vātaskandha | named in Indra's hall (2.7) |  |  |  |
 | **Vena** | Vena | named in Yama's hall (2.8) |  |  |  |
-| **Vibhishana** | Vibhīṣaṇa | named in Kubera's hall (2.10) |  |  |  |
+| **Vibhishana** | Vibhīṣaṇa | named in Kubera's hall (2.10); also Vibhishana, grandson of Pulastya, in Lanka, who accepts Sahadeva's command (2.28.50) |  |  |  |
 | **Vidhatri** | Vidhātṛ | named in Indra's hall (2.7) |  |  |  |
 | **Viprachitti** | Vipracitti | named in Varuna's hall (2.9) |  |  |  |
 | **Virupa** | Virūpa | named in Varuna's hall (2.9) |  |  |  |
@@ -293,6 +297,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Karusha** | Karūṣa | a king allied to Jarasandha |  |  |  |
 | **Vakra** | Vakra | lord of the Karushas who fights with magic, Jarasandha's follower |  |  |  |
 | **Amba** | Ambā | eldest princess of Kashi, carried off by Bhishma |  |  |  |
+| **Subandhu** | Subandhu | king of Kashi, defeated by Bhima |  |  |  |
 | **Suvarnavarman** | Suvarṇavarman | king of Kashi, Vapushtama's father |  |  |  |
 | **Bahushali** | Bāhuśālin | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  | Bahushalin |
 | **Balaki** | Balākin | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
@@ -322,6 +327,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Karna** | Karṇa | Kunti's first son, by the Sun, born with armour and earrings; raised by the charioteer Adhiratha and Radha | Vasushena, Radheya, Vaikartana, Suta's son | Radheya | Karan, Karn, Vasusena |
 | **Radha** | Rādhā | Adhiratha's wife, Karna's foster mother. The only Radha in the epic (see ledger L-58) |  |  |  |
 | **Sharadandayani** | Śāradaṇḍāyanī | a hero's wife who bore three sons, Durjaya and others, by a brahmin |  |  |  |
+| **Drumaputra** | Drumaputra | ruler of the Kimpurushas |  |  |  |
 | **Ahriti** | Āhṛti | a king present in Yudhishthira's hall |  |  |  |
 | **Ahuka** | Āhuka | a king present in Yudhishthira's hall |  |  |  |
 | **Anga** | Aṅga | royal seer, son of Dirghatamas by Sudeshna |  |  |  |
@@ -354,11 +360,13 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kamala** | Kamala | a king present in Yudhishthira's hall |  |  |  |
 | **Kampana** | Kampana | a king present in Yudhishthira's hall |  |  |  |
 | **Ketuman** | Ketumat | a king present in Yudhishthira's hall |  |  | Ketumat |
+| **Kratha** | Kratha | an overlord of kings defeated by Bhima |  |  |  |
 | **Kritakshana** | Kṛtakṣaṇa | a king present in Yudhishthira's hall |  |  |  |
 | **Kritavirya** | Kṛtavīrya | king who enriched the Bhrigus; father of Arjuna Kartavirya |  |  |  |
 | **Kshemajit** | Kṣemajit | a king present in Yudhishthira's hall |  |  |  |
 | **Kshemaka** | Kṣemaka | a king present in Yudhishthira's hall |  |  |  |
 | **Kuninda** | Kuṇinda | a king present in Yudhishthira's hall |  |  |  |
+| **Lohita** | Lohita | a king of the north with ten provinces |  |  |  |
 | **Madayanti** | Madayantī | wife of Saudasa (Kalmashapada), mother of Ashmaka by Vasishtha |  |  |  |
 | **Mahabhisha** | Mahābhiṣa | a king of Ikshvaku's line in heaven, cursed by Brahma for gazing at Ganga; reborn as Shantanu |  |  |  |
 | **Manu** | Manu | Manu son of Vivasvat (through Martanda in 1.70), from whom the human race descends | Vaivasvata |  |  |
@@ -377,10 +385,12 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shibi** | Śibi | son of Ushinara, a royal seer of unequalled generosity, a grandson of Yayati through his daughter | Aushinara |  | Sibi |
 | **Shrutayudha** | Śrutāyudha | a king present in Yudhishthira's hall |  |  |  |
 | **Sudeshna** | Sudeṣṇā | Bali's queen, mother of Anga by Dirghatamas (another Sudeshna is Virata's queen) |  |  |  |
-| **Sudharma** | Sudharman | a king present in Yudhishthira's hall |  |  | Sudharman |
+| **Sudharma** | Sudharman | a king present in Yudhishthira's hall; also Sudharma, king of Dasharna, made Bhima's general (2.26.5) |  |  | Sudharman |
 | **Sumanas** | Sumanas | a king present in Yudhishthira's hall |  |  |  |
+| **Sumandala** | Sumaṇḍala | a king defeated by Arjuna in the north |  |  |  |
 | **Suratha** | Suratha | a king present in Yudhishthira's hall |  |  |  |
 | **Susharma** | Suśarman | a king present in Yudhishthira's hall |  |  | Susharman |
+| **Timingila** | Timiṃgila | a southern king subdued by Sahadeva |  |  |  |
 | **Turvasu** | Turvasu | Yayati's son by Devayani |  |  |  |
 | **Uparichara Vasu** | Uparicara Vasu | king of Chedi, Indra's friend, who rides above the earth in a crystal chariot; father of Satyavati and Matsya | Vasu, Uparichara |  |  |
 | **Vapushtama** | Vapuṣṭamā | daughter of Suvarnavarman of Kashi; Janamejaya's wife |  |  |  |
@@ -391,6 +401,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Yadu** | Yadu | Yayati's eldest son, by Devayani; ancestor of the Yadavas |  |  |  |
 | **Yauvanashva** | Yauvanāśva | an emperor of old who gave up taxes; he laid a mace at Bindusaras |  |  |  |
 | **Yayati** | Yayāti | son of Nahusha, husband of Devayani and Sharmishtha, who traded his old age for Puru's youth |  |  | Yayathi |
+| **Dirghaprajna** | Dīrghaprajña | the righteous king of Ayodhya |  |  |  |
 | **Purujit** | Purujit | Kunti's brother, Yudhishthira's maternal uncle |  |  |  |
 | **Ambalika** | Ambālikā | princess of Kashi; Vichitravirya's wife; mother of Pandu |  |  |  |
 | **Ambika** | Ambikā | princess of Kashi; Vichitravirya's wife; mother of Dhritarashtra | Kausalya |  |  |
@@ -466,13 +477,14 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kunti** | Kuntī | Pritha, daughter of Shura, adopted by Kuntibhoja; Pandu's senior wife; mother of Karna, Yudhishthira, Bhima and Arjuna | Pritha | Pritha | Kunthi |
 | **Madri** | Mādrī | princess of Madra, Shalya's sister; Pandu's second wife; mother of Nakula and Sahadeva |  |  |  |
 | **Nakula** | Nakula | elder of Madri's twin sons, by the Ashvins |  |  | Nakul |
-| **Prativindhya** | Prativindhya | son of Draupadi and Yudhishthira |  |  |  |
+| **Prativindhya** | Prativindhya | son of Draupadi and Yudhishthira; also a king of the north defeated by Arjuna (2.23.15) |  |  |  |
 | **Sahadeva** | Sahadeva | younger of Madri's twin sons, by the Ashvins; also the name of Jarasandha's son, consecrated king of Magadha by Krishna (2.20.29; 2.22.39) |  |  | Sahdev, Sahadev |
 | **Shatanika** | Śatānīka | son of Draupadi and Nakula, named after a royal seer of the Kuru line |  |  |  |
 | **Shrutakarman** | Śrutakarman | son of Draupadi and Arjuna | Shrutakarma |  |  |
 | **Shrutasena** | Śrutasena | son of Draupadi and Sahadeva |  |  |  |
 | **Sutasoma** | Sutasoma | son of Draupadi and Bhima |  |  |  |
 | **Yudhishthira** | Yudhiṣṭhira | eldest son of Kunti, by Dharma; the dharma king | Ajatashatru, Dharmaraja, Kaunteya, Partha | Ajatashatru | Yudhistira, Yudhishtira, Yudhisthira, Yudhishthir, Yudhisthir |
+| **Vishvagashva** | Viṣvagaśva | a Paurava king defeated by Arjuna |  |  |  |
 | **Bhadra** | Bhadrā | Vyushitashva's wife, daughter of Kakshivat; also the name of Kubera's wife (1.191.6) |  |  |  |
 | **Vyushitashva** | Vyuṣitāśva | Paurava king whose dead body gave his widow Bhadra seven sons |  |  |  |
 | **Baka** | Baka | man-eating rakshasa near Ekachakra, killed by Bhima |  |  | Bakasura |
@@ -518,7 +530,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Jaratkaru** | Jaratkāru | a Yayavara seer of strict vows who marries only a bride of his own name; Astika's father. His wife, Vasuki's sister, has the same name (1.13.34) |  |  | Jaratkaaru, Jaratkara |
 | **Jatila** | Jaṭilā | a woman of the Gautama line who lived with seven seers; Yudhishthira's precedent for Draupadi's marriage |  |  |  |
 | **Jatukarna** | Jātūkarṇa | a seer present in Yudhishthira's hall |  |  |  |
-| **Kacha** | Kaca | son of Brihaspati, who learns the art of raising the dead from Shukra |  |  | Kach |
+| **Kacha** | Kaca | son of Brihaspati, who learns the art of raising the dead from Shukra; also Kacha (Kāca), a lord of Vanga defeated by Bhima (2.27.22) |  |  | Kach |
 | **Kakshivat** | Kākṣīvat | eldest of the eleven sons of Dirghatamas by Sudeshna's servant |  |  | Kakshivan, Kakshivant |
 | **Kalapa** | Kalāpa | a seer present in Yudhishthira's hall |  |  |  |
 | **Kanva** | Kaṇva | the Kashyapa seer on the Malini who raised Shakuntala | the Kashyapa |  | Kanwa |
@@ -604,7 +616,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Bhoja** | Bhoja | a warrior paired with Ashvatthama among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Bhuri** | Bhūri | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Brihadratha** | Bṛhadratha | a king named among the suitors at Draupadi's bridegroom choice; also King Brihadratha of Magadha, Jarasandha's father (2.16.12) |  |  |  |
-| **Brihanta** | Bṛhanta | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Brihanta** | Bṛhanta | a king named among the suitors at Draupadi's bridegroom choice; also Brihanta, king of Kuluta, defeated by Arjuna (2.24.4) |  |  |  |
 | **Brihatkshatra** | Bṛhatkṣatra | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Chandrasena** | Candrasena | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Chitrayudha** | Citrāyudha | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
@@ -614,7 +626,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Jalasandha** | Jalasaṃdha | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Jayatsena** | Jayatsena | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Maniman** | Maṇimat | a king named among the suitors at Draupadi's bridegroom choice |  |  | Manimat |
-| **Nila** | Nīla | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Nila** | Nīla | a king named among the suitors at Draupadi's bridegroom choice; also King Nila of Mahishmati, protected by Agni (2.28.11) |  |  |  |
 | **Paundraka Vasudeva** | Pauṇḍraka Vāsudeva | king of the Pundras, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Rochamana** | Rocamāna | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Samudrasena** | Samudrasena | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
