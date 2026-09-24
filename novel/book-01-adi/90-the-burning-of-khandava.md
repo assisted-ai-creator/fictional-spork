@@ -245,8 +245,9 @@ Sharngaka birds.
 
 **Divergences.**
 
-* **How long it burned.** The popular "fifteen days" is only in a rejected line: "wise Agni
-  burned that forest for fifteen days" (\*2138). The CE gives no length of time.
+* **How long it burned.** The CE says at the end of the episode that Agni burned the forest
+  "for six days" (*ahāni pañca caikaṃ ca*, 1.225.15). The popular "fifteen days" comes from a
+  rejected line (\*2138).
 * The vulgate has Skanda, Kubera's attendants and the wind join the gods' attack (\*2130,
   \*2131). Not in the CE.
 * **Ashvasena.** The snake cursed here is Takshaka's son. The CE names him again at 9.60.35.

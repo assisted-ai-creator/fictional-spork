@@ -571,7 +571,7 @@
    "name": "Drona",
    "iast": "Droṇa",
    "group": "Kuru",
-   "who": "Brahmin master of arms, son of Bharadvaja, born in a pot",
+   "who": "Brahmin master of arms, son of Bharadvaja, born in a pot; also the name of the youngest of the four Sharngaka fledglings (1.221.9)",
    "aka": [
     "Bharadvaja (son of)"
    ],
@@ -4165,6 +4165,66 @@
     "Hanumana"
    ],
    "ref": "3.147"
+  },
+  {
+   "name": "Mandapala",
+   "iast": "Mandapāla",
+   "group": "Seer",
+   "who": "a seer who, denied heaven for want of sons, became a Sharngaka bird and fathered four sons on Jarita",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.220.5"
+  },
+  {
+   "name": "Jarita",
+   "iast": "Jaritā",
+   "group": "Bird",
+   "who": "a female Sharngaka bird, mother of Mandapala's four sons",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.220.16"
+  },
+  {
+   "name": "Lapita",
+   "iast": "Lapitā",
+   "group": "Bird",
+   "who": "Mandapala's second mate",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.220.17"
+  },
+  {
+   "name": "Jaritari",
+   "iast": "Jaritāri",
+   "group": "Bird",
+   "who": "eldest of the four Sharngaka fledglings",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.221.8"
+  },
+  {
+   "name": "Sarisrikva",
+   "iast": "Sārisṛkva",
+   "group": "Bird",
+   "who": "second of the four Sharngaka fledglings",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.221.8"
+  },
+  {
+   "name": "Stambamitra",
+   "iast": "Stambamitra",
+   "group": "Bird",
+   "who": "third of the four Sharngaka fledglings",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.221.9"
   }
  ],
  "not_vyasa": [

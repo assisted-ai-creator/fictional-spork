@@ -5,7 +5,8 @@ English. It is **faithful to the Critical Edition** (Bhandarkar Oriental
 Research Institute, Pune) and leaves out every later addition, folk tale and
 modern invention.
 
-> **Status:** Book 1 (Ādi Parva) in progress. See
+> **Status:** Book 1 (Ādi Parva) drafted in full: 92 chapters, all 225 adhyāyas.
+> Book 2 (Sabhā Parva) next. See
 > [`index/CONTENTS.md`](index/CONTENTS.md) and
 > [`index/COVERAGE.md`](index/COVERAGE.md).
 

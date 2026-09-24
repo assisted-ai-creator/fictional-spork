@@ -2,7 +2,7 @@
 
 # Contents
 
-**90 chapters, 165,259 words.** 90 drafted
+**92 chapters, 168,726 words.** 92 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -99,5 +99,7 @@
 | 88 | [Abhimanyu](../novel/book-01-adi/88-abhimanyu.md) | 1.213 | drafted | 1,732 |
 | 89 | [Agni's Hunger](../novel/book-01-adi/89-agnis-hunger.md) | 1.214-216 | drafted | 1,965 |
 | 90 | [The Burning of Khandava](../novel/book-01-adi/90-the-burning-of-khandava.md) | 1.217-219 | drafted | 2,405 |
+| 91 | [Jarita](../novel/book-01-adi/91-jarita.md) | 1.220-222 | drafted | 1,754 |
+| 92 | [Indra's Boon](../novel/book-01-adi/92-indras-boon.md) | 1.223-225 | drafted | 1,713 |
 
-*Book 1 so far: 165,259 words.*
+*Book 1 so far: 168,726 words.*

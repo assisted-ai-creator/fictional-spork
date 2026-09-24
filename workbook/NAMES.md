@@ -18,6 +18,11 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Tilottama** | Tilottamā | the woman Vishvakarman made from every beautiful thing, to divide Sunda and Upasunda |  |  |  |
 | **Urvashi** | Urvaśī | the apsaras, wife of Pururavas |  |  | Urvasi |
 | **Varga** | Vargā | one of the five apsarases cursed to be crocodiles and freed by Arjuna |  |  |  |
+| **Jarita** | Jaritā | a female Sharngaka bird, mother of Mandapala's four sons |  |  |  |
+| **Jaritari** | Jaritāri | eldest of the four Sharngaka fledglings |  |  |  |
+| **Lapita** | Lapitā | Mandapala's second mate |  |  |  |
+| **Sarisrikva** | Sārisṛkva | second of the four Sharngaka fledglings |  |  |  |
+| **Stambamitra** | Stambamitra | third of the four Sharngaka fledglings |  |  |  |
 | **Aditi** | Aditi | mother of the Adityas |  |  |  |
 | **Amsha** | Aṃśa | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
 | **Aryaman** | Aryaman | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
@@ -165,7 +170,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Chitrangada** | Citrāṅgada | elder son of Shantanu and Satyavati. The same name belongs to Chitravahana's daughter of Manalura, Arjuna's wife and mother of Babhruvahana (1.207.15), and to a suitor king (1.177.20) |  |  |  |
 | **Devapi** | Devāpi | Pratipa's eldest son, who left for the forest as a boy |  |  |  |
 | **Dhritarashtra** | Dhṛtarāṣṭra | blind elder son of Vyasa and Ambika; father of Duryodhana and his brothers |  |  | Dhritrashtra, Dhritarashtr, Dhrutarashtra |
-| **Drona** | Droṇa | Brahmin master of arms, son of Bharadvaja, born in a pot | Bharadvaja (son of) |  | Dronacharya, Dron |
+| **Drona** | Droṇa | Brahmin master of arms, son of Bharadvaja, born in a pot; also the name of the youngest of the four Sharngaka fledglings (1.221.9) | Bharadvaja (son of) |  | Dronacharya, Dron |
 | **Gandhari** | Gāndhārī | princess of Gandhara; Dhritarashtra's wife, who bound her own eyes | Saubali |  |  |
 | **Ganga** | Gaṅgā | the river goddess; Shantanu's first wife; Bhishma's mother | Jahnavi |  |  |
 | **Janamejaya** | Janamejaya | king of the Kurus, great-grandson of Arjuna; the snake sacrifice is his | Parikshita (son of Parikshit) |  |  |
@@ -264,6 +269,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kindama** | Kiṃdama | the sage who, in a deer's form, was shot by Pandu while mating, and cursed him |  |  | Kindam, Kimdama |
 | **Krisha** | Kṛśa | a seer's son, Shringin's friend, whose teasing provokes the curse |  |  |  |
 | **Mamata** | Mamatā | wife of Utathya, mother of Dirghatamas |  |  |  |
+| **Mandapala** | Mandapāla | a seer who, denied heaven for want of sons, became a Sharngaka bird and fathered four sons on Jarita |  |  |  |
 | **Narada** | Nārada | the divine seer who wanders the worlds; he warns the Pandavas with the tale of Sunda and Upasunda |  |  | Naarad, Narad |
 | **Parashara** | Parāśara | son of Shakti; father of Vyasa by Satyavati |  |  | Parasara |
 | **Pramadvara** | Pramadvarā | daughter of Vishvavasu and Menaka, raised by Sthulakesha; Ruru's wife |  |  |  |

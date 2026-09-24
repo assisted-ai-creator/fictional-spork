@@ -174,7 +174,8 @@ against the CE when the Book is drafted.
 | 88 | Abhimanyu | 1.213 | ✅ drafted. Kṛṣṇa's defence; the wedding; Draupadī's reproach; the cowherd-girl disguise; bridal gifts; Abhimanyu and Draupadī's five sons. |
 | 89 | Agni's Hunger | 1.214–1.216 | ✅ drafted. Yudhiṣṭhira's rule; the Yamunā outing; Agni as a brahmin; Gāṇḍīva, the chariot, the discus (L-106, L-107). |
 | 90 | The Burning of Khandava | 1.217–1.219 | ✅ drafted. The slaughter; Indra's rain; Aśvasena; the gods routed; the voice; Maya spared; the six survivors. |
-| 91… | The Sharngaka birds | 1.220–1.225 | Mandapāla and Jaritā; the four fledglings; Agni's praise; Indra's boon; the end of Book 1. |
+| 91 | Jarita | 1.220–1.222 | ✅ drafted. Mandapāla and the debt of sons; Jaritā and the fledglings; the rat's hole. |
+| 92 | Indra's Boon | 1.223–1.225 | ✅ drafted. The fledglings' hymns; Mandapāla and Lapitā; Indra's boons; six days; Maya. **Book 1 complete.** |
 
 ---
 

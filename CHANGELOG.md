@@ -18,6 +18,21 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 91–92 drafted: the Sharngaka birds. Book 1 complete
+- Ch 91 *Jarita* (CE 1.220–222) and Ch 92 *Indra's Boon* (1.223–225): Mandapala and the debt
+  of sons; Jarita and her four fledglings; the rat's hole; the fledglings' hymns and Agni's
+  mercy; Mandapala, Lapita and Jarita; Indra's boons to Arjuna and Krishna; Agni sated after
+  six days. About 3,450 words.
+- **Book 1 (Adi Parva) is now drafted in full:** 92 chapters, 225/225 adhyayas, 7,196 verses,
+  about 168,700 words. Overall coverage is 9.75% of the CE.
+- Correction: ch 90's note and ledger L-107 had said the CE gives no length for the burning.
+  It does: "six days" (1.225.15).
+
+### Workbook
+- `names.json`: +6 (Mandapala, Jarita, Lapita, Jaritari, Sarisrikva, Stambamitra); Drona's
+  entry notes the fledgling of the same name.
+- README status and `NOVEL_PLAN.md` updated: Book 2 is next.
+
 ### Novel: Book 1, chapters 89–90 drafted: the burning of Khandava
 - Ch 89 *Agni's Hunger* (CE 1.214–216) and Ch 90 *The Burning of Khandava* (1.217–219):
   Yudhishthira's rule; the outing to the Yamuna; Agni asks for the forest; Varuna's gifts of
