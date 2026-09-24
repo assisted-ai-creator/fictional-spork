@@ -18,6 +18,17 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 60–61 drafted: the age of Kali; Vamadeva's horses
+- Ch 60 *The Age of Kali* (CE 3.187–188) and Ch 61 *Vamadeva's Horses* (3.189–191; retitled from "Kalki"):
+  the child on the banyan names himself Narayana and is revealed as Krishna; the signs of the end of the Kali
+  age; the return of the Krita and the coming of Kalki; Markandeya's counsel to Yudhishthira; the frog king's
+  daughter, Vamadeva's horses and Dala's queen; Indradyumna restored to heaven by the memory of a tortoise.
+  About 6,600 words.
+- Ledger: new L-140 (the "whenever dharma declines" verse is also at 3.187.26, not only in the Gita) and
+  L-141 (Kalki in the CE: a brahmin of Sambhala; no white horse, not called an avatar).
+- Names: Kalki, Ayu (the frog king), Sushobhana, Dala, Atreya, Shyenajit, Prakarakarna and Nadijangha added;
+  Parikshit, Shala, Bala, Vamadeva, Indradyumna, Akupara and Nriga extended.
+
 ### Novel: Book 3, chapters 58–59 drafted: Manu and the fish; Markandeya in the flood
 - Ch 58 *Manu and the Fish* (CE 3.182–185; retitled from "The Greatness of Brahmins") and Ch 59 *Markandeya
   in the Flood* (3.186): the Haihaya prince and Tarkshya's son; Atri, Vainya and Sanatkumara's judgement on

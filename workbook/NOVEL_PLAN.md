@@ -312,8 +312,8 @@ are refined while drafting.
 | 57 | Markandeya | 3.179–3.181 | ✅ drafted. The rains and autumn by the Sarasvatī; Kṛṣṇa and Satyabhāmā at Kāmyaka; Draupadī's sons in Dvārakā; Mārkaṇḍeya and Nārada; how deeds bear fruit; the four fortunes. |
 | 58 | Manu and the Fish | 3.182–3.185 | ✅ drafted. Tārkṣya's son who lives again; Atri, Vainya and Sanatkumāra's judgement; Sarasvatī's teaching; Manu, the fish and the flood; the fish is Brahmā (L-139). |
 | 59 | Markandeya in the Flood | 3.186 | ✅ drafted. The lengths of the ages; the signs of the end; the seven suns, the fire and the rain; the child on the banyan; the world inside his body. |
-| 60 | The Age of Kali | 3.187–3.188 | The god's self-account; the Kali age. |
-| 61 | Kalki | 3.189–3.191 | Kalki; Parīkṣit and the frog-maiden; Indradyumna. |
+| 60 | The Age of Kali | 3.187–3.188 | ✅ drafted. The child is Nārāyaṇa; "whenever dharma declines" (L-140); the god is Kṛṣṇa; the signs of the Kali age; the Kṛta returns; Kalki (L-141). |
+| 61 | Vamadeva's Horses | 3.189–3.191 | ✅ drafted. Kalki's reign; Mārkaṇḍeya's counsel; Parīkṣit of Ayodhyā and the frog king's daughter; Śala, Dala and Vāmadeva's horses; Indradyumna, the owl, the heron and the tortoise. |
 | 62 | Dhundhumara | 3.192–3.195 | Uttaṅka; Kuvalāśva kills Dhundhu. |
 | 63 | The Faithful Wife | 3.196–3.197 | Kauśika and the faithful wife. |
 | 64 | The Righteous Butcher | 3.198–3.199 | Kauśika goes to the hunter of Mithilā. |

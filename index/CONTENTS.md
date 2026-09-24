@@ -2,7 +2,7 @@
 
 # Contents
 
-**174 chapters, 375,224 words.** 174 drafted
+**176 chapters, 381,788 words.** 176 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -197,5 +197,7 @@
 | 57 | [Markandeya](../novel/book-03-aranyaka/57-markandeya.md) | 3.179-181 | drafted | 2,753 |
 | 58 | [Manu and the Fish](../novel/book-03-aranyaka/58-manu-and-the-fish.md) | 3.182-185 | drafted | 3,285 |
 | 59 | [Markandeya in the Flood](../novel/book-03-aranyaka/59-markandeya-in-the-flood.md) | 3.186 | drafted | 2,922 |
+| 60 | [The Age of Kali](../novel/book-03-aranyaka/60-the-age-of-kali.md) | 3.187-188 | drafted | 3,252 |
+| 61 | [Vamadeva's Horses](../novel/book-03-aranyaka/61-vamadevas-horses.md) | 3.189-191 | drafted | 3,312 |
 
-*Book 3 so far: 150,963 words.*
+*Book 3 so far: 157,527 words.*
