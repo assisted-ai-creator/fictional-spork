@@ -2,7 +2,7 @@
 
 # Contents
 
-**162 chapters, 345,280 words.** 162 drafted
+**164 chapters, 349,366 words.** 164 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -185,5 +185,7 @@
 | 45 | [Hanuman](../novel/book-03-aranyaka/45-hanuman.md) | 3.146-147 | drafted | 2,786 |
 | 46 | [The Ages of the World](../novel/book-03-aranyaka/46-the-ages-of-the-world.md) | 3.148-150 | drafted | 2,731 |
 | 47 | [Kubera's Lake](../novel/book-03-aranyaka/47-kuberas-lake.md) | 3.151-154 | drafted | 2,986 |
+| 48 | [Gandhamadana](../novel/book-03-aranyaka/48-gandhamadana.md) | 3.155 | drafted | 1,917 |
+| 49 | [Maniman](../novel/book-03-aranyaka/49-maniman.md) | 3.156-157 | drafted | 2,169 |
 
-*Book 3 so far: 121,019 words.*
+*Book 3 so far: 125,105 words.*

@@ -18,6 +18,15 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 48–49 drafted: Gandhamadana; Maniman
+- Ch 48 *Gandhamadana* (CE 3.155) and Ch 49 *Maniman* (3.156–157): the road north to the royal seer
+  Vrishaparvan's hermitage; the White Mountain and Malyavant; the full catalogue of the trees, birds, lakes and
+  ores of Gandhamadana; Arshtishena's questions and warning; the fifth year of waiting; Suparna's wind and the
+  flowers of five colours; Draupadi's wish; Bhima's climb to Kubera's dwelling and the death of Maniman.
+  About 4,100 words.
+- Names: the royal seers Vrishaparvan and Arshtishena, the rakshasa Maniman and Jaya as a name of Arjuna noted
+  beside their namesakes.
+
 ### Novel: Book 3, chapters 46–47 drafted: the ages of the world; Kubera's lake
 - Ch 46 *The Ages of the World* (CE 3.148–150) and Ch 47 *Kubera's Lake* (3.151–154): Hanuman's account of
   the Krita, Treta, Dvapara and Kali ages; the form Bhima cannot look at; Hanuman's teaching on the dharma of
