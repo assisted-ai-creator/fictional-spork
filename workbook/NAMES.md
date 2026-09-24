@@ -11,18 +11,26 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Ghritachi** | Ghṛtācī | apsaras at whose sight Bharadvaja shed the seed that became Drona |  |  |  |
 | **Jalapadi** | Jālapadī | the divine girl Indra sent to disturb Sharadvat |  |  |  |
 | **Menaka** | Menakā | an apsaras; mother of Pramadvara (and, later, of Shakuntala) |  |  |  |
+| **Tilottama** | Tilottamā | the woman Vishvakarman made from every beautiful thing, to divide Sunda and Upasunda |  |  |  |
 | **Urvashi** | Urvaśī | the apsaras, wife of Pururavas |  |  | Urvasi |
+| **Budha** | Budha | the planet Mercury, son of the moon |  |  |  |
+| **Parameshthin** | Parameṣṭhin | "the one who stands highest", a divine being at Brahma's court |  |  |  |
 | **Shachi** | Śacī | Indra's wife | Indrani |  |  |
 | **Svaha** | Svāhā | wife of Agni, the fire |  |  |  |
+| **Vishvakarman** | Viśvakarman | the craftsman of the gods |  |  | Vishwakarma, Vishvakarma |
 | **Vivasvat** | Vivasvat | the sun god, father of Yama |  |  | Vivaswat, Vivasvan |
+| **Hiranyakashipu** | Hiraṇyakaśipu | a great asura king, ancestor of Nikumbha |  |  | Hiranyakasipu |
+| **Nikumbha** | Nikumbha | a daitya lord of Hiranyakashipu's line, father of Sunda and Upasunda |  |  |  |
 | **Paka** | Pāka | a demon slain by Indra, who is called "chastiser of Paka" |  |  |  |
+| **Sunda** | Sunda | an asura, Upasunda's brother; the two kill each other over Tilottama |  |  |  |
+| **Upasunda** | Upasunda | an asura, Sunda's brother |  |  |  |
 | **Gavalgana** | Gavalgaṇa | the suta, father of Sanjaya |  |  |  |
 | **Lohitaksha** | Lohitākṣa | the red-eyed suta, builder of Janamejaya's place of sacrifice, who foretold that a brahmin would stop the rite |  |  |  |
 | **Lomaharshana** | Lomaharṣaṇa | father of Ugrashravas, a bard |  |  | Lomaharsana |
 | **Shaunaka** | Śaunaka | head of the household of sages in the Naimisha forest | kulapati |  | Saunaka |
 | **Ugrashravas** | Ugraśravas | the bard, son of Lomaharshana, who tells the epic in the Naimisha forest | Sauti, Lomaharshani | Sauti | Ugrasrava, Ugrasravas |
 | **Vaishampayana** | Vaiśaṃpāyana | Vyasa's pupil, who tells the epic to Janamejaya |  |  | Vaisampayana, Vaishampayan |
-| **Bala** | Bala | a son of the king of Gandhara, brother of Shakuni; named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Bala** | Bala | a son of the king of Gandhara, brother of Shakuni; named among the suitors at Draupadi's bridegroom choice; also the name of a demon slain by Indra ("slayer of Bala") |  |  |  |
 | **Brihadbala** | Bṛhadbala | a son of the king of Gandhara, brother of Shakuni; named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Shakuni** | Śakuni | Gandhari's brother, son of Subala; the dice player | Saubala | Saubala | Sakuni, Shakunee |
 | **Subala** | Subala | king of Gandhara, father of Gandhari and Shakuni |  |  |  |
@@ -36,7 +44,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Bhaga** | Bhaga | an Aditya whose eyes Shiva took away |  |  |  |
 | **Dharma** | Dharma | the god of dharma, lord of the dead's justice; born as Vidura by Animandavya's curse |  |  |  |
 | **Kubera** | Kubera | lord of wealth, whose gardens lie on the northern mountains | Vaishravana |  |  |
-| **Shiva** | Śiva | the great god; the CE also calls him Hara, Rudra, Mahadeva, Shankara | Hara, Rudra, Mahadeva, Shankara, Ishana, Girisha |  |  |
+| **Shiva** | Śiva | the great god; the CE also calls him Hara, Rudra, Mahadeva, Shankara | Hara, Rudra, Mahadeva, Shankara, Ishana, Girisha, Sthanu, Maheshvara |  |  |
 | **Skanda** | Skanda | the war god, called Guha and Kumara; son of Fire, the Krittikas, Rudra and Ganga | Guha, Kumara, Kartikeya |  |  |
 | **Vayu** | Vāyu | the Wind, father of Bhima | Maruta, Pavana |  |  |
 | **Agni** | Agni | the fire god | Pavaka, Jatavedas, Vibhavasu, Hutashana |  |  |
@@ -223,6 +231,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kindama** | Kiṃdama | the sage who, in a deer's form, was shot by Pandu while mating, and cursed him |  |  | Kindam, Kimdama |
 | **Krisha** | Kṛśa | a seer's son, Shringin's friend, whose teasing provokes the curse |  |  |  |
 | **Mamata** | Mamatā | wife of Utathya, mother of Dirghatamas |  |  |  |
+| **Narada** | Nārada | the divine seer who wanders the worlds; he warns the Pandavas with the tale of Sunda and Upasunda |  |  | Naarad, Narad |
 | **Parashara** | Parāśara | son of Shakti; father of Vyasa by Satyavati |  |  | Parasara |
 | **Pramadvara** | Pramadvarā | daughter of Vishvavasu and Menaka, raised by Sthulakesha; Ruru's wife |  |  |  |
 | **Pramati** | Pramati | son of Chyavana and Sukanya; father of Ruru |  |  |  |

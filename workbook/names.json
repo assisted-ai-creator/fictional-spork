@@ -2104,7 +2104,9 @@
     "Mahadeva",
     "Shankara",
     "Ishana",
-    "Girisha"
+    "Girisha",
+    "Sthanu",
+    "Maheshvara"
    ],
    "dialogue": [],
    "flag": [],
@@ -2806,7 +2808,7 @@
    "name": "Bala",
    "iast": "Bala",
    "group": "Gandhara",
-   "who": "a son of the king of Gandhara, brother of Shakuni; named among the suitors at Draupadi's bridegroom choice",
+   "who": "a son of the king of Gandhara, brother of Shakuni; named among the suitors at Draupadi's bridegroom choice; also the name of a demon slain by Indra (\"slayer of Bala\")",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -3626,6 +3628,104 @@
    "dialogue": [],
    "flag": [],
    "ref": "1.197.6"
+  },
+  {
+   "name": "Narada",
+   "iast": "Nārada",
+   "group": "Seer",
+   "who": "the divine seer who wanders the worlds; he warns the Pandavas with the tale of Sunda and Upasunda",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Naarad",
+    "Narad"
+   ],
+   "ref": "1.200.9"
+  },
+  {
+   "name": "Hiranyakashipu",
+   "iast": "Hiraṇyakaśipu",
+   "group": "Demon",
+   "who": "a great asura king, ancestor of Nikumbha",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Hiranyakasipu"
+   ],
+   "ref": "1.201.2"
+  },
+  {
+   "name": "Nikumbha",
+   "iast": "Nikumbha",
+   "group": "Demon",
+   "who": "a daitya lord of Hiranyakashipu's line, father of Sunda and Upasunda",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.201.2"
+  },
+  {
+   "name": "Sunda",
+   "iast": "Sunda",
+   "group": "Demon",
+   "who": "an asura, Upasunda's brother; the two kill each other over Tilottama",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.200.18"
+  },
+  {
+   "name": "Upasunda",
+   "iast": "Upasunda",
+   "group": "Demon",
+   "who": "an asura, Sunda's brother",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.200.18"
+  },
+  {
+   "name": "Tilottama",
+   "iast": "Tilottamā",
+   "group": "Apsaras",
+   "who": "the woman Vishvakarman made from every beautiful thing, to divide Sunda and Upasunda",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.203.17"
+  },
+  {
+   "name": "Vishvakarman",
+   "iast": "Viśvakarman",
+   "group": "Deity",
+   "who": "the craftsman of the gods",
+   "aka": [],
+   "dialogue": [],
+   "flag": [
+    "Vishwakarma",
+    "Vishvakarma"
+   ],
+   "ref": "1.203.10"
+  },
+  {
+   "name": "Parameshthin",
+   "iast": "Parameṣṭhin",
+   "group": "Deity",
+   "who": "\"the one who stands highest\", a divine being at Brahma's court",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.203.4"
+  },
+  {
+   "name": "Budha",
+   "iast": "Budha",
+   "group": "Deity",
+   "who": "the planet Mercury, son of the moon",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.203.4"
   }
  ],
  "not_vyasa": [

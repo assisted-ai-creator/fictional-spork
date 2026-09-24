@@ -166,7 +166,9 @@ against the CE when the Book is drafted.
 | 80 | Good Fortune | 1.192–1.194 | ✅ drafted. The kings learn the truth; "Good fortune!" (L-100); Duryodhana's schemes; Karṇa urges war. |
 | 81 | The Council | 1.195–1.197 | ✅ drafted. Bhīṣma: give half; Droṇa: an embassy; Karṇa's tale of Ambuvīca; Vidura: "where Kṛṣṇa is, there is victory". |
 | 82 | Indraprastha | 1.198–1.199 | ✅ drafted. Vidura's embassy; the return; half the kingdom; Khāṇḍavaprastha; the city built (L-101). |
-| 83… | Narada's warning; Arjuna's exile | 1.200–1.212 | Sunda and Upasunda; the pact over Draupadī; Arjuna's twelve years; Ulūpī, Citrāṅgadā, Subhadrā. |
+| 83 | Sunda and Upasunda | 1.200–1.202 | ✅ drafted. Nārada's visit and warning; the asura brothers' austerity, boon and conquest. |
+| 84 | Tilottama | 1.203–1.204 | ✅ drafted. Tilottamā made; Śiva's four faces and Indra's thousand eyes (L-102); the brothers kill each other; the Pāṇḍavas' pact (L-16 revised). |
+| 85… | Arjuna's exile | 1.205–1.212 | The brahmin's cows; Arjuna breaks the pact; Ulūpī; Citrāṅgadā; the five apsarases; Subhadrā. |
 
 ---
 

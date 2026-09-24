@@ -18,6 +18,22 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 83–84 drafted: Narada's warning
+- Ch 83 *Sunda and Upasunda* (CE 1.200–202) and Ch 84 *Tilottama* (1.203–204): Narada visits
+  Indraprastha and tells the tale of the asura brothers, their boon and conquest; Tilottama is
+  made; the brothers kill each other; the Pandavas agree that whoever sees another sitting
+  with Draupadi must spend twelve years in the forest. About 3,250 words.
+
+### Reference
+- Ledger **L-16** revised from ❌ to ⚠️: the "one year with each brother" rule is not in the CE
+  or Ganguli, but it does appear in a rejected line (\*2012).
+- Ledger **L-102**: in the CE, Indra's thousand eyes (and Shiva's four faces) come from gazing
+  at Tilottama (1.203.25–26). The CE's Ahalya curse gives Indra a tawny beard (12.329.14).
+
+### Workbook
+- `names.json`: +9 (Narada, Hiranyakashipu, Nikumbha, Sunda, Upasunda, Tilottama,
+  Vishvakarman, Parameshthin, Budha); Sthanu and Maheshvara added to Shiva's names.
+
 ### Novel: Book 1, chapters 81–82 drafted: the council and Indraprastha
 - Ch 81 *The Council* (CE 1.195–197) and Ch 82 *Indraprastha* (1.198–199): Bhishma, Drona,
   Karna and Vidura advise Dhritarashtra; Vidura's embassy to Drupada; the Pandavas' return
