@@ -2245,12 +2245,13 @@
    "ref": "1.113.21"
   },
   {
-   "name": "Saudasa",
-   "iast": "Saudāsa",
+   "name": "Kalmashapada",
+   "iast": "Kalmāṣapāda",
    "group": "King",
-   "who": "king also called Kalmashapada, Madayanti's husband",
+   "who": "Ikshvaku king cursed by Shakti to eat men; freed by Vasishtha; father (by Vasishtha) of Ashmaka",
    "aka": [
-    "Kalmashapada"
+    "Saudasa",
+    "Mitrasaha"
    ],
    "dialogue": [],
    "flag": [],
@@ -2537,6 +2538,60 @@
    "dialogue": [],
    "flag": [],
    "ref": "1.165.15"
+  },
+  {
+   "name": "Shakti",
+   "iast": "Śakti",
+   "group": "Seer",
+   "who": "Vasishtha's eldest son, eaten by Kalmashapada; father of Parashara",
+   "aka": [
+    "Shaktri"
+   ],
+   "dialogue": [],
+   "flag": [
+    "Sakti"
+   ],
+   "ref": "1.166.4"
+  },
+  {
+   "name": "Adrishyanti",
+   "iast": "Adṛśyantī",
+   "group": "Seer",
+   "who": "Shakti's wife, mother of Parashara",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.167.12"
+  },
+  {
+   "name": "Kinkara",
+   "iast": "Kiṃkara",
+   "group": "Rakshasa",
+   "who": "rakshasa who possessed Kalmashapada",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.166.17"
+  },
+  {
+   "name": "Aurva",
+   "iast": "Aurva",
+   "group": "Seer",
+   "who": "Bhrigu born from his mother's thigh; his anger became the Mare's Head fire in the sea",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.170.8"
+  },
+  {
+   "name": "Kritavirya",
+   "iast": "Kṛtavīrya",
+   "group": "King",
+   "who": "king who enriched the Bhrigus; father of Arjuna Kartavirya",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "1.169.11"
   }
  ],
  "not_vyasa": [

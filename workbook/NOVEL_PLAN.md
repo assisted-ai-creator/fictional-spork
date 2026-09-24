@@ -152,7 +152,9 @@ against the CE when the Book is drafted.
 | 66 | Angaraparna | 1.157–1.158 | ✅ drafted. Vyāsa's tale of the five-times boon; the gandharva at the Gaṅgā (L-93). |
 | 67 | Tapati | 1.159–1.163 | ✅ drafted. Why a king needs a priest; Tapatī and Saṃvaraṇa; the twelve years' drought; Kuru born. |
 | 68 | The Cow Nandini | 1.164–1.165 | ✅ drafted. Vasiṣṭha's forbearance; Viśvāmitra and Nandinī; brahmin power (L-69 corrected). |
-| 69… | The gandharva's tales and the svayaṃvara | 1.166–1.189 | Kalmāṣapāda; Parāśara; Aurva; Dhaumya; the svayaṃvara; the five husbands. |
+| 69 | Kalmashapada | 1.166–1.168 | ✅ drafted. Śakti's curse; the hundred sons eaten; Vasiṣṭha cannot die; the child in the womb; Aśmaka. |
+| 70 | Aurva | 1.169–1.171 | ✅ drafted. Parāśara's rage; the Bhṛgus slaughtered; Aurva's fire becomes the Mare's Head. |
+| 71… | The gandharva's tales and the svayaṃvara | 1.172–1.189 | Parāśara's sacrifice; the brahmin woman's curse; Dhaumya; the svayaṃvara; the five husbands. |
 
 ---
 

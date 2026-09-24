@@ -18,6 +18,16 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 1, chapters 69–70 drafted: Vasishtha's sorrow
+- Ch 69 *Kalmashapada* (CE 1.166–168) and Ch 70 *Aurva* (1.169–171): the king cursed
+  to eat men; the deaths of Vasishtha's hundred sons; his failed attempts to die;
+  Parashara in the womb; Kalmashapada freed; Aurva and the slaughter of the Bhrigus.
+  About 3,500 words.
+
+### Workbook
+- `names.json`: Saudasa entry renamed Kalmashapada (aka Saudasa, Mitrasaha); +5
+  (Shakti, Adrishyanti, Kinkara, Aurva, Kritavirya).
+
 ### Novel: Book 1, chapters 67–68 drafted: the gandharva's tales
 - Ch 67 *Tapati* (CE 1.159–163) and Ch 68 *The Cow Nandini* (1.164–165): why a king
   needs a family priest; Samvarana and the Sun's daughter Tapati; Vasishtha;

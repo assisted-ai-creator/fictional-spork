@@ -2,7 +2,7 @@
 
 # Contents
 
-**68 chapters, 131,548 words.** 68 drafted
+**70 chapters, 135,075 words.** 70 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -77,5 +77,7 @@
 | 66 | [Angaraparna](../novel/book-01-adi/66-angaraparna.md) | 1.157-158 | drafted | 1,620 |
 | 67 | [Tapati](../novel/book-01-adi/67-tapati.md) | 1.159-163 | drafted | 2,621 |
 | 68 | [The Cow Nandini](../novel/book-01-adi/68-the-cow-nandini.md) | 1.164-165 | drafted | 1,331 |
+| 69 | [Kalmashapada](../novel/book-01-adi/69-kalmashapada.md) | 1.166-168 | drafted | 1,906 |
+| 70 | [Aurva](../novel/book-01-adi/70-aurva.md) | 1.169-171 | drafted | 1,621 |
 
-*Book 1 so far: 131,548 words.*
+*Book 1 so far: 135,075 words.*
