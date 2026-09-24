@@ -160,7 +160,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sagara** | Sagara | named in Yama's hall (2.8) |  |  |  |
 | **Sahajanya** | Sahajanyā | named in Kubera's hall (2.10) |  |  |  |
 | **Samhrada** | Saṃhrāda | named in Varuna's hall (2.9) |  |  |  |
-| **Samjaya** | Saṃjaya | named in Yama's hall (2.8); also Samjaya who returns the kings' courtesies at the Rajasuya (2.32.5) |  |  |  |
+| **Samjaya** | Saṃjaya | a king named in Yama's hall (2.8); not Dhritarashtra's counsellor Sanjaya |  |  |  |
 | **Samkashya** | Sāṃkāśya | named in Yama's hall (2.8) |  |  |  |
 | **Samkriti** | Sāṃkṛti | named in Yama's hall (2.8) |  |  |  |
 | **Samvarta** | Saṃvarta | named in Indra's hall (2.7) |  |  |  |
@@ -274,7 +274,8 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Bhaga** | Bhaga | an Aditya whose eyes Shiva took away |  |  |  |
 | **Dharma** | Dharma | the god of dharma, lord of the dead's justice; born as Vidura by Animandavya's curse |  |  |  |
 | **Kubera** | Kubera | lord of wealth, whose gardens lie on the northern mountains | Vaishravana |  |  |
-| **Shiva** | Śiva | the great god; the CE also calls him Hara, Rudra, Mahadeva, Shankara | Hara, Rudra, Mahadeva, Shankara, Ishana, Girisha, Sthanu, Maheshvara |  |  |
+| **Nirriti** | Nirṛti | goddess of decay; the south-west is her quarter |  |  |  |
+| **Shiva** | Śiva | the great god; the CE also calls him Hara, Rudra, Mahadeva, Shankara | Hara, Rudra, Mahadeva, Shankara, Ishana, Girisha, Sthanu, Maheshvara, Shambhu |  |  |
 | **Skanda** | Skanda | the war god, called Guha and Kumara; son of Fire, the Krittikas, Rudra and Ganga | Guha, Kumara, Kartikeya, Mahasena |  |  |
 | **Vayu** | Vāyu | the Wind, father of Bhima | Maruta, Pavana |  |  |
 | **Agni** | Agni | the fire god | Pavaka, Jatavedas, Vibhavasu, Hutashana |  |  |
@@ -432,7 +433,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Pratipa** | Pratīpa | Kuru king, father of Devapi, Shantanu and Bahlika; Ganga sat on his right thigh | Paryashravas |  |  |
 | **Purumitra** | Purumitra | a player at the dice game, on the Kaurava side |  |  |  |
 | **Samvarana** | Saṃvaraṇa | son of Riksha, king of the Bharatas, husband of Tapati, father of Kuru |  |  |  |
-| **Sanjaya** | Saṃjaya | Dhritarashtra's charioteer and counsellor, given divine sight by Vyasa | Gavalgani |  | Sanjay |
+| **Sanjaya** | Saṃjaya | Dhritarashtra's charioteer and counsellor, given divine sight by Vyasa; returns the kings' courtesies at the Rajasuya (2.32.5) | Gavalgani |  | Sanjay |
 | **Satyavati** | Satyavatī | the fisherman's adopted daughter who became Shantanu's queen; mother of Vyasa | Kali, Gandhavati, Yojanagandha, Matsyagandha, Satya |  | Satyawati |
 | **Satyavrata** | Satyavrata | a player at the dice game, on the Kaurava side |  |  |  |
 | **Saumadatti** | Saumadatti | Somadatta's son, named as an ally of Duryodhana |  |  |  |
@@ -501,6 +502,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vishvagashva** | Viṣvagaśva | a Paurava king defeated by Arjuna |  |  |  |
 | **Ajamidha** | Ajamīḍha | an ancestor of the Kurus; Kuru kings are called Ajamidhas after him |  |  |  |
 | **Bhadra** | Bhadrā | Vyushitashva's wife, daughter of Kakshivat; also the name of Kubera's wife (1.191.6); also Bhadra of Vaishali, carried off by Shishupala (2.42.11) |  |  |  |
+| **Ila** | Iḍā | parent of Pururavas, who is called Aila after Ila |  |  |  |
 | **Vyushitashva** | Vyuṣitāśva | Paurava king whose dead body gave his widow Bhadra seven sons |  |  |  |
 | **Baka** | Baka | man-eating rakshasa near Ekachakra, killed by Bhima |  |  | Bakasura |
 | **Hidimba** | Hiḍimba / Hiḍimbā | a rakshasa brother and sister of the forest. Bhima kills the brother and marries the sister. In English the names collide, so give context until the brother is dead |  |  | Hidimbi, Hidimbaa |
@@ -515,7 +517,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Arundhati** | Arundhatī | Vasishtha's wife |  |  |  |
 | **Aruni** | Āruṇi Pāñcālya | Dhaumya's pupil, renamed Uddalaka | Uddalaka |  |  |
 | **Arvavasu** | Arvāvasu | a seer present in Yudhishthira's hall |  |  |  |
-| **Asita Devala** | Asita Devala | a seer present in Yudhishthira's hall |  |  |  |
+| **Asita Devala** | Asita Devala | a seer present in Yudhishthira's hall | Asita |  |  |
 | **Astika** | Āstīka | son of Jaratkaru and Vasuki's sister; he stops the snake sacrifice |  |  |  |
 | **Aurva** | Aurva | Bhrigu born from his mother's thigh; his anger became the Mare's Head fire in the sea |  |  |  |
 | **Aushija** | Auśija | a seer present in Yudhishthira's hall |  |  |  |
@@ -564,6 +566,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Mandapala** | Mandapāla | a seer who, denied heaven for want of sons, became a Sharngaka bird and fathered four sons on Jarita |  |  |  |
 | **Markandeya** | Mārkaṇḍeya | a seer present in Yudhishthira's hall |  |  |  |
 | **Maunjayana** | Mauñjāyana | a seer present in Yudhishthira's hall |  |  |  |
+| **Meru Savarni** | Merusāvarṇi | a seer who taught Yudhishthira on the Himalaya |  |  |  |
 | **Nachiketa** | Nāciketa | a seer present in Yudhishthira's hall |  |  |  |
 | **Narada** | Nārada | the divine seer who wanders the worlds; he warns the Pandavas with the tale of Sunda and Upasunda |  |  | Naarad, Narad |
 | **Paila** | Paila | a seer present in Yudhishthira's hall |  |  |  |

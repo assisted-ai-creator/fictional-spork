@@ -803,7 +803,7 @@
    "name": "Sanjaya",
    "iast": "Saṃjaya",
    "group": "Kuru",
-   "who": "Dhritarashtra's charioteer and counsellor, given divine sight by Vyasa",
+   "who": "Dhritarashtra's charioteer and counsellor, given divine sight by Vyasa; returns the kings' courtesies at the Rajasuya (2.32.5)",
    "aka": [
     "Gavalgani"
    ],
@@ -2110,7 +2110,8 @@
     "Ishana",
     "Girisha",
     "Sthanu",
-    "Maheshvara"
+    "Maheshvara",
+    "Shambhu"
    ],
    "dialogue": [],
    "flag": [],
@@ -4234,7 +4235,9 @@
    "iast": "Asita Devala",
    "group": "Seer",
    "who": "a seer present in Yudhishthira's hall",
-   "aka": [],
+   "aka": [
+    "Asita"
+   ],
    "dialogue": [],
    "flag": [],
    "ref": "2.4.8-15"
@@ -5795,7 +5798,7 @@
    "name": "Samjaya",
    "iast": "Saṃjaya",
    "group": "Catalogue",
-   "who": "named in Yama's hall (2.8); also Samjaya who returns the kings' courtesies at the Rajasuya (2.32.5)",
+   "who": "a king named in Yama's hall (2.8); not Dhritarashtra's counsellor Sanjaya",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -7593,6 +7596,36 @@
    "dialogue": [],
    "flag": [],
    "ref": "2.61.59"
+  },
+  {
+   "name": "Meru Savarni",
+   "iast": "Merusāvarṇi",
+   "group": "Seer",
+   "who": "a seer who taught Yudhishthira on the Himalaya",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.69.12"
+  },
+  {
+   "name": "Nirriti",
+   "iast": "Nirṛti",
+   "group": "God",
+   "who": "goddess of decay; the south-west is her quarter",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.71.21"
+  },
+  {
+   "name": "Ila",
+   "iast": "Iḍā",
+   "group": "Puru",
+   "who": "parent of Pururavas, who is called Aila after Ila",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "2.69.15"
   }
  ],
  "not_vyasa": [

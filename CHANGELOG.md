@@ -18,6 +18,17 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 2, chapter 23 drafted: Book 2 (Sabha Parva) complete
+- Ch 23 *Into the Forest* (CE 2.69–72): Yudhishthira's farewell; Vidura keeps Kunti in his
+  house and blesses the Pandavas; Kunti's lament; the manner of their going, each with its
+  meaning; Draupadi's prophecy of the Kaurava widows; the portents and Narada's prophecy;
+  Drona's foreboding; Dhritarashtra and Sanjaya. About 3,000 words.
+- **Book 2 is complete: 23 chapters covering all 72 adhyayas of the Sabha Parva.**
+- Consistency fix: Dhritarashtra's counsellor is spelled Sanjaya throughout (chapters 11 and
+  23 had "Samjaya"). The separate Samjaya entry in `names.json` is now only the king named in
+  Yama's hall. `names.json` +3 (Meru Savarni, Nirriti, Ila); Shambhu and Asita added as other
+  names of Shiva and Asita Devala.
+
 ### Novel: Book 2, chapters 21–22 drafted: Draupadi's boons and the second game
 - Ch 21 *Draupadi's Boons* (CE 2.63–65) and Ch 22 *The Second Game* (2.66–68): Karna's
   taunts; Duryodhana's thigh and Bhima's oath; Vidura's "wealth won in a dream"; the jackal at

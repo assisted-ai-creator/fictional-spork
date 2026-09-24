@@ -243,7 +243,7 @@ drafting. It is refined while drafting.
 | 20 | The Question | 2.61–2.62 | ✅ drafted. Bhīma and Arjuna; Vikarṇa's answer; Karṇa's reply; the garments (L-19); Bhīma's oath (L-20); Prahlāda and Sudhanvan; Bhīṣma defers to Yudhiṣṭhira; Bhīma held by dharma. |
 | 21 | Draupadi's Boons | 2.63–2.65 | ✅ drafted. Karṇa's taunts; the thigh and Bhīma's oath (L-21); the jackal at the fire; the two boons (L-119); Dhṛtarāṣṭra sends them home. |
 | 22 | The Second Game | 2.66–2.68 | ✅ drafted. The recall; Gāndhārī's plea; the exile staked on one throw and lost; "Cow!"; the four vows. |
-| 23 | Into the Forest | 2.69–2.72 | The farewells; Vidura's counsel; Kuntī's lament; the manner of their going; Nārada's prophecy; Droṇa's foreboding; Dhṛtarāṣṭra and Saṃjaya. |
+| 23 | Into the Forest | 2.69–2.72 | ✅ drafted. Vidura keeps Kuntī; Kuntī's lament; how they go (L-22); Nārada's prophecy; Droṇa's foreboding; Dhṛtarāṣṭra and Sañjaya. |
 
 ## Books 2–18: provisional sub-parvas
 

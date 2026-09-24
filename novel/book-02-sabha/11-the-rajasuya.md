@@ -171,7 +171,7 @@ myself, are yours. Please yourselves as you wish, without restraint."
 
 When he had said this to them all, the eldest Pandava, who had been consecrated,
 gave them each their tasks, as was fitting. He put Duhshasana in charge of the
-food. He told Ashvatthama to receive the brahmins. He set Samjaya to return the
+food. He told Ashvatthama to receive the brahmins. He set Sanjaya to return the
 kings' courtesies. The two wise men, Bhishma and Drona, were to know what had
 been done and what had not. The king set Kripa to watch over the gold, the
 precious metals and the jewels, and to give out the fees for the priests. And he
@@ -236,5 +236,5 @@ were satisfied at that sacrifice, and full of joy.
 * 2.31.11: Akarsha, Kuntala, the Vanavasyas and the Andhrakas, named as in the text.
 * 2.31.16 *prādyumniḥ*: "Pradyumna's son", Aniruddha, though Aniruddha is also named in 2.31.15.
   Both are kept.
-* 2.32.5 *saṃjayam*: Samjaya, who returns the kings' courtesies.
+* 2.32.5 *saṃjayam*: Sanjaya, Dhritarashtra's counsellor, who returns the kings' courtesies.
 * 2.32.15 *ṣaḍagninā*: "with the six fires".

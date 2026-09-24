@@ -2,7 +2,7 @@
 
 # Contents
 
-**114 chapters, 221,290 words.** 114 drafted
+**115 chapters, 224,261 words.** 115 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -130,5 +130,6 @@
 | 20 | [The Question](../novel/book-02-sabha/20-the-question.md) | 2.61-62 | drafted | 2,894 |
 | 21 | [Draupadi's Boons](../novel/book-02-sabha/21-draupadis-boons.md) | 2.63-65 | drafted | 1,872 |
 | 22 | [The Second Game](../novel/book-02-sabha/22-the-second-game.md) | 2.66-68 | drafted | 2,482 |
+| 23 | [Into the Forest](../novel/book-02-sabha/23-into-the-forest.md) | 2.69-72 | drafted | 2,971 |
 
-*Book 2 so far: 52,564 words.*
+*Book 2 so far: 55,535 words.*
