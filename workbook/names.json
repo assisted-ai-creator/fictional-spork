@@ -979,7 +979,7 @@
    "name": "Puloma",
    "iast": "Pulomā",
    "group": "Seer",
-   "who": "Bhrigu's wife, mother of Chyavana (the rakshasa is Puloman)",
+   "who": "Bhrigu's wife, mother of Chyavana (the rakshasa is Puloman); also a daitya woman, mother of the Paulomas (3.170.6)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -1687,7 +1687,7 @@
    "name": "Nahusha",
    "iast": "Nahuṣa",
    "group": "King",
-   "who": "son of Ayus, father of Yayati; for a time he made himself Indra",
+   "who": "son of Ayus, father of Yayati; for a time he made himself Indra; cursed by Agastya to be a serpent, he seizes Bhima and is freed by Yudhishthira's answers (3.176–178)",
    "aka": [],
    "dialogue": [],
    "flag": [
@@ -2226,7 +2226,8 @@
    "group": "God",
    "who": "lord of wealth, whose gardens lie on the northern mountains",
    "aka": [
-    "Vaishravana"
+    "Vaishravana",
+    "Paulastya"
    ],
    "dialogue": [],
    "flag": [],
@@ -6938,7 +6939,7 @@
    "name": "Kalaka",
    "iast": "Kālakā",
    "group": "Catalogue",
-   "who": "named in Brahma's hall (2.11)",
+   "who": "named in Brahma's hall (2.11); also a great asura woman, mother of the Kalakeyas (3.170.6)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -7419,7 +7420,7 @@
    "name": "Vishoka",
    "iast": "Viśoka",
    "group": "Pandava",
-   "who": "a servant of Yudhishthira who sees to the food at the Rajasuya",
+   "who": "a servant of Yudhishthira who sees to the food at the Rajasuya; also named as a charioteer, leading the others when they rejoin the Pandavas at Subahu's city (3.174.14)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -8967,6 +8968,26 @@
    "dialogue": [],
    "flag": [],
    "ref": "3.165.10"
+  },
+  {
+   "name": "Kalakeyas",
+   "iast": "Kālakeya",
+   "group": "Danava",
+   "who": "danavas, sons of the asura woman Kalaka, who live in the flying city Hiranyapura; killed by Arjuna (3.170)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.170.2"
+  },
+  {
+   "name": "Paulomas",
+   "iast": "Pauloma",
+   "group": "Danava",
+   "who": "danavas, sons of the daitya woman Puloma, who live in Hiranyapura with the Kalakeyas; killed by Arjuna (3.170)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.170.2"
   }
  ],
  "not_vyasa": [

@@ -18,6 +18,16 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 54–55 drafted: Hiranyapura; the serpent
+- Ch 54 *Hiranyapura* (CE 3.170–172) and Ch 55 *The Serpent* (3.173–176): the flying city of the Paulomas
+  and Kalakeyas and the Raudra weapon; Indra's gifts and the five years in heaven; Narada stops Arjuna's
+  display of the weapons; the brothers leave Kubera's mountain after four years; Lomasha's farewell; the
+  year at Vishakhayupa; Bhima seized by the serpent Nahusha; the omens that send Yudhishthira after him.
+  About 5,400 words.
+- Ledger: new L-137 (the weapon against Hiranyapura is the Raudra; "Pashupata" there is rejected).
+- Names: Kalakeyas and Paulomas added; Puloma, Kalaka, Nahusha and Vishoka extended; Sthanu and Paulastya
+  added as names of Shiva and Kubera.
+
 ### Novel: Book 3, chapters 52–53 drafted: what Arjuna learned; the Nivatakavachas
 - Ch 52 *What Arjuna Learned* (CE 3.164–165) and Ch 53 *The Nivatakavachas* (3.166–169), both in Arjuna's
   own voice: the world-guardians' weapons; Indra's test; Matali's chariot and Amaravati; the teacher's fee;

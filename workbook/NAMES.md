@@ -101,7 +101,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Janaka** | Janaka | named in Yama's hall (2.8); also King Janaka of Videha, defeated by Bhima (2.27.12) |  |  |  |
 | **Kaitabha** | Kaiṭabha | named in Varuna's hall (2.9) |  |  |  |
 | **Kala** | Kāla | named in Indra's hall (2.7) |  |  |  |
-| **Kalaka** | Kālakā | named in Brahma's hall (2.11) |  |  |  |
+| **Kalaka** | Kālakā | named in Brahma's hall (2.11); also a great asura woman, mother of the Kalakeyas (3.170.6) |  |  |  |
 | **Kalakavrikshiya** | Kālakavṛkṣīya | named in Indra's hall (2.7) |  |  |  |
 | **Kalakhanja** | Kālakhañja | named in Varuna's hall (2.9) |  |  |  |
 | **Kambala** | Kambala | named in Varuna's hall (2.9) |  |  |  |
@@ -242,7 +242,9 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shishupala** | Śiśupāla | king of Chedi, Jarasandha's general; killed by Krishna at the Rajasuya | Sunitha |  | Sisupala |
 | **Subahu** | Subāhu | king of the Chedis, in whose city Damayanti lives with the queen mother; also Subahu, king of the Kunindas on the Himalaya, who keeps the Pandavas' servants and chariots (3.141.24–29) |  |  |  |
 | **Virabahu** | Vīrabāhu | king of the Chedis, husband of Damayanti's mother's sister; father of Subahu |  |  |  |
+| **Kalakeyas** | Kālakeya | danavas, sons of the asura woman Kalaka, who live in the flying city Hiranyapura; killed by Arjuna (3.170) |  |  |  |
 | **Nivatakavachas** | Nivātakavaca | danavas, enemies of Indra, three crores of them, living in a stronghold in the ocean; Arjuna's teacher's fee is to kill them (3.45; 3.165–169) |  |  |  |
+| **Paulomas** | Pauloma | danavas, sons of the daitya woman Puloma, who live in Hiranyapura with the Kalakeyas; killed by Arjuna (3.170) |  |  |  |
 | **Aditi** | Aditi | mother of the Adityas |  |  |  |
 | **Amsha** | Aṃśa | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
 | **Aryaman** | Aryaman | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
@@ -314,7 +316,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Ashvins** | Aśvinau | the twin gods, fathers of Nakula and Sahadeva | Nasatya, Dasra |  |  |
 | **Bhaga** | Bhaga | an Aditya whose eyes Shiva took away |  |  |  |
 | **Dharma** | Dharma | the god of dharma, lord of the dead's justice; born as Vidura by Animandavya's curse |  |  |  |
-| **Kubera** | Kubera | lord of wealth, whose gardens lie on the northern mountains | Vaishravana |  |  |
+| **Kubera** | Kubera | lord of wealth, whose gardens lie on the northern mountains | Vaishravana, Paulastya |  |  |
 | **Matali** | Mātali | Indra's charioteer |  |  |  |
 | **Nirriti** | Nirṛti | goddess of decay; the south-west is her quarter |  |  |  |
 | **Shiva** | Śiva | the great god; the CE also calls him Hara, Rudra, Mahadeva, Shankara | Hara, Rudra, Mahadeva, Shankara, Ishana, Girisha, Sthanu, Maheshvara, Shambhu, Bhava, Sharva, Kapardin |  |  |
@@ -438,7 +440,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Manu** | Manu | Manu son of Vivasvat (through Martanda in 1.70), from whom the human race descends | Vaivasvata |  |  |
 | **Meghavahana** | Meghavāhana | a king allied to Jarasandha |  |  |  |
 | **Munjaketu** | Muñjaketu | a king present in Yudhishthira's hall |  |  |  |
-| **Nahusha** | Nahuṣa | son of Ayus, father of Yayati; for a time he made himself Indra |  |  | Nahush |
+| **Nahusha** | Nahuṣa | son of Ayus, father of Yayati; for a time he made himself Indra; cursed by Agastya to be a serpent, he seizes Bhima and is freed by Yudhishthira's answers (3.176–178) |  |  | Nahush |
 | **Paushya** | Pauṣya | king whose queen gives her earrings to Uttanka |  |  |  |
 | **Pratardana** | Pratardana | royal seer, a grandson of Yayati through his daughter |  |  |  |
 | **Pundraka** | Puṇḍraka | a king present in Yudhishthira's hall |  |  |  |
@@ -563,7 +565,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shrutakirti** | Śrutakīrti | son of Draupadi and Arjuna in the lists at 1.57.102, 1.90.82 and 3.13.65; the lists at 1.213.76 and 3.224.10 give Arjuna's son as Shrutakarman |  |  |  |
 | **Shrutasena** | Śrutasena | son of Draupadi and Sahadeva (1.57.103, 1.213, 3.224.10); the lists at 1.90.82 and 3.13.66 give Sahadeva's son as Shrutakarman |  |  |  |
 | **Sutasoma** | Sutasoma | son of Draupadi and Bhima |  |  |  |
-| **Vishoka** | Viśoka | a servant of Yudhishthira who sees to the food at the Rajasuya |  |  |  |
+| **Vishoka** | Viśoka | a servant of Yudhishthira who sees to the food at the Rajasuya; also named as a charioteer, leading the others when they rejoin the Pandavas at Subahu's city (3.174.14) |  |  |  |
 | **Yudhishthira** | Yudhiṣṭhira | eldest son of Kunti, by Dharma; the dharma king | Ajatashatru, Dharmaraja, Kaunteya, Partha | Ajatashatru | Yudhistira, Yudhishtira, Yudhisthira, Yudhishthir, Yudhisthir |
 | **Vishvagashva** | Viṣvagaśva | a Paurava king defeated by Arjuna |  |  |  |
 | **Ajamidha** | Ajamīḍha | an ancestor of the Kurus; Kuru kings are called Ajamidhas after him |  |  |  |
@@ -676,7 +678,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Pramadvara** | Pramadvarā | daughter of Vishvavasu and Menaka, raised by Sthulakesha; Ruru's wife |  |  |  |
 | **Pramati** | Pramati | son of Chyavana and Sukanya; father of Ruru |  |  |  |
 | **Pulastya** | Pulastya | seer, ancestor of the rakshasas, who stopped Parashara's sacrifice |  |  |  |
-| **Puloma** | Pulomā | Bhrigu's wife, mother of Chyavana (the rakshasa is Puloman) |  |  |  |
+| **Puloma** | Pulomā | Bhrigu's wife, mother of Chyavana (the rakshasa is Puloman); also a daitya woman, mother of the Paulomas (3.170.6) |  |  |  |
 | **Raibhya** | Raibhya | a seer present in Yudhishthira's hall |  |  |  |
 | **Raivata** | Raivata | a seer present in Yudhishthira's hall |  |  |  |
 | **Rama Jamadagnya** | Rāma Jāmadagnya | son of Jamadagni, the Bhrigu warrior-brahmin who destroyed the kshatriyas and made the five lakes of blood; later Bhishma's opponent and Karna's teacher. The CE never calls him 'Parashurama' (ledger L-62): write 'Rama, son of Jamadagni', 'Rama Jamadagnya' or 'Bhargava Rama' | Bhargava Rama, Jamadagnya | Jamadagnya | Parashuram, Parashurama, Parasurama, Parshuram |
