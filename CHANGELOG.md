@@ -18,6 +18,17 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 2, chapters 21–22 drafted: Draupadi's boons and the second game
+- Ch 21 *Draupadi's Boons* (CE 2.63–65) and Ch 22 *The Second Game* (2.66–68): Karna's
+  taunts; Duryodhana's thigh and Bhima's oath; Vidura's "wealth won in a dream"; the jackal at
+  the sacred fire; Draupadi's two boons and her refusal of a third; Dhritarashtra's counsel and
+  the return; the recall; Gandhari's plea; the exile staked and lost at one throw;
+  Duhshasana's "Cow!"; the vows of the four brothers. About 4,400 words.
+- The plan's last Book 2 row (2.66–72) is split into chapters 22 and 23.
+
+### Reference
+- Ledger **L-119**: Draupadi's boons free her husbands, and she refuses a third ✅.
+
 ### Novel: Book 2, chapters 19–20 drafted: the wager and the question
 - Ch 19 *The Wager* (CE 2.59–60) and Ch 20 *The Question* (2.61–62): Vidura's warning that
   Draupadi was staked by a king who no longer owned himself; the usher Pratikamin and

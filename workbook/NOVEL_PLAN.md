@@ -241,8 +241,9 @@ drafting. It is refined while drafting.
 | 18 | The Game | 2.54–2.58 | ✅ drafted. The stakes and "Won!" (L-116); Vidura's warnings and Duryodhana's abuse; the brothers and himself lost; Draupadi staked at Śakuni's prompting (L-117). |
 | 19 | The Wager | 2.59–2.60 | ✅ drafted. Vidura: "she was staked by a king who was not his own master"; Prātikāmin; "Whom did you lose first?"; Duḥśāsana drags her in; Bhīṣma cannot answer (L-118). |
 | 20 | The Question | 2.61–2.62 | ✅ drafted. Bhīma and Arjuna; Vikarṇa's answer; Karṇa's reply; the garments (L-19); Bhīma's oath (L-20); Prahlāda and Sudhanvan; Bhīṣma defers to Yudhiṣṭhira; Bhīma held by dharma. |
-| 21 | Draupadi's Boons | 2.63–2.65 | The omens; Dhṛtarāṣṭra's boons; the return. |
-| 22 | The Second Game | 2.66–2.72 | The recall; the exile staked and lost; the departure; Vidura and Dhṛtarāṣṭra. |
+| 21 | Draupadi's Boons | 2.63–2.65 | ✅ drafted. Karṇa's taunts; the thigh and Bhīma's oath (L-21); the jackal at the fire; the two boons (L-119); Dhṛtarāṣṭra sends them home. |
+| 22 | The Second Game | 2.66–2.68 | ✅ drafted. The recall; Gāndhārī's plea; the exile staked on one throw and lost; "Cow!"; the four vows. |
+| 23 | Into the Forest | 2.69–2.72 | The farewells; Vidura's counsel; Kuntī's lament; the manner of their going; Nārada's prophecy; Droṇa's foreboding; Dhṛtarāṣṭra and Saṃjaya. |
 
 ## Books 2–18: provisional sub-parvas
 
