@@ -8796,6 +8796,46 @@
    "dialogue": [],
    "flag": [],
    "ref": "3.127.4"
+  },
+  {
+   "name": "Ashtavakra",
+   "iast": "Aṣṭāvakra",
+   "group": "Seer",
+   "who": "son of Kahoda and Sujata, bent in eight places, who beat Bandin in debate",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.132.3"
+  },
+  {
+   "name": "Kahoda",
+   "iast": "Kahoḍa",
+   "group": "Seer",
+   "who": "Uddalaka's pupil and son-in-law, father of Ashtavakra",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.132.6"
+  },
+  {
+   "name": "Sujata",
+   "iast": "Sujātā",
+   "group": "Seer",
+   "who": "Uddalaka's daughter, mother of Ashtavakra",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.132.7"
+  },
+  {
+   "name": "Bandin",
+   "iast": "Bandin",
+   "group": "Seer",
+   "who": "a son of Varuna, a master of debate at Janaka's court",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.132.4"
   }
  ],
  "not_vyasa": [

@@ -583,6 +583,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Arundhati** | Arundhatī | Vasishtha's wife |  |  |  |
 | **Aruni** | Āruṇi Pāñcālya | Dhaumya's pupil, renamed Uddalaka | Uddalaka |  |  |
 | **Arvavasu** | Arvāvasu | a seer present in Yudhishthira's hall |  |  |  |
+| **Ashtavakra** | Aṣṭāvakra | son of Kahoda and Sujata, bent in eight places, who beat Bandin in debate |  |  |  |
 | **Asita Devala** | Asita Devala | a seer present in Yudhishthira's hall | Asita |  |  |
 | **Astika** | Āstīka | son of Jaratkaru and Vasuki's sister; he stops the snake sacrifice |  |  |  |
 | **Aurva** | Aurva | Bhrigu born from his mother's thigh; his anger became the Mare's Head fire in the sea |  |  |  |
@@ -590,6 +591,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Babhrumali** | Babhrumālin | a seer present in Yudhishthira's hall |  |  | Babhrumalin |
 | **Baka Dalbhya** | Baka Dālbhya | a seer present in Yudhishthira's hall | Dalbhya |  |  |
 | **Balavaka** | Balavāka | a seer present in Yudhishthira's hall |  |  |  |
+| **Bandin** | Bandin | a son of Varuna, a master of debate at Janaka's court |  |  |  |
 | **Bhaluki** | Bhāluki | a seer present in Yudhishthira's hall |  |  |  |
 | **Bharadvaja** | Bharadvāja | seer, Drona's father |  |  |  |
 | **Bhrigu** | Bhṛgu | seer, son of Brahma, ancestor of the Bhargavas (Shaunaka's line) |  |  |  |
@@ -621,6 +623,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Jatila** | Jaṭilā | a woman of the Gautama line who lived with seven seers; Yudhishthira's precedent for Draupadi's marriage |  |  |  |
 | **Jatukarna** | Jātūkarṇa | a seer present in Yudhishthira's hall |  |  |  |
 | **Kacha** | Kaca | son of Brihaspati, who learns the art of raising the dead from Shukra; also Kacha (Kāca), a lord of Vanga defeated by Bhima (2.27.22) |  |  | Kach |
+| **Kahoda** | Kahoḍa | Uddalaka's pupil and son-in-law, father of Ashtavakra |  |  |  |
 | **Kakshivat** | Kākṣīvat | eldest of the eleven sons of Dirghatamas by Sudeshna's servant |  |  | Kakshivan, Kakshivant |
 | **Kalapa** | Kalāpa | a seer present in Yudhishthira's hall |  |  |  |
 | **Kanva** | Kaṇva | the Kashyapa seer on the Malini who raised Shakuntala | the Kashyapa |  | Kanwa |
@@ -702,6 +705,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sthulashiras** | Sthūlaśiras | a seer present in Yudhishthira's hall |  |  |  |
 | **Sthunakarna** | Sthūṇakarṇa | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
 | **Suhotra** | Suhotra | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
+| **Sujata** | Sujātā | Uddalaka's daughter, mother of Ashtavakra |  |  |  |
 | **Sumantu** | Sumantu | a seer present in Yudhishthira's hall |  |  |  |
 | **Sumukha** | Sumukha | a seer present in Yudhishthira's hall |  |  |  |
 | **Supratika** | Supratīka | Vibhavasu's younger brother, who wanted their wealth divided; becomes the elephant |  |  |  |

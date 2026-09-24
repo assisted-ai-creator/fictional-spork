@@ -292,8 +292,8 @@ are refined while drafting.
 | 37 | Prabhasa | 3.119–3.121 | ✅ drafted. Balarāma's lament; Sātyaki's call to war and Abhimanyu as regent; Kṛṣṇa and Yudhiṣṭhira hold to the vow; the Payoṣṇī; Gaya's sacrifices; the Narmadā. |
 | 38 | Chyavana | 3.122–3.125 | ✅ drafted. The ant hill and the thorn; Sukanyā given to Cyavana; the Aśvins and the lake; soma for the Aśvins; Mada; the Ārcīka mountain. |
 | 39 | Mandhatar and Jantu | 3.126–3.129 | ✅ drafted. Yuvanāśva drinks the water; Māndhātṛ born and fed on Indra's finger; Somaka sacrifices Jantu and shares his priest's hell; the Yamunā; Yudhiṣṭhira sees Arjuna. |
-| 40 | The Hawk and the Dove | 3.130–3.131 | The holy places; Uśīnara, the hawk and the dove. |
-| 41 | Ashtavakra | 3.132–3.134 | Aṣṭāvakra at Janaka's court; the debate with Bandin. |
+| 40 | The Hawk and the Dove | 3.130–3.131 | ✅ drafted. Vinaśana; the Vipāśā; Kashmir; Uśīnara, the hawk and the dove (L-130). |
+| 41 | Ashtavakra | 3.132–3.134 | ✅ drafted. Kahoḍa's curse; Aṣṭāvakra and the gatekeeper; the king's riddles; the contest of numbers; Bandin, son of Varuṇa (L-131). |
 | 42 | Yavakri | 3.135–3.139 | Yavakrī, Raibhya and Bharadvāja; Arvāvasu and Parāvasu. |
 | 43 | Into the Mountains | 3.140–3.142 | The road north; Yudhiṣṭhira's warnings. |
 | 44 | The Storm | 3.143–3.145 | The storm; Draupadī faints; Ghaṭotkaca carries them. |

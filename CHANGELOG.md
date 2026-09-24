@@ -18,6 +18,15 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 40–41 drafted: the hawk and the dove; Ashtavakra
+- Ch 40 *The Hawk and the Dove* (CE 3.130–131) and Ch 41 *Ashtavakra* (3.132–134): the Sarasvati at
+  Vinashana and the holy places of Kashmir; Indra and Agni test King Ushinara, who weighs his own flesh
+  against a dove; Ashtavakra, cursed in the womb, argues his way into Janaka's sacrifice and beats Bandin in
+  the contest of numbers from one to thirteen; the drowned brahmins return. About 3,800 words.
+- Ledger: new L-130 (the king of the dove is Ushinara in the CE) and L-131 (the Samanga bath is rejected).
+- Names: Ushinara, Daksha, Rukmini, Ashtavakra, Kahoda, Sujata, Uddalaka, Shvetaketu, Bandin and Janaka
+  added where missing.
+
 ### Novel: Book 3, chapters 38–39 drafted: Chyavana; Mandhatar and Jantu
 - Ch 38 *Chyavana* (CE 3.122–125) and Ch 39 *Mandhatar and Jantu* (3.126–129): Chyavana in the ant hill
   and Sukanya's thorn; the Ashvins make him young and win a share of soma; Indra paralysed and the monster
