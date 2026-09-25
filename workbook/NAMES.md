@@ -8,6 +8,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 |------|------|-----|---------------------------|----------|-------------|
 | **Nandini** | Nandinī | Vasishtha's wish-granting cow (named at 1.165; unnamed in 1.93) |  |  |  |
 | **Adrika** | Adrikā | an apsaras cursed to be a fish in the Yamuna; mother of Satyavati and Matsya |  |  |  |
+| **Alambusha** | Alambuṣā | an apsaras Sudeshna names in praising the sairandhri (4.8.14) |  |  |  |
 | **Budbuda** | Budbudā | one of the five apsarases cursed to be crocodiles and freed by Arjuna |  |  |  |
 | **Chitralekha** | Citralekhā | an apsaras who dances for Arjuna in Indra's hall |  |  |  |
 | **Dundu** | Ḍuṇḍu | an apsaras who dances for Arjuna in Indra's hall |  |  |  |
@@ -134,7 +135,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Matanga** | Mataṅga | named in Yama's hall (2.8) |  |  |  |
 | **Medhatithi** | Medhātithi | named in Indra's hall (2.7) |  |  |  |
 | **Meghavasas** | Meghavāsas | named in Varuna's hall (2.9) |  |  |  |
-| **Mishrakeshi** | Miśrakeśī | named in Kubera's hall (2.10) |  |  |  |
+| **Mishrakeshi** | Miśrakeśī | named in Kubera's hall (2.10); also an apsaras Sudeshna names in praising the sairandhri (4.8.14) |  |  |  |
 | **Muchukunda** | Mucukunda | named in Yama's hall (2.8) |  |  |  |
 | **Mushikada** | Mūṣikāda | named in Varuna's hall (2.9) |  |  |  |
 | **Nabhaga** | Nābhāga | named in Yama's hall (2.8) |  |  |  |
@@ -162,7 +163,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Prithvaksha** | Pṛthvakṣa | named in Yama's hall (2.8) |  |  |  |
 | **Prithvashva** | Pṛthvaśva | named in Yama's hall (2.8) |  |  |  |
 | **Pulaha** | Pulaha | named in Indra's hall (2.7) |  |  |  |
-| **Pundarika** | Puṇḍarīka | named in Yama's hall (2.8) |  |  |  |
+| **Pundarika** | Puṇḍarīka | named in Yama's hall (2.8); also an apsaras Sudeshna names in praising the sairandhri (4.8.14) |  |  |  |
 | **Punjikasthala** | Puñjikasthalā | named in Kubera's hall (2.10) |  |  |  |
 | **Puruja** | Puruja | named in Yama's hall (2.8) |  |  |  |
 | **Purukutsa** | Purukutsa | named in Yama's hall (2.8) |  |  |  |
@@ -256,8 +257,8 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Budha** | Budha | the planet Mercury, son of the moon |  |  |  |
 | **Dhatri** | Dhātṛ | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
 | **Dvapara** | Dvāpara | Kali's companion, who entered the dice against Nala |  |  |  |
-| **Jaya** | Jaya | a god who takes up a pestle at Khandava; also a Kaurava-side player at the dice game (2.52.13); also a name of Arjuna (3.155.2) |  |  |  |
-| **Jayanta** | Jayanta | son of Indra and Shachi |  |  |  |
+| **Jaya** | Jaya | a god who takes up a pestle at Khandava; also a Kaurava-side player at the dice game (2.52.13); also a name of Arjuna (3.155.2); also one of the five secret names Yudhishthira gives the Pandavas in Virata's city (4.5.30) |  |  |  |
+| **Jayanta** | Jayanta | son of Indra and Shachi; also one of the five secret names Yudhishthira gives the Pandavas in Virata's city (4.5.30) |  |  |  |
 | **Kali** | Kali | the spirit of the losing throw at dice, who possessed Nala. Not Kali (Kālī), Satyavati's name |  |  |  |
 | **Kandarpa** | Kandarpa | the god of love |  |  |  |
 | **Kapila** | Kapila | the god who with a look burned the sons of Sagara as they dug to Rasatala; Indra calls him Vishnu |  |  |  |
@@ -484,7 +485,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shibi** | Śibi | son of Ushinara, a royal seer of unequalled generosity, a grandson of Yayati through his daughter | Aushinara |  | Sibi |
 | **Shrutarvan** | Śrutarvan | a king whom Agastya asks for wealth |  |  |  |
 | **Shrutayudha** | Śrutāyudha | a king present in Yudhishthira's hall |  |  |  |
-| **Sudeshna** | Sudeṣṇā | Bali's queen, mother of Anga by Dirghatamas (another Sudeshna is Virata's queen) |  |  |  |
+| **Sudeshna** | Sudeṣṇā | Bali's queen, mother of Anga by Dirghatamas (another Sudeshna is Virata's queen); also Virata's queen, a princess of the Kekayas, whom Draupadi serves as sairandhri (4.8.6) |  |  |  |
 | **Sudharma** | Sudharman | a king present in Yudhishthira's hall; also Sudharma, king of Dasharna, made Bhima's general (2.26.5) |  |  | Sudharman |
 | **Sukanya** | Sukanyā | Sharyati's daughter, wife of Chyavana |  |  |  |
 | **Sumanas** | Sumanas | a king present in Yudhishthira's hall |  |  |  |
@@ -551,7 +552,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Prabhankara** | Prabhaṃkara | an ancestor of Chitravahana, granted one child in each generation by Shiva; also one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
 | **Matsya** | Matsya | the king born with Satyavati from the fish; founder of the Matsya line |  |  |  |
 | **Shankha** | Śaṅkha | son of Virata |  |  |  |
-| **Uttara** | Uttara | son of Virata |  |  |  |
+| **Uttara** | Uttara | son of Virata; also Uttarā, Virata's daughter, whom Brihannada teaches to dance (4.10.8); later Abhimanyu's wife. The prince and the princess have the same name in English: always say which |  |  |  |
 | **Virata** | Virāṭa | king of the Matsyas, host of the Pandavas' year in hiding |  |  | Viraat |
 | **Airavata** | Airāvata | a chief naga, brother of Vasuki (not the elephant of the same name) |  |  |  |
 | **Arbuda** | Arbuda | a snake of Magadha |  |  |  |
@@ -633,7 +634,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kumbhakarna** | Kumbhakarṇa | Ravana's brother, the strongest of them, who chose a great sleep as his boon |  |  |  |
 | **Kumuda** | Kumuda | a monkey chief |  |  |  |
 | **Mainda** | Mainda | a monkey, one of Sugriva's counsellors |  |  |  |
-| **Malini** | Mālinī | a rakshasi given by Kubera to Vishravas; mother of Vibhishana |  |  |  |
+| **Malini** | Mālinī | a rakshasi given by Kubera to Vishravas; mother of Vibhishana; also the name Draupadi gives for herself as the sairandhri in Virata's court (4.8.19) |  |  |  |
 | **Mandodari** | Mandodarī | Ravana's wife |  |  |  |
 | **Manthara** | Mantharā | the hunchback, the gandharvi Dundubhi on earth, who stirs Kaikeyi against Rama |  |  |  |
 | **Maricha** | Mārīca | Ravana's former counsellor, turned ascetic out of fear of Rama, who takes the form of a jewelled deer |  |  |  |
@@ -854,7 +855,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Dandadhara** | Daṇḍadhāra | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Dridhadhanva** | Dṛḍhadhanvan | a king named among the suitors at Draupadi's bridegroom choice |  |  | Dridhadhanvan |
 | **Jalasandha** | Jalasaṃdha | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
-| **Jayatsena** | Jayatsena | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Jayatsena** | Jayatsena | a king named among the suitors at Draupadi's bridegroom choice; also one of the five secret names Yudhishthira gives the Pandavas in Virata's city (4.5.30) |  |  |  |
 | **Maniman** | Maṇimat | a king named among the suitors at Draupadi's bridegroom choice; also a rakshasa, friend of Kubera, killed by Bhima on Gandhamadana (3.157.52–68) |  |  | Manimat |
 | **Nila** | Nīla | a king named among the suitors at Draupadi's bridegroom choice; also King Nila of Mahishmati, protected by Agni (2.28.11); also a monkey chief who kills Pramathin |  |  |  |
 | **Paundraka Vasudeva** | Pauṇḍraka Vāsudeva | king of the Pundras, named among the suitors at Draupadi's bridegroom choice |  |  |  |
@@ -882,6 +883,12 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Dama** | Dama | Damayanti's brother |  |  |  |
 | **Danta** | Dānta | Damayanti's brother |  |  |  |
 | **Keshini** | Keśinī | Damayanti's maid, who tests Bahuka |  |  |  |
+| **Ballava** | Ballava | the name Bhima takes in Virata's court, as a cook and wrestler |  |  |  |
+| **Brihannada** | Bṛhannaḍā | the name Arjuna takes in Virata's court, as a eunuch who teaches dance |  |  | Brihannala, Vrihannala |
+| **Granthika** | Granthika | the name Nakula takes in Virata's court, as keeper of the horses |  |  |  |
+| **Jayadbala** | Jayadbala | one of the five secret names Yudhishthira gives the Pandavas in Virata's city (4.5.30) |  |  |  |
+| **Tantipala** | Tantipāla | the name Sahadeva takes in Virata's court, as counter of cattle; he also calls himself Arishtanemi, a vaishya (4.9.4) |  |  |  |
+| **Vijaya** | Vijaya | one of the five secret names Yudhishthira gives the Pandavas in Virata's city (4.5.30) |  |  |  |
 | **Akrura** | Akrūra | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Anadhrishti** | Anādhṛṣṭi | a Vrishni hero who comes to Indraprastha with Krishna |  |  |  |
 | **Anakadundubhi** | Ānakadundubhi | Vasudeva, Krishna's father |  |  |  |
@@ -900,7 +907,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Jambavati** | Jāmbavatī | Krishna's wife, mother of Samba |  |  |  |
 | **Jhilli** | Jhillī | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Kahva** | Kahva | a Vrishni great warrior |  |  |  |
-| **Kanka** | Kaṅka | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Kanka** | Kaṅka | a Vrishni named among the suitors at Draupadi's bridegroom choice; also the name Yudhishthira takes in Virata's court, as a dicing brahmin (4.1.20) |  |  |  |
 | **Krishna** | Kṛṣṇa | son of Vasudeva and Devaki, of the Vrishni clan; Arjuna's friend and charioteer | Vasudeva, Keshava, Madhava, Govinda, Janardana, Hrishikesha, Madhusudana, Achyuta, Varshneya, Dasharha, Damodara, Shauri, Adhokshaja | Keshava, Madhava, Govinda, Janardana, Vasudeva | Krishn, Krsna |
 | **Kritavarma** | Kṛtavarman | Bhoja/Vrishni warrior who fights for the Kauravas | Hardikya |  | Kritavarman, Kritvarma |
 | **Nidanta** | Nidānta | a Vrishni great warrior |  |  |  |

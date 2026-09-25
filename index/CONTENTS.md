@@ -2,7 +2,7 @@
 
 # Contents
 
-**210 chapters, 463,516 words.** 210 drafted
+**214 chapters, 469,804 words.** 214 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -235,3 +235,14 @@
 | 95 | [Dharma's Boons](../novel/book-03-aranyaka/95-dharmas-boons.md) | 3.298-299 | drafted | 1,342 |
 
 *Book 3 so far: 239,255 words.*
+
+## Book 4: Virata Parva, *The Year in Hiding*
+
+| # | Chapter | CE | Status | Words |
+|---|---------|----|--------|-------|
+| 1 | [The Disguises](../novel/book-04-virata/01-the-disguises.md) | 4.1-3 | drafted | 1,549 |
+| 2 | [Dhaumya's Counsel](../novel/book-04-virata/02-dhaumyas-counsel.md) | 4.4 | drafted | 1,159 |
+| 3 | [The Shami Tree](../novel/book-04-virata/03-the-shami-tree.md) | 4.5 | drafted | 655 |
+| 4 | [Entering Virata's Court](../novel/book-04-virata/04-entering-viratas-court.md) | 4.6-11 | drafted | 2,925 |
+
+*Book 4 so far: 6,288 words.*

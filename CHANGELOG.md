@@ -18,6 +18,17 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 4 begun; chapters 1–4 drafted: the disguises; Dhaumya's counsel; the shami tree; entering Virata's court
+- New Book 4 plan (21 chapters, CE 4.1–4.67) in `workbook/NOVEL_PLAN.md`; new directory `novel/book-04-virata`.
+- Ch 1 *The Disguises* (CE 4.1–3), Ch 2 *Dhaumya's Counsel* (4.4), Ch 3 *The Shami Tree* (4.5) and Ch 4 *Entering
+  Virata's Court* (4.6–11): the choice of Virata's kingdom; the brothers' disguises; Dhaumya's rules for life in a
+  king's house; the weapons hidden in the shami tree with a corpse; the secret names; the six come to court and
+  are taken into service. About 6,300 words.
+- Ledger: new L-163 (Yudhishthira's Durga hymn is appendix 4.@4); L-25 extended (in the CE Arjuna chooses the
+  eunuch disguise himself, 4.2.21).
+- Names: Kanka, Ballava, Brihannada (flag "Brihannala"), Granthika, Tantipala, the sairandhri's name Malini,
+  the secret names, and the princess Uttara (noted on the Uttara entry) added; Sudeshna noted as Virata's queen.
+
 ### Tools: printable PDF edition
 - New `tools/make_pdf.py`: typesets the drafted Books as a print-ready PDF (A4 by default, or 6x9 in trim)
   in EB Garamond. It includes a title page, the note to the reader, a contents list with page numbers, a

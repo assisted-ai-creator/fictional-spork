@@ -349,6 +349,36 @@ are refined while drafting.
 | 94 | The Lake | 3.295–3.297 | ✅ drafted. The fire-sticks; the brothers fall; the crane-yakṣa's questions; Nakula chosen for non-cruelty (L-28, L-161, L-162). |
 | 95 | Dharma's Boons | 3.298–3.299 | ✅ drafted. The yakṣa is Dharma; three boons; farewell to the brahmins; Dhaumya's examples; the council. |
 
+## Book 4: Virāṭa Parva: *The Year in Hiding* (CE 4.1–4.67)
+
+1,824 verses in 67 adhyāyas. The chapter list was drawn up from the CE's
+adhyāya openings before drafting. Titles and contents are provisional and
+are refined while drafting.
+
+| Ch | Title | CE | Plan |
+|----|-------|----|------|
+| 1 | The Disguises | 4.1–4.3 | ✅ drafted. Virāṭa chosen; the six disguises: Kaṅka, Ballava, Bṛhannaḍā, Granthika, Tantipāla and the sairandhrī (L-25). |
+| 2 | Dhaumya's Counsel | 4.4 | ✅ drafted. The household sent away; Dhaumya's rules for life in a king's house; the departure. |
+| 3 | The Shami Tree | 4.5 | ✅ drafted. The journey; the bows unstrung and bound in the śamī; the corpse; the secret names (L-163). |
+| 4 | Entering Virata's Court | 4.6–4.11 | ✅ drafted. The six come to court one by one; Sudeṣṇā and the five gandharva husbands; Bṛhannaḍā teaches the princess Uttarā. |
+| 5 | The Wrestler | 4.12 | The festival of Brahmā; Bhīma kills Jīmūta. |
+| 6 | Kichaka | 4.13–4.15 | Kīcaka desires the sairandhrī; Sudeṣṇā sends her for wine; the kick in the hall. |
+| 7 | Draupadi's Grief | 4.16–4.17 | Draupadī goes to Bhīma by night. |
+| 8 | Bhima's Promise | 4.18–4.20 | Draupadī's lament; Bhīma's promise. |
+| 9 | The Dance Hall | 4.21 | Kīcaka killed. |
+| 10 | The Upakichakas | 4.22–4.23 | Kīcaka's brothers; Draupadī saved; the city in fear. |
+| 11 | The Spies Return | 4.24–4.28 | Duryodhana's search; the counsel of Droṇa, Bhīṣma and Kṛpa. |
+| 12 | The Trigartas' Raid | 4.29–4.32 | Suśarman's raid; Virāṭa captured and freed. |
+| 13 | Uttara's Boast | 4.33–4.35 | The Kurus raid the northern herds; Uttara wants a driver. |
+| 14 | Brihannada's Chariot | 4.36–4.37 | Uttara flees; Arjuna drives; the Kurus see him. |
+| 15 | The Weapons in the Tree | 4.38–4.41 | The weapons revealed; Arjuna's names. |
+| 16 | The Kaurava Council | 4.42–4.47 | Karṇa, Kṛpa, Aśvatthāman and Bhīṣma; the count of the years. |
+| 17 | The Cattle Recovered | 4.48–4.51 | Arjuna drives back the cattle; the gods watch. |
+| 18 | Kripa, Drona and Karna | 4.52–4.55 | Arjuna fights his teachers and Karṇa. |
+| 19 | The Stupefying Weapon | 4.56–4.62 | Bhīṣma; Duryodhana; the Kurus stupefied and stripped. |
+| 20 | Virata's Dice | 4.63–4.64 | Virāṭa strikes Yudhiṣṭhira; Uttara's account. |
+| 21 | The Pandavas Revealed | 4.65–4.67 | The Pāṇḍavas revealed; Uttarā given to Abhimanyu. |
+
 ## Books 2–18: provisional sub-parvas
 
 These come from Ganguli's section headings mapped to CE numbers by the
@@ -360,8 +390,7 @@ concordance, cross-checked against the CE's list of sub-parvas.
   Rājasūyika 30–32 · Arghābhiharaṇa 33–36 · Śiśupālavadha 37–42 · Dyūta 43–65 ·
   Anudyūta 66–72
 * **Book 3, Āraṇyaka**: now planned by CE adhyāya in the table above.
-* **Book 4, Virāṭa**: Pāṇḍavapraveśa 1–12 · Kīcakavadha 13–23 · Goharaṇa 24–62 ·
-  Vaivāhika 63–67
+* **Book 4, Virāṭa**: now planned by CE adhyāya in the table above.
 * **Book 5, Udyoga**: Udyoga 1–21 · Sañjayayāna 22–32 · Prajāgara 33–41 ·
   Sanatsujāta 42–45 · Yānasaṃdhi 46–69 · Bhagavadyāna 70–137 · Karṇa and Kuntī
   138–146 · Sainyaniryāṇa 147–156 · Ulūkadūtāgamana 157–160 · Rathātirathasaṃkhyā
