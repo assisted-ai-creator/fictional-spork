@@ -18,6 +18,15 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 4, chapters 5–8 drafted: the wrestler; Kichaka; Draupadi's grief; Bhima's promise
+- `novel/book-04-virata/05-the-wrestler.md` to `08-bhimas-promise.md` (CE 4.12–4.20):
+  Bhima kills Jimuta; Kichaka woos the sairandhri and kicks her in the hall;
+  Draupadi goes to Bhima by night; her lament, her calloused hands, and
+  Bhima's promise.
+- Ledger: L-164 (Bhima and the tree against Kichaka is rejected; in the CE
+  Yudhishthira presses his toe, 4.15.11–12).
+- Names: Kichaka, Jimuta; Damagranthi noted as Nakula's name at 4.18.32.
+
 ### Novel: Book 4 begun; chapters 1–4 drafted: the disguises; Dhaumya's counsel; the shami tree; entering Virata's court
 - New Book 4 plan (21 chapters, CE 4.1–4.67) in `workbook/NOVEL_PLAN.md`; new directory `novel/book-04-virata`.
 - Ch 1 *The Disguises* (CE 4.1–3), Ch 2 *Dhaumya's Counsel* (4.4), Ch 3 *The Shami Tree* (4.5) and Ch 4 *Entering

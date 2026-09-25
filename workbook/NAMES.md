@@ -885,8 +885,10 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Keshini** | Keśinī | Damayanti's maid, who tests Bahuka |  |  |  |
 | **Ballava** | Ballava | the name Bhima takes in Virata's court, as a cook and wrestler |  |  |  |
 | **Brihannada** | Bṛhannaḍā | the name Arjuna takes in Virata's court, as a eunuch who teaches dance |  |  | Brihannala, Vrihannala |
-| **Granthika** | Granthika | the name Nakula takes in Virata's court, as keeper of the horses |  |  |  |
+| **Granthika** | Granthika | the name Nakula takes in Virata's court, as keeper of the horses; called Damagranthi by Draupadi (4.18.32) | Damagranthi |  |  |
 | **Jayadbala** | Jayadbala | one of the five secret names Yudhishthira gives the Pandavas in Virata's city (4.5.30) |  |  |  |
+| **Jimuta** | Jīmūta | a famous wrestler killed by Bhima at the festival of Brahma |  |  |  |
+| **Kichaka** | Kīcaka | Virata's commander, brother of Queen Sudeshna, a suta's son; desires the sairandhri and kicks her in the hall | the suta's son | Kichaka | Keechaka, Kichak |
 | **Tantipala** | Tantipāla | the name Sahadeva takes in Virata's court, as counter of cattle; he also calls himself Arishtanemi, a vaishya (4.9.4) |  |  |  |
 | **Vijaya** | Vijaya | one of the five secret names Yudhishthira gives the Pandavas in Virata's city (4.5.30) |  |  |  |
 | **Akrura** | Akrūra | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |

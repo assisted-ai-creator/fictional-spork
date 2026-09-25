@@ -36,10 +36,10 @@ against the CE when the Book is drafted.
 | 2 | **Sabhā**: *The Assembly Hall* | 2.1–2.72 | 72 | 18 | Vaiśaṃpāyana |
 | 3 | **Āraṇyaka**: *The Forest* | 3.1–3.299 | 299 | 70 | Vaiśaṃpāyana; many inset tellers |
 | 4 | **Virāṭa**: *The Year in Hiding* | 4.1–4.67 | 67 | 16 | Vaiśaṃpāyana |
-| 5 | **Udyoga**: *The Effort for Peace* | 5.1–5.197 | 197 | 45 | Vaiśaṃpāyana |
-| 6 | **Bhīṣma**: *Bhishma's Battle* | 6.1–6.117 | 117 | 30 | Sañjaya → Dhṛtarāṣṭra |
-| 7 | **Droṇa**: *Drona's Battle* | 7.1–7.173 | 173 | 40 | Sañjaya → Dhṛtarāṣṭra |
-| 8 | **Karṇa**: *Karna's Battle* | 8.1–8.69 | 69 | 18 | Sañjaya → Dhṛtarāṣṭra |
+| 5 | **Udyoga**: *The Effort for Peace* | 5.1–5.197 | ✅ drafted. Bhīma kills the wrestler Jīmūta at the festival of Brahmā (4.12). | 45 | Vaiśaṃpāyana |
+| 6 | **Bhīṣma**: *Bhishma's Battle* | 6.1–6.117 | ✅ drafted. Kīcaka woos the sairandhrī; Sudeṣṇā sends her for wine; the kick in the hall; Yudhiṣṭhira presses Bhīma's toe (4.13–15). | 30 | Sañjaya → Dhṛtarāṣṭra |
+| 7 | **Droṇa**: *Drona's Battle* | 7.1–7.173 | ✅ drafted. Draupadī goes to Bhīma by night and blames the dice (4.16–17). | 40 | Sañjaya → Dhṛtarāṣṭra |
+| 8 | **Karṇa**: *Karna's Battle* | 8.1–8.69 | ✅ drafted. Draupadī's lament and her calloused hands; "a month and a half more"; Bhīma resolves to kill Kīcaka (4.18–20). | 18 | Sañjaya → Dhṛtarāṣṭra |
 | 9 | **Śalya**: *Shalya's Battle and the Mace Duel* | 9.1–9.64 | 64 | 16 | Sañjaya → Dhṛtarāṣṭra |
 | 10 | **Sauptika**: *The Night Raid* | 10.1–10.18 | 18 | 5 | Sañjaya → Dhṛtarāṣṭra |
 | 11 | **Strī**: *The Women* | 11.1–11.27 | 27 | 7 | Vaiśaṃpāyana |

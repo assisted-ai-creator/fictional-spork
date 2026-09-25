@@ -2,7 +2,7 @@
 
 # Contents
 
-**214 chapters, 469,804 words.** 214 drafted
+**218 chapters, 475,518 words.** 218 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -244,5 +244,9 @@
 | 2 | [Dhaumya's Counsel](../novel/book-04-virata/02-dhaumyas-counsel.md) | 4.4 | drafted | 1,159 |
 | 3 | [The Shami Tree](../novel/book-04-virata/03-the-shami-tree.md) | 4.5 | drafted | 655 |
 | 4 | [Entering Virata's Court](../novel/book-04-virata/04-entering-viratas-court.md) | 4.6-11 | drafted | 2,925 |
+| 5 | [The Wrestler](../novel/book-04-virata/05-the-wrestler.md) | 4.12 | drafted | 663 |
+| 6 | [Kichaka](../novel/book-04-virata/06-kichaka.md) | 4.13-15 | drafted | 1,904 |
+| 7 | [Draupadi's Grief](../novel/book-04-virata/07-draupadis-grief.md) | 4.16-17 | drafted | 1,011 |
+| 8 | [Bhima's Promise](../novel/book-04-virata/08-bhimas-promise.md) | 4.18-20 | drafted | 2,136 |
 
-*Book 4 so far: 6,288 words.*
+*Book 4 so far: 12,002 words.*
