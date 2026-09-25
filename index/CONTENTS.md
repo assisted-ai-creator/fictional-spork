@@ -2,7 +2,7 @@
 
 # Contents
 
-**190 chapters, 416,561 words.** 190 drafted
+**192 chapters, 420,772 words.** 192 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -213,5 +213,7 @@
 | 73 | [Duryodhana Captured](../novel/book-03-aranyaka/73-duryodhana-captured.md) | 3.229-231 | drafted | 1,786 |
 | 74 | [The Rescue](../novel/book-03-aranyaka/74-the-rescue.md) | 3.232-235 | drafted | 2,082 |
 | 75 | [Duryodhana's Shame](../novel/book-03-aranyaka/75-duryodhanas-shame.md) | 3.236-238 | drafted | 1,894 |
+| 76 | [The Danavas' Promise](../novel/book-03-aranyaka/76-the-danavas-promise.md) | 3.239-240 | drafted | 1,814 |
+| 77 | [The Vaishnava Sacrifice](../novel/book-03-aranyaka/77-the-vaishnava-sacrifice.md) | 3.241-244 | drafted | 2,397 |
 
-*Book 3 so far: 192,300 words.*
+*Book 3 so far: 196,511 words.*

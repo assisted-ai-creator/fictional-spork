@@ -328,8 +328,8 @@ are refined while drafting.
 | 73 | Duryodhana Captured | 3.229–3.231 | ✅ drafted. The gandharvas hold the lake; Karṇa stands, then flees; Citrasena takes Duryodhana; Bhīma's scorn (L-147). |
 | 74 | The Rescue | 3.232–3.235 | ✅ drafted. Yudhiṣṭhira sends his brothers; Arjuna and Citrasena; Duryodhana freed and sent home (L-148). |
 | 75 | Duryodhana's Shame | 3.236–3.238 | ✅ drafted. Karṇa's congratulations; Duryodhana's account; the fast to death; Duḥśāsana offered the kingship; Karṇa's argument. |
-| 76 | The Danavas' Promise | 3.239–3.240 | Śakuni and Karṇa; the dānavas restore his will. |
-| 77 | The Vaishnava Sacrifice | 3.241–3.244 | Karṇa's conquests; Duryodhana's sacrifice; the dream of the deer. |
+| 76 | The Danavas' Promise | 3.239–3.240 | ✅ drafted. Śakuni's counsel; the fast; the dānavas' rite and promise; Naraka in Karṇa; Karṇa's vow to kill Arjuna (L-46, L-149). |
+| 77 | The Vaishnava Sacrifice | 3.241–3.244 | ✅ drafted. Bhīṣma's rebuke; the Vaiṣṇava sacrifice and golden plough; Bhīma's answer; Karṇa's foot-washing vow; the dream of the deer. Karṇa's conquests are @24, not narrated (L-150, L-151). |
 | 78 | Mudgala | 3.245–3.247 | A drona of rice; Durvāsas; the messenger of the gods. |
 | 79 | Jayadratha | 3.248–3.252 | Jayadratha sees Draupadī and carries her off. |
 | 80 | The Rescue of Draupadi | 3.253–3.256 | The pursuit; Jayadratha shaved and spared. |

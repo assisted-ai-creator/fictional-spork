@@ -138,7 +138,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Mushikada** | Mūṣikāda | named in Varuna's hall (2.9) |  |  |  |
 | **Nabhaga** | Nābhāga | named in Yama's hall (2.8) |  |  |  |
 | **Nalakubara** | Nalakūbara | named in Kubera's hall (2.10) |  |  |  |
-| **Naraka** | Naraka | named in Varuna's hall (2.9) |  |  |  |
+| **Naraka** | Naraka | named in Varuna's hall (2.9); Naraka Bhauma, the asura killed by Krishna, who took his jewelled earrings (3.13.16); the danavas say his soul has entered Karna (3.240.19) |  |  |  |
 | **Naya** | Naya | named in Yama's hall (2.8) |  |  |  |
 | **Nimi** | Nimi | named in Yama's hall (2.8) |  |  |  |
 | **Nishadha** | Niṣadha | named in Yama's hall (2.8) |  |  |  |

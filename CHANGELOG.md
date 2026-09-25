@@ -18,6 +18,18 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 76–77 drafted: the danavas' promise; the Vaishnava sacrifice
+- Ch 76 *The Danavas' Promise* (CE 3.239–240) and Ch 77 *The Vaishnava Sacrifice* (3.241–244): Shakuni urges
+  Duryodhana to live and even return the kingdom; the fast on kusha grass; the danavas' rite and their promise
+  (his body made by Shiva and the Goddess, asuras in Bhishma, Drona and Kripa, Naraka's soul in Karna, the
+  samshaptakas); Karna's vow to kill Arjuna; Bhishma's rebuke; the Vaishnava sacrifice with a golden plough;
+  Bhima's answer to the invitation; Karna's vow not to wash his feet; the deer's dream and the move to Kamyaka.
+  About 4,200 words.
+- Ledger: new L-149 (Karna possessed by Naraka), L-150 (Karna's world conquest is appendix @24, not CE),
+  L-151 (Karna's vows); L-46 extended with the CE's account of Duryodhana's body (3.240.6–8).
+- Plan: row 77 corrected; "Karna's conquests" removed, as they are not in the CE.
+- Names: Naraka entry extended (Naraka Bhauma; his soul in Karna).
+
 ### Novel: Book 3, chapters 74–75 drafted: the rescue; Duryodhana's shame
 - Ch 74 *The Rescue* (CE 3.232–235) and Ch 75 *Duryodhana's Shame* (3.236–238): Yudhishthira rebukes Bhima and
   sends his brothers to free Duryodhana; Arjuna's battle with the gandharvas until Chitrasena shows himself;
