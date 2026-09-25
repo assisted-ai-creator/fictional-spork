@@ -18,6 +18,15 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 68–69 drafted: the birth of Skanda; Skanda's hosts
+- Ch 68 *The Birth of Skanda* (CE 3.213–216) and Ch 69 *Skanda's Hosts* (3.217–219): Indra rescues
+  Devasena from Keshin; Agni's desire for the seers' wives and Svaha's six disguises; Skanda born in the golden
+  pit on the White Mountain; Krauncha split; the Mothers adopt him; Vishakha born of Indra's thunderbolt;
+  Skanda made general, called Rudra's son, and married to Devasena; the Grahas that seize children and men.
+  About 5,800 words.
+- Ledger: new L-145 (the CE's Aranyaka account of Skanda's birth differs from the Shiva-Parvati story).
+- Names: Devasena, Daityasena, Vishakha and Naigameya added; Keshin, Svaha and Shiva (Angiras's wife) extended.
+
 ### Novel: Book 3, chapters 66–67 drafted: the hunter's past; the fires
 - Ch 66 *The Hunter's Past* (CE 3.204–206) and Ch 67 *The Fires* (3.207–212): the hunter's parents and his
   service to them; Kaushika sent home to his own blind parents; the hunter's former birth as a brahmin and the

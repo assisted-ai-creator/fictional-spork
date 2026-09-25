@@ -268,7 +268,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shachi** | Śacī | Indra's wife | Indrani, Paulomi |  |  |
 | **Shakambhari** | Śākambharī | a goddess who lived on vegetables for a thousand divine years |  |  |  |
 | **Soma** | Soma | the moon god, who gave Varuna the bow Gandiva |  |  |  |
-| **Svaha** | Svāhā | wife of Agni, the fire |  |  |  |
+| **Svaha** | Svāhā | wife of Agni, the fire; Daksha's daughter who loves Agni and takes the forms of the seers' wives (3.213.50–3.214.16) |  |  |  |
 | **Tara** | Tārā | Brihaspati's wife; the gods and daityas fought the war named after her |  |  |  |
 | **Tvashtri** | Tvaṣṭṛ | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
 | **Uma** | Umā | Shiva's wife, daughter of the king of mountains |  |  |  |
@@ -279,7 +279,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Ilvala** | Ilvala | a daitya of Manimati who killed brahmins by feeding them his brother Vatapi |  |  |  |
 | **Jambha** | Jambha | an asura given up by the great asuras, as Kavya advised |  |  |  |
 | **Kaleyas** | Kāleya | a host of danavas who followed Vritra and hid in the ocean; also called Kalakeyas |  |  |  |
-| **Keshin** | Keśin | a demon killed by Krishna |  |  |  |
+| **Keshin** | Keśin | a demon killed by Krishna; also an asura who tries to carry off Devasena and is driven off by Indra (3.213) |  |  |  |
 | **Mada** | Mada | a monster made by Chyavana to threaten Indra; later divided among drink, women, dice and hunting |  |  |  |
 | **Maya** | Maya | an asura, Namuchi's brother, spared at the burning of Khandava at Arjuna's word |  |  |  |
 | **Muka** | Mūka | a son of Diti who took the form of a boar to kill Arjuna and was shot by Arjuna and Shiva together |  |  |  |
@@ -320,12 +320,15 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vishvavasu** | Viśvāvasu | king of the gandharvas, father of Pramadvara |  |  |  |
 | **Ashvins** | Aśvinau | the twin gods, fathers of Nakula and Sahadeva | Nasatya, Dasra |  |  |
 | **Bhaga** | Bhaga | an Aditya whose eyes Shiva took away |  |  |  |
+| **Daityasena** | Daityasenā | Devasena's sister, carried off by Keshin (3.213.16) |  |  |  |
+| **Devasena** | Devasenā | daughter of Prajapati, rescued by Indra from Keshin; she is to marry Skanda (3.213) |  |  |  |
 | **Dharma** | Dharma | the god of dharma, lord of the dead's justice; born as Vidura by Animandavya's curse |  |  |  |
 | **Kubera** | Kubera | lord of wealth, whose gardens lie on the northern mountains | Vaishravana, Paulastya |  |  |
 | **Matali** | Mātali | Indra's charioteer |  |  |  |
+| **Naigameya** | Naigameya | goat-faced form of Agni who plays with the infant Skanda (3.215.23) |  |  |  |
 | **Nirriti** | Nirṛti | goddess of decay; the south-west is her quarter |  |  |  |
 | **Sarasvati** | Sarasvatī | the river and goddess; she teaches the sage Tarkshya (3.184) |  |  |  |
-| **Shiva** | Śiva | the great god; the CE also calls him Hara, Rudra, Mahadeva, Shankara | Hara, Rudra, Mahadeva, Shankara, Ishana, Girisha, Sthanu, Maheshvara, Shambhu, Bhava, Sharva, Kapardin |  |  |
+| **Shiva** | Śiva | the great god; the CE also calls him Hara, Rudra, Mahadeva, Shankara; also Shiva, wife of Angiras, whose form Svaha takes (3.214.1) | Hara, Rudra, Mahadeva, Shankara, Ishana, Girisha, Sthanu, Maheshvara, Shambhu, Bhava, Sharva, Kapardin |  |  |
 | **Skanda** | Skanda | the war god, called Guha and Kumara; son of Fire, the Krittikas, Rudra and Ganga | Guha, Kumara, Kartikeya, Mahasena, Karttikeya |  |  |
 | **Tvashtar** | Tvaṣṭṛ | the divine craftsman, who made the thunderbolt |  |  |  |
 | **Vayu** | Vāyu | the Wind, father of Bhima | Maruta, Pavana, Shvasana |  |  |

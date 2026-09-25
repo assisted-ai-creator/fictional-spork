@@ -2104,7 +2104,7 @@
    "name": "Shiva",
    "iast": "Śiva",
    "group": "God",
-   "who": "the great god; the CE also calls him Hara, Rudra, Mahadeva, Shankara",
+   "who": "the great god; the CE also calls him Hara, Rudra, Mahadeva, Shankara; also Shiva, wife of Angiras, whose form Svaha takes (3.214.1)",
    "aka": [
     "Hara",
     "Rudra",
@@ -3563,7 +3563,7 @@
    "name": "Svaha",
    "iast": "Svāhā",
    "group": "Deity",
-   "who": "wife of Agni, the fire",
+   "who": "wife of Agni, the fire; Daksha's daughter who loves Agni and takes the forms of the seers' wives (3.213.50–3.214.16)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -7820,7 +7820,7 @@
    "name": "Keshin",
    "iast": "Keśin",
    "group": "Demon",
-   "who": "a demon killed by Krishna",
+   "who": "a demon killed by Krishna; also an asura who tries to carry off Devasena and is driven off by Indra (3.213)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -9222,6 +9222,36 @@
    "dialogue": [],
    "flag": [],
    "ref": "3.197.1"
+  },
+  {
+   "name": "Devasena",
+   "iast": "Devasenā",
+   "group": "God",
+   "who": "daughter of Prajapati, rescued by Indra from Keshin; she is to marry Skanda (3.213)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.213.16"
+  },
+  {
+   "name": "Daityasena",
+   "iast": "Daityasenā",
+   "group": "God",
+   "who": "Devasena's sister, carried off by Keshin (3.213.16)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.213.16"
+  },
+  {
+   "name": "Naigameya",
+   "iast": "Naigameya",
+   "group": "God",
+   "who": "goat-faced form of Agni who plays with the infant Skanda (3.215.23)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.215.23"
   }
  ],
  "not_vyasa": [
