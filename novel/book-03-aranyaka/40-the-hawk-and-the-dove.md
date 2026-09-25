@@ -128,7 +128,8 @@ brahmins, king."
 **Divergences.**
 
 * **Shibi or Ushinara.** In the familiar version the king is Shibi. In the CE he is Ushinara, whose kingdom is
-  that of the Shibis (3.130.17; 3.131.20). See L-130.
+  that of the Shibis (3.130.17; 3.131.20). Later in Book 3 the hunter of Mithila does credit "Shibi Aushinara" with
+  giving his own flesh (3.199.6). See L-130.
 * **The restored body.** Rejected passages (\*647, \*648) have Indra and Agni make the king whole again and the king
   rise to heaven. In the CE Indra promises only undying fame and worlds (3.131.29–30).
 * **The famous line.** The lines that all sacrifices weigh less than saving one frightened creature, and that

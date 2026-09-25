@@ -18,6 +18,15 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 64–65 drafted: the hunter of Mithila; the hunter's teaching
+- Ch 64 *The Hunter of Mithila* (CE 3.198–199) and Ch 65 *The Hunter's Teaching* (3.200–203), retitled from
+  "The Righteous Butcher" and "The Butcher's Teaching", since the CE's word is *vyādha*, hunter: Kaushika finds
+  the hunter selling meat in Mithila; the hunter's defence of his inherited work; the conduct of good men; no
+  one is free of harm to living things; deeds and rebirth; the elements, the senses, the three strands, the
+  breaths and the calm self. About 6,800 words.
+- Ledger: L-130 corrected (the CE does credit Shibi Aushinara with the gift of his flesh, at 3.199.6); new
+  L-144 ("ahimsa paramo dharmah" is in the CE; "dharma himsa tathaiva ca" is not). Ch 40's note updated to match.
+
 ### Novel: Book 3, chapters 62–63 drafted: Dhundhumara; the faithful wife
 - Ch 62 *Dhundhumara* (CE 3.192–195) and Ch 63 *The Faithful Wife* (3.196–197): Uttanka's hymn to Vishnu;
   the Ikshvaku line to Kuvalashva; Madhu and Kaitabha; Kuvalashva and his sons dig out the asura Dhundhu, and

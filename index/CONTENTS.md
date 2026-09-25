@@ -2,7 +2,7 @@
 
 # Contents
 
-**178 chapters, 386,257 words.** 178 drafted
+**180 chapters, 393,081 words.** 180 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -201,5 +201,7 @@
 | 61 | [Vamadeva's Horses](../novel/book-03-aranyaka/61-vamadevas-horses.md) | 3.189-191 | drafted | 3,312 |
 | 62 | [Dhundhumara](../novel/book-03-aranyaka/62-dhundhumara.md) | 3.192-195 | drafted | 2,878 |
 | 63 | [The Faithful Wife](../novel/book-03-aranyaka/63-the-faithful-wife.md) | 3.196-197 | drafted | 1,591 |
+| 64 | [The Hunter of Mithila](../novel/book-03-aranyaka/64-the-hunter-of-mithila.md) | 3.198-199 | drafted | 3,141 |
+| 65 | [The Hunter's Teaching](../novel/book-03-aranyaka/65-the-hunters-teaching.md) | 3.200-203 | drafted | 3,683 |
 
-*Book 3 so far: 161,996 words.*
+*Book 3 so far: 168,820 words.*

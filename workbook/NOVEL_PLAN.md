@@ -316,8 +316,8 @@ are refined while drafting.
 | 61 | Vamadeva's Horses | 3.189–3.191 | ✅ drafted. Kalki's reign; Mārkaṇḍeya's counsel; Parīkṣit of Ayodhyā and the frog king's daughter; Śala, Dala and Vāmadeva's horses; Indradyumna, the owl, the heron and the tortoise. |
 | 62 | Dhundhumara | 3.192–3.195 | ✅ drafted. Uttaṅka's hymn and boon; the Ikṣvāku line; Madhu and Kaiṭabha killed on Viṣṇu's thighs (L-142); Kuvalāśva digs out Dhundhu and burns him. |
 | 63 | The Faithful Wife | 3.196–3.197 | ✅ drafted. What parents endure; Kauśika burns the crane; the housewife serves her husband first; who is a brahmin; she sends him to Mithilā (L-143). |
-| 64 | The Righteous Butcher | 3.198–3.199 | Kauśika goes to the hunter of Mithilā. |
-| 65 | The Butcher's Teaching | 3.200–3.203 | The hunter's teaching on dharma and the self. |
+| 64 | The Hunter of Mithila | 3.198–3.199 | ✅ drafted. The hunter in the market; his own work; Janaka's rule; the conduct of good men; "non-violence is the highest dharma" (L-144); no one is free of harm; Śibi Auśīnara (L-130). |
+| 65 | The Hunter's Teaching | 3.200–3.203 | ✅ drafted. The subtlety of dharma; deeds and rebirth; greed and dharma; the elements and the twenty-four; the senses as horses; the three strands; the breaths; the calm self. |
 | 66 | The Butcher's Past | 3.204–3.206 | His parents; his former life and curse. |
 | 67 | The Fires | 3.207–3.212 | The lineage of the fires. |
 | 68 | The Birth of Skanda | 3.213–3.216 | Agni and the seers' wives; Svāhā; Skanda born. |
