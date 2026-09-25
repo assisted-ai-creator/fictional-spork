@@ -18,6 +18,14 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Tools: printable PDF edition
+- New `tools/make_pdf.py`: typesets the drafted Books as a print-ready PDF (A4 by default, or 6x9 in trim)
+  in EB Garamond. It includes a title page, the note to the reader, a contents list with page numbers, a
+  title page for each Book, each chapter on a new page, running heads, page numbers and PDF bookmarks. Chromium
+  prints the book; the chapter pages are read back from the bookmarks to fill in the contents, and running
+  heads and page numbers are stamped on afterwards. Output goes to `build/` (not committed).
+- First build: Books 1–3, 210 chapters, 1,012 A4 pages.
+
 ### Novel: Book 3, chapters 94–95 drafted: the lake; Dharma's boons. Book 3 complete
 - Ch 94 *The Lake* (CE 3.295–297) and Ch 95 *Dharma's Boons* (3.298–299): the deer and the brahmin's fire-sticks;
   the brothers' grievances; four brothers fall at the lake; the crane-yaksha's questions and Yudhishthira's
