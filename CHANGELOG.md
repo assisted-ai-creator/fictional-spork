@@ -18,6 +18,15 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 89–90 drafted: Savitri and Yama; Savitri's return
+- Ch 89 *Savitri and Yama* (CE 3.281) and Ch 90 *Savitri's Return* (3.282–283): Satyavat's death in the forest;
+  Yama takes his thumb-sized soul; Savitri follows and wins her five boons with her speeches on the ways of the
+  good; Satyavat wakes and they walk home in the dark; Dyumatsena's sight returns; the hermits' assurances;
+  Savitri's account; the Shalvas bring their king home; Markandeya's comfort. About 4,100 words.
+- Ledger: new L-159 (Savitri and Yama as the CE tells it; no banyan).
+- Ch 87: *jārūthya* corrected to "with threefold fees", following Ganguli.
+- Names: Dalbhya and Mandavya added; homonyms noted for Shaibya, Suvarchas, Gautama, Bharadvaja and Dhaumya.
+
 ### Novel: Book 3, chapters 87–88 drafted: Ravana's fall; Savitri
 - Ch 87 *Ravana's Fall* (CE 3.274–276) and Ch 88 *Savitri* (3.277–280): Ravana's magic and the false Ramas;
   Matali brings Indra's chariot; Ravana burned by the Brahma weapon; Rama rejects Sita; her oath by the elements

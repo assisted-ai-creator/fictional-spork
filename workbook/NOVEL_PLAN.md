@@ -341,8 +341,8 @@ are refined while drafting.
 | 86 | Kumbhakarna and Indrajit | 3.270–3.273 | ✅ drafted. Prahasta and Dhūmrākṣa; Lakṣmaṇa kills Kumbhakarṇa; the brothers fall and are healed; Kubera's water; Indrajit killed (L-157). |
 | 87 | Ravana's Fall | 3.274–3.276 | ✅ drafted. Rāvaṇa's magic; Mātali; the Brahma weapon; Sītā rejected and vindicated by the gods, no fire ordeal; the return and consecration (L-158). |
 | 88 | Savitri | 3.277–3.280 | ✅ drafted. Aśvapati's boon; Sāvitrī chooses Satyavat; Nārada's warning; the wedding; the three-night vow; into the forest. |
-| 89 | Savitri and Yama | 3.281 | Sāvitrī follows Yama and wins her boons. |
-| 90 | Savitri's Return | 3.282–3.283 | Dyumatsena's sight; the kingdom restored. |
+| 89 | Savitri and Yama | 3.281 | ✅ drafted. Yama takes Satyavat; Sāvitrī follows and wins five boons; the walk home through the dark (L-159). |
+| 90 | Savitri's Return | 3.282–3.283 | ✅ drafted. The hermits' assurances; Sāvitrī's account; the Śālvas bring Dyumatsena home; Mārkaṇḍeya's comfort (L-159). |
 | 91 | The Sun's Warning | 3.284–3.286 | The Sun warns Karṇa; Karṇa's resolve. |
 | 92 | Kunti's Boon | 3.287–3.291 | Kuntī and the brahmin; the mantra; the Sun summoned. |
 | 93 | The Armour and the Earrings | 3.292–3.294 | Karṇa born and set afloat; Adhiratha; Indra takes the armour. |

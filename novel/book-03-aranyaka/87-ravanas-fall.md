@@ -205,7 +205,7 @@ to Vibhishana the Paulastya. He honoured them with jewels of many kinds, and
 when he had arranged what was to be done, he sent them off with sorrow, while
 they were full of gladness. Raghava honoured the flying chariot Pushpaka and
 gave it back with love to Vaishravana. Then, with the divine seers, the joy of
-the Raghus performed ten horse sacrifices along the river Gomati, with rich
+the Raghus performed ten horse sacrifices along the river Gomati, with threefold
 fees, open to all.
 
 ---
@@ -275,5 +275,5 @@ go, and spoke again.
 * 3.275.38 *paulomyā*: "Pauloma's daughter", Shachi, Indra's wife.
 * 3.275.43: Here Sita gives Hanuman life "as long as Rama's fame". When Hanuman told Bhima of it, he said he had asked Rama for life as long as Rama's story is told (3.147.37). Both are kept as the text has them. See L-133.
 * 3.275.65 *vaiṣṇave … nakṣatre*: "under the constellation of Vishnu", Shravana.
-* 3.275.69 *jārūthyān*: "with rich fees". The sense of the word is uncertain.
+* 3.275.69 *jārūthyān*: "with threefold fees". Ganguli has "treble presents".
 * 3.276.4: Dirghajihva, "long-tongued", a rakshasi killed by Indra.

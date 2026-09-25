@@ -181,7 +181,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Samvarta** | Saṃvarta | named in Indra's hall (2.7) |  |  |  |
 | **Sandroshtha** | Sāndroṣṭha | named in Kubera's hall (2.10) |  |  |  |
 | **Satyavan** | Satyavat | named in Indra's hall (2.7) |  |  |  |
-| **Shaibya** | Śaibya | a king Krishna beat at Jaruthi |  |  |  |
+| **Shaibya** | Śaibya | a king Krishna beat at Jaruthi; also Dyumatsena's wife, Satyavat's mother (3.282.2) |  |  |  |
 | **Shanaishchara** | Śanaiścara | named in Brahma's hall (2.11) |  |  |  |
 | **Sharabha** | Śarabha | named in Yama's hall (2.8) |  |  |  |
 | **Sharyati** | Śaryāti | named in Yama's hall (2.8) |  |  |  |
@@ -661,6 +661,8 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shatrunjaya** | Śatruṃjaya | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
 | **Supravriddha** | Supravṛddha | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
 | **Ashvapati** | Aśvapati | king of the Madras, Savitri's father, who won her by eighteen years of offerings to the goddess Savitri |  |  |  |
+| **Dalbhya** | Dālbhya | a hermit at Dyumatsena's hermitage (3.282.17) |  |  |  |
+| **Mandavya** | Māṇḍavya | a hermit at Dyumatsena's hermitage (3.282.18) |  |  |  |
 | **Sankriti** | Sāṅkṛti | father of Rantideva |  |  |  |
 | **Satyavat** | Satyavat | son of Dyumatsena, Savitri's husband, fated to die within a year | Chitrashva |  |  |
 | **Adrishyanti** | Adṛśyantī | Shakti's wife, mother of Parashara |  |  |  |
@@ -685,7 +687,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Balavaka** | Balavāka | a seer present in Yudhishthira's hall |  |  |  |
 | **Bandin** | Bandin | a son of Varuna, a master of debate at Janaka's court |  |  |  |
 | **Bhaluki** | Bhāluki | a seer present in Yudhishthira's hall |  |  |  |
-| **Bharadvaja** | Bharadvāja | seer, Drona's father |  |  |  |
+| **Bharadvaja** | Bharadvāja | seer, Drona's father; also a hermit at Dyumatsena's hermitage (3.282.16) |  |  |  |
 | **Bhrigu** | Bhṛgu | seer, son of Brahma, ancestor of the Bhargavas (Shaunaka's line) |  |  |  |
 | **Brihadashva** | Bṛhadaśva | a seer who honours Yudhishthira at Dvaitavana; also the Ikshvaku king, father of Kuvalashva (3.193.4) |  |  |  |
 | **Chandakaushika** | Caṇḍakauśika | son of Gautama Kakshivat; gives Brihadratha the mango |  |  |  |
@@ -697,14 +699,14 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Devala** | Devala | seer, Dhaumya's elder brother |  |  |  |
 | **Devayani** | Devayānī | daughter of Shukra; wife of Yayati; mother of Yadu and Turvasu |  |  | Devyani |
 | **Dhanushaksha** | Dhanuṣākṣa | a seer who had the mountains split by buffaloes |  |  |  |
-| **Dhaumya** | Dhaumya | Devala's younger brother, the Pandavas' family priest |  |  |  |
+| **Dhaumya** | Dhaumya | Devala's younger brother, the Pandavas' family priest; also a hermit of that name at Dyumatsena's hermitage (3.282.19) |  |  |  |
 | **Dhaumya of the Ayodas** | Dhaumya Āyoda | teacher of Aruni, Upamanyu and Veda. NOT the Dhaumya who becomes the Pandavas' priest (1.174) |  |  |  |
 | **Dirghatamas** | Dīrghatamas | son of Utathya, cursed in the womb by Brihaspati to be born blind; fathers sons for King Bali |  |  | Dirghatama |
 | **Dridhasyu** | Dṛḍhasyu | son of Agastya and Lopamudra, called Idhmavaha | Idhmavaha |  |  |
 | **Durvasas** | Durvāsas | the fierce brahmin who gave Pritha the mantra to call the gods |  |  | Durvasa |
 | **Galava** | Gālava | a seer present in Yudhishthira's hall |  |  |  |
 | **Gauramukha** | Gauramukha | Shamika's pupil, sent to warn Parikshit |  |  |  |
-| **Gautama** | Gautama | the seer who disputes with Atri at Vainya's sacrifice (3.183); not Kripa or Sharadvat, who are also called Gautama |  |  |  |
+| **Gautama** | Gautama | the seer who disputes with Atri at Vainya's sacrifice (3.183); not Kripa or Sharadvat, who are also called Gautama; also a hermit at Dyumatsena's hermitage who asks Savitri for the truth (3.282.11, 3.282.33) |  |  |  |
 | **Ghatajanuka** | Ghaṭajānuka | a seer present in Yudhishthira's hall |  |  |  |
 | **Ghurnika** | Ghūrṇikā | Devayani's maid |  |  |  |
 | **Haribabhru** | Haribabhru | a seer present in Yudhishthira's hall |  |  |  |
@@ -869,7 +871,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sumitra** | Sumitra | a king named among the suitors at Draupadi's bridegroom choice; also Dasharatha's wife, mother of Lakshmana and Shatrughna (3.258.8) |  |  |  |
 | **Suryadhvaja** | Sūryadhvaja | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Sushena** | Suṣeṇa | a king named among the suitors at Draupadi's bridegroom choice; also Valin's father-in-law, a monkey chief |  |  |  |
-| **Suvarchas** | Suvarcas | name of a son of Dhritarashtra and of other suitors at Draupadi's bridegroom choice |  |  |  |
+| **Suvarchas** | Suvarcas | name of a son of Dhritarashtra and of other suitors at Draupadi's bridegroom choice; also a hermit who assures Dyumatsena that Satyavat lives (3.282.10) |  |  |  |
 | **Vardhakshemi** | Vārdhakṣemi | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Vatsaraja** | Vatsarāja | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Vrika** | Vṛka | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |

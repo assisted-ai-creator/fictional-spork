@@ -2,7 +2,7 @@
 
 # Contents
 
-**203 chapters, 448,009 words.** 203 drafted
+**205 chapters, 452,090 words.** 205 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -226,5 +226,7 @@
 | 86 | [Kumbhakarna and Indrajit](../novel/book-03-aranyaka/86-kumbhakarna-and-indrajit.md) | 3.270-273 | drafted | 2,444 |
 | 87 | [Ravana's Fall](../novel/book-03-aranyaka/87-ravanas-fall.md) | 3.274-276 | drafted | 2,406 |
 | 88 | [Savitri](../novel/book-03-aranyaka/88-savitri.md) | 3.277-280 | drafted | 2,885 |
+| 89 | [Savitri and Yama](../novel/book-03-aranyaka/89-savitri-and-yama.md) | 3.281 | drafted | 2,780 |
+| 90 | [Savitri's Return](../novel/book-03-aranyaka/90-savitris-return.md) | 3.282-283 | drafted | 1,301 |
 
-*Book 3 so far: 223,748 words.*
+*Book 3 so far: 227,829 words.*
