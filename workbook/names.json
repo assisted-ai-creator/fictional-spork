@@ -3224,8 +3224,11 @@
    "name": "Uttara",
    "iast": "Uttara",
    "group": "Matsya",
-   "who": "son of Virata; also Uttarā, Virata's daughter, whom Brihannada teaches to dance (4.10.8); later Abhimanyu's wife. The prince and the princess have the same name in English: always say which",
-   "aka": [],
+   "who": "son of Virata; also Uttarā, Virata's daughter, whom Brihannada teaches to dance (4.10.8); later Abhimanyu's wife. The prince and the princess have the same name in English: always say which. The prince is also called Bhuminjaya (4.33.9) and Prithivinjaya (4.36.1)",
+   "aka": [
+    "Bhuminjaya",
+    "Prithivinjaya"
+   ],
    "dialogue": [],
    "flag": [],
    "ref": "1.177.8"

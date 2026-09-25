@@ -552,7 +552,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Prabhankara** | Prabhaṃkara | an ancestor of Chitravahana, granted one child in each generation by Shiva; also one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
 | **Matsya** | Matsya | the king born with Satyavati from the fish; founder of the Matsya line |  |  |  |
 | **Shankha** | Śaṅkha | son of Virata |  |  |  |
-| **Uttara** | Uttara | son of Virata; also Uttarā, Virata's daughter, whom Brihannada teaches to dance (4.10.8); later Abhimanyu's wife. The prince and the princess have the same name in English: always say which |  |  |  |
+| **Uttara** | Uttara | son of Virata; also Uttarā, Virata's daughter, whom Brihannada teaches to dance (4.10.8); later Abhimanyu's wife. The prince and the princess have the same name in English: always say which. The prince is also called Bhuminjaya (4.33.9) and Prithivinjaya (4.36.1) | Bhuminjaya, Prithivinjaya |  |  |
 | **Virata** | Virāṭa | king of the Matsyas, host of the Pandavas' year in hiding |  |  | Viraat |
 | **Airavata** | Airāvata | a chief naga, brother of Vasuki (not the elephant of the same name) |  |  |  |
 | **Arbuda** | Arbuda | a snake of Magadha |  |  |  |

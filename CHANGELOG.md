@@ -18,6 +18,15 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 4, chapters 13–14 drafted: Uttara's boast; Brihannada's chariot
+- Ch 13 *Uttara's Boast* (CE 4.33–35) and Ch 14 *Brihannada's Chariot*
+  (4.36–37): the northern raid, the prince's boasting, Draupadi's
+  recommendation, the armour put on upside down, the prince's flight and
+  capture, Drona's omens and Duryodhana's claim of early recognition.
+- Notes record the vulgate's comic additions to Uttara's flight (the sour
+  gruel, the fourteen villages) as rejected.
+- Names: Uttara's other names, Bhuminjaya and Prithivinjaya.
+
 ### Novel: Book 4, chapters 11–12 drafted: the spies return; the Trigartas' raid
 - Ch 11 *The Spies Return* (CE 4.24–28): the spies' report and the council of
   Duryodhana, Karna, Duhshasana, Drona, Bhishma and Kripa. Ch 12 *The
