@@ -337,8 +337,8 @@ are refined while drafting.
 | 82 | Rama's Exile | 3.261–3.262 | ✅ drafted. Kaikeyī's wish; Bharata at Nandigrāma; Khara and Śūrpaṇakhā; Mārīca's deer; Sītā taken (L-155). |
 | 83 | Jatayu and Sugriva | 3.263–3.264 | ✅ drafted. Jaṭāyu; Kabandha; the pact with Sugrīva; Vālin killed; Trijaṭā's dreams (L-156). |
 | 84 | Sita in Lanka | 3.265–3.266 | ✅ drafted. Sītā's refusal; Lakṣmaṇa rouses Sugrīva; Hanumān's report: the cave, Saṃpāti, the leap, the jewel (L-134). |
-| 85 | The Bridge | 3.267–3.269 | The army; the bridge; Laṅkā besieged. |
-| 86 | Kumbhakarna and Indrajit | 3.270–3.273 | The battles; Kumbhakarṇa; Indrajit. |
+| 85 | The Bridge | 3.267–3.269 | ✅ drafted. The armies; the Ocean and Nala's bridge; Vibhīṣaṇa consecrated; Aṅgada's embassy; the storming (L-157). |
+| 86 | Kumbhakarna and Indrajit | 3.270–3.273 | ✅ drafted. Prahasta and Dhūmrākṣa; Lakṣmaṇa kills Kumbhakarṇa; the brothers fall and are healed; Kubera's water; Indrajit killed (L-157). |
 | 87 | Ravana's Fall | 3.274–3.276 | Rāvaṇa killed; Sītā's ordeal; the return. |
 | 88 | Savitri | 3.277–3.280 | Aśvapati; Sāvitrī chooses Satyavat; the fated day. |
 | 89 | Savitri and Yama | 3.281 | Sāvitrī follows Yama and wins her boons. |

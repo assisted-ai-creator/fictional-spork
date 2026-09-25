@@ -2,7 +2,7 @@
 
 # Contents
 
-**199 chapters, 438,055 words.** 199 drafted
+**201 chapters, 442,718 words.** 201 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -222,5 +222,7 @@
 | 82 | [Rama's Exile](../novel/book-03-aranyaka/82-ramas-exile.md) | 3.261-262 | drafted | 2,107 |
 | 83 | [Jatayu and Sugriva](../novel/book-03-aranyaka/83-jatayu-and-sugriva.md) | 3.263-264 | drafted | 2,591 |
 | 84 | [Sita in Lanka](../novel/book-03-aranyaka/84-sita-in-lanka.md) | 3.265-266 | drafted | 2,130 |
+| 85 | [The Bridge](../novel/book-03-aranyaka/85-the-bridge.md) | 3.267-269 | drafted | 2,219 |
+| 86 | [Kumbhakarna and Indrajit](../novel/book-03-aranyaka/86-kumbhakarna-and-indrajit.md) | 3.270-273 | drafted | 2,444 |
 
-*Book 3 so far: 213,794 words.*
+*Book 3 so far: 218,457 words.*

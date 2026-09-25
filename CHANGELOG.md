@@ -18,6 +18,17 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 85–86 drafted: the bridge; Kumbhakarna and Indrajit
+- Ch 85 *The Bridge* (CE 3.267–269) and Ch 86 *Kumbhakarna and Indrajit* (3.270–273): the monkey and bear armies;
+  Rama and the Ocean; Nala's bridge; Vibhishana consecrated; Angada's embassy; the storming of the walls; the
+  first battle; Vibhishana kills Prahasta and Hanuman Dhumraksha; Lakshmana kills Kumbhakarna with the Brahma
+  weapon; Indrajit's invisible arrows; the brothers healed with the herb vishalya; Kubera's water; Lakshmana
+  kills Indrajit; Avindhya stops Ravana from killing Sita. About 4,700 words.
+- Ledger: new L-157 (who kills Kumbhakarna; no Garuda, no herb mountain, no named stones or squirrel, no
+  Rameshvaram in the Mahabharata's telling).
+- Names: the monkey chiefs and rakshasa warriors of the siege added (Sushena, Nala, Nila, Prahasta, Indrajit,
+  Dhumraksha, Vajravega, Pramathin and others), with homonyms noted.
+
 ### Novel: Book 3, chapters 83–84 drafted: Jatayu and Sugriva; Sita in Lanka
 - Ch 83 *Jatayu and Sugriva* (CE 3.263–264) and Ch 84 *Sita in Lanka* (3.265–266): Jatayu's fight and death;
   Kabandha and the gandharva Vishvavasu; Pampa and the pact with Sugriva; Tara's warning and Valin's death; Sita

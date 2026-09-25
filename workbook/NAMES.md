@@ -450,7 +450,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kampana** | Kampana | a king present in Yudhishthira's hall |  |  |  |
 | **Ketuman** | Ketumat | a king present in Yudhishthira's hall |  |  | Ketumat |
 | **Kotikashya** | Koṭikāśya | son of King Suratha, a Shibi prince (Shaibya) in Jayadratha's company, who questions Draupadi; killed by Bhima | Kotika, Shaibya |  |  |
-| **Kratha** | Kratha | an overlord of kings defeated by Bhima; also a king Krishna beat at Jaruthi (3.13.27) |  |  |  |
+| **Kratha** | Kratha | an overlord of kings defeated by Bhima; also a king Krishna beat at Jaruthi (3.13.27); also a monkey chief |  |  |  |
 | **Kritakshana** | Kṛtakṣaṇa | a king present in Yudhishthira's hall |  |  |  |
 | **Kritavirya** | Kṛtavīrya | king who enriched the Bhrigus; father of Arjuna Kartavirya |  |  |  |
 | **Kshemajit** | Kṣemajit | a king present in Yudhishthira's hall |  |  |  |
@@ -568,7 +568,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Ekalavya** | Ekalavya | son of the Nishada king Hiranyadhanus; taught himself before a clay Drona and gave his thumb |  |  |  |
 | **Hiranyadhanus** | Hiraṇyadhanus | king of the Nishadas, Ekalavya's father |  |  |  |
 | **Damayanti** | Damayantī | Nala's wife, a model of devotion |  |  |  |
-| **Nala** | Nala | king of the Nishadhas, Damayanti's husband; his story is told in Book 3 |  |  |  |
+| **Nala** | Nala | king of the Nishadhas, Damayanti's husband; his story is told in Book 3; also a monkey, son of Tvashtri Vishvakarman, who builds the bridge to Lanka (3.267.41) |  |  |  |
 | **Pushkara** | Puṣkara | Nala's brother, who won Nala's kingdom from him at dice |  |  |  |
 | **Varshneya** | Vārṣṇeya | Nala's charioteer, who took his children to Vidarbha and then served Rituparna. Not Krishna, who is also called Varshneya |  |  |  |
 | **Prakarakarna** | Prākārakarṇa | the long-lived owl of the Himalaya (3.191.4) |  |  |  |
@@ -613,27 +613,44 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Aja** | Aja | an Ikshvaku king, father of Dasharatha |  |  |  |
 | **Angada** | Aṅgada | Valin's son, who leads the southern search party |  |  |  |
 | **Avindhya** | Avindhya | an old rakshasa, honoured by the elders, who wishes Rama well and sends word to Sita |  |  |  |
+| **Dadhimukha** | Dadhimukha | an old monkey chief |  |  |  |
+| **Dhumraksha** | Dhūmrākṣa | a rakshasa general killed by Hanuman |  |  |  |
 | **Dundubhi** | Dundubhī | a gandharvi born on earth as Manthara at Brahma's command |  |  |  |
 | **Dushana** | Dūṣaṇa | a rakshasa killed by Rama with Khara in the Dandaka forest |  |  |  |
 | **Dvivida** | Dvivida | a monkey, one of Sugriva's counsellors |  |  |  |
+| **Gaja** | Gaja | a monkey chief |  |  |  |
+| **Gandhamadana** | Gandhamādana | a monkey chief who lives on Mount Gandhamadana |  |  |  |
+| **Gavaksha** | Gavākṣa | a golangula monkey chief; eaten by Kumbhakarna |  |  |  |
+| **Gavaya** | Gavaya | a monkey chief |  |  |  |
+| **Indrajit** | Indrajit | Ravana's son, who once bound Indra; killed by Lakshmana |  |  |  |
 | **Jambavan** | Jāmbavān | king of the bears, one of Sugriva's counsellors |  |  |  |
 | **Jatayu** | Jaṭāyu | the vulture killed by Ravana as he carries Sita off |  |  |  |
 | **Kabandha** | Kabandha | a headless rakshasa with eyes in his chest, killed by Rama and Lakshmana; the gandharva Vishvavasu under a curse |  |  |  |
 | **Kaikeyi** | Kaikeyī | Dasharatha's wife, mother of Bharata, who has Rama sent to the forest |  |  |  |
 | **Khara** | Khara | Ravana's half-brother, Shurpanakha's twin, who lived in Janasthana; killed by Rama |  |  |  |
 | **Kumbhakarna** | Kumbhakarṇa | Ravana's brother, the strongest of them, who chose a great sleep as his boon |  |  |  |
+| **Kumuda** | Kumuda | a monkey chief |  |  |  |
 | **Mainda** | Mainda | a monkey, one of Sugriva's counsellors |  |  |  |
 | **Malini** | Mālinī | a rakshasi given by Kubera to Vishravas; mother of Vibhishana |  |  |  |
 | **Mandodari** | Mandodarī | Ravana's wife |  |  |  |
 | **Manthara** | Mantharā | the hunchback, the gandharvi Dundubhi on earth, who stirs Kaikeyi against Rama |  |  |  |
 | **Maricha** | Mārīca | Ravana's former counsellor, turned ascetic out of fear of Rama, who takes the form of a jewelled deer |  |  |  |
+| **Nikharvata** | Nikharvaṭa | a rakshasa who fights Tara |  |  |  |
+| **Panasa** | Panasa | a wise monkey chief; eaten by Kumbhakarna |  |  |  |
+| **Patusha** | Paṭuśa | a rakshasa who fights Panasa |  |  |  |
 | **Prabhavati** | Prabhāvatī | an ascetic woman living in Maya's palace inside a cave, who feeds the monkeys |  |  |  |
+| **Prahasta** | Prahasta | Ravana's general, killed by Vibhishana |  |  |  |
+| **Pramathin** | Pramāthin | a rakshasa, Dushana's younger brother, killed by Nila |  |  |  |
 | **Pushpotkata** | Puṣpotkaṭā | a rakshasi given by Kubera to Vishravas; mother of Ravana and Kumbhakarna |  |  |  |
 | **Raka** | Rākā | a rakshasi given by Kubera to Vishravas; mother of Khara and Shurpanakha |  |  |  |
 | **Sampati** | Saṃpāti | king of the vultures, Jatayu's elder brother, whose wings were burned by the sun; tells the monkeys where Lanka is |  |  |  |
 | **Shatrughna** | Śatrughna | son of Dasharatha and Sumitra, brother of Rama |  |  |  |
 | **Shurpanakha** | Śūrpaṇakhā | Ravana's half-sister, Khara's twin, who comes to Lanka with her nose and lips cut off |  |  |  |
 | **Trijata** | Trijaṭā | the kind rakshasi who comforts Sita with Avindhya's message and her dreams |  |  |  |
+| **Tunda** | Tuṇḍa | a rakshasa who fights Nala |  |  |  |
+| **Vajrabahu** | Vajrabāhu | a monkey eaten by Kumbhakarna |  |  |  |
+| **Vajravega** | Vajravega | a rakshasa, Dushana's younger brother, killed by Hanuman |  |  |  |
+| **Virupaksha** | Virūpākṣa | a rakshasa who fights Sugriva (3.269.8) |  |  |  |
 | **Bhramara** | Bhramara | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
 | **Guptaka** | Guptaka | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
 | **Kuhara** | Kuhara | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
@@ -771,7 +788,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shinivaka** | Śinīvāka | a seer present in Yudhishthira's hall |  |  |  |
 | **Shringin** | Śṛṅgin | Shamika's hot-tempered son, who curses Parikshit |  |  | Shringi, Sringi |
 | **Shrutashravas** | Śrutaśravas | seer, father of Somashravas |  |  |  |
-| **Shuka** | Śuka | Vyasa's son and pupil |  |  | Suka, Shukadeva |
+| **Shuka** | Śuka | Vyasa's son and pupil; also one of Ravana's counsellors, caught spying as a monkey (3.267.52) |  |  | Suka, Shukadeva |
 | **Shukra** | Śukra | Kavya Ushanas, priest of the asuras, who knows how to raise the dead; father of Devayani | Ushanas, Kavya, Bhargava |  | Sukra, Sukracharya, Shukracharya |
 | **Shunaka** | Śunaka | son of Ruru; ancestor of Shaunaka |  |  | Sunaka |
 | **Shvetaketu** | Śvetaketu | Uddalaka's son, who made the rule of marital faithfulness |  |  | Svetaketu |
@@ -832,7 +849,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Jalasandha** | Jalasaṃdha | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Jayatsena** | Jayatsena | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Maniman** | Maṇimat | a king named among the suitors at Draupadi's bridegroom choice; also a rakshasa, friend of Kubera, killed by Bhima on Gandhamadana (3.157.52–68) |  |  | Manimat |
-| **Nila** | Nīla | a king named among the suitors at Draupadi's bridegroom choice; also King Nila of Mahishmati, protected by Agni (2.28.11) |  |  |  |
+| **Nila** | Nīla | a king named among the suitors at Draupadi's bridegroom choice; also King Nila of Mahishmati, protected by Agni (2.28.11); also a monkey chief who kills Pramathin |  |  |  |
 | **Paundraka Vasudeva** | Pauṇḍraka Vāsudeva | king of the Pundras, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Rochamana** | Rocamāna | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Samudrasena** | Samudrasena | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
@@ -847,7 +864,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sukumara** | Sukumāra | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Sumitra** | Sumitra | a king named among the suitors at Draupadi's bridegroom choice; also Dasharatha's wife, mother of Lakshmana and Shatrughna (3.258.8) |  |  |  |
 | **Suryadhvaja** | Sūryadhvaja | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
-| **Sushena** | Suṣeṇa | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Sushena** | Suṣeṇa | a king named among the suitors at Draupadi's bridegroom choice; also Valin's father-in-law, a monkey chief |  |  |  |
 | **Suvarchas** | Suvarcas | name of a son of Dhritarashtra and of other suitors at Draupadi's bridegroom choice |  |  |  |
 | **Vardhakshemi** | Vārdhakṣemi | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Vatsaraja** | Vatsarāja | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
@@ -891,7 +908,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Samika** | Samīka | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Samitimjaya** | Samitiṃjaya | a Vrishni great warrior |  |  |  |
 | **Saramejaya** | Sāramejaya | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
-| **Sarana** | Sāraṇa | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Sarana** | Sāraṇa | a Vrishni named among the suitors at Draupadi's bridegroom choice; also one of Ravana's counsellors, caught spying as a monkey |  |  |  |
 | **Satrajit** | Satrājit | father of Satyabhama (3.222.3) |  |  |  |
 | **Satyabhama** | Satyabhāmā | Krishna's queen; she comes with him to the Pandavas in the Kamyaka forest (3.180.7) |  |  |  |
 | **Satyaka** | Satyaka | a Vrishni hero |  |  |  |
