@@ -46,8 +46,8 @@ against the CE when the Book is drafted.
 | 12 | **Śānti**: *Peace* | 12.1–12.353 | ✅ drafted. Suśarman's raid; Virāṭa captured and freed; the tree forbidden; Virāṭa offers Kaṅka the kingdom (4.29–32). | 45 | Vaiśaṃpāyana; Bhīṣma teaching |
 | 13 | **Anuśāsana**: *The Instructions* | 13.1–13.154 | ✅ drafted. The Kauravas take the northern herds; Uttara's boast; Draupadī names Bṛhannaḍā; cloth for the dolls (4.33–35). | 25 | Bhīṣma teaching |
 | 14 | **Āśvamedhika**: *The Horse Sacrifice* | 14.1–14.96 | ✅ drafted. Uttara runs; Arjuna catches him; the Kurus wonder; Droṇa's omens; Duryodhana's "twelve more years" (4.36–37). | 18 | Vaiśaṃpāyana |
-| 15 | **Āśramavāsika**: *The Hermitage* | 15.1–15.47 | 47 | 10 | Vaiśaṃpāyana |
-| 16 | **Mausala**: *The Iron Club* | 16.1–16.9 | 9 | 3 | Vaiśaṃpāyana |
+| 15 | **Āśramavāsika**: *The Hermitage* | 15.1–15.47 | ✅ drafted. The weapons in the śamī; the Gāṇḍīva's history; Arjuna's ten names; the vow, not a curse; the monkey banner and the conch (4.38–41). | 10 | Vaiśaṃpāyana |
+| 16 | **Mausala**: *The Iron Club* | 16.1–16.9 | ✅ drafted. Duryodhana, Karṇa, Kṛpa and Aśvatthāman quarrel; Bhīṣma makes peace and reckons the years; the battle order (4.42–47). | 3 | Vaiśaṃpāyana |
 | 17 | **Mahāprasthānika**: *The Great Journey* | 17.1–17.3 | 3 | 1 | Vaiśaṃpāyana |
 | 18 | **Svargārohaṇa**: *The Ascent to Heaven* | 18.1–18.5 | 5 | 2 | Vaiśaṃpāyana; Ugraśravas closes |
 | | | | **1,995** | **≈ 429** | |

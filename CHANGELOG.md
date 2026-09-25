@@ -18,6 +18,15 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 4, chapters 15–16 drafted: the weapons in the tree; the Kaurava council
+- Ch 15 *The Weapons in the Tree* (CE 4.38–41): the Pandavas' weapons named, the
+  Gandiva's history, Arjuna's ten names explained, his vow of celibacy (not
+  Urvashi's curse), the monkey banner and the conch. Ch 16 *The Kaurava
+  Council* (4.42–47): the leaders' quarrel and Bhishma's reckoning of the
+  thirteen years.
+- Ledger: L-168 (the Pandavas were not found out early; Bhishma's reckoning);
+  L-25 extended (4.\*757–\*758).
+
 ### Novel: Book 4, chapters 13–14 drafted: Uttara's boast; Brihannada's chariot
 - Ch 13 *Uttara's Boast* (CE 4.33–35) and Ch 14 *Brihannada's Chariot*
   (4.36–37): the northern raid, the prince's boasting, Draupadi's
