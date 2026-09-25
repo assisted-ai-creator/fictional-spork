@@ -18,6 +18,17 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 94–95 drafted: the lake; Dharma's boons. Book 3 complete
+- Ch 94 *The Lake* (CE 3.295–297) and Ch 95 *Dharma's Boons* (3.298–299): the deer and the brahmin's fire-sticks;
+  the brothers' grievances; four brothers fall at the lake; the crane-yaksha's questions and Yudhishthira's
+  answers, rendered in full; the choice of Nakula for non-cruelty; the yaksha revealed as Dharma; the three
+  boons; farewell to the forest brahmins; Dhaumya's examples of gods in hiding; the council before the year in
+  hiding. About 4,600 words.
+- **Book 3, the Aranyaka Parva, is now fully drafted: 95 chapters covering CE 3.1–3.299.**
+- Ledger: new L-161 (the "greatest wonder" and "path" questions are App. I No. 32, not CE) and L-162
+  ("dharmo rakshati rakshitah": CE 3.31.7, but the full couplet is rejected); L-28 extended.
+- Names: notes added to Aurva and Bali.
+
 ### Novel: Book 3, chapter 93 drafted: the armour and the earrings
 - Ch 93 *The Armour and the Earrings* (CE 3.292–294): Karna's secret birth and Pritha's lament as she sets him
   adrift; the basket's course to Champa; Adhiratha and Radha raise him as Vasushena; his training and rivalry

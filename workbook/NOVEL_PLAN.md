@@ -247,7 +247,7 @@ drafting. It is refined while drafting.
 
 ## Book 3: Āraṇyaka Parva: *The Forest* (CE 3.1–3.299)
 
-10,316 verses in 299 adhyāyas. The chapter list was drawn up from the CE's
+10,316 verses in 299 adhyāyas. **All 95 chapters drafted.** The chapter list was drawn up from the CE's
 adhyāya openings before drafting. Titles and contents are provisional and
 are refined while drafting.
 
@@ -346,8 +346,8 @@ are refined while drafting.
 | 91 | The Sun's Warning | 3.284–3.286 | ✅ drafted. The Sun's dream warning; Karṇa's vow of fame over life; the advice to ask for the spear (L-151, L-160). |
 | 92 | Kunti's Boon | 3.287–3.291 | ✅ drafted. Pṛthā serves the brahmin; the spell; the Sun summoned; her pleading; the conception by yoga (L-160). |
 | 93 | The Armour and the Earrings | 3.292–3.294 | ✅ drafted. Karṇa born and set afloat; Adhiratha and Rādhā; Vasuṣeṇa; Indra's bargain; the spear; Vaikartana (L-27). |
-| 94 | The Lake | 3.295–3.297 | The brahmin's fire-sticks; the lake; the yakṣa's questions. |
-| 95 | Dharma's Boons | 3.298–3.299 | Dharma's boons; the year in hiding begins. |
+| 94 | The Lake | 3.295–3.297 | ✅ drafted. The fire-sticks; the brothers fall; the crane-yakṣa's questions; Nakula chosen for non-cruelty (L-28, L-161, L-162). |
+| 95 | Dharma's Boons | 3.298–3.299 | ✅ drafted. The yakṣa is Dharma; three boons; farewell to the brahmins; Dhaumya's examples; the council. |
 
 ## Books 2–18: provisional sub-parvas
 
