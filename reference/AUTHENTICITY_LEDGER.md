@@ -205,6 +205,7 @@ well-known story. See [How to add an entry](#how-to-add-an-entry).
 | L-60 | **Bhānumatī**, Duryodhana's wife | ❌ | Duryodhana's wife is never named in the CE. The CE's Bhānumatīs are other women (e.g. 1.90.15). | Bhaṭṭa Nārāyaṇa's play *Veṇīsaṃhāra* |
 | L-61 | Balarāma meant **Subhadrā to marry Duryodhana**. | ❌ | Not in the CE or G. In the CE, Balarāma is only enraged at the abduction (1.212.31) and is then calmed (1.212). | Later Purāṇic and folk tradition |
 | L-62 | The Bhrigu warrior-sage is called **Parashurama** ("Rama of the axe"). | 🔶 (name) | The name *Paraśurāma* occurs **nowhere** in the CE or its apparatus lines (0 hits). The CE calls him *Rāma Jāmadagnya* (e.g. 1.2.116, 1.58.4, 1.61.70), *Bhārgava Rāma*, or simply *Rāma*. In Ganguli "Parasurama" appears mostly as the translator's own gloss ("the son of Jamadagni (Parasurama)", G 1.64, 1.66). | The novel writes "Rama, son of Jamadagni" or "Rama Jamadagnya". |
+| L-147 | **Duryodhana went to Dvaitavana to gloat over the Pāṇḍavas, was captured by the gandharvas, and was dragged off in bonds.** | 🔶 | The outing and its motive are in the CE: Karṇa urges Duryodhana to flaunt his fortune before the exiles (3.226), and the cattle count (*ghoṣayātrā*) is the pretext (3.227.19–23). Citrasena takes Duryodhana alive (3.231.6). That he ties Duryodhana's arms with a rope and sets him on a chariot is a rejected passage (\*1114); in the CE the brothers are "bound and carried off" only in the counsellors' cry (3.231.12). |
 
 ---
 

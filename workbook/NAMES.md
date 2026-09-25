@@ -27,8 +27,8 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Urvashi** | Urvaśī | the apsaras, wife of Pururavas |  |  | Urvasi |
 | **Varga** | Vargā | one of the five apsarases cursed to be crocodiles and freed by Arjuna |  |  |  |
 | **Varuthini** | Varūthinī | an apsaras who dances for Arjuna in Indra's hall |  |  |  |
-| **Anuvinda** | Anuvinda | one of the two princes of Avanti |  |  |  |
-| **Vinda** | Vinda | one of the two princes of Avanti |  |  |  |
+| **Anuvinda** | Anuvinda | one of the two princes of Avanti; also a son of Dhritarashtra (1.108.3), carried off by the gandharvas (3.231.8) |  |  |  |
+| **Vinda** | Vinda | one of the two princes of Avanti; also a son of Dhritarashtra (1.108.3), carried off by the gandharvas (3.231.8) |  |  |  |
 | **Darada** | Darada | a Bahlika king whom Shishupala says split the earth at his birth |  |  |  |
 | **Jambhaka** | Jambhaka | father of a Bhoja king spared by Krishna |  |  |  |
 | **Kamsa** | Kaṃsa | the tyrant of Mathura, Jarasandha's son-in-law, killed by Krishna and Balarama |  |  | Kansa |
@@ -385,9 +385,10 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Bahushali** | Bāhuśālin | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  | Bahushalin |
 | **Balaki** | Balākin | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Bhimavegadhara** | Bhīmavegadhara | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
-| **Chitrasena** | Citrasena | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice; also the gandharva who teaches Arjuna music and dance in Indra's heaven (3.45.6-8), and an apsaras (3.44.30). Same name, different beings: say which from context |  |  |  |
+| **Chitrasena** | Citrasena | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice; also the gandharva who teaches Arjuna music and dance in Indra's heaven (3.45.6-8) and, as king of the gandharvas, captures Duryodhana at Dvaitavana (3.230-231), and an apsaras (3.44.30). Same name, different beings: say which from context |  |  |  |
 | **Duhshala** | Duḥśalā | Dhritarashtra and Gandhari's one daughter; wife of Jayadratha |  |  | Dushala, Dussala |
 | **Duhshasana** | Duḥśāsana | second son of Dhritarashtra and Gandhari |  |  | Dushasana, Dussasana, Dushashan, Dushshasana |
+| **Durjaya** | Durjaya | a son of Dhritarashtra, carried off by the gandharvas at Dvaitavana |  |  |  |
 | **Durvishaha** | Durviṣaha | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Duryodhana** | Duryodhana | eldest son of Dhritarashtra and Gandhari; born of a portion of Kali | Suyodhana | Suyodhana | Duryodhan, Duryodan |
 | **Dushpradharshana** | Duṣpradharṣaṇa | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
@@ -397,6 +398,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Nandaka** | Nandaka | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Purochana** | Purocana | Duryodhana's minister who built the house of lac at Varanavata |  |  |  |
 | **Saha** | Saha | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice; also an apsaras (3.44.30) |  |  |  |
+| **Samanga** | Samaṅga | a cowherd primed by Duryodhana's party to tell Dhritarashtra the cattle are near |  |  |  |
 | **Sukundala** | Sukuṇḍala | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Ugrayudha** | Ugrāyudha | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Vatavega** | Vātavega | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
@@ -432,7 +434,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Devaka** | Devaka | king whose daughter by a shudra woman married Vidura |  |  |  |
 | **Devarata** | Devarāta | a king present in Yudhishthira's hall |  |  |  |
 | **Druhyu** | Druhyu | Yayati's son by Sharmishtha |  |  |  |
-| **Durmukha** | Durmukha | a king present in Yudhishthira's hall |  |  |  |
+| **Durmukha** | Durmukha | a king present in Yudhishthira's hall; also a son of Dhritarashtra, carried off by the gandharvas (3.231.12) |  |  |  |
 | **Dushyanta** | Duḥṣanta | Paurava king who marries Shakuntala by the gandharva rite and later denies her until a heavenly voice speaks; father of Bharata |  |  | Dushmanta, Dusyanta, Dushyant |
 | **Dyumatsena** | Dyumatsena | a king present in Yudhishthira's hall |  |  |  |
 | **Gadhi** | Gādhi | king of Kanyakubja, Vishvamitra's father |  |  |  |

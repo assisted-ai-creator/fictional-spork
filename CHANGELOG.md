@@ -18,6 +18,15 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 72–73 drafted: the cattle station; Duryodhana captured
+- Ch 72 *The Cattle Station* (CE 3.225–228) and Ch 73 *Duryodhana Captured* (3.229–231): a brahmin's report of
+  the Pandavas' hardship and Dhritarashtra's lament; Karna urges Duryodhana to flaunt his fortune before the
+  exiles; the cattle count as pretext; Dhritarashtra's reluctant leave and the march; the gandharvas hold the
+  Dvaitavana lake; Karna stands alone, then flees in Vikarna's chariot; Chitrasena takes Duryodhana alive;
+  the counsellors beg Yudhishthira for help and Bhima mocks them. About 4,300 words.
+- Ledger: new L-147 (the outing and capture are in the CE; the rope binding is \*1114).
+- Names: Samanga and Durjaya added; homonyms noted for Chitrasena, Vinda, Anuvinda and Durmukha.
+
 ### Novel: Book 3, chapters 70–71 drafted: Skanda and Mahisha; Draupadi and Satyabhama
 - Ch 70 *Skanda and Mahisha* (CE 3.220–221) and Ch 71 *Draupadi and Satyabhama* (3.222–224): Svaha's wish to
   live with Agni; Brahma on Rudra and Uma's part in Skanda's birth; Rudra's procession to Bhadravata; the danava

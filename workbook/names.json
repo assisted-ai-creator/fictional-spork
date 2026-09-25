@@ -2803,7 +2803,7 @@
    "name": "Chitrasena",
    "iast": "Citrasena",
    "group": "Kaurava",
-   "who": "a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice; also the gandharva who teaches Arjuna music and dance in Indra's heaven (3.45.6-8), and an apsaras (3.44.30). Same name, different beings: say which from context",
+   "who": "a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice; also the gandharva who teaches Arjuna music and dance in Indra's heaven (3.45.6-8) and, as king of the gandharvas, captures Duryodhana at Dvaitavana (3.230-231), and an apsaras (3.44.30). Same name, different beings: say which from context",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -4811,7 +4811,7 @@
    "name": "Durmukha",
    "iast": "Durmukha",
    "group": "King",
-   "who": "a king present in Yudhishthira's hall",
+   "who": "a king present in Yudhishthira's hall; also a son of Dhritarashtra, carried off by the gandharvas (3.231.12)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -7370,7 +7370,7 @@
    "name": "Vinda",
    "iast": "Vinda",
    "group": "Avanti",
-   "who": "one of the two princes of Avanti",
+   "who": "one of the two princes of Avanti; also a son of Dhritarashtra (1.108.3), carried off by the gandharvas (3.231.8)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -7380,7 +7380,7 @@
    "name": "Anuvinda",
    "iast": "Anuvinda",
    "group": "Avanti",
-   "who": "one of the two princes of Avanti",
+   "who": "one of the two princes of Avanti; also a son of Dhritarashtra (1.108.3), carried off by the gandharvas (3.231.8)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -9292,6 +9292,26 @@
    "dialogue": [],
    "flag": [],
    "ref": "3.221.7"
+  },
+  {
+   "name": "Samanga",
+   "iast": "Samaṅga",
+   "group": "Kaurava",
+   "who": "a cowherd primed by Duryodhana's party to tell Dhritarashtra the cattle are near",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.228.2"
+  },
+  {
+   "name": "Durjaya",
+   "iast": "Durjaya",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, carried off by the gandharvas at Dvaitavana",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.231.12"
   }
  ],
  "not_vyasa": [
