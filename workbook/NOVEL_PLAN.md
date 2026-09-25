@@ -318,8 +318,8 @@ are refined while drafting.
 | 63 | The Faithful Wife | 3.196–3.197 | ✅ drafted. What parents endure; Kauśika burns the crane; the housewife serves her husband first; who is a brahmin; she sends him to Mithilā (L-143). |
 | 64 | The Hunter of Mithila | 3.198–3.199 | ✅ drafted. The hunter in the market; his own work; Janaka's rule; the conduct of good men; "non-violence is the highest dharma" (L-144); no one is free of harm; Śibi Auśīnara (L-130). |
 | 65 | The Hunter's Teaching | 3.200–3.203 | ✅ drafted. The subtlety of dharma; deeds and rebirth; greed and dharma; the elements and the twenty-four; the senses as horses; the three strands; the breaths; the calm self. |
-| 66 | The Butcher's Past | 3.204–3.206 | His parents; his former life and curse. |
-| 67 | The Fires | 3.207–3.212 | The lineage of the fires. |
+| 66 | The Hunter's Past | 3.204–3.206 | ✅ drafted. The hunter's parents as his gods; Kauśika's blind parents; the former brahmin's arrow and the sage's curse; "twice-born by conduct" (L-138). |
+| 67 | The Fires | 3.207–3.212 | ✅ drafted. Agni and Aṅgiras; the daughters of Aṅgiras; Bṛhaspati's and Bhānu's fires; Pāñcajanya and the stealers of the sacrifice; the fires of atonement; Agni's flight, the minerals and Atharvan. |
 | 68 | The Birth of Skanda | 3.213–3.216 | Agni and the seers' wives; Svāhā; Skanda born. |
 | 69 | Skanda's Hosts | 3.217–3.219 | Skanda's companions; the mothers; the Grahas. |
 | 70 | Skanda and Mahisha | 3.220–3.221 | Skanda made general; Mahiṣa slain. |

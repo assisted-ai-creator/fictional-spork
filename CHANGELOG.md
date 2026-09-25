@@ -18,6 +18,14 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 66–67 drafted: the hunter's past; the fires
+- Ch 66 *The Hunter's Past* (CE 3.204–206) and Ch 67 *The Fires* (3.207–212): the hunter's parents and his
+  service to them; Kaushika sent home to his own blind parents; the hunter's former birth as a brahmin and the
+  sage's curse; "one becomes twice-born by conduct"; Agni and Angiras; the genealogy of the fires, the fires of
+  atonement, and Agni's flight into the ocean and return. About 5,100 words.
+- Ledger: L-138 extended with the hunter's and Kaushika's words (3.203.11–12; 3.206.11–12).
+- Care taken: the CE does not clearly name Angiras's wife (3.208.1); the vulgate's "Subha" is not used.
+
 ### Novel: Book 3, chapters 64–65 drafted: the hunter of Mithila; the hunter's teaching
 - Ch 64 *The Hunter of Mithila* (CE 3.198–199) and Ch 65 *The Hunter's Teaching* (3.200–203), retitled from
   "The Righteous Butcher" and "The Butcher's Teaching", since the CE's word is *vyādha*, hunter: Kaushika finds
