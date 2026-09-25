@@ -343,8 +343,8 @@ are refined while drafting.
 | 88 | Savitri | 3.277–3.280 | ✅ drafted. Aśvapati's boon; Sāvitrī chooses Satyavat; Nārada's warning; the wedding; the three-night vow; into the forest. |
 | 89 | Savitri and Yama | 3.281 | ✅ drafted. Yama takes Satyavat; Sāvitrī follows and wins five boons; the walk home through the dark (L-159). |
 | 90 | Savitri's Return | 3.282–3.283 | ✅ drafted. The hermits' assurances; Sāvitrī's account; the Śālvas bring Dyumatsena home; Mārkaṇḍeya's comfort (L-159). |
-| 91 | The Sun's Warning | 3.284–3.286 | The Sun warns Karṇa; Karṇa's resolve. |
-| 92 | Kunti's Boon | 3.287–3.291 | Kuntī and the brahmin; the mantra; the Sun summoned. |
+| 91 | The Sun's Warning | 3.284–3.286 | ✅ drafted. The Sun's dream warning; Karṇa's vow of fame over life; the advice to ask for the spear (L-151, L-160). |
+| 92 | Kunti's Boon | 3.287–3.291 | ✅ drafted. Pṛthā serves the brahmin; the spell; the Sun summoned; her pleading; the conception by yoga (L-160). |
 | 93 | The Armour and the Earrings | 3.292–3.294 | Karṇa born and set afloat; Adhiratha; Indra takes the armour. |
 | 94 | The Lake | 3.295–3.297 | The brahmin's fire-sticks; the lake; the yakṣa's questions. |
 | 95 | Dharma's Boons | 3.298–3.299 | Dharma's boons; the year in hiding begins. |

@@ -2,7 +2,7 @@
 
 # Contents
 
-**205 chapters, 452,090 words.** 205 drafted
+**207 chapters, 456,737 words.** 207 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -228,5 +228,7 @@
 | 88 | [Savitri](../novel/book-03-aranyaka/88-savitri.md) | 3.277-280 | drafted | 2,885 |
 | 89 | [Savitri and Yama](../novel/book-03-aranyaka/89-savitri-and-yama.md) | 3.281 | drafted | 2,780 |
 | 90 | [Savitri's Return](../novel/book-03-aranyaka/90-savitris-return.md) | 3.282-283 | drafted | 1,301 |
+| 91 | [The Sun's Warning](../novel/book-03-aranyaka/91-the-suns-warning.md) | 3.284-286 | drafted | 1,822 |
+| 92 | [Kunti's Boon](../novel/book-03-aranyaka/92-kuntis-boon.md) | 3.287-291 | drafted | 2,825 |
 
-*Book 3 so far: 227,829 words.*
+*Book 3 so far: 232,476 words.*

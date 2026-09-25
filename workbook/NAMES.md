@@ -27,6 +27,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Urvashi** | Urvaśī | the apsaras, wife of Pururavas |  |  | Urvasi |
 | **Varga** | Vargā | one of the five apsarases cursed to be crocodiles and freed by Arjuna |  |  |  |
 | **Varuthini** | Varūthinī | an apsaras who dances for Arjuna in Indra's hall |  |  |  |
+| **Talajangha** | Tālajaṅgha | one struck down by a brahmin's staff for failing to honour those who deserved honour, as Kuntibhoja tells Pritha |  |  |  |
 | **Anuvinda** | Anuvinda | one of the two princes of Avanti; also a son of Dhritarashtra (1.108.3), carried off by the gandharvas (3.231.8) |  |  |  |
 | **Vinda** | Vinda | one of the two princes of Avanti; also a son of Dhritarashtra (1.108.3), carried off by the gandharvas (3.231.8) |  |  |  |
 | **Darada** | Darada | a Bahlika king whom Shishupala says split the earth at his birth |  |  |  |

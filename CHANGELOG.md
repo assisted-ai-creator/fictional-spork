@@ -18,6 +18,15 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 91–92 drafted: the Sun's warning; Kunti's boon
+- Ch 91 *The Sun's Warning* (CE 3.284–286) and Ch 92 *Kunti's Boon* (3.287–291): the Sun, disguised as a brahmin,
+  warns Karna in a dream that Indra will beg his earrings and armour; Karna chooses fame over life; the Sun tells
+  him to ask for Indra's spear in exchange; then the secret: Pritha's year of service to a fierce brahmin in
+  Kuntibhoja's house, the spell, her summoning of the Sun, her pleading, and Karna's conception by yoga. About
+  4,650 words.
+- Ledger: new L-160 (Karna's conception and the Sun's warning, as the CE tells them).
+- Names: Talajangha added.
+
 ### Novel: Book 3, chapters 89–90 drafted: Savitri and Yama; Savitri's return
 - Ch 89 *Savitri and Yama* (CE 3.281) and Ch 90 *Savitri's Return* (3.282–283): Satyavat's death in the forest;
   Yama takes his thumb-sized soul; Savitri follows and wins her five boons with her speeches on the ways of the
