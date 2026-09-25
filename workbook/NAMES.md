@@ -40,6 +40,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sarisrikva** | Sārisṛkva | second of the four Sharngaka fledglings |  |  |  |
 | **Stambamitra** | Stambamitra | third of the four Sharngaka fledglings |  |  |  |
 | **Kalki** | Kalki | Kalki Vishnuyashas, the brahmin to be born at Sambhala at the end of the Kali age, who will restore the Krita (3.188.89–3.189.6) |  |  |  |
+| **Kaushika** | Kauśika | the brahmin who burns a crane with his look and is sent by a housewife to the hunter of Mithila (3.197–206) |  |  |  |
 | **Shamatha** | Śamaṭha | a brahmin who tells the Pandavas of King Gaya's sacrifice |  |  |  |
 | **Sudeva** | Sudeva | a brahmin, friend of Damayanti's brother, who finds her among the Chedis and carries her message to Rituparna |  |  |  |
 | **Sudhanvan** | Sudhanvan | son of Angiras, who staked his life against Virochana in Vidura's story |  |  |  |
@@ -100,7 +101,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Indratapana** | Indratāpana | named in Varuna's hall (2.9) |  |  |  |
 | **Ira** | Irā | named in Kubera's hall (2.10) |  |  |  |
 | **Janaka** | Janaka | named in Yama's hall (2.8); also King Janaka of Videha, defeated by Bhima (2.27.12) |  |  |  |
-| **Kaitabha** | Kaiṭabha | named in Varuna's hall (2.9) |  |  |  |
+| **Kaitabha** | Kaiṭabha | named in Varuna's hall (2.9); also the asura killed with Madhu by Vishnu (3.194) |  |  |  |
 | **Kala** | Kāla | named in Indra's hall (2.7) |  |  |  |
 | **Kalaka** | Kālakā | named in Brahma's hall (2.11); also a great asura woman, mother of the Kalakeyas (3.170.6) |  |  |  |
 | **Kalakavrikshiya** | Kālakavṛkṣīya | named in Indra's hall (2.7) |  |  |  |
@@ -121,7 +122,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kustumburu** | Kustumburu | named in Kubera's hall (2.10) |  |  |  |
 | **Lakshmana** | Lakṣmaṇa | named in Yama's hall (2.8); also Rama's brother, son of Dasharatha (3.26.8) |  |  |  |
 | **Likhita** | Likhita | named in Indra's hall (2.7) |  |  |  |
-| **Madhu** | Madhu | named in Yama's hall (2.8) |  |  |  |
+| **Madhu** | Madhu | named in Yama's hall (2.8); also the asura killed with Kaitabha by Vishnu on his thighs (3.194) |  |  |  |
 | **Mahaparshva** | Mahāpārśva | named in Varuna's hall (2.9) |  |  |  |
 | **Mahashva** | Mahāśva | named in Yama's hall (2.8) |  |  |  |
 | **Mandhatri** | Māndhātṛ | named in Yama's hall (2.8) |  |  |  |
@@ -243,6 +244,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shishupala** | Śiśupāla | king of Chedi, Jarasandha's general; killed by Krishna at the Rajasuya | Sunitha |  | Sisupala |
 | **Subahu** | Subāhu | king of the Chedis, in whose city Damayanti lives with the queen mother; also Subahu, king of the Kunindas on the Himalaya, who keeps the Pandavas' servants and chariots (3.141.24–29) |  |  |  |
 | **Virabahu** | Vīrabāhu | king of the Chedis, husband of Damayanti's mother's sister; father of Subahu |  |  |  |
+| **Dhundhu** | Dhundhu | asura son of Madhu and Kaitabha, who lies under the sands of Ujjanaka; killed by Kuvalashva (3.193–195) |  |  |  |
 | **Kalakeyas** | Kālakeya | danavas, sons of the asura woman Kalaka, who live in the flying city Hiranyapura; killed by Arjuna (3.170) |  |  |  |
 | **Nivatakavachas** | Nivātakavaca | danavas, enemies of Indra, three crores of them, living in a stronghold in the ocean; Arjuna's teacher's fee is to kill them (3.45; 3.165–169) |  |  |  |
 | **Paulomas** | Pauloma | danavas, sons of the daitya woman Puloma, who live in Hiranyapura with the Kalakeyas; killed by Arjuna (3.170) |  |  |  |
@@ -352,14 +354,23 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sainya** | Sainya | one of Krishna's chariot horses |  |  |  |
 | **Sugriva** | Sugrīva | one of Krishna's chariot horses; also the monkey king, son of the Sun, Rama's ally and Hanuman's friend (3.147.25–32) |  |  |  |
 | **Amshumant** | Aṃśumant | son of Asamanjas, who brought back Sagara's horse |  |  |  |
+| **Anenas** | Anenas | son of Kakutstha (3.193.2) |  |  |  |
+| **Ardra** | Ārdra | son of Vishvagashva (3.193.3) |  |  |  |
 | **Asamanjas** | Asamañjas | Sagara's son by Shaibya, banished for drowning children |  |  |  |
+| **Chandrashva** | Candrāśva | one of the three sons of Kuvalashva left alive (3.195.34) |  |  |  |
 | **Dala** | Dala | son of Parikshit of Ayodhya; king after Shala; he refuses Vamadeva's horses until his queen wins a boon (3.190) |  |  |  |
+| **Dridhashva** | Dṛḍhāśva | one of the three sons of Kuvalashva left alive (3.195.34) |  |  |  |
 | **Jivala** | Jīvala | one of Rituparna's charioteers, who serves with Bahuka |  |  |  |
+| **Kakutstha** | Kakutstha | son of Shashada (3.193.2) |  |  |  |
+| **Kapilashva** | Kapilāśva | one of the three sons of Kuvalashva left alive (3.195.34) |  |  |  |
+| **Kuvalashva** | Kuvalāśva | Ikshvaku king, son of Brihadashva, who kills the asura Dhundhu and is called Dhundhumara (3.192–195) | Dhundhumara |  |  |
 | **Rama Dasharathi** | Rāma Dāśarathi | son of Dasharatha, who lived in the forest at his father's word; his story is told at 3.257–276 | Dasharathi, Raghava |  |  |
 | **Rituparna** | Ṛtuparṇa | king of Ayodhya, master of dice, whom Nala serves as charioteer; called Bhangasvari, son of Bhangasvara (3.68.2) |  |  |  |
+| **Shashada** | Śaśāda | Ikshvaku's successor at Ayodhya (3.193.1) |  |  |  |
+| **Shravasta** | Śrāvasta | son of Yuvanashva, who built Shravasti; also called Shravastaka (3.193.3–4) | Shravastaka |  |  |
 | **Shyenajit** | Śyenajit | Dala's ten-year-old son, killed by his father's arrow at Vamadeva's word (3.190.73–74) |  |  |  |
 | **Sita** | Sītā | wife of Rama Dasharathi, carried off by Ravana (3.147.30–36); her story is told at 3.258–275 | Vaidehi, Janaki |  | Seeta |
-| **Yuvanashva** | Yuvanāśva | a king who bore his son Mandhatar from his own side |  |  |  |
+| **Yuvanashva** | Yuvanāśva | a king who bore his son Mandhatar from his own side; also an Ikshvaku, son of Ardra (3.193.3) |  |  |  |
 | **Sudakshina** | Sudakṣiṇa | king of the Kambojas, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Dantavakra** | Dantavakra | a king allied to Jarasandha |  |  |  |
 | **Karusha** | Karūṣa | a king allied to Jarasandha; Shishupala carried off Bhadra of Vaishali for Karusha (2.42.11) |  |  |  |
@@ -575,7 +586,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sutasoma** | Sutasoma | son of Draupadi and Bhima |  |  |  |
 | **Vishoka** | Viśoka | a servant of Yudhishthira who sees to the food at the Rajasuya; also named as a charioteer, leading the others when they rejoin the Pandavas at Subahu's city (3.174.14) |  |  |  |
 | **Yudhishthira** | Yudhiṣṭhira | eldest son of Kunti, by Dharma; the dharma king | Ajatashatru, Dharmaraja, Kaunteya, Partha | Ajatashatru | Yudhistira, Yudhishtira, Yudhisthira, Yudhishthir, Yudhisthir |
-| **Vishvagashva** | Viṣvagaśva | a Paurava king defeated by Arjuna |  |  |  |
+| **Vishvagashva** | Viṣvagaśva | a Paurava king defeated by Arjuna; also an Ikshvaku, son of Prithu (3.193.3) |  |  |  |
 | **Haihayas** | Haihaya | a line of kings; a Haihaya prince kills Tarkshya's son by mistake (3.182) |  |  |  |
 | **Ajamidha** | Ajamīḍha | an ancestor of the Kurus; Kuru kings are called Ajamidhas after him |  |  |  |
 | **Bhadra** | Bhadrā | Vyushitashva's wife, daughter of Kakshivat; also the name of Kubera's wife (1.191.6); also Bhadra of Vaishali, carried off by Shishupala (2.42.11) |  |  |  |
@@ -613,7 +624,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Bhaluki** | Bhāluki | a seer present in Yudhishthira's hall |  |  |  |
 | **Bharadvaja** | Bharadvāja | seer, Drona's father |  |  |  |
 | **Bhrigu** | Bhṛgu | seer, son of Brahma, ancestor of the Bhargavas (Shaunaka's line) |  |  |  |
-| **Brihadashva** | Bṛhadaśva | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
+| **Brihadashva** | Bṛhadaśva | a seer who honours Yudhishthira at Dvaitavana; also the Ikshvaku king, father of Kuvalashva (3.193.4) |  |  |  |
 | **Chandakaushika** | Caṇḍakauśika | son of Gautama Kakshivat; gives Brihadratha the mango |  |  |  |
 | **Chyavana** | Cyavana | son of Bhrigu, 'the Fallen One' |  |  | Chyavan |
 | **Dadhicha** | Dadhīca | seer from whose bones Indra's thunderbolt was made | Dadhichi |  |  |
@@ -742,7 +753,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Upayaja** | Upayāja | Yaja's younger brother, who refused Drupada and sent him to Yaja |  |  |  |
 | **Urdhvaretas** | Ūrdhvaretas | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
 | **Utathya** | Utathya | seer, elder brother of Brihaspati, husband of Mamata |  |  |  |
-| **Uttanka** | Uttaṅka | pupil of Veda who fetches the queen's earrings and urges Janamejaya to take revenge |  |  | Utanka |
+| **Uttanka** | Uttaṅka | pupil of Veda who fetches the queen's earrings and urges Janamejaya to take revenge; also the seer of the desert whose hermitage Dhundhu troubles; Vishnu grants him a boon (3.192–195) |  |  | Utanka |
 | **Vaivarnya** | Vaivarṇya | one of two seers of the Drishadvati; the reading is uncertain |  |  |  |
 | **Varaha** | Varāha | a seer present in Yudhishthira's hall |  |  |  |
 | **Varna** | Varṇa | one of two seers of the Drishadvati; the reading is uncertain |  |  |  |

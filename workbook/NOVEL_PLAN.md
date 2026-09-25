@@ -314,8 +314,8 @@ are refined while drafting.
 | 59 | Markandeya in the Flood | 3.186 | ✅ drafted. The lengths of the ages; the signs of the end; the seven suns, the fire and the rain; the child on the banyan; the world inside his body. |
 | 60 | The Age of Kali | 3.187–3.188 | ✅ drafted. The child is Nārāyaṇa; "whenever dharma declines" (L-140); the god is Kṛṣṇa; the signs of the Kali age; the Kṛta returns; Kalki (L-141). |
 | 61 | Vamadeva's Horses | 3.189–3.191 | ✅ drafted. Kalki's reign; Mārkaṇḍeya's counsel; Parīkṣit of Ayodhyā and the frog king's daughter; Śala, Dala and Vāmadeva's horses; Indradyumna, the owl, the heron and the tortoise. |
-| 62 | Dhundhumara | 3.192–3.195 | Uttaṅka; Kuvalāśva kills Dhundhu. |
-| 63 | The Faithful Wife | 3.196–3.197 | Kauśika and the faithful wife. |
+| 62 | Dhundhumara | 3.192–3.195 | ✅ drafted. Uttaṅka's hymn and boon; the Ikṣvāku line; Madhu and Kaiṭabha killed on Viṣṇu's thighs (L-142); Kuvalāśva digs out Dhundhu and burns him. |
+| 63 | The Faithful Wife | 3.196–3.197 | ✅ drafted. What parents endure; Kauśika burns the crane; the housewife serves her husband first; who is a brahmin; she sends him to Mithilā (L-143). |
 | 64 | The Righteous Butcher | 3.198–3.199 | Kauśika goes to the hunter of Mithilā. |
 | 65 | The Butcher's Teaching | 3.200–3.203 | The hunter's teaching on dharma and the self. |
 | 66 | The Butcher's Past | 3.204–3.206 | His parents; his former life and curse. |

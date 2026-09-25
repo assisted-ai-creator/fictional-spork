@@ -845,7 +845,7 @@
    "name": "Uttanka",
    "iast": "Uttaṅka",
    "group": "Seer",
-   "who": "pupil of Veda who fetches the queen's earrings and urges Janamejaya to take revenge",
+   "who": "pupil of Veda who fetches the queen's earrings and urges Janamejaya to take revenge; also the seer of the desert whose hermitage Dhundhu troubles; Vishnu grants him a boon (3.192–195)",
    "aka": [],
    "dialogue": [],
    "flag": [
@@ -5877,7 +5877,7 @@
    "name": "Madhu",
    "iast": "Madhu",
    "group": "Catalogue",
-   "who": "named in Yama's hall (2.8)",
+   "who": "named in Yama's hall (2.8); also the asura killed with Kaitabha by Vishnu on his thighs (3.194)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -6479,7 +6479,7 @@
    "name": "Kaitabha",
    "iast": "Kaiṭabha",
    "group": "Catalogue",
-   "who": "named in Varuna's hall (2.9)",
+   "who": "named in Varuna's hall (2.9); also the asura killed with Madhu by Vishnu (3.194)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -7300,7 +7300,7 @@
    "name": "Vishvagashva",
    "iast": "Viṣvagaśva",
    "group": "Paurava",
-   "who": "a Paurava king defeated by Arjuna",
+   "who": "a Paurava king defeated by Arjuna; also an Ikshvaku, son of Prithu (3.193.3)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -7943,7 +7943,7 @@
    "name": "Brihadashva",
    "iast": "Bṛhadaśva",
    "group": "Seer",
-   "who": "a seer who honours Yudhishthira at Dvaitavana",
+   "who": "a seer who honours Yudhishthira at Dvaitavana; also the Ikshvaku king, father of Kuvalashva (3.193.4)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -8785,7 +8785,7 @@
    "name": "Yuvanashva",
    "iast": "Yuvanāśva",
    "group": "Ikshvaku",
-   "who": "a king who bore his son Mandhatar from his own side",
+   "who": "a king who bore his son Mandhatar from his own side; also an Ikshvaku, son of Ardra (3.193.3)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -9108,6 +9108,120 @@
    "dialogue": [],
    "flag": [],
    "ref": "3.191.9"
+  },
+  {
+   "name": "Kuvalashva",
+   "iast": "Kuvalāśva",
+   "group": "Ikshvaku",
+   "who": "Ikshvaku king, son of Brihadashva, who kills the asura Dhundhu and is called Dhundhumara (3.192–195)",
+   "aka": [
+    "Dhundhumara"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.192.4"
+  },
+  {
+   "name": "Dhundhu",
+   "iast": "Dhundhu",
+   "group": "Danava",
+   "who": "asura son of Madhu and Kaitabha, who lies under the sands of Ujjanaka; killed by Kuvalashva (3.193–195)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.192.26"
+  },
+  {
+   "name": "Shashada",
+   "iast": "Śaśāda",
+   "group": "Ikshvaku",
+   "who": "Ikshvaku's successor at Ayodhya (3.193.1)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.193.1"
+  },
+  {
+   "name": "Kakutstha",
+   "iast": "Kakutstha",
+   "group": "Ikshvaku",
+   "who": "son of Shashada (3.193.2)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.193.2"
+  },
+  {
+   "name": "Anenas",
+   "iast": "Anenas",
+   "group": "Ikshvaku",
+   "who": "son of Kakutstha (3.193.2)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.193.2"
+  },
+  {
+   "name": "Ardra",
+   "iast": "Ārdra",
+   "group": "Ikshvaku",
+   "who": "son of Vishvagashva (3.193.3)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.193.3"
+  },
+  {
+   "name": "Shravasta",
+   "iast": "Śrāvasta",
+   "group": "Ikshvaku",
+   "who": "son of Yuvanashva, who built Shravasti; also called Shravastaka (3.193.3–4)",
+   "aka": [
+    "Shravastaka"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.193.3"
+  },
+  {
+   "name": "Dridhashva",
+   "iast": "Dṛḍhāśva",
+   "group": "Ikshvaku",
+   "who": "one of the three sons of Kuvalashva left alive (3.195.34)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.195.34"
+  },
+  {
+   "name": "Kapilashva",
+   "iast": "Kapilāśva",
+   "group": "Ikshvaku",
+   "who": "one of the three sons of Kuvalashva left alive (3.195.34)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.195.34"
+  },
+  {
+   "name": "Chandrashva",
+   "iast": "Candrāśva",
+   "group": "Ikshvaku",
+   "who": "one of the three sons of Kuvalashva left alive (3.195.34)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.195.34"
+  },
+  {
+   "name": "Kaushika",
+   "iast": "Kauśika",
+   "group": "Brahmin",
+   "who": "the brahmin who burns a crane with his look and is sent by a housewife to the hunter of Mithila (3.197–206)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.197.1"
   }
  ],
  "not_vyasa": [

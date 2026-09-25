@@ -18,6 +18,16 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 62–63 drafted: Dhundhumara; the faithful wife
+- Ch 62 *Dhundhumara* (CE 3.192–195) and Ch 63 *The Faithful Wife* (3.196–197): Uttanka's hymn to Vishnu;
+  the Ikshvaku line to Kuvalashva; Madhu and Kaitabha; Kuvalashva and his sons dig out the asura Dhundhu, and
+  the king burns him with the Brahma weapon; what mothers and fathers endure; Kaushika and the crane; the
+  housewife who serves her husband first and sends the brahmin to the hunter of Mithila. About 4,500 words.
+- Ledger: new L-142 (Madhu and Kaitabha's birth from Vishnu's ear-wax is rejected; the killing on his thighs is
+  in the CE) and L-143 ("I am not a crane" is rejected).
+- Names: Kuvalashva, Dhundhu, the early Ikshvakus and Kuvalashva's three surviving sons added; Kaushika,
+  Uttanka, Brihadashva, Madhu, Kaitabha, Vishvagashva and Yuvanashva extended.
+
 ### Novel: Book 3, chapters 60–61 drafted: the age of Kali; Vamadeva's horses
 - Ch 60 *The Age of Kali* (CE 3.187–188) and Ch 61 *Vamadeva's Horses* (3.189–191; retitled from "Kalki"):
   the child on the banyan names himself Narayana and is revealed as Krishna; the signs of the end of the Kali
