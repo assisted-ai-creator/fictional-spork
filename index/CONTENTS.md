@@ -2,7 +2,7 @@
 
 # Contents
 
-**184 chapters, 403,949 words.** 184 drafted
+**186 chapters, 408,238 words.** 186 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -207,5 +207,7 @@
 | 67 | [The Fires](../novel/book-03-aranyaka/67-the-fires.md) | 3.207-212 | drafted | 2,907 |
 | 68 | [The Birth of Skanda](../novel/book-03-aranyaka/68-the-birth-of-skanda.md) | 3.213-216 | drafted | 3,084 |
 | 69 | [Skanda's Hosts](../novel/book-03-aranyaka/69-skandas-hosts.md) | 3.217-219 | drafted | 2,666 |
+| 70 | [Skanda and Mahisha](../novel/book-03-aranyaka/70-skanda-and-mahisha.md) | 3.220-221 | drafted | 2,259 |
+| 71 | [Draupadi and Satyabhama](../novel/book-03-aranyaka/71-draupadi-and-satyabhama.md) | 3.222-224 | drafted | 2,030 |
 
-*Book 3 so far: 179,688 words.*
+*Book 3 so far: 183,977 words.*

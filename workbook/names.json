@@ -9252,6 +9252,46 @@
    "dialogue": [],
    "flag": [],
    "ref": "3.215.23"
+  },
+  {
+   "name": "Mahisha",
+   "iast": "Mahiṣa",
+   "group": "Danava",
+   "who": "the danava who seizes Rudra's chariot and is killed by Skanda's spear (3.221.52–66); not the Purana's buffalo-demon slain by Durga",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.221.52"
+  },
+  {
+   "name": "Satrajit",
+   "iast": "Satrājit",
+   "group": "Vrishni",
+   "who": "father of Satyabhama (3.222.3)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.222.3"
+  },
+  {
+   "name": "Pingala",
+   "iast": "Piṅgala",
+   "group": "Yaksha",
+   "who": "lord of yakshas, Rudra's friend of the burning ground, who carries the banner in Rudra's procession (3.221.22)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.221.22"
+  },
+  {
+   "name": "Amogha",
+   "iast": "Amogha",
+   "group": "Yaksha",
+   "who": "a great yaksha on the right wing of Rudra's procession (3.221.7); also a fire of that name (3.209.24)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.221.7"
   }
  ],
  "not_vyasa": [

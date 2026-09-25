@@ -18,6 +18,16 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 70–71 drafted: Skanda and Mahisha; Draupadi and Satyabhama
+- Ch 70 *Skanda and Mahisha* (CE 3.220–221) and Ch 71 *Draupadi and Satyabhama* (3.222–224): Svaha's wish to
+  live with Agni; Brahma on Rudra and Uma's part in Skanda's birth; Rudra's procession to Bhadravata; the danava
+  attack and Skanda's killing of Mahisha; Satyabhama's question and Draupadi's account of how she serves her
+  husbands and ran Yudhishthira's household; her counsel for winning Krishna; Satyabhama's farewell, with news of
+  Draupadi's five sons. This ends Markandeya's long session with the Pandavas. About 4,300 words.
+- Ledger: L-145 extended (3.220.9–10: Rudra entered Agni, Uma entered Svaha); new L-146 (in the Mahabharata
+  Mahisha is killed by Skanda, not Durga).
+- Names: Mahisha, Satrajit, Pingala and Amogha added.
+
 ### Novel: Book 3, chapters 68–69 drafted: the birth of Skanda; Skanda's hosts
 - Ch 68 *The Birth of Skanda* (CE 3.213–216) and Ch 69 *Skanda's Hosts* (3.217–219): Indra rescues
   Devasena from Keshin; Agni's desire for the seers' wives and Svaha's six disguises; Skanda born in the golden

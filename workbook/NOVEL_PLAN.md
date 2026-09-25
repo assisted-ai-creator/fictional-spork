@@ -322,8 +322,8 @@ are refined while drafting.
 | 67 | The Fires | 3.207–3.212 | ✅ drafted. Agni and Aṅgiras; the daughters of Aṅgiras; Bṛhaspati's and Bhānu's fires; Pāñcajanya and the stealers of the sacrifice; the fires of atonement; Agni's flight, the minerals and Atharvan. |
 | 68 | The Birth of Skanda | 3.213–3.216 | ✅ drafted. Indra rescues Devasenā; Agni and the seers' wives; Svāhā's six forms; Skanda born and Krauñca split; the Mothers; Viśākha from the thunderbolt (L-145). |
 | 69 | Skanda's Hosts | 3.217–3.219 | ✅ drafted. The Kumāras and Mothers; Skanda will not be Indra; made general and "Rudra's son"; weds Devasenā; the Kṛttikās and Vinatā; the Grahas of children and men. |
-| 70 | Skanda and Mahisha | 3.220–3.221 | Skanda made general; Mahiṣa slain. |
-| 71 | Draupadi and Satyabhama | 3.222–3.224 | Satyabhāmā asks Draupadī how she keeps her husbands. |
+| 70 | Skanda and Mahisha | 3.220–3.221 | ✅ drafted. Svāhā's wish; Rudra entered Agni and Umā Svāhā; Rudra's procession to Bhadravaṭa; the danava attack; Skanda kills Mahiṣa (L-146). |
+| 71 | Draupadi and Satyabhama | 3.222–3.224 | ✅ drafted. Charms are the ways of bad women; Draupadī's service and her management of Indraprastha; counsel for winning Kṛṣṇa; Satyabhāmā's farewell and news of the five sons. |
 | 72 | The Cattle Station | 3.225–3.228 | Duryodhana's plan to visit Dvaitavana. |
 | 73 | Duryodhana Captured | 3.229–3.231 | The gandharvas; Karṇa's flight; Duryodhana taken. |
 | 74 | The Rescue | 3.232–3.235 | Yudhiṣṭhira sends his brothers; Arjuna and Citrasena. |

@@ -246,6 +246,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Virabahu** | Vīrabāhu | king of the Chedis, husband of Damayanti's mother's sister; father of Subahu |  |  |  |
 | **Dhundhu** | Dhundhu | asura son of Madhu and Kaitabha, who lies under the sands of Ujjanaka; killed by Kuvalashva (3.193–195) |  |  |  |
 | **Kalakeyas** | Kālakeya | danavas, sons of the asura woman Kalaka, who live in the flying city Hiranyapura; killed by Arjuna (3.170) |  |  |  |
+| **Mahisha** | Mahiṣa | the danava who seizes Rudra's chariot and is killed by Skanda's spear (3.221.52–66); not the Purana's buffalo-demon slain by Durga |  |  |  |
 | **Nivatakavachas** | Nivātakavaca | danavas, enemies of Indra, three crores of them, living in a stronghold in the ocean; Arjuna's teacher's fee is to kill them (3.45; 3.165–169) |  |  |  |
 | **Paulomas** | Pauloma | danavas, sons of the daitya woman Puloma, who live in Hiranyapura with the Kalakeyas; killed by Arjuna (3.170) |  |  |  |
 | **Aditi** | Aditi | mother of the Adityas |  |  |  |
@@ -853,6 +854,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Samitimjaya** | Samitiṃjaya | a Vrishni great warrior |  |  |  |
 | **Saramejaya** | Sāramejaya | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Sarana** | Sāraṇa | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Satrajit** | Satrājit | father of Satyabhama (3.222.3) |  |  |  |
 | **Satyabhama** | Satyabhāmā | Krishna's queen; she comes with him to the Pandavas in the Kamyaka forest (3.180.7) |  |  |  |
 | **Satyaka** | Satyaka | a Vrishni hero |  |  |  |
 | **Satyaki** | Sātyaki | Vrishni hero, Arjuna's pupil and ally | Yuyudhana, Shaineya | Yuyudhana |  |
@@ -869,9 +871,11 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kuntibhoja** | Kuntibhoja | Shura's cousin, who adopted Pritha, hence 'Kunti' |  |  |  |
 | **Shura** | Śūra | chief of the Yadus, father of Vasudeva and of Pritha (Kunti) |  |  |  |
 | **Vasudeva** | Vasudeva | son of Shura, father of Krishna; Pritha's brother. Not Krishna's patronymic 'Vasudeva' (Vāsudeva), which the novel avoids as a name for Krishna where it would confuse |  |  |  |
+| **Amogha** | Amogha | a great yaksha on the right wing of Rudra's procession (3.221.7); also a fire of that name (3.209.24) |  |  |  |
 | **Arantuka** | Arantuka | a yaksha, gatekeeper of Kurukshetra, marking its bounds |  |  |  |
 | **Machakruka** | Macakruka | a yaksha, gatekeeper of Kurukshetra |  |  |  |
 | **Manichara** | Māṇicara | a yaksha who lives on Mount Mandara |  |  |  |
+| **Pingala** | Piṅgala | lord of yakshas, Rudra's friend of the burning ground, who carries the banner in Rudra's procession (3.221.22) |  |  |  |
 | **Tarantuka** | Tarantuka | a gatekeeper of Kurukshetra, marking its bounds |  |  |  |
 | **Kasheruman** | Kaśerumān | a Yavana Krishna killed |  |  |  |
 | **Mura** | Mura | one of two Yavana lords ruled by Bhagadatta |  |  |  |
