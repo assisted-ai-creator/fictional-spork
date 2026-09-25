@@ -18,6 +18,17 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 4, chapters 11–12 drafted: the spies return; the Trigartas' raid
+- Ch 11 *The Spies Return* (CE 4.24–28): the spies' report and the council of
+  Duryodhana, Karna, Duhshasana, Drona, Bhishma and Kripa. Ch 12 *The
+  Trigartas' Raid* (4.29–32): Susharma's raid, Virata captured and freed,
+  Virata's offer of the kingdom to Kanka.
+- Ledger: L-166 (Bhishma names no kingdom), L-167 (Susharma made a slave is
+  appendix @32); L-164 corrected: the tree scene is CE, but in the Trigarta
+  battle (4.32.16–20), not against Kichaka.
+- Names: Madirashva, Suryadatta, Vishalaksha, Shonashva, Vaiyaghrapadya;
+  Susharma and Shatanika notes extended.
+
 ### Novel: Book 4, chapters 9–10 drafted: the dance hall; the Upakichakas
 - Ch 9 *The Dance Hall* (CE 4.21): Kichaka's tryst; Bhima waits in the dark and
   crushes him. Ch 10 *The Upakichakas* (4.22–23): the pyre, Draupadi's cry to the

@@ -491,7 +491,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sumanas** | Sumanas | a king present in Yudhishthira's hall |  |  |  |
 | **Sumandala** | Sumaṇḍala | a king defeated by Arjuna in the north |  |  |  |
 | **Suratha** | Suratha | a king present in Yudhishthira's hall; also the father of Kotikashya (3.249.6), and a Trigarta king who fights Nakula (3.255.18) |  |  |  |
-| **Susharma** | Suśarman | a king present in Yudhishthira's hall |  |  | Susharman |
+| **Susharma** | Suśarman | king of the Trigartas, who raids Virata's cattle (4.29–32); a Susharma is also among the kings in Yudhishthira's hall (2.4) |  |  | Susharman |
 | **Timingila** | Timiṃgila | a southern king subdued by Sahadeva |  |  |  |
 | **Turvasu** | Turvasu | Yayati's son by Devayani |  |  |  |
 | **Uparichara Vasu** | Uparicara Vasu | king of Chedi, Indra's friend, who rides above the earth in a crystal chariot; father of Satyavati and Matsya | Vasu, Uparichara |  |  |
@@ -591,7 +591,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Nakula** | Nakula | elder of Madri's twin sons, by the Ashvins |  |  | Nakul |
 | **Prativindhya** | Prativindhya | son of Draupadi and Yudhishthira; also a king of the north defeated by Arjuna (2.23.15) |  |  |  |
 | **Sahadeva** | Sahadeva | younger of Madri's twin sons, by the Ashvins; also the name of Jarasandha's son, consecrated king of Magadha by Krishna (2.20.29; 2.22.39) |  |  | Sahdev, Sahadev |
-| **Shatanika** | Śatānīka | son of Draupadi and Nakula, named after a royal seer of the Kuru line |  |  |  |
+| **Shatanika** | Śatānīka | son of Draupadi and Nakula, named after a royal seer of the Kuru line; another Shatanika is Virata's younger brother (4.30.10) |  |  |  |
 | **Shrutakarman** | Śrutakarman | son of Draupadi. The CE's lists differ: Arjuna's son at 1.213.76 and 3.224.10, Sahadeva's at 1.90.82 and 3.13.66 | Shrutakarma |  |  |
 | **Shrutakirti** | Śrutakīrti | son of Draupadi and Arjuna in the lists at 1.57.102, 1.90.82 and 3.13.65; the lists at 1.213.76 and 3.224.10 give Arjuna's son as Shrutakarman |  |  |  |
 | **Shrutasena** | Śrutasena | son of Draupadi and Sahadeva (1.57.103, 1.213, 3.224.10); the lists at 1.90.82 and 3.13.66 give Sahadeva's son as Shrutakarman |  |  |  |
@@ -877,6 +877,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vardhakshemi** | Vārdhakṣemi | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Vatsaraja** | Vatsarāja | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Vrika** | Vṛka | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Shonashva** | Śoṇāśva | guard of Susharma's chariot wheel, who deserts him |  |  |  |
 | **Hanuman** | Hanūmat | the monkey, son of the wind; he meets Bhima in Book 3 and promises to sit on Arjuna's banner (3.150.15); not named on the banner at 1.216 |  |  | Hanumana |
 | **Kesarin** | Kesarin | the monkey in whose wife the Wind begot Hanuman (3.147.24) |  |  |  |
 | **Brihatsena** | Bṛhatsenā | Damayanti's nurse |  |  |  |
@@ -889,9 +890,13 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Jayadbala** | Jayadbala | one of the five secret names Yudhishthira gives the Pandavas in Virata's city (4.5.30) |  |  |  |
 | **Jimuta** | Jīmūta | a famous wrestler killed by Bhima at the festival of Brahma |  |  |  |
 | **Kichaka** | Kīcaka | Virata's commander, brother of Queen Sudeshna, a suta's son; desires the sairandhri and kicks her in the hall | the suta's son | Kichaka | Keechaka, Kichak |
+| **Madirashva** | Madirāśva | Virata's brother, younger than Shatanika |  |  |  |
+| **Suryadatta** | Sūryadatta | a Matsya chariot fighter, apparently Virata's kinsman |  |  |  |
 | **Tantipala** | Tantipāla | the name Sahadeva takes in Virata's court, as counter of cattle; he also calls himself Arishtanemi, a vaishya (4.9.4) |  |  |  |
 | **Upakichakas** | Upakīcaka | Kichaka's hundred and five younger brothers, killed by Bhima when they try to burn the sairandhri on his pyre | the Upakichaka, the Kichakas |  | Upakeechaka |
+| **Vaiyaghrapadya** | Vaiyāghrapadya | the brahmin clan Yudhishthira claims as Kanka |  |  |  |
 | **Vijaya** | Vijaya | one of the five secret names Yudhishthira gives the Pandavas in Virata's city (4.5.30) |  |  |  |
+| **Vishalaksha** | Viśālākṣa | a Matsya chariot fighter; the word may be an epithet ("large-eyed") |  |  |  |
 | **Akrura** | Akrūra | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Anadhrishti** | Anādhṛṣṭi | a Vrishni hero who comes to Indraprastha with Krishna |  |  |  |
 | **Anakadundubhi** | Ānakadundubhi | Vasudeva, Krishna's father |  |  |  |

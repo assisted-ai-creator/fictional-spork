@@ -42,8 +42,8 @@ against the CE when the Book is drafted.
 | 8 | **Karṇa**: *Karna's Battle* | 8.1–8.69 | ✅ drafted. Draupadī's lament and her calloused hands; "a month and a half more"; Bhīma resolves to kill Kīcaka (4.18–20). | 18 | Sañjaya → Dhṛtarāṣṭra |
 | 9 | **Śalya**: *Shalya's Battle and the Mace Duel* | 9.1–9.64 | ✅ drafted. Kīcaka meets Bhīma in the dark dance hall and is crushed (4.21). | 16 | Sañjaya → Dhṛtarāṣṭra |
 | 10 | **Sauptika**: *The Night Raid* | 10.1–10.18 | ✅ drafted. The Upakīcakas carry the sairandhrī to the pyre; Bhīma kills all 105 with a tree; "thirteen days" (4.22–23). | 5 | Sañjaya → Dhṛtarāṣṭra |
-| 11 | **Strī**: *The Women* | 11.1–11.27 | 27 | 7 | Vaiśaṃpāyana |
-| 12 | **Śānti**: *Peace* | 12.1–12.353 | 353 | 45 | Vaiśaṃpāyana; Bhīṣma teaching |
+| 11 | **Strī**: *The Women* | 11.1–11.27 | ✅ drafted. Talk of Kīcaka's death; the spies' report; Duryodhana, Karṇa, Duḥśāsana, Droṇa, Bhīṣma and Kṛpa on finding the Pāṇḍavas (4.24–28). | 7 | Vaiśaṃpāyana |
+| 12 | **Śānti**: *Peace* | 12.1–12.353 | ✅ drafted. Suśarman's raid; Virāṭa captured and freed; the tree forbidden; Virāṭa offers Kaṅka the kingdom (4.29–32). | 45 | Vaiśaṃpāyana; Bhīṣma teaching |
 | 13 | **Anuśāsana**: *The Instructions* | 13.1–13.154 | 154 | 25 | Bhīṣma teaching |
 | 14 | **Āśvamedhika**: *The Horse Sacrifice* | 14.1–14.96 | 96 | 18 | Vaiśaṃpāyana |
 | 15 | **Āśramavāsika**: *The Hermitage* | 15.1–15.47 | 47 | 10 | Vaiśaṃpāyana |

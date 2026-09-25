@@ -2,7 +2,7 @@
 
 # Contents
 
-**220 chapters, 478,366 words.** 220 drafted
+**222 chapters, 483,323 words.** 222 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -250,5 +250,7 @@
 | 8 | [Bhima's Promise](../novel/book-04-virata/08-bhimas-promise.md) | 4.18-20 | drafted | 2,136 |
 | 9 | [The Dance Hall](../novel/book-04-virata/09-the-dance-hall.md) | 4.21 | drafted | 1,507 |
 | 10 | [The Upakichakas](../novel/book-04-virata/10-the-upakichakas.md) | 4.22-23 | drafted | 1,341 |
+| 11 | [The Spies Return](../novel/book-04-virata/11-the-spies-return.md) | 4.24-28 | drafted | 2,140 |
+| 12 | [The Trigartas' Raid](../novel/book-04-virata/12-the-trigartas-raid.md) | 4.29-32 | drafted | 2,817 |
 
-*Book 4 so far: 14,850 words.*
+*Book 4 so far: 19,807 words.*

@@ -3998,7 +3998,7 @@
    "name": "Shatanika",
    "iast": "Śatānīka",
    "group": "Pandava",
-   "who": "son of Draupadi and Nakula, named after a royal seer of the Kuru line",
+   "who": "son of Draupadi and Nakula, named after a royal seer of the Kuru line; another Shatanika is Virata's younger brother (4.30.10)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -4942,7 +4942,7 @@
    "name": "Susharma",
    "iast": "Suśarman",
    "group": "King",
-   "who": "a king present in Yudhishthira's hall",
+   "who": "king of the Trigartas, who raids Virata's cattle (4.29–32); a Susharma is also among the kings in Yudhishthira's hall (2.4)",
    "aka": [],
    "dialogue": [],
    "flag": [
@@ -10035,6 +10035,56 @@
     "Upakeechaka"
    ],
    "ref": "4.22.5–29"
+  },
+  {
+   "name": "Madirashva",
+   "iast": "Madirāśva",
+   "group": "Virata",
+   "who": "Virata's brother, younger than Shatanika",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "4.30.11"
+  },
+  {
+   "name": "Suryadatta",
+   "iast": "Sūryadatta",
+   "group": "Virata",
+   "who": "a Matsya chariot fighter, apparently Virata's kinsman",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "4.30.13"
+  },
+  {
+   "name": "Vishalaksha",
+   "iast": "Viśālākṣa",
+   "group": "Virata",
+   "who": "a Matsya chariot fighter; the word may be an epithet (\"large-eyed\")",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "4.31.15"
+  },
+  {
+   "name": "Shonashva",
+   "iast": "Śoṇāśva",
+   "group": "Trigarta",
+   "who": "guard of Susharma's chariot wheel, who deserts him",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "4.32.30"
+  },
+  {
+   "name": "Vaiyaghrapadya",
+   "iast": "Vaiyāghrapadya",
+   "group": "Virata",
+   "who": "the brahmin clan Yudhishthira claims as Kanka",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "4.6.10"
   }
  ],
  "not_vyasa": [
