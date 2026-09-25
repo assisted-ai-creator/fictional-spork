@@ -18,13 +18,23 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 74–75 drafted: the rescue; Duryodhana's shame
+- Ch 74 *The Rescue* (CE 3.232–235) and Ch 75 *Duryodhana's Shame* (3.236–238): Yudhishthira rebukes Bhima and
+  sends his brothers to free Duryodhana; Arjuna's battle with the gandharvas until Chitrasena shows himself;
+  Chitrasena reveals that Indra sent him because the Kauravas came to mock the Pandavas; Yudhishthira frees the
+  prisoners and sends Duryodhana home; on the road Duryodhana tells Karna the truth, resolves to fast to death,
+  and offers Duhshasana the kingship; Karna argues that the Pandavas only did a subject's duty. About 4,000 words.
+- Ledger: new L-148 ("we are a hundred and five" is only in rejected passages); L-147 corrected (Duryodhana's
+  binding is in the CE, at Indra's order, 3.235.5–7; only the rope and chariot detail is \*1114), with the
+  ch 73 note to match.
+
 ### Novel: Book 3, chapters 72–73 drafted: the cattle station; Duryodhana captured
 - Ch 72 *The Cattle Station* (CE 3.225–228) and Ch 73 *Duryodhana Captured* (3.229–231): a brahmin's report of
   the Pandavas' hardship and Dhritarashtra's lament; Karna urges Duryodhana to flaunt his fortune before the
   exiles; the cattle count as pretext; Dhritarashtra's reluctant leave and the march; the gandharvas hold the
   Dvaitavana lake; Karna stands alone, then flees in Vikarna's chariot; Chitrasena takes Duryodhana alive;
   the counsellors beg Yudhishthira for help and Bhima mocks them. About 4,300 words.
-- Ledger: new L-147 (the outing and capture are in the CE; the rope binding is \*1114).
+- Ledger: new L-147 (the outing, the capture and the binding are in the CE; the rope and chariot detail is \*1114).
 - Names: Samanga and Durjaya added; homonyms noted for Chitrasena, Vinda, Anuvinda and Durmukha.
 
 ### Novel: Book 3, chapters 70–71 drafted: Skanda and Mahisha; Draupadi and Satyabhama

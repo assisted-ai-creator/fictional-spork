@@ -201,7 +201,7 @@ As Bhimasena, son of Kunti, spoke like this in his anger, the king said to him,
 
 **Divergences.**
 
-* **Duryodhana bound.** A rejected passage (\*1114) has Chitrasena tie Duryodhana's arms with a rope, set him on his own chariot and roar. In the CE, Chitrasena takes him alive (3.231.6), and the brothers are "bound and carried off" only in the counsellors' cry (3.231.12). See L-147.
+* **Duryodhana bound.** A rejected passage (\*1114) has Chitrasena tie Duryodhana's arms with a rope, set him on his own chariot and roar. In the CE, Chitrasena takes him alive (3.231.6). That he is bound comes later, in Chitrasena's own words (3.235.5–7). See L-147.
 * **The Pandavas beside the lake.** A rejected line (\*1105) places Bhima, Arjuna and the twins with Yudhishthira by the lake, and another (\*1104) the forest brahmins. Not narrated.
 * **Chitrasena's arrows.** A rejected passage (\*1110) describes Chitrasena's arrows darkening the sky and killing elephant riders and horsemen. Not narrated.
 * Other rejected lines (\*1103, \*1106–\*1109, \*1111–\*1113, \*1115–\*1117) add descriptive detail or repeat what is said. Not narrated.

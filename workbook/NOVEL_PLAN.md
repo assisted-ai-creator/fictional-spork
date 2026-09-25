@@ -326,8 +326,8 @@ are refined while drafting.
 | 71 | Draupadi and Satyabhama | 3.222–3.224 | ✅ drafted. Charms are the ways of bad women; Draupadī's service and her management of Indraprastha; counsel for winning Kṛṣṇa; Satyabhāmā's farewell and news of the five sons. |
 | 72 | The Cattle Station | 3.225–3.228 | ✅ drafted. The brahmin's report and Dhritarashtra's lament; Karṇa's urging; the pretext of the cattle count; the march (L-147). |
 | 73 | Duryodhana Captured | 3.229–3.231 | ✅ drafted. The gandharvas hold the lake; Karṇa stands, then flees; Citrasena takes Duryodhana; Bhīma's scorn (L-147). |
-| 74 | The Rescue | 3.232–3.235 | Yudhiṣṭhira sends his brothers; Arjuna and Citrasena. |
-| 75 | Duryodhana's Shame | 3.236–3.238 | Duryodhana resolves to fast to death. |
+| 74 | The Rescue | 3.232–3.235 | ✅ drafted. Yudhiṣṭhira sends his brothers; Arjuna and Citrasena; Duryodhana freed and sent home (L-148). |
+| 75 | Duryodhana's Shame | 3.236–3.238 | ✅ drafted. Karṇa's congratulations; Duryodhana's account; the fast to death; Duḥśāsana offered the kingship; Karṇa's argument. |
 | 76 | The Danavas' Promise | 3.239–3.240 | Śakuni and Karṇa; the dānavas restore his will. |
 | 77 | The Vaishnava Sacrifice | 3.241–3.244 | Karṇa's conquests; Duryodhana's sacrifice; the dream of the deer. |
 | 78 | Mudgala | 3.245–3.247 | A drona of rice; Durvāsas; the messenger of the gods. |
