@@ -78,7 +78,7 @@ against the CE when the Book is drafted.
 | 16 | Arjunavanavāsa | 1.200–1.210 | Nārada's tale of Sunda and Upasunda; the rule; Arjuna's exile; Ulūpī; Citrāṅgadā; the five apsarases |
 | 17 | Subhadrāharaṇa | 1.211–1.212 | Arjuna and Subhadrā |
 | 18 | Haraṇāharika | 1.213 | The bridal gifts; Abhimanyu and Draupadī's sons born |
-| 19 | Khāṇḍavadāha | 1.214–1.225 | Agni's hunger; Gāṇḍīva and the discus; the burning of the forest; Maya spared; the Śārṅgaka birds |
+| 19 | Khāṇḍavadāha | 1.214–1.225 | ✅ drafted. Arjuna routs the Kauravas; duel with Bhīṣma; Duryodhana taunted; the stupefying weapon and the cloths for the dolls; Duryodhana's crown cut (4.56–62). |
 
 ### Chapter plan (first part; refined while drafting)
 

@@ -18,6 +18,13 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 4, chapter 19 drafted: the stupefying weapon
+- Ch 19 *The Stupefying Weapon* (CE 4.56–62): Arjuna routs the Kaurava army,
+  fights Bhishma, taunts Duryodhana back into battle, stupefies the leaders
+  and takes their cloths for the princess's dolls; Bhishma's rebuke; the
+  crown cut; the frightened soldiers spared.
+- Ledger: L-169 (no stripping or shaving of the Kauravas in the CE).
+
 ### Novel: Book 4, chapters 17–18 drafted: the cattle recovered; Kripa, Drona and Karna
 - Ch 17 *The Cattle Recovered* (CE 4.48–51): the greeting arrows at Drona's
   feet, the cattle turned back, Karna's brother killed, the Kaurava banners,

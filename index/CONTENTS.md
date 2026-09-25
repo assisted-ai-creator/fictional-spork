@@ -2,7 +2,7 @@
 
 # Contents
 
-**228 chapters, 497,304 words.** 228 drafted
+**229 chapters, 501,127 words.** 229 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -258,5 +258,6 @@
 | 16 | [The Kaurava Council](../novel/book-04-virata/16-the-kaurava-council.md) | 4.42-47 | drafted | 3,118 |
 | 17 | [The Cattle Recovered](../novel/book-04-virata/17-the-cattle-recovered.md) | 4.48-51 | drafted | 2,109 |
 | 18 | [Kripa, Drona and Karna](../novel/book-04-virata/18-kripa-drona-and-karna.md) | 4.52-55 | drafted | 3,024 |
+| 19 | [The Stupefying Weapon](../novel/book-04-virata/19-the-stupefying-weapon.md) | 4.56-62 | drafted | 3,823 |
 
-*Book 4 so far: 33,788 words.*
+*Book 4 so far: 37,611 words.*
