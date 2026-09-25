@@ -18,6 +18,15 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 83–84 drafted: Jatayu and Sugriva; Sita in Lanka
+- Ch 83 *Jatayu and Sugriva* (CE 3.263–264) and Ch 84 *Sita in Lanka* (3.265–266): Jatayu's fight and death;
+  Kabandha and the gandharva Vishvavasu; Pampa and the pact with Sugriva; Tara's warning and Valin's death; Sita
+  among the rakshasis; Trijata's comfort and dreams; Ravana's offer and Sita's refusal; Lakshmana rouses
+  Sugriva; Hanuman's report of the cave, Sampati, the leap and the jewel. About 4,700 words.
+- Ledger: new L-156 (Shabari is not in the Mahabharata; Valin's death as the CE tells it).
+- Names: Sampati, Kabandha, Mainda, Dvivida, Jambavan, Avindhya, Trijata, Mandodari, Angada and Prabhavati added;
+  homonyms noted for Vishvavasu, Tara and Rambha.
+
 ### Novel: Book 3, chapters 81–82 drafted: Ravana's birth; Rama's exile
 - Ch 81 *Ravana's Birth* (CE 3.257–260) and Ch 82 *Rama's Exile* (3.261–262): Markandeya begins the story of
   Rama in answer to Yudhishthira; Rama's family and Sita, made by Tvashtri; Ravana's descent from Pulastya through

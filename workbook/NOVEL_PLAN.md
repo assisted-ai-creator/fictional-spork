@@ -335,8 +335,8 @@ are refined while drafting.
 | 80 | The Rescue of Draupadi | 3.253–3.256 | ✅ drafted. The omens; Draupadī names her husbands; the battle; five tufts; Śiva's boon (L-152, L-153). |
 | 81 | Ravana's Birth | 3.257–3.260 | ✅ drafted. Yudhiṣṭhira's question; Rāma's family; Pulastya, Viśravas and Kubera; the three rakṣasīs; the boons; Mantharā (L-154). |
 | 82 | Rama's Exile | 3.261–3.262 | ✅ drafted. Kaikeyī's wish; Bharata at Nandigrāma; Khara and Śūrpaṇakhā; Mārīca's deer; Sītā taken (L-155). |
-| 83 | Jatayu and Sugriva | 3.263–3.264 | Jaṭāyu; Kabandha; Sugrīva and Vālin. |
-| 84 | Sita in Lanka | 3.265–3.266 | Sītā and Rāvaṇa; Hanumān's search. |
+| 83 | Jatayu and Sugriva | 3.263–3.264 | ✅ drafted. Jaṭāyu; Kabandha; the pact with Sugrīva; Vālin killed; Trijaṭā's dreams (L-156). |
+| 84 | Sita in Lanka | 3.265–3.266 | ✅ drafted. Sītā's refusal; Lakṣmaṇa rouses Sugrīva; Hanumān's report: the cave, Saṃpāti, the leap, the jewel (L-134). |
 | 85 | The Bridge | 3.267–3.269 | The army; the bridge; Laṅkā besieged. |
 | 86 | Kumbhakarna and Indrajit | 3.270–3.273 | The battles; Kumbhakarṇa; Indrajit. |
 | 87 | Ravana's Fall | 3.274–3.276 | Rāvaṇa killed; Sītā's ordeal; the return. |

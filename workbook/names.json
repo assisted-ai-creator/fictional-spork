@@ -1073,7 +1073,7 @@
    "name": "Vishvavasu",
    "iast": "Viśvāvasu",
    "group": "Gandharva",
-   "who": "king of the gandharvas, father of Pramadvara",
+   "who": "king of the gandharvas, father of Pramadvara; also the gandharva freed from Kabandha's body (3.263.38)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -6529,7 +6529,7 @@
    "name": "Rambha",
    "iast": "Rambhā",
    "group": "Catalogue",
-   "who": "named in Kubera's hall (2.10)",
+   "who": "named in Kubera's hall (2.10); also the apsaras, Nalakubara's wife, whom Ravana violated and was cursed for (3.264.59)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -8153,7 +8153,7 @@
    "name": "Tara",
    "iast": "Tārā",
    "group": "Deity",
-   "who": "Brihaspati's wife; the gods and daityas fought the war named after her",
+   "who": "Brihaspati's wife; the gods and daityas fought the war named after her; also Valin's wife, who warns him against Sugriva; taken by Sugriva after Valin's death (3.264.16)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -9575,6 +9575,106 @@
    "dialogue": [],
    "flag": [],
    "ref": "3.261.55"
+  },
+  {
+   "name": "Sampati",
+   "iast": "Saṃpāti",
+   "group": "Rama story",
+   "who": "king of the vultures, Jatayu's elder brother, whose wings were burned by the sun; tells the monkeys where Lanka is",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.263.1"
+  },
+  {
+   "name": "Kabandha",
+   "iast": "Kabandha",
+   "group": "Rama story",
+   "who": "a headless rakshasa with eyes in his chest, killed by Rama and Lakshmana; the gandharva Vishvavasu under a curse",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.263.25"
+  },
+  {
+   "name": "Mainda",
+   "iast": "Mainda",
+   "group": "Rama story",
+   "who": "a monkey, one of Sugriva's counsellors",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.264.23"
+  },
+  {
+   "name": "Dvivida",
+   "iast": "Dvivida",
+   "group": "Rama story",
+   "who": "a monkey, one of Sugriva's counsellors",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.264.23"
+  },
+  {
+   "name": "Jambavan",
+   "iast": "Jāmbavān",
+   "group": "Rama story",
+   "who": "king of the bears, one of Sugriva's counsellors",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.264.23"
+  },
+  {
+   "name": "Avindhya",
+   "iast": "Avindhya",
+   "group": "Rama story",
+   "who": "an old rakshasa, honoured by the elders, who wishes Rama well and sends word to Sita",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.264.55"
+  },
+  {
+   "name": "Trijata",
+   "iast": "Trijaṭā",
+   "group": "Rama story",
+   "who": "the kind rakshasi who comforts Sita with Avindhya's message and her dreams",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.264.53"
+  },
+  {
+   "name": "Mandodari",
+   "iast": "Mandodarī",
+   "group": "Rama story",
+   "who": "Ravana's wife",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.265.16"
+  },
+  {
+   "name": "Angada",
+   "iast": "Aṅgada",
+   "group": "Rama story",
+   "who": "Valin's son, who leads the southern search party",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.266.27"
+  },
+  {
+   "name": "Prabhavati",
+   "iast": "Prabhāvatī",
+   "group": "Rama story",
+   "who": "an ascetic woman living in Maya's palace inside a cave, who feeds the monkeys",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.266.40"
   }
  ],
  "not_vyasa": [

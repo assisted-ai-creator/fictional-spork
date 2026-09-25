@@ -166,7 +166,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Puruja** | Puruja | named in Yama's hall (2.8) |  |  |  |
 | **Purukutsa** | Purukutsa | named in Yama's hall (2.8) |  |  |  |
 | **Pushpanana** | Puṣpānana | named in Kubera's hall (2.10) |  |  |  |
-| **Rambha** | Rambhā | named in Kubera's hall (2.10) |  |  |  |
+| **Rambha** | Rambhā | named in Kubera's hall (2.10); also the apsaras, Nalakubara's wife, whom Ravana violated and was cursed for (3.264.59) |  |  |  |
 | **Rathin** | Rathin | named in Yama's hall (2.8) |  |  |  |
 | **Rushadashva** | Ruṣadaśva | named in Yama's hall (2.8) |  |  |  |
 | **Rushadgu** | Ruṣadgu | named in Yama's hall (2.8) |  |  |  |
@@ -270,7 +270,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shakambhari** | Śākambharī | a goddess who lived on vegetables for a thousand divine years |  |  |  |
 | **Soma** | Soma | the moon god, who gave Varuna the bow Gandiva |  |  |  |
 | **Svaha** | Svāhā | wife of Agni, the fire; Daksha's daughter who loves Agni and takes the forms of the seers' wives (3.213.50–3.214.16) |  |  |  |
-| **Tara** | Tārā | Brihaspati's wife; the gods and daityas fought the war named after her |  |  |  |
+| **Tara** | Tārā | Brihaspati's wife; the gods and daityas fought the war named after her; also Valin's wife, who warns him against Sugriva; taken by Sugriva after Valin's death (3.264.16) |  |  |  |
 | **Tvashtri** | Tvaṣṭṛ | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
 | **Uma** | Umā | Shiva's wife, daughter of the king of mountains |  |  |  |
 | **Vishvakarman** | Viśvakarman | the craftsman of the gods |  |  | Vishwakarma, Vishvakarma |
@@ -318,7 +318,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Huhu** | Hūhū | a gandharva, named with Haha |  |  |  |
 | **Kumbhinasi** | Kumbhīnasī | Angaraparna's wife, who begged Yudhishthira for his life |  |  |  |
 | **Tumburu** | Tumburu | chief singer among the gandharvas |  |  |  |
-| **Vishvavasu** | Viśvāvasu | king of the gandharvas, father of Pramadvara |  |  |  |
+| **Vishvavasu** | Viśvāvasu | king of the gandharvas, father of Pramadvara; also the gandharva freed from Kabandha's body (3.263.38) |  |  |  |
 | **Ashvins** | Aśvinau | the twin gods, fathers of Nakula and Sahadeva | Nasatya, Dasra |  |  |
 | **Bhaga** | Bhaga | an Aditya whose eyes Shiva took away |  |  |  |
 | **Daityasena** | Daityasenā | Devasena's sister, carried off by Keshin (3.213.16) |  |  |  |
@@ -611,19 +611,29 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Puloman** | Puloman (Pulomā, m.) | the rakshasa who carries off Bhrigu's wife |  |  |  |
 | **Ravana** | Rāvaṇa | king of the rakshasas who carried off Sita; his story is told at 3.258–275 |  |  | Raavan, Ravan |
 | **Aja** | Aja | an Ikshvaku king, father of Dasharatha |  |  |  |
+| **Angada** | Aṅgada | Valin's son, who leads the southern search party |  |  |  |
+| **Avindhya** | Avindhya | an old rakshasa, honoured by the elders, who wishes Rama well and sends word to Sita |  |  |  |
 | **Dundubhi** | Dundubhī | a gandharvi born on earth as Manthara at Brahma's command |  |  |  |
 | **Dushana** | Dūṣaṇa | a rakshasa killed by Rama with Khara in the Dandaka forest |  |  |  |
+| **Dvivida** | Dvivida | a monkey, one of Sugriva's counsellors |  |  |  |
+| **Jambavan** | Jāmbavān | king of the bears, one of Sugriva's counsellors |  |  |  |
 | **Jatayu** | Jaṭāyu | the vulture killed by Ravana as he carries Sita off |  |  |  |
+| **Kabandha** | Kabandha | a headless rakshasa with eyes in his chest, killed by Rama and Lakshmana; the gandharva Vishvavasu under a curse |  |  |  |
 | **Kaikeyi** | Kaikeyī | Dasharatha's wife, mother of Bharata, who has Rama sent to the forest |  |  |  |
 | **Khara** | Khara | Ravana's half-brother, Shurpanakha's twin, who lived in Janasthana; killed by Rama |  |  |  |
 | **Kumbhakarna** | Kumbhakarṇa | Ravana's brother, the strongest of them, who chose a great sleep as his boon |  |  |  |
+| **Mainda** | Mainda | a monkey, one of Sugriva's counsellors |  |  |  |
 | **Malini** | Mālinī | a rakshasi given by Kubera to Vishravas; mother of Vibhishana |  |  |  |
+| **Mandodari** | Mandodarī | Ravana's wife |  |  |  |
 | **Manthara** | Mantharā | the hunchback, the gandharvi Dundubhi on earth, who stirs Kaikeyi against Rama |  |  |  |
 | **Maricha** | Mārīca | Ravana's former counsellor, turned ascetic out of fear of Rama, who takes the form of a jewelled deer |  |  |  |
+| **Prabhavati** | Prabhāvatī | an ascetic woman living in Maya's palace inside a cave, who feeds the monkeys |  |  |  |
 | **Pushpotkata** | Puṣpotkaṭā | a rakshasi given by Kubera to Vishravas; mother of Ravana and Kumbhakarna |  |  |  |
 | **Raka** | Rākā | a rakshasi given by Kubera to Vishravas; mother of Khara and Shurpanakha |  |  |  |
+| **Sampati** | Saṃpāti | king of the vultures, Jatayu's elder brother, whose wings were burned by the sun; tells the monkeys where Lanka is |  |  |  |
 | **Shatrughna** | Śatrughna | son of Dasharatha and Sumitra, brother of Rama |  |  |  |
 | **Shurpanakha** | Śūrpaṇakhā | Ravana's half-sister, Khara's twin, who comes to Lanka with her nose and lips cut off |  |  |  |
+| **Trijata** | Trijaṭā | the kind rakshasi who comforts Sita with Avindhya's message and her dreams |  |  |  |
 | **Bhramara** | Bhramara | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
 | **Guptaka** | Guptaka | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
 | **Kuhara** | Kuhara | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
