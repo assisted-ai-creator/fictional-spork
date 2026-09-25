@@ -18,6 +18,17 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 81–82 drafted: Ravana's birth; Rama's exile
+- Ch 81 *Ravana's Birth* (CE 3.257–260) and Ch 82 *Rama's Exile* (3.261–262): Markandeya begins the story of
+  Rama in answer to Yudhishthira; Rama's family and Sita, made by Tvashtri; Ravana's descent from Pulastya through
+  Vishravas; the three rakshasi mothers; the brothers' austerities and Brahma's boons; Kubera driven from Lanka;
+  Vishnu born on earth and Dundubhi as Manthara; Kaikeyi's wish and Rama's exile; Bharata at Nandigrama; Khara,
+  Shurpanakha and Maricha; the jewelled deer; Sita carried off. About 3,900 words.
+- Ledger: new L-154 (furrow, Kaikasi and Kumbhakarna's twisted tongue are not in the Mahabharata's telling) and
+  L-155 (Shurpanakha's nose, no "Lakshmana line", the length of the exile).
+- Names: Aja, Shatrughna, Kaikeyi, Pushpotkata, Raka, Malini, Kumbhakarna, Khara, Shurpanakha, Jatayu, Dundubhi,
+  Manthara, Dushana and Maricha added; homonyms noted for Bharata, Sumitra, Kausalya and Vasishtha.
+
 ### Novel: Book 3, chapters 78–80 drafted: Mudgala; Jayadratha; the rescue of Draupadi
 - Ch 78 *Mudgala* (CE 3.245–247), Ch 79 *Jayadratha* (3.248–252) and Ch 80 *The Rescue of Draupadi*
   (3.253–256): Vyasa's visit in the eleventh year and his teaching that giving is hardest; Mudgala the gleaner,

@@ -423,7 +423,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Ashmaka** | Aśmaka | son of Madayanti by Vasishtha |  |  |  |
 | **Ashtaka** | Aṣṭaka | royal seer, a grandson of Yayati through his daughter, who questions and helps save him |  |  |  |
 | **Bali** | Bali | king who rescued Dirghatamas from the Ganga and had him father sons on his queen (not the asura Bali); also Bali, the asura son of Virochana and grandson of Prahlada (3.29) |  |  |  |
-| **Bharata** | Bharata | son of Dushyanta and Shakuntala, first called Sarvadamana; the emperor from whom the Bharatas take their name | Sarvadamana |  |  |
+| **Bharata** | Bharata | son of Dushyanta and Shakuntala, first called Sarvadamana; the emperor from whom the Bharatas take their name; also son of Dasharatha and Kaikeyi, who rules from Nandigrama with Rama's sandals before him (3.261.38) | Sarvadamana |  |  |
 | **Bhimaratha** | Bhīmaratha | a king present in Yudhishthira's hall |  |  |  |
 | **Bhishmaka** | Bhīṣmaka | a king present in Yudhishthira's hall |  |  |  |
 | **Brihaddyumna** | Bṛhaddyumna | a king for whom Raibhya performed sacrifices |  |  |  |
@@ -506,7 +506,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Dirghaprajna** | Dīrghaprajña | the righteous king of Ayodhya |  |  |  |
 | **Purujit** | Purujit | Kunti's brother, Yudhishthira's maternal uncle |  |  |  |
 | **Ambalika** | Ambālikā | princess of Kashi; Vichitravirya's wife; mother of Pandu |  |  |  |
-| **Ambika** | Ambikā | princess of Kashi; Vichitravirya's wife; mother of Dhritarashtra | Kausalya |  |  |
+| **Ambika** | Ambikā | princess of Kashi; Vichitravirya's wife; mother of Dhritarashtra. The Kausalya of Rama's story, Rama's mother (3.258.8), is a different woman | Kausalya |  |  |
 | **Ashvatthama** | Aśvatthāman | son of Drona and Kripi | Drauni | Drauni | Ashwatthama, Aswatthama, Ashwathama, Ashvathama |
 | **Bhishma** | Bhīṣma | Devavrata, son of Shantanu and Ganga, who vowed never to marry or rule | Devavrata, Gangeya, Shantanava | Gangeya, Devavrata | Bheeshma, Bhisma, Bhishm |
 | **Bhurishravas** | Bhūriśravas | son of Somadatta |  |  |  |
@@ -610,6 +610,20 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Krodhavashas** | Krodhavaśa | rakshasas who guard Kubera's lotus pool on Kailasa (3.151.10) |  |  |  |
 | **Puloman** | Puloman (Pulomā, m.) | the rakshasa who carries off Bhrigu's wife |  |  |  |
 | **Ravana** | Rāvaṇa | king of the rakshasas who carried off Sita; his story is told at 3.258–275 |  |  | Raavan, Ravan |
+| **Aja** | Aja | an Ikshvaku king, father of Dasharatha |  |  |  |
+| **Dundubhi** | Dundubhī | a gandharvi born on earth as Manthara at Brahma's command |  |  |  |
+| **Dushana** | Dūṣaṇa | a rakshasa killed by Rama with Khara in the Dandaka forest |  |  |  |
+| **Jatayu** | Jaṭāyu | the vulture killed by Ravana as he carries Sita off |  |  |  |
+| **Kaikeyi** | Kaikeyī | Dasharatha's wife, mother of Bharata, who has Rama sent to the forest |  |  |  |
+| **Khara** | Khara | Ravana's half-brother, Shurpanakha's twin, who lived in Janasthana; killed by Rama |  |  |  |
+| **Kumbhakarna** | Kumbhakarṇa | Ravana's brother, the strongest of them, who chose a great sleep as his boon |  |  |  |
+| **Malini** | Mālinī | a rakshasi given by Kubera to Vishravas; mother of Vibhishana |  |  |  |
+| **Manthara** | Mantharā | the hunchback, the gandharvi Dundubhi on earth, who stirs Kaikeyi against Rama |  |  |  |
+| **Maricha** | Mārīca | Ravana's former counsellor, turned ascetic out of fear of Rama, who takes the form of a jewelled deer |  |  |  |
+| **Pushpotkata** | Puṣpotkaṭā | a rakshasi given by Kubera to Vishravas; mother of Ravana and Kumbhakarna |  |  |  |
+| **Raka** | Rākā | a rakshasi given by Kubera to Vishravas; mother of Khara and Shurpanakha |  |  |  |
+| **Shatrughna** | Śatrughna | son of Dasharatha and Sumitra, brother of Rama |  |  |  |
+| **Shurpanakha** | Śūrpaṇakhā | Ravana's half-sister, Khara's twin, who comes to Lanka with her nose and lips cut off |  |  |  |
 | **Bhramara** | Bhramara | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
 | **Guptaka** | Guptaka | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
 | **Kuhara** | Kuhara | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
@@ -775,7 +789,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vaivarnya** | Vaivarṇya | one of two seers of the Drishadvati; the reading is uncertain |  |  |  |
 | **Varaha** | Varāha | a seer present in Yudhishthira's hall |  |  |  |
 | **Varna** | Varṇa | one of two seers of the Drishadvati; the reading is uncertain |  |  |  |
-| **Vasishtha** | Vasiṣṭha | the seer, son of Varuna, also called Apava; cursed the Vasus; taught Devavrata the Vedas | Apava |  | Vashishta, Vasistha |
+| **Vasishtha** | Vasiṣṭha | the seer, son of Varuna, also called Apava; cursed the Vasus; taught Devavrata the Vedas; a Vasishtha goes with Bharata to bring Rama back (3.261.36) | Apava |  | Vashishta, Vasistha |
 | **Vayubhaksha** | Vāyubhakṣa | a seer present in Yudhishthira's hall |  |  |  |
 | **Veda** | Veda | Dhaumya's pupil, later teacher of Uttanka and priest of Janamejaya and Paushya |  |  |  |
 | **Venujangha** | Veṇujaṅgha | a seer present in Yudhishthira's hall |  |  |  |
@@ -821,7 +835,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sudama** | Sudāman | a king named among the suitors at Draupadi's bridegroom choice; also Sudama, lord of the Dasharnas, grandfather of Damayanti (3.66.12) |  |  | Sudaman |
 | **Sudanda** | Sudaṇḍa | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Sukumara** | Sukumāra | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
-| **Sumitra** | Sumitra | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Sumitra** | Sumitra | a king named among the suitors at Draupadi's bridegroom choice; also Dasharatha's wife, mother of Lakshmana and Shatrughna (3.258.8) |  |  |  |
 | **Suryadhvaja** | Sūryadhvaja | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Sushena** | Suṣeṇa | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Suvarchas** | Suvarcas | name of a son of Dhritarashtra and of other suitors at Draupadi's bridegroom choice |  |  |  |

@@ -204,7 +204,7 @@
    "name": "Ambika",
    "iast": "Ambikā",
    "group": "Kuru",
-   "who": "princess of Kashi; Vichitravirya's wife; mother of Dhritarashtra",
+   "who": "princess of Kashi; Vichitravirya's wife; mother of Dhritarashtra. The Kausalya of Rama's story, Rama's mother (3.258.8), is a different woman",
    "aka": [
     "Kausalya"
    ],
@@ -1637,7 +1637,7 @@
    "name": "Bharata",
    "iast": "Bharata",
    "group": "King",
-   "who": "son of Dushyanta and Shakuntala, first called Sarvadamana; the emperor from whom the Bharatas take their name",
+   "who": "son of Dushyanta and Shakuntala, first called Sarvadamana; the emperor from whom the Bharatas take their name; also son of Dasharatha and Kaikeyi, who rules from Nandigrama with Rama's sandals before him (3.261.38)",
    "aka": [
     "Sarvadamana"
    ],
@@ -1916,7 +1916,7 @@
    "name": "Vasishtha",
    "iast": "Vasiṣṭha",
    "group": "Seer",
-   "who": "the seer, son of Varuna, also called Apava; cursed the Vasus; taught Devavrata the Vedas",
+   "who": "the seer, son of Varuna, also called Apava; cursed the Vasus; taught Devavrata the Vedas; a Vasishtha goes with Bharata to bring Rama back (3.261.36)",
    "aka": [
     "Apava"
    ],
@@ -2947,7 +2947,7 @@
    "name": "Sumitra",
    "iast": "Sumitra",
    "group": "Suitor",
-   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice; also Dasharatha's wife, mother of Lakshmana and Shatrughna (3.258.8)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -9435,6 +9435,146 @@
    "dialogue": [],
    "flag": [],
    "ref": "3.249.10"
+  },
+  {
+   "name": "Aja",
+   "iast": "Aja",
+   "group": "Rama story",
+   "who": "an Ikshvaku king, father of Dasharatha",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.258.6"
+  },
+  {
+   "name": "Shatrughna",
+   "iast": "Śatrughna",
+   "group": "Rama story",
+   "who": "son of Dasharatha and Sumitra, brother of Rama",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.258.7"
+  },
+  {
+   "name": "Kaikeyi",
+   "iast": "Kaikeyī",
+   "group": "Rama story",
+   "who": "Dasharatha's wife, mother of Bharata, who has Rama sent to the forest",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.258.8"
+  },
+  {
+   "name": "Pushpotkata",
+   "iast": "Puṣpotkaṭā",
+   "group": "Rama story",
+   "who": "a rakshasi given by Kubera to Vishravas; mother of Ravana and Kumbhakarna",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.259.5"
+  },
+  {
+   "name": "Raka",
+   "iast": "Rākā",
+   "group": "Rama story",
+   "who": "a rakshasi given by Kubera to Vishravas; mother of Khara and Shurpanakha",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.259.5"
+  },
+  {
+   "name": "Malini",
+   "iast": "Mālinī",
+   "group": "Rama story",
+   "who": "a rakshasi given by Kubera to Vishravas; mother of Vibhishana",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.259.5"
+  },
+  {
+   "name": "Kumbhakarna",
+   "iast": "Kumbhakarṇa",
+   "group": "Rama story",
+   "who": "Ravana's brother, the strongest of them, who chose a great sleep as his boon",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.259.7"
+  },
+  {
+   "name": "Khara",
+   "iast": "Khara",
+   "group": "Rama story",
+   "who": "Ravana's half-brother, Shurpanakha's twin, who lived in Janasthana; killed by Rama",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.259.8"
+  },
+  {
+   "name": "Shurpanakha",
+   "iast": "Śūrpaṇakhā",
+   "group": "Rama story",
+   "who": "Ravana's half-sister, Khara's twin, who comes to Lanka with her nose and lips cut off",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.259.8"
+  },
+  {
+   "name": "Jatayu",
+   "iast": "Jaṭāyu",
+   "group": "Rama story",
+   "who": "the vulture killed by Ravana as he carries Sita off",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.258.2"
+  },
+  {
+   "name": "Dundubhi",
+   "iast": "Dundubhī",
+   "group": "Rama story",
+   "who": "a gandharvi born on earth as Manthara at Brahma's command",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.260.9"
+  },
+  {
+   "name": "Manthara",
+   "iast": "Mantharā",
+   "group": "Rama story",
+   "who": "the hunchback, the gandharvi Dundubhi on earth, who stirs Kaikeyi against Rama",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.260.10"
+  },
+  {
+   "name": "Dushana",
+   "iast": "Dūṣaṇa",
+   "group": "Rama story",
+   "who": "a rakshasa killed by Rama with Khara in the Dandaka forest",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.261.43"
+  },
+  {
+   "name": "Maricha",
+   "iast": "Mārīca",
+   "group": "Rama story",
+   "who": "Ravana's former counsellor, turned ascetic out of fear of Rama, who takes the form of a jewelled deer",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.261.55"
   }
  ],
  "not_vyasa": [
