@@ -4159,7 +4159,7 @@
    "name": "Savitri",
    "iast": "Savitṛ",
    "group": "Deity",
-   "who": "one of the gods who attack Krishna and Arjuna at Khandava; also a name of the sun (3.3.18)",
+   "who": "one of the gods who attack Krishna and Arjuna at Khandava; also a name of the sun (3.3.18); also Sāvitrī, the goddess of the Savitri verse, who grants Ashvapati a daughter (3.277.10); and the princess Savitri, Ashvapati's daughter and Satyavat's wife (3.277.24)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -5057,7 +5057,7 @@
    "name": "Dyumatsena",
    "iast": "Dyumatsena",
    "group": "King",
-   "who": "a king present in Yudhishthira's hall",
+   "who": "a king present in Yudhishthira's hall; also the blind, exiled king of the Shalvas, Satyavat's father (3.278.7)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -8013,7 +8013,7 @@
    "name": "Matali",
    "iast": "Mātali",
    "group": "God",
-   "who": "Indra's charioteer",
+   "who": "Indra's charioteer; also who brings Indra's chariot to Rama (3.274.12)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -9845,6 +9845,48 @@
    "dialogue": [],
    "flag": [],
    "ref": "3.273.4"
+  },
+  {
+   "name": "Ashvapati",
+   "iast": "Aśvapati",
+   "group": "Savitri story",
+   "who": "king of the Madras, Savitri's father, who won her by eighteen years of offerings to the goddess Savitri",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.277.6"
+  },
+  {
+   "name": "Satyavat",
+   "iast": "Satyavat",
+   "group": "Savitri story",
+   "who": "son of Dyumatsena, Savitri's husband, fated to die within a year",
+   "aka": [
+    "Chitrashva"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.278.10"
+  },
+  {
+   "name": "Sankriti",
+   "iast": "Sāṅkṛti",
+   "group": "Savitri story",
+   "who": "father of Rantideva",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.278.17"
+  },
+  {
+   "name": "Dirghajihva",
+   "iast": "Dīrghajihvā",
+   "group": "Rama story",
+   "who": "a rakshasi killed by Indra",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.276.4"
   }
  ],
  "not_vyasa": [

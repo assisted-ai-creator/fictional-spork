@@ -339,8 +339,8 @@ are refined while drafting.
 | 84 | Sita in Lanka | 3.265–3.266 | ✅ drafted. Sītā's refusal; Lakṣmaṇa rouses Sugrīva; Hanumān's report: the cave, Saṃpāti, the leap, the jewel (L-134). |
 | 85 | The Bridge | 3.267–3.269 | ✅ drafted. The armies; the Ocean and Nala's bridge; Vibhīṣaṇa consecrated; Aṅgada's embassy; the storming (L-157). |
 | 86 | Kumbhakarna and Indrajit | 3.270–3.273 | ✅ drafted. Prahasta and Dhūmrākṣa; Lakṣmaṇa kills Kumbhakarṇa; the brothers fall and are healed; Kubera's water; Indrajit killed (L-157). |
-| 87 | Ravana's Fall | 3.274–3.276 | Rāvaṇa killed; Sītā's ordeal; the return. |
-| 88 | Savitri | 3.277–3.280 | Aśvapati; Sāvitrī chooses Satyavat; the fated day. |
+| 87 | Ravana's Fall | 3.274–3.276 | ✅ drafted. Rāvaṇa's magic; Mātali; the Brahma weapon; Sītā rejected and vindicated by the gods, no fire ordeal; the return and consecration (L-158). |
+| 88 | Savitri | 3.277–3.280 | ✅ drafted. Aśvapati's boon; Sāvitrī chooses Satyavat; Nārada's warning; the wedding; the three-night vow; into the forest. |
 | 89 | Savitri and Yama | 3.281 | Sāvitrī follows Yama and wins her boons. |
 | 90 | Savitri's Return | 3.282–3.283 | Dyumatsena's sight; the kingdom restored. |
 | 91 | The Sun's Warning | 3.284–3.286 | The Sun warns Karṇa; Karṇa's resolve. |

@@ -265,7 +265,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Parjanya** | Parjanya | the rain god |  |  |  |
 | **Pushan** | Pūṣan | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
 | **Rati** | Rati | wife of the god of love |  |  |  |
-| **Savitri** | Savitṛ | one of the gods who attack Krishna and Arjuna at Khandava; also a name of the sun (3.3.18) |  |  |  |
+| **Savitri** | Savitṛ | one of the gods who attack Krishna and Arjuna at Khandava; also a name of the sun (3.3.18); also Sāvitrī, the goddess of the Savitri verse, who grants Ashvapati a daughter (3.277.10); and the princess Savitri, Ashvapati's daughter and Satyavat's wife (3.277.24) |  |  |  |
 | **Shachi** | Śacī | Indra's wife | Indrani, Paulomi |  |  |
 | **Shakambhari** | Śākambharī | a goddess who lived on vegetables for a thousand divine years |  |  |  |
 | **Soma** | Soma | the moon god, who gave Varuna the bow Gandiva |  |  |  |
@@ -325,7 +325,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Devasena** | Devasenā | daughter of Prajapati, rescued by Indra from Keshin; she is to marry Skanda (3.213) |  |  |  |
 | **Dharma** | Dharma | the god of dharma, lord of the dead's justice; born as Vidura by Animandavya's curse |  |  |  |
 | **Kubera** | Kubera | lord of wealth, whose gardens lie on the northern mountains | Vaishravana, Paulastya |  |  |
-| **Matali** | Mātali | Indra's charioteer |  |  |  |
+| **Matali** | Mātali | Indra's charioteer; also who brings Indra's chariot to Rama (3.274.12) |  |  |  |
 | **Naigameya** | Naigameya | goat-faced form of Agni who plays with the infant Skanda (3.215.23) |  |  |  |
 | **Nirriti** | Nirṛti | goddess of decay; the south-west is her quarter |  |  |  |
 | **Sarasvati** | Sarasvatī | the river and goddess; she teaches the sage Tarkshya (3.184) |  |  |  |
@@ -436,7 +436,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Druhyu** | Druhyu | Yayati's son by Sharmishtha |  |  |  |
 | **Durmukha** | Durmukha | a king present in Yudhishthira's hall; also a son of Dhritarashtra, carried off by the gandharvas (3.231.12) |  |  |  |
 | **Dushyanta** | Duḥṣanta | Paurava king who marries Shakuntala by the gandharva rite and later denies her until a heavenly voice speaks; father of Bharata |  |  | Dushmanta, Dusyanta, Dushyant |
-| **Dyumatsena** | Dyumatsena | a king present in Yudhishthira's hall |  |  |  |
+| **Dyumatsena** | Dyumatsena | a king present in Yudhishthira's hall; also the blind, exiled king of the Shalvas, Satyavat's father (3.278.7) |  |  |  |
 | **Gadhi** | Gādhi | king of Kanyakubja, Vishvamitra's father |  |  |  |
 | **Gaya** | Gaya | an ancient king, a model of dharma and truthfulness |  |  |  |
 | **Girika** | Girikā | Vasu's wife, daughter of the mountain Kolahala and the river Shuktimati |  |  |  |
@@ -615,6 +615,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Avindhya** | Avindhya | an old rakshasa, honoured by the elders, who wishes Rama well and sends word to Sita |  |  |  |
 | **Dadhimukha** | Dadhimukha | an old monkey chief |  |  |  |
 | **Dhumraksha** | Dhūmrākṣa | a rakshasa general killed by Hanuman |  |  |  |
+| **Dirghajihva** | Dīrghajihvā | a rakshasi killed by Indra |  |  |  |
 | **Dundubhi** | Dundubhī | a gandharvi born on earth as Manthara at Brahma's command |  |  |  |
 | **Dushana** | Dūṣaṇa | a rakshasa killed by Rama with Khara in the Dandaka forest |  |  |  |
 | **Dvivida** | Dvivida | a monkey, one of Sugriva's counsellors |  |  |  |
@@ -659,6 +660,9 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Ravi** | Ravi | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
 | **Shatrunjaya** | Śatruṃjaya | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
 | **Supravriddha** | Supravṛddha | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
+| **Ashvapati** | Aśvapati | king of the Madras, Savitri's father, who won her by eighteen years of offerings to the goddess Savitri |  |  |  |
+| **Sankriti** | Sāṅkṛti | father of Rantideva |  |  |  |
+| **Satyavat** | Satyavat | son of Dyumatsena, Savitri's husband, fated to die within a year | Chitrashva |  |  |
 | **Adrishyanti** | Adṛśyantī | Shakti's wife, mother of Parashara |  |  |  |
 | **Agastya** | Agastya | seer who hunted during a sacrifice and consecrated the deer to the gods |  |  |  |
 | **Agniveshya** | Agniveśya | sage who received the weapon of Fire from Bharadvaja and taught Drona |  |  |  |

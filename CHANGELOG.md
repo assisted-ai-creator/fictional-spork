@@ -18,6 +18,15 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 87–88 drafted: Ravana's fall; Savitri
+- Ch 87 *Ravana's Fall* (CE 3.274–276) and Ch 88 *Savitri* (3.277–280): Ravana's magic and the false Ramas;
+  Matali brings Indra's chariot; Ravana burned by the Brahma weapon; Rama rejects Sita; her oath by the elements
+  and the gods' testimony; Dasharatha's blessing; the boons; the return and consecration; Markandeya's comfort;
+  then the story of Savitri: Ashvapati's austerity, Savitri's choice of Satyavat, Narada's warning, the
+  wedding, the three-night vow and the walk into the forest. About 5,300 words. This ends the Ramopakhyana.
+- Ledger: new L-158 (no fire ordeal, second banishment or Lava and Kusha in the Mahabharata's telling).
+- Names: Ashvapati, Satyavat, Sankriti and Dirghajihva added; homonyms noted for Savitri, Dyumatsena and Matali.
+
 ### Novel: Book 3, chapters 85–86 drafted: the bridge; Kumbhakarna and Indrajit
 - Ch 85 *The Bridge* (CE 3.267–269) and Ch 86 *Kumbhakarna and Indrajit* (3.270–273): the monkey and bear armies;
   Rama and the Ocean; Nala's bridge; Vibhishana consecrated; Angada's embassy; the storming of the walls; the
