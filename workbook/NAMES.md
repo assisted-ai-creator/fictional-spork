@@ -890,6 +890,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Jimuta** | Jīmūta | a famous wrestler killed by Bhima at the festival of Brahma |  |  |  |
 | **Kichaka** | Kīcaka | Virata's commander, brother of Queen Sudeshna, a suta's son; desires the sairandhri and kicks her in the hall | the suta's son | Kichaka | Keechaka, Kichak |
 | **Tantipala** | Tantipāla | the name Sahadeva takes in Virata's court, as counter of cattle; he also calls himself Arishtanemi, a vaishya (4.9.4) |  |  |  |
+| **Upakichakas** | Upakīcaka | Kichaka's hundred and five younger brothers, killed by Bhima when they try to burn the sairandhri on his pyre | the Upakichaka, the Kichakas |  | Upakeechaka |
 | **Vijaya** | Vijaya | one of the five secret names Yudhishthira gives the Pandavas in Virata's city (4.5.30) |  |  |  |
 | **Akrura** | Akrūra | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Anadhrishti** | Anādhṛṣṭi | a Vrishni hero who comes to Indraprastha with Krishna |  |  |  |

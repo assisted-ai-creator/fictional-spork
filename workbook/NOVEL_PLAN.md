@@ -40,8 +40,8 @@ against the CE when the Book is drafted.
 | 6 | **Bhīṣma**: *Bhishma's Battle* | 6.1–6.117 | ✅ drafted. Kīcaka woos the sairandhrī; Sudeṣṇā sends her for wine; the kick in the hall; Yudhiṣṭhira presses Bhīma's toe (4.13–15). | 30 | Sañjaya → Dhṛtarāṣṭra |
 | 7 | **Droṇa**: *Drona's Battle* | 7.1–7.173 | ✅ drafted. Draupadī goes to Bhīma by night and blames the dice (4.16–17). | 40 | Sañjaya → Dhṛtarāṣṭra |
 | 8 | **Karṇa**: *Karna's Battle* | 8.1–8.69 | ✅ drafted. Draupadī's lament and her calloused hands; "a month and a half more"; Bhīma resolves to kill Kīcaka (4.18–20). | 18 | Sañjaya → Dhṛtarāṣṭra |
-| 9 | **Śalya**: *Shalya's Battle and the Mace Duel* | 9.1–9.64 | 64 | 16 | Sañjaya → Dhṛtarāṣṭra |
-| 10 | **Sauptika**: *The Night Raid* | 10.1–10.18 | 18 | 5 | Sañjaya → Dhṛtarāṣṭra |
+| 9 | **Śalya**: *Shalya's Battle and the Mace Duel* | 9.1–9.64 | ✅ drafted. Kīcaka meets Bhīma in the dark dance hall and is crushed (4.21). | 16 | Sañjaya → Dhṛtarāṣṭra |
+| 10 | **Sauptika**: *The Night Raid* | 10.1–10.18 | ✅ drafted. The Upakīcakas carry the sairandhrī to the pyre; Bhīma kills all 105 with a tree; "thirteen days" (4.22–23). | 5 | Sañjaya → Dhṛtarāṣṭra |
 | 11 | **Strī**: *The Women* | 11.1–11.27 | 27 | 7 | Vaiśaṃpāyana |
 | 12 | **Śānti**: *Peace* | 12.1–12.353 | 353 | 45 | Vaiśaṃpāyana; Bhīṣma teaching |
 | 13 | **Anuśāsana**: *The Instructions* | 13.1–13.154 | 154 | 25 | Bhīṣma teaching |

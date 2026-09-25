@@ -18,6 +18,14 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 4, chapters 9–10 drafted: the dance hall; the Upakichakas
+- Ch 9 *The Dance Hall* (CE 4.21): Kichaka's tryst; Bhima waits in the dark and
+  crushes him. Ch 10 *The Upakichakas* (4.22–23): the pyre, Draupadi's cry to the
+  secret names, the hundred and five killed with a tree; Virata's fear;
+  Brihannada and the sairandhri; "thirteen days".
+- Ledger: L-165 (Bhima dressed as a woman to meet Kichaka is not in the epic).
+- Names: the Upakichakas.
+
 ### Novel: Book 4, chapters 5–8 drafted: the wrestler; Kichaka; Draupadi's grief; Bhima's promise
 - `novel/book-04-virata/05-the-wrestler.md` to `08-bhimas-promise.md` (CE 4.12–4.20):
   Bhima kills Jimuta; Kichaka woos the sairandhri and kicks her in the hall;
