@@ -345,7 +345,7 @@ are refined while drafting.
 | 90 | Savitri's Return | 3.282–3.283 | ✅ drafted. The hermits' assurances; Sāvitrī's account; the Śālvas bring Dyumatsena home; Mārkaṇḍeya's comfort (L-159). |
 | 91 | The Sun's Warning | 3.284–3.286 | ✅ drafted. The Sun's dream warning; Karṇa's vow of fame over life; the advice to ask for the spear (L-151, L-160). |
 | 92 | Kunti's Boon | 3.287–3.291 | ✅ drafted. Pṛthā serves the brahmin; the spell; the Sun summoned; her pleading; the conception by yoga (L-160). |
-| 93 | The Armour and the Earrings | 3.292–3.294 | Karṇa born and set afloat; Adhiratha; Indra takes the armour. |
+| 93 | The Armour and the Earrings | 3.292–3.294 | ✅ drafted. Karṇa born and set afloat; Adhiratha and Rādhā; Vasuṣeṇa; Indra's bargain; the spear; Vaikartana (L-27). |
 | 94 | The Lake | 3.295–3.297 | The brahmin's fire-sticks; the lake; the yakṣa's questions. |
 | 95 | Dharma's Boons | 3.298–3.299 | Dharma's boons; the year in hiding begins. |
 

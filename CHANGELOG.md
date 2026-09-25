@@ -18,6 +18,14 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapter 93 drafted: the armour and the earrings
+- Ch 93 *The Armour and the Earrings* (CE 3.292–294): Karna's secret birth and Pritha's lament as she sets him
+  adrift; the basket's course to Champa; Adhiratha and Radha raise him as Vasushena; his training and rivalry
+  with Arjuna; Indra begs his armour and earrings at the noon prayer; the bargain for the unfailing spear; Karna
+  cuts off his armour and is called Vaikartana; the Pandavas return to Dvaitavana. About 2,200 words.
+- Ledger: L-27 extended (Vaikartana explained from the cutting; Vasushena; the spear bargain).
+- Names: Vasushena and Vrisha added to Karna's aliases.
+
 ### Novel: Book 3, chapters 91–92 drafted: the Sun's warning; Kunti's boon
 - Ch 91 *The Sun's Warning* (CE 3.284–286) and Ch 92 *Kunti's Boon* (3.287–291): the Sun, disguised as a brahmin,
   warns Karna in a dream that Indra will beg his earrings and armour; Karna chooses fame over life; the Sun tells

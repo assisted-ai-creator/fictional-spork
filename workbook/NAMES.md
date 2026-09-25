@@ -410,7 +410,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Yuyutsu** | Yuyutsu | Dhritarashtra's son by a vaishya woman |  |  |  |
 | **Adhiratha** | Adhiratha | the charioteer (suta) who raised Karna |  |  |  |
 | **Jayadratha** | Jayadratha | king of the Sindhus; Duhshala's husband | Saindhava |  |  |
-| **Karna** | Karṇa | Kunti's first son, by the Sun, born with armour and earrings; raised by the charioteer Adhiratha and Radha | Vasushena, Radheya, Vaikartana, Suta's son | Radheya | Karan, Karn, Vasusena |
+| **Karna** | Karṇa | Kunti's first son, by the Sun, born with armour and earrings; raised by the charioteer Adhiratha and Radha | Vasushena, Radheya, Vaikartana, Suta's son, Vrisha | Radheya | Karan, Karn, Vasusena |
 | **Radha** | Rādhā | Adhiratha's wife, Karna's foster mother. The only Radha in the epic (see ledger L-58) |  |  |  |
 | **Sharadandayani** | Śāradaṇḍāyanī | a hero's wife who bore three sons, Durjaya and others, by a brahmin |  |  |  |
 | **Drumaputra** | Drumaputra | ruler of the Kimpurushas |  |  |  |
