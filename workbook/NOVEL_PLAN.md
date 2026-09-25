@@ -330,9 +330,9 @@ are refined while drafting.
 | 75 | Duryodhana's Shame | 3.236–3.238 | ✅ drafted. Karṇa's congratulations; Duryodhana's account; the fast to death; Duḥśāsana offered the kingship; Karṇa's argument. |
 | 76 | The Danavas' Promise | 3.239–3.240 | ✅ drafted. Śakuni's counsel; the fast; the dānavas' rite and promise; Naraka in Karṇa; Karṇa's vow to kill Arjuna (L-46, L-149). |
 | 77 | The Vaishnava Sacrifice | 3.241–3.244 | ✅ drafted. Bhīṣma's rebuke; the Vaiṣṇava sacrifice and golden plough; Bhīma's answer; Karṇa's foot-washing vow; the dream of the deer. Karṇa's conquests are @24, not narrated (L-150, L-151). |
-| 78 | Mudgala | 3.245–3.247 | A drona of rice; Durvāsas; the messenger of the gods. |
-| 79 | Jayadratha | 3.248–3.252 | Jayadratha sees Draupadī and carries her off. |
-| 80 | The Rescue of Draupadi | 3.253–3.256 | The pursuit; Jayadratha shaved and spared. |
+| 78 | Mudgala | 3.245–3.247 | ✅ drafted. Vyāsa's visit in the eleventh year; giving; Mudgala's drona of rice; Durvāsas; the messenger's account of heaven (L-24). |
+| 79 | Jayadratha | 3.248–3.252 | ✅ drafted. Koṭikāśya's question; Draupadī's hospitality; Jayadratha's proposal; her warning; the abduction (L-152). |
+| 80 | The Rescue of Draupadi | 3.253–3.256 | ✅ drafted. The omens; Draupadī names her husbands; the battle; five tufts; Śiva's boon (L-152, L-153). |
 | 81 | Ravana's Birth | 3.257–3.260 | Mārkaṇḍeya begins Rāma's story; Rāvaṇa and his brothers. |
 | 82 | Rama's Exile | 3.261–3.262 | Rāma exiled; Mārīca; Sītā taken. |
 | 83 | Jatayu and Sugriva | 3.263–3.264 | Jaṭāyu; Kabandha; Sugrīva and Vālin. |

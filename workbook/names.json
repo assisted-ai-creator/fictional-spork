@@ -804,7 +804,7 @@
    "name": "Sanjaya",
    "iast": "Saṃjaya",
    "group": "Kuru",
-   "who": "Dhritarashtra's charioteer and counsellor, given divine sight by Vyasa; returns the kings' courtesies at the Rajasuya (2.32.5)",
+   "who": "Dhritarashtra's charioteer and counsellor, given divine sight by Vyasa; returns the kings' courtesies at the Rajasuya (2.32.5); also one of the twelve Sauvira princes who follow Jayadratha (3.249.10)",
    "aka": [
     "Gavalgani"
    ],
@@ -2042,7 +2042,7 @@
    "name": "Subala",
    "iast": "Subala",
    "group": "Gandhara",
-   "who": "king of Gandhara, father of Gandhari and Shakuni",
+   "who": "king of Gandhara, father of Gandhari and Shakuni; also an Ikshvaku king in Jayadratha's company (3.249.8), not Shakuni's father",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -2052,7 +2052,7 @@
    "name": "Shura",
    "iast": "Śūra",
    "group": "Yadava",
-   "who": "chief of the Yadus, father of Vasudeva and of Pritha (Kunti)",
+   "who": "chief of the Yadus, father of Vasudeva and of Pritha (Kunti); also one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -3781,7 +3781,7 @@
    "name": "Prabhankara",
    "iast": "Prabhaṃkara",
    "group": "Manalura",
-   "who": "an ancestor of Chitravahana, granted one child in each generation by Shiva",
+   "who": "an ancestor of Chitravahana, granted one child in each generation by Shiva; also one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -4953,7 +4953,7 @@
    "name": "Suratha",
    "iast": "Suratha",
    "group": "King",
-   "who": "a king present in Yudhishthira's hall",
+   "who": "a king present in Yudhishthira's hall; also the father of Kotikashya (3.249.6), and a Trigarta king who fights Nakula (3.255.18)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -6869,7 +6869,7 @@
    "name": "Angaraka",
    "iast": "Aṅgāraka",
    "group": "Catalogue",
-   "who": "named in Brahma's hall (2.11)",
+   "who": "named in Brahma's hall (2.11); also one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -8695,7 +8695,7 @@
    "name": "Mudgala",
    "iast": "Mudgala",
    "group": "Seer",
-   "who": "a sage, husband of Nadayani Indrasena",
+   "who": "a sage, husband of Nadayani Indrasena; also the gleaner of Kurukshetra whose gift of rice Durvasas tests, in Vyasa's tale (3.246)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -9312,6 +9312,129 @@
    "dialogue": [],
    "flag": [],
    "ref": "3.231.12"
+  },
+  {
+   "name": "Kotikashya",
+   "iast": "Koṭikāśya",
+   "group": "King",
+   "who": "son of King Suratha, a Shibi prince (Shaibya) in Jayadratha's company, who questions Draupadi; killed by Bhima",
+   "aka": [
+    "Kotika",
+    "Shaibya"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.248.12"
+  },
+  {
+   "name": "Kshemankara",
+   "iast": "Kṣemaṃkara",
+   "group": "King",
+   "who": "a king of the Trigartas in Jayadratha's company; killed by Nakula",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.249.6"
+  },
+  {
+   "name": "Mahamukha",
+   "iast": "Mahāmukha",
+   "group": "King",
+   "who": "a warrior in Jayadratha's company, killed by Nakula",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.255.16"
+  },
+  {
+   "name": "Vriddhakshatra",
+   "iast": "Vṛddhakṣatra",
+   "group": "King",
+   "who": "father of Jayadratha",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.248.6"
+  },
+  {
+   "name": "Kunjara",
+   "iast": "Kuñjara",
+   "group": "Sauvira",
+   "who": "one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.249.10"
+  },
+  {
+   "name": "Guptaka",
+   "iast": "Guptaka",
+   "group": "Sauvira",
+   "who": "one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.249.10"
+  },
+  {
+   "name": "Shatrunjaya",
+   "iast": "Śatruṃjaya",
+   "group": "Sauvira",
+   "who": "one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.249.10"
+  },
+  {
+   "name": "Supravriddha",
+   "iast": "Supravṛddha",
+   "group": "Sauvira",
+   "who": "one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.249.10"
+  },
+  {
+   "name": "Bhramara",
+   "iast": "Bhramara",
+   "group": "Sauvira",
+   "who": "one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.249.10"
+  },
+  {
+   "name": "Ravi",
+   "iast": "Ravi",
+   "group": "Sauvira",
+   "who": "one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.249.10"
+  },
+  {
+   "name": "Pratapa",
+   "iast": "Pratāpa",
+   "group": "Sauvira",
+   "who": "one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.249.10"
+  },
+  {
+   "name": "Kuhara",
+   "iast": "Kuhara",
+   "group": "Sauvira",
+   "who": "one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "3.249.10"
   }
  ],
  "not_vyasa": [

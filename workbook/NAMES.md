@@ -52,7 +52,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Anagha** | Anagha | named in Yama's hall (2.8) |  |  |  |
 | **Anantadanta** | Anantadanta | named in Indra's hall (2.7) |  |  |  |
 | **Angachuda** | Aṅgacūḍa | named in Kubera's hall (2.10) |  |  |  |
-| **Angaraka** | Aṅgāraka | named in Brahma's hall (2.11) |  |  |  |
+| **Angaraka** | Aṅgāraka | named in Brahma's hall (2.11); also one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
 | **Angiras** | Aṅgiras | named in Brahma's hall (2.11) |  |  |  |
 | **Aripranut** | Aripraṇut | named in Yama's hall (2.8) |  |  |  |
 | **Arishta** | Ariṣṭa | named in Yama's hall (2.8) |  |  |  |
@@ -310,7 +310,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Bala** | Bala | a son of the king of Gandhara, brother of Shakuni; named among the suitors at Draupadi's bridegroom choice; also the name of a demon slain by Indra ("slayer of Bala"); also the third son of Parikshit of Ayodhya (3.190.43) |  |  |  |
 | **Brihadbala** | Bṛhadbala | a son of the king of Gandhara, brother of Shakuni; named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Shakuni** | Śakuni | Gandhari's brother, son of Subala; the dice player | Saubala | Saubala | Sakuni, Shakunee |
-| **Subala** | Subala | king of Gandhara, father of Gandhari and Shakuni |  |  |  |
+| **Subala** | Subala | king of Gandhara, father of Gandhari and Shakuni; also an Ikshvaku king in Jayadratha's company (3.249.8), not Shakuni's father |  |  |  |
 | **Uluka** | Ulūka | son of Shakuni ("son of the gambler") |  |  |  |
 | **Vrishaka** | Vṛṣaka | a son of the king of Gandhara, brother of Shakuni; named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Angaraparna** | Aṅgāraparṇa | gandharva king beaten by Arjuna at the Ganga; renamed Chitraratha, then Dagdharatha | Chitraratha, Dagdharatha |  |  |
@@ -449,17 +449,20 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kamala** | Kamala | a king present in Yudhishthira's hall |  |  |  |
 | **Kampana** | Kampana | a king present in Yudhishthira's hall |  |  |  |
 | **Ketuman** | Ketumat | a king present in Yudhishthira's hall |  |  | Ketumat |
+| **Kotikashya** | Koṭikāśya | son of King Suratha, a Shibi prince (Shaibya) in Jayadratha's company, who questions Draupadi; killed by Bhima | Kotika, Shaibya |  |  |
 | **Kratha** | Kratha | an overlord of kings defeated by Bhima; also a king Krishna beat at Jaruthi (3.13.27) |  |  |  |
 | **Kritakshana** | Kṛtakṣaṇa | a king present in Yudhishthira's hall |  |  |  |
 | **Kritavirya** | Kṛtavīrya | king who enriched the Bhrigus; father of Arjuna Kartavirya |  |  |  |
 | **Kshemajit** | Kṣemajit | a king present in Yudhishthira's hall |  |  |  |
 | **Kshemaka** | Kṣemaka | a king present in Yudhishthira's hall |  |  |  |
+| **Kshemankara** | Kṣemaṃkara | a king of the Trigartas in Jayadratha's company; killed by Nakula |  |  |  |
 | **Kuninda** | Kuṇinda | a king present in Yudhishthira's hall |  |  |  |
 | **Lohita** | Lohita | a king of the north with ten provinces |  |  |  |
 | **Lomapada** | Lomapāda | king of the Angas, in whose land Rishyashringa is brought |  |  |  |
 | **Machella** | Mācella | a great warrior at the Rajasuya |  |  |  |
 | **Madayanti** | Madayantī | wife of Saudasa (Kalmashapada), mother of Ashmaka by Vasishtha |  |  |  |
 | **Mahabhisha** | Mahābhiṣa | a king of Ikshvaku's line in heaven, cursed by Brahma for gazing at Ganga; reborn as Shantanu |  |  |  |
+| **Mahamukha** | Mahāmukha | a warrior in Jayadratha's company, killed by Nakula |  |  |  |
 | **Mandhatar** | Māndhātṛ | an ancient king, the best of kings, who rose to heaven |  |  |  |
 | **Manu** | Manu | Manu son of Vivasvat (through Martanda in 1.70), from whom the human race descends; the fish saves him from the flood (3.185) | Vaivasvata |  |  |
 | **Meghavahana** | Meghavāhana | a king allied to Jarasandha |  |  |  |
@@ -485,7 +488,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sukanya** | Sukanyā | Sharyati's daughter, wife of Chyavana |  |  |  |
 | **Sumanas** | Sumanas | a king present in Yudhishthira's hall |  |  |  |
 | **Sumandala** | Sumaṇḍala | a king defeated by Arjuna in the north |  |  |  |
-| **Suratha** | Suratha | a king present in Yudhishthira's hall |  |  |  |
+| **Suratha** | Suratha | a king present in Yudhishthira's hall; also the father of Kotikashya (3.249.6), and a Trigarta king who fights Nakula (3.255.18) |  |  |  |
 | **Susharma** | Suśarman | a king present in Yudhishthira's hall |  |  | Susharman |
 | **Timingila** | Timiṃgila | a southern king subdued by Sahadeva |  |  |  |
 | **Turvasu** | Turvasu | Yayati's son by Devayani |  |  |  |
@@ -495,6 +498,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vasumanas** | Vasumanas | royal seer, son of Rushadashva, a grandson of Yayati through his daughter | Vasumat |  |  |
 | **Virasena** | Vīrasena | father of Nala |  |  |  |
 | **Vivardhana** | Vivardhana | a king present in Yudhishthira's hall |  |  |  |
+| **Vriddhakshatra** | Vṛddhakṣatra | father of Jayadratha |  |  |  |
 | **Vrishaparvan** | Vṛṣaparvan | king of the asuras, Shukra's patron, father of Sharmishtha; also a royal seer whose hermitage lies below Gandhamadana, where the Pandavas leave their brahmins (3.155.17–25); the text does not say whether he is the same |  |  | Vrishaparva |
 | **Yadu** | Yadu | Yayati's eldest son, by Devayani; ancestor of the Yadavas |  |  |  |
 | **Yauvanashva** | Yauvanāśva | an emperor of old who gave up taxes; he laid a mace at Bindusaras |  |  |  |
@@ -521,7 +525,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Pratipa** | Pratīpa | Kuru king, father of Devapi, Shantanu and Bahlika; Ganga sat on his right thigh | Paryashravas |  |  |
 | **Purumitra** | Purumitra | a player at the dice game, on the Kaurava side |  |  |  |
 | **Samvarana** | Saṃvaraṇa | son of Riksha, king of the Bharatas, husband of Tapati, father of Kuru |  |  |  |
-| **Sanjaya** | Saṃjaya | Dhritarashtra's charioteer and counsellor, given divine sight by Vyasa; returns the kings' courtesies at the Rajasuya (2.32.5) | Gavalgani |  | Sanjay |
+| **Sanjaya** | Saṃjaya | Dhritarashtra's charioteer and counsellor, given divine sight by Vyasa; returns the kings' courtesies at the Rajasuya (2.32.5); also one of the twelve Sauvira princes who follow Jayadratha (3.249.10) | Gavalgani |  | Sanjay |
 | **Satyavati** | Satyavatī | the fisherman's adopted daughter who became Shantanu's queen; mother of Vyasa | Kali, Gandhavati, Yojanagandha, Matsyagandha, Satya |  | Satyawati |
 | **Satyavrata** | Satyavrata | a player at the dice game, on the Kaurava side |  |  |  |
 | **Saumadatti** | Saumadatti | Somadatta's son, named as an ally of Duryodhana |  |  |  |
@@ -543,7 +547,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Prapti** | Prāpti | Jarasandha's daughter, Kamsa's wife |  |  |  |
 | **Babhruvahana** | Babhruvāhana | son of Arjuna and Chitrangada, heir of Chitravahana's line |  |  |  |
 | **Chitravahana** | Citravāhana | king of Manalura, father of Chitrangada |  |  |  |
-| **Prabhankara** | Prabhaṃkara | an ancestor of Chitravahana, granted one child in each generation by Shiva |  |  |  |
+| **Prabhankara** | Prabhaṃkara | an ancestor of Chitravahana, granted one child in each generation by Shiva; also one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
 | **Matsya** | Matsya | the king born with Satyavati from the fish; founder of the Matsya line |  |  |  |
 | **Shankha** | Śaṅkha | son of Virata |  |  |  |
 | **Uttara** | Uttara | son of Virata |  |  |  |
@@ -606,6 +610,14 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Krodhavashas** | Krodhavaśa | rakshasas who guard Kubera's lotus pool on Kailasa (3.151.10) |  |  |  |
 | **Puloman** | Puloman (Pulomā, m.) | the rakshasa who carries off Bhrigu's wife |  |  |  |
 | **Ravana** | Rāvaṇa | king of the rakshasas who carried off Sita; his story is told at 3.258–275 |  |  | Raavan, Ravan |
+| **Bhramara** | Bhramara | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
+| **Guptaka** | Guptaka | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
+| **Kuhara** | Kuhara | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
+| **Kunjara** | Kuñjara | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
+| **Pratapa** | Pratāpa | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
+| **Ravi** | Ravi | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
+| **Shatrunjaya** | Śatruṃjaya | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
+| **Supravriddha** | Supravṛddha | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
 | **Adrishyanti** | Adṛśyantī | Shakti's wife, mother of Parashara |  |  |  |
 | **Agastya** | Agastya | seer who hunted during a sacrifice and consecrated the deer to the gods |  |  |  |
 | **Agniveshya** | Agniveśya | sage who received the weapon of Fire from Bharadvaja and taught Drona |  |  |  |
@@ -689,7 +701,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Maunjayana** | Mauñjāyana | a seer present in Yudhishthira's hall |  |  |  |
 | **Medhavin** | Medhāvin | Baladhi's proud son, who died when the mountains were split |  |  |  |
 | **Meru Savarni** | Merusāvarṇi | a seer who taught Yudhishthira on the Himalaya |  |  |  |
-| **Mudgala** | Mudgala | a sage, husband of Nadayani Indrasena |  |  |  |
+| **Mudgala** | Mudgala | a sage, husband of Nadayani Indrasena; also the gleaner of Kurukshetra whose gift of rice Durvasas tests, in Vyasa's tale (3.246) |  |  |  |
 | **Munja** | Muñja | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
 | **Nachiketa** | Nāciketa | a seer present in Yudhishthira's hall |  |  |  |
 | **Nadayani** | Nāḍāyanī | Indrasena, wife of Mudgala, a model of devotion |  |  |  |
@@ -871,7 +883,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Viduratha** | Vidūratha | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Viprithu** | Vipṛthu | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Kuntibhoja** | Kuntibhoja | Shura's cousin, who adopted Pritha, hence 'Kunti' |  |  |  |
-| **Shura** | Śūra | chief of the Yadus, father of Vasudeva and of Pritha (Kunti) |  |  |  |
+| **Shura** | Śūra | chief of the Yadus, father of Vasudeva and of Pritha (Kunti); also one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
 | **Vasudeva** | Vasudeva | son of Shura, father of Krishna; Pritha's brother. Not Krishna's patronymic 'Vasudeva' (Vāsudeva), which the novel avoids as a name for Krishna where it would confuse |  |  |  |
 | **Amogha** | Amogha | a great yaksha on the right wing of Rudra's procession (3.221.7); also a fire of that name (3.209.24) |  |  |  |
 | **Arantuka** | Arantuka | a yaksha, gatekeeper of Kurukshetra, marking its bounds |  |  |  |

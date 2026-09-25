@@ -2,7 +2,7 @@
 
 # Contents
 
-**192 chapters, 420,772 words.** 192 drafted
+**195 chapters, 429,424 words.** 195 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -215,5 +215,8 @@
 | 75 | [Duryodhana's Shame](../novel/book-03-aranyaka/75-duryodhanas-shame.md) | 3.236-238 | drafted | 1,894 |
 | 76 | [The Danavas' Promise](../novel/book-03-aranyaka/76-the-danavas-promise.md) | 3.239-240 | drafted | 1,814 |
 | 77 | [The Vaishnava Sacrifice](../novel/book-03-aranyaka/77-the-vaishnava-sacrifice.md) | 3.241-244 | drafted | 2,397 |
+| 78 | [Mudgala](../novel/book-03-aranyaka/78-mudgala.md) | 3.245-247 | drafted | 2,832 |
+| 79 | [Jayadratha](../novel/book-03-aranyaka/79-jayadratha.md) | 3.248-252 | drafted | 2,311 |
+| 80 | [The Rescue of Draupadi](../novel/book-03-aranyaka/80-the-rescue-of-draupadi.md) | 3.253-256 | drafted | 3,509 |
 
-*Book 3 so far: 196,511 words.*
+*Book 3 so far: 205,163 words.*

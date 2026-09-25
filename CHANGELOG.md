@@ -18,6 +18,18 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 3, chapters 78–80 drafted: Mudgala; Jayadratha; the rescue of Draupadi
+- Ch 78 *Mudgala* (CE 3.245–247), Ch 79 *Jayadratha* (3.248–252) and Ch 80 *The Rescue of Draupadi*
+  (3.253–256): Vyasa's visit in the eleventh year and his teaching that giving is hardest; Mudgala the gleaner,
+  Durvasas's six visits, and the messenger's account of heaven and its faults; Jayadratha sees Draupadi alone at
+  Kamyaka, sends Kotikashya, and carries her off; her naming of her husbands from his chariot; the battle; Bhima
+  shaves Jayadratha into five tufts and makes him a slave; Yudhishthira frees him; Shiva's boon at Gangadvara.
+  About 8,600 words.
+- Ledger: new L-152 (the abduction, five tufts and "slave" are all CE) and L-153 (Jayadratha's boon has no
+  "one day" limit in the CE, either at 3.256 or 7.41; that is \*1228 and 7.\*303).
+- Names: Kotikashya, Kshemankara, Mahamukha, Vriddhakshatra and the twelve Sauvira princes added; homonyms
+  noted for Suratha, Subala, Sanjaya, Shura and Mudgala.
+
 ### Novel: Book 3, chapters 76–77 drafted: the danavas' promise; the Vaishnava sacrifice
 - Ch 76 *The Danavas' Promise* (CE 3.239–240) and Ch 77 *The Vaishnava Sacrifice* (3.241–244): Shakuni urges
   Duryodhana to live and even return the kingdom; the fast on kusha grass; the danavas' rite and their promise
