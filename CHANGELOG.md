@@ -18,6 +18,13 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 4, chapters 17–18 drafted: the cattle recovered; Kripa, Drona and Karna
+- Ch 17 *The Cattle Recovered* (CE 4.48–51): the greeting arrows at Drona's
+  feet, the cattle turned back, Karna's brother killed, the Kaurava banners,
+  the gods in their sky chariots. Ch 18 *Kripa, Drona and Karna* (4.52–55):
+  Arjuna's duels with Kripa, Drona, Ashvatthaman and Karna.
+- Names: Samgramajit, Shatrusaha, Shatruntapa, and three royal seers.
+
 ### Novel: Book 4, chapters 15–16 drafted: the weapons in the tree; the Kaurava council
 - Ch 15 *The Weapons in the Tree* (CE 4.38–41): the Pandavas' weapons named, the
   Gandiva's history, Arjuna's ten names explained, his vow of celibacy (not

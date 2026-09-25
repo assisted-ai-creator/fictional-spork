@@ -48,8 +48,8 @@ against the CE when the Book is drafted.
 | 14 | **Āśvamedhika**: *The Horse Sacrifice* | 14.1–14.96 | ✅ drafted. Uttara runs; Arjuna catches him; the Kurus wonder; Droṇa's omens; Duryodhana's "twelve more years" (4.36–37). | 18 | Vaiśaṃpāyana |
 | 15 | **Āśramavāsika**: *The Hermitage* | 15.1–15.47 | ✅ drafted. The weapons in the śamī; the Gāṇḍīva's history; Arjuna's ten names; the vow, not a curse; the monkey banner and the conch (4.38–41). | 10 | Vaiśaṃpāyana |
 | 16 | **Mausala**: *The Iron Club* | 16.1–16.9 | ✅ drafted. Duryodhana, Karṇa, Kṛpa and Aśvatthāman quarrel; Bhīṣma makes peace and reckons the years; the battle order (4.42–47). | 3 | Vaiśaṃpāyana |
-| 17 | **Mahāprasthānika**: *The Great Journey* | 17.1–17.3 | 3 | 1 | Vaiśaṃpāyana |
-| 18 | **Svargārohaṇa**: *The Ascent to Heaven* | 18.1–18.5 | 5 | 2 | Vaiśaṃpāyana; Ugraśravas closes |
+| 17 | **Mahāprasthānika**: *The Great Journey* | 17.1–17.3 | ✅ drafted. The greeting arrows; the cattle turned back; Vikarṇa, Śatruṃtapa, Saṃgrāmajit; Karṇa driven off; the leaders pointed out; the gods watch (4.48–51). | 1 | Vaiśaṃpāyana |
+| 18 | **Svargārohaṇa**: *The Ascent to Heaven* | 18.1–18.5 | ✅ drafted. Kṛpa unhorsed; Droṇa and Arjuna; Aśvatthāman cuts the bowstring; Karṇa wounded and in flight (4.52–55). | 2 | Vaiśaṃpāyana; Ugraśravas closes |
 | | | | **1,995** | **≈ 429** | |
 
 ---

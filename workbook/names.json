@@ -10088,6 +10088,56 @@
    "dialogue": [],
    "flag": [],
    "ref": "4.6.10"
+  },
+  {
+   "name": "Shatrusaha",
+   "iast": "Śatrusaha",
+   "group": "Kaurava",
+   "who": "a Kaurava chariot fighter who defends Karna",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "4.49.7"
+  },
+  {
+   "name": "Shatruntapa",
+   "iast": "Śatruṃtapa",
+   "group": "Kaurava",
+   "who": "a king on the Kaurava side, killed by Arjuna in the cattle raid",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "4.49.11-13"
+  },
+  {
+   "name": "Balaksha",
+   "iast": "Balākṣa",
+   "group": "King",
+   "who": "a royal seer watching the battle from Indra's sky chariot",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "4.51.9"
+  },
+  {
+   "name": "Supratardana",
+   "iast": "Supratardana",
+   "group": "King",
+   "who": "a royal seer watching the battle from Indra's sky chariot",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "4.51.9"
+  },
+  {
+   "name": "Krishashva",
+   "iast": "Kṛśāśva",
+   "group": "King",
+   "who": "a royal seer watching the battle from Indra's sky chariot",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "4.51.10"
   }
  ],
  "not_vyasa": [

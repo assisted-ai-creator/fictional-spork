@@ -401,6 +401,8 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Purochana** | Purocana | Duryodhana's minister who built the house of lac at Varanavata |  |  |  |
 | **Saha** | Saha | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice; also an apsaras (3.44.30) |  |  |  |
 | **Samanga** | Samaṅga | a cowherd primed by Duryodhana's party to tell Dhritarashtra the cattle are near |  |  |  |
+| **Shatruntapa** | Śatruṃtapa | a king on the Kaurava side, killed by Arjuna in the cattle raid |  |  |  |
+| **Shatrusaha** | Śatrusaha | a Kaurava chariot fighter who defends Karna |  |  |  |
 | **Sukundala** | Sukuṇḍala | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Ugrayudha** | Ugrāyudha | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Vatavega** | Vātavega | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
@@ -424,6 +426,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Arjuna Kartavirya** | Arjuna Kārtavīrya | thousand-armed king of the Haihayas, killed by Rama Jamadagnya; say 'Arjuna, the Haihaya king' to keep him apart from the Pandava | Kartavirya |  |  |
 | **Ashmaka** | Aśmaka | son of Madayanti by Vasishtha |  |  |  |
 | **Ashtaka** | Aṣṭaka | royal seer, a grandson of Yayati through his daughter, who questions and helps save him |  |  |  |
+| **Balaksha** | Balākṣa | a royal seer watching the battle from Indra's sky chariot |  |  |  |
 | **Bali** | Bali | king who rescued Dirghatamas from the Ganga and had him father sons on his queen (not the asura Bali); also Bali, the asura son of Virochana and grandson of Prahlada (3.29); whose kingdom Vishnu took in the form of a dwarf (3.299.13) |  |  |  |
 | **Bharata** | Bharata | son of Dushyanta and Shakuntala, first called Sarvadamana; the emperor from whom the Bharatas take their name; also son of Dasharatha and Kaikeyi, who rules from Nandigrama with Rama's sandals before him (3.261.38) | Sarvadamana |  |  |
 | **Bhimaratha** | Bhīmaratha | a king present in Yudhishthira's hall |  |  |  |
@@ -453,6 +456,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Ketuman** | Ketumat | a king present in Yudhishthira's hall |  |  | Ketumat |
 | **Kotikashya** | Koṭikāśya | son of King Suratha, a Shibi prince (Shaibya) in Jayadratha's company, who questions Draupadi; killed by Bhima | Kotika, Shaibya |  |  |
 | **Kratha** | Kratha | an overlord of kings defeated by Bhima; also a king Krishna beat at Jaruthi (3.13.27); also a monkey chief |  |  |  |
+| **Krishashva** | Kṛśāśva | a royal seer watching the battle from Indra's sky chariot |  |  |  |
 | **Kritakshana** | Kṛtakṣaṇa | a king present in Yudhishthira's hall |  |  |  |
 | **Kritavirya** | Kṛtavīrya | king who enriched the Bhrigus; father of Arjuna Kartavirya |  |  |  |
 | **Kshemajit** | Kṣemajit | a king present in Yudhishthira's hall |  |  |  |
@@ -490,6 +494,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sukanya** | Sukanyā | Sharyati's daughter, wife of Chyavana |  |  |  |
 | **Sumanas** | Sumanas | a king present in Yudhishthira's hall |  |  |  |
 | **Sumandala** | Sumaṇḍala | a king defeated by Arjuna in the north |  |  |  |
+| **Supratardana** | Supratardana | a royal seer watching the battle from Indra's sky chariot |  |  |  |
 | **Suratha** | Suratha | a king present in Yudhishthira's hall; also the father of Kotikashya (3.249.6), and a Trigarta king who fights Nakula (3.255.18) |  |  |  |
 | **Susharma** | Suśarman | king of the Trigartas, who raids Virata's cattle (4.29–32); a Susharma is also among the kings in Yudhishthira's hall (2.4) |  |  | Susharman |
 | **Timingila** | Timiṃgila | a southern king subdued by Sahadeva |  |  |  |
