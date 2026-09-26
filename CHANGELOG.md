@@ -6,6 +6,19 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Novel: Book 5 complete: chapters 53–56 drafted
+- Ch 53 *The Sleeping Weapon* (CE 5.184–187): the Prasvapa withheld, the end of
+  the fight with Rama, Amba's twelve years and the river Amba. Ch 54 *Amba's Vow*
+  (5.188–191): Shiva's boon, the pyre, Shikhandi raised as a son and married.
+  Ch 55 *Shikhandi* (5.192–193, retitled from the plan's "Shikhandin" to match
+  `names.json`): the yaksha Sthunakarna, Kubera's curse and Bhishma's vow.
+  Ch 56 *The Armies Move* (5.194–197): the commanders' boasts, Arjuna's answer
+  and both armies on the march. Book 5 now covers CE 5.1–5.197.
+- Ledger: L-188 (Amba reborn as Shikhandi), L-189 (Shikhandi not a eunuch: the
+  yaksha's exchange). L-187 revised: Rama says he is beaten (5.186.8).
+- Names: Hiranyavarma, Pailagargya; Sthunakarna the yaksha. Places: Vatsabhumi,
+  the river Amba, Ramahrada. Timeline: the march out.
+
 ### Novel: Book 5, chapters 50–52 drafted: Amba and Rama
 - Ch 50 *Amba* (CE 5.171–174): Amba's release, Shalva's refusal, her resolve
   against Bhishma, and her grandfather Hotravahana. Ch 51 *Rama Takes Up Amba's

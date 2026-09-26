@@ -39,3 +39,6 @@ used in the novel. They are here only as orientation, marked "(trad.)".
 | Rasatala | Rasātala | The seventh level of the earth, where Surabhi lives | 5.100.1 | |
 | Bhogavati | Bhogavatī | The city of the nagas, guarded by Vasuki | 5.101.1 | |
 | Hiranvati | Hiraṇvatī | A holy river at Kurukshetra, with good bathing places, where Krishna has the Pandava camp's moat dug | 5.149.73 | |
+| Vatsabhumi | Vatsabhūmi | The land of the Vatsas, haunted by siddhas and charanas, where Amba wanders among the bathing places and half of her becomes the river Amba | 5.187.23, 38–40 | |
+| Amba (river) | Ambā | A crooked seasonal river in Vatsabhumi, full of crocodiles and hard to cross; half of Amba became it | 5.187.39–40 | |
+| Ramahrada | Rāmahrada | "Rama's lake", one of the bathing places where Amba practises austerity | 5.187.27 | |

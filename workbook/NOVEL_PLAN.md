@@ -442,10 +442,10 @@ Ambopākhyāna); the boundaries are read from the content of the adhyāyas.
 | 50 | Amba | 5.171–5.174 | ✅ drafted. Ambā let go; Śālva refuses her; she blames Bhīṣma; the ascetics' counsel; Hotravāhana sends her to Rāma. |
 | 51 | Rama Takes Up Amba's Cause | 5.175–5.178 | ✅ drafted. Akṛtavraṇa; Ambā asks Rāma to kill Bhīṣma (not to wed her: L-186); Rāma's vow; "take her back"; Bhīṣma accepts the challenge. |
 | 52 | Bhishma and Rama | 5.179–5.183 | ✅ drafted. Bhīṣma in white; Gaṅgā pleads; Rāma's chariot of the Vedas; days of arrows and divine weapons; the eight brahmins; twenty-three days (L-187). |
-| 53 | The Sleeping Weapon | 5.184–5.187 | The dream; the prasvāpa weapon withheld; the duel ends. |
-| 54 | Amba's Vow | 5.188–5.191 | Ambā's austerities; Śiva's boon; the girl raised as a son. |
-| 55 | Shikhandin | 5.192–5.193 | The yakṣa Sthūṇākarṇa exchanges sex with Śikhaṇḍinī. |
-| 56 | The Armies Move | 5.194–5.197 | How long each would take to destroy the enemy; the armies set out. |
+| 53 | The Sleeping Weapon | 5.184–5.187 | ✅ drafted. The eight brahmins' dream and the Prasvāpa; the brahma weapons meet; Nārada and the gods forbid the Prasvāpa; Rāma's ancestors stop him (Arjuna appointed Bhīṣma's death, 5.186.19–20); Ambā's twelve years; half of her the river Ambā (L-188). |
+| 54 | Amba's Vow | 5.188–5.191 | ✅ drafted. Śiva's boon; the pyre by the Yamunā; Drupada's prayer for a son; the girl raised as a son and married to Hiraṇyavarman's daughter; Hiraṇyavarman's threat; Drupada questions the queen. |
+| 55 | Shikhandi | 5.192–5.193 | ✅ drafted. The queen's confession; the yakṣa Sthūṇākarṇa exchanges sex with Śikhaṇḍinī; the test; Kubera's curse; Bhīṣma's vow not to shoot at one who was a woman (L-189). |
+| 56 | The Armies Move | 5.194–5.197 | ✅ drafted. A month, a month, two months, ten nights, five nights; Bhīṣma laughs at Karṇa; Arjuna will not use divine weapons on ordinary men; the Kaurava camp like a second Hastinapura; Yudhiṣṭhira's army marches. |
 
 ## Books 2–18: provisional sub-parvas
 

@@ -7924,7 +7924,7 @@
    "name": "Sthunakarna",
    "iast": "Sthūṇakarṇa",
    "group": "Seer",
-   "who": "a seer who honours Yudhishthira at Dvaitavana",
+   "who": "a seer who honours Yudhishthira at Dvaitavana; also the yaksha, a follower of Kubera, who exchanges sex with Shikhandini and is cursed by Kubera to stay a woman until Shikhandi dies (5.192.20-5.193.52)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -11947,6 +11947,29 @@
    "dialogue": [],
    "flag": [],
    "ref": "5.173.11"
+  },
+  {
+   "name": "Pailagargya",
+   "iast": "Pailagārgya",
+   "group": "Seer",
+   "who": "a sage whose ashram is one of the bathing places where Amba practises austerity",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.187.27"
+  },
+  {
+   "name": "Hiranyavarma",
+   "iast": "Hiraṇyavarman",
+   "group": "King",
+   "who": "king of the Dasharnas, whose daughter is married to Shikhandi",
+   "aka": [
+    "Hemavarma",
+    "Kanchanavarma"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.190.9-11"
   }
  ],
  "not_vyasa": [

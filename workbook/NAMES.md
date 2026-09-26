@@ -550,6 +550,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Girika** | Girikā | Vasu's wife, daughter of the mountain Kolahala and the river Shuktimati |  |  |  |
 | **Hayagriva** | Hayagrīva | a king born among the Videhas who destroyed his family, in Bhima's list |  |  |  |
 | **Hiranyaloman** | Hiraṇyaloman | Bhishmaka, Rukmin's father, lord of the Akritis and of the south |  |  |  |
+| **Hiranyavarma** | Hiraṇyavarman | king of the Dasharnas, whose daughter is married to Shikhandi | Hemavarma, Kanchanavarma |  |  |
 | **Ikshvaku** | Ikṣvāku | an ancient king, founder of the solar line |  |  |  |
 | **Jalasamdha** | Jalasaṃdha | a king on the Kaurava side, greeted in Arjuna's message |  |  |  |
 | **Jantu** | Jantu | Somaka's son, sacrificed and born again as the eldest of a hundred |  |  |  |
@@ -935,6 +936,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Nadayani** | Nāḍāyanī | Indrasena, wife of Mudgala, a model of devotion |  |  |  |
 | **Narada** | Nārada | the divine seer who wanders the worlds; he warns the Pandavas with the tale of Sunda and Upasunda |  |  | Naarad, Narad |
 | **Paila** | Paila | a seer present in Yudhishthira's hall |  |  |  |
+| **Pailagargya** | Pailagārgya | a sage whose ashram is one of the bathing places where Amba practises austerity |  |  |  |
 | **Painga** | Paiṅga | a seer present in Yudhishthira's hall |  |  |  |
 | **Parashara** | Parāśara | son of Shakti; father of Vyasa by Satyavati |  |  | Parasara |
 | **Paravasu** | Parāvasu | Raibhya's son, who killed his father by mistake |  |  |  |
@@ -986,7 +988,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Somashravas** | Somaśravas | Janamejaya's family priest, son of Shrutashravas by a snake-woman |  |  |  |
 | **Sthulakesha** | Sthūlakeśa | seer who raised Pramadvara |  |  |  |
 | **Sthulashiras** | Sthūlaśiras | a seer present in Yudhishthira's hall |  |  |  |
-| **Sthunakarna** | Sthūṇakarṇa | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
+| **Sthunakarna** | Sthūṇakarṇa | a seer who honours Yudhishthira at Dvaitavana; also the yaksha, a follower of Kubera, who exchanges sex with Shikhandini and is cursed by Kubera to stay a woman until Shikhandi dies (5.192.20-5.193.52) |  |  |  |
 | **Suhotra** | Suhotra | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
 | **Sujata** | Sujātā | Uddalaka's daughter, mother of Ashtavakra |  |  |  |
 | **Sumantu** | Sumantu | a seer present in Yudhishthira's hall |  |  |  |
