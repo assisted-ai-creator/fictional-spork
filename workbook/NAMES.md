@@ -242,7 +242,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sarpanta** | Sarpānta | a descendant of Garuda, named by Narada |  |  |  |
 | **Sarvakamadugha** | Sarvakāmadughā | the cow who holds up the northern quarter |  |  |  |
 | **Satyavan** | Satyavat | named in Indra's hall (2.7) |  |  |  |
-| **Shaibya** | Śaibya | a king Krishna beat at Jaruthi; also Dyumatsena's wife, Satyavat's mother (3.282.2) |  |  |  |
+| **Shaibya** | Śaibya | a king Krishna beat at Jaruthi; also Dyumatsena's wife, Satyavat's mother (3.282.2); also of the Govasanas, who leads the kings on an elephant on the first day (6.17.20) |  |  |  |
 | **Shanaishchara** | Śanaiścara | named in Brahma's hall (2.11) |  |  |  |
 | **Sharabha** | Śarabha | named in Yama's hall (2.8); also brother of the king of the Chedis, who fights for the Pandavas (5.49.43) |  |  |  |
 | **Sharyati** | Śaryāti | named in Yama's hall (2.8) |  |  |  |
@@ -397,7 +397,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sushobhana** | Suśobhanā | the frog king's daughter who marries Parikshit of Ayodhya (3.190) |  |  |  |
 | **Achala** | Acala | a son of the king of Gandhara, Shakuni's brother |  |  |  |
 | **Bala** | Bala | a son of the king of Gandhara, brother of Shakuni; named among the suitors at Draupadi's bridegroom choice; also the name of a demon slain by Indra ("slayer of Bala"); also the third son of Parikshit of Ayodhya (3.190.43) |  |  |  |
-| **Brihadbala** | Bṛhadbala | a son of the king of Gandhara, brother of Shakuni; named among the suitors at Draupadi's bridegroom choice; also a king born among the Prachetas who destroyed his family, in Bhima's list (5.72.16) |  |  |  |
+| **Brihadbala** | Bṛhadbala | a son of the king of Gandhara, brother of Shakuni; named among the suitors at Draupadi's bridegroom choice; also a king born among the Prachetas who destroyed his family, in Bhima's list (5.72.16); also king of Kosala, lord of one of Duryodhana's akshauhinis (6.16.34) |  |  |  |
 | **Shakuni** | Śakuni | Gandhari's brother, son of Subala; the dice player | Saubala | Saubala | Sakuni, Shakunee |
 | **Subala** | Subala | king of Gandhara, father of Gandhari and Shakuni; also an Ikshvaku king in Jayadratha's company (3.249.8), not Shakuni's father; also a son of Garuda (5.99.3) |  |  |  |
 | **Uluka** | Ulūka | son of Shakuni ("son of the gambler") |  |  |  |
@@ -562,13 +562,14 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kampana** | Kampana | a king present in Yudhishthira's hall |  |  |  |
 | **Kashika** | Kāśika | a king on the Pandava side named by Bhishma |  |  |  |
 | **Kashya** | Kāśya | the king of Kashi on the Pandava side, a chariot fighter of single worth |  |  |  |
-| **Ketuman** | Ketumat | a king present in Yudhishthira's hall |  |  | Ketumat |
+| **Ketuman** | Ketumat | a king present in Yudhishthira's hall; also a king who rides with the Kalinga king on the first day (6.17.32-37) |  |  | Ketumat |
 | **Kotikashya** | Koṭikāśya | son of King Suratha, a Shibi prince (Shaibya) in Jayadratha's company, who questions Draupadi; killed by Bhima | Kotika, Shaibya |  |  |
 | **Kratha** | Kratha | an overlord of kings defeated by Bhima; also a king Krishna beat at Jaruthi (3.13.27); also a monkey chief; also a king Drupada would summon, with "Kratha's son" (5.4.16, 21) |  |  |  |
 | **Krishashva** | Kṛśāśva | a royal seer watching the battle from Indra's sky chariot |  |  |  |
 | **Kritakshana** | Kṛtakṣaṇa | a king present in Yudhishthira's hall |  |  |  |
 | **Kritavirya** | Kṛtavīrya | king who enriched the Bhrigus; father of Arjuna Kartavirya |  |  |  |
 | **Krodhahantri** | Krodhahantṛ | another name of Senabindu, on the Pandava side |  |  |  |
+| **Kshemadhanva** | Kṣemadhanvan | a chariot fighter in front of Duryodhana on the first day |  |  |  |
 | **Kshemajit** | Kṣemajit | a king present in Yudhishthira's hall |  |  |  |
 | **Kshemaka** | Kṣemaka | a king present in Yudhishthira's hall |  |  |  |
 | **Kshemankara** | Kṣemaṃkara | a king of the Trigartas in Jayadratha's company; killed by Nakula |  |  |  |
@@ -606,6 +607,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shibi** | Śibi | son of Ushinara, a royal seer of unequalled generosity, a grandson of Yayati through his daughter; also son of Ushinara and Madhavi (5.116.20) | Aushinara |  | Sibi |
 | **Shrutarvan** | Śrutarvan | a king whom Agastya asks for wealth |  |  |  |
 | **Shrutayudha** | Śrutāyudha | a king present in Yudhishthira's hall |  |  |  |
+| **Shrutayus** | Śrutāyus | a chariot fighter ahead of Bhishma on the first day |  |  |  |
 | **Sudarshana** | Sudarśana | a king, "the pride of the gods", whom Krishna freed from captivity (5.47.69) |  |  |  |
 | **Sudeshna** | Sudeṣṇā | Bali's queen, mother of Anga by Dirghatamas (another Sudeshna is Virata's queen); also Virata's queen, a princess of the Kekayas, whom Draupadi serves as sairandhri (4.8.6) |  |  |  |
 | **Sudharma** | Sudharman | a king present in Yudhishthira's hall; also Sudharma, king of Dasharna, made Bhima's general (2.26.5); also wife of Matali (5.95.19) |  |  | Sudharman |

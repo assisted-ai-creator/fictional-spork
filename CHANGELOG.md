@@ -6,6 +6,17 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Novel: Book 6 begun: plan and chapters 1–6
+- Book 6 chapter plan (34 chapters) in `NOVEL_PLAN.md`, drawn from the CE
+  adhyāya openings, with the ten days fixed by the CE's withdrawals.
+- Ch 1 *Vyasa's Gift* (CE 6.1–4), ch 2 *The Island of Jambu* (6.5–8), ch 3
+  *Bharata* (6.9–11), ch 4 *The Other Islands* (6.12–13), ch 5 *Bhishma Has
+  Fallen* (6.14–16), ch 6 *The Armies Face Each Other* (6.17–22).
+- Ledger: L-190 (Sanjaya tells the war after Bhishma's fall, not live).
+- Names: Ketuman, Kshemadhanva, Shrutayus, Shaibya, Brihadbala of Kosala.
+  "Koshala" corrected to "Kosala" (Book 3 ch 29). Timeline: day 1; Sanjaya's
+  return.
+
 ### Novel: Book 5 complete: chapters 53–56 drafted
 - Ch 53 *The Sleeping Weapon* (CE 5.184–187): the Prasvapa withheld, the end of
   the fight with Rama, Amba's twelve years and the river Amba. Ch 54 *Amba's Vow*

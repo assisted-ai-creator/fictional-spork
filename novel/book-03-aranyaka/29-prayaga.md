@@ -26,8 +26,8 @@ the Fathers and the gods, he gains the reward of the agnishtoma. At the source
 of the Shona and the Narmada, joy of the Kurus, touching the water at
 Vamshagulma, he gains the reward of the horse sacrifice.
 
-"'Coming to the ford of Rishabha in Koshala, lord of men, fasting three nights,
-a man wins the vajapeya. Coming to Koshala, he should touch the water at
+"'Coming to the ford of Rishabha in Kosala, lord of men, fasting three nights,
+a man wins the vajapeya. Coming to Kosala, he should touch the water at
 Kalatirtha. He gains the reward of eleven bulls, no doubt of it. Touching the
 water of the Pushpavati and fasting three nights, he gains the reward of a
 thousand cows and raises up his family. Then bathing at Badarikatirtha with a

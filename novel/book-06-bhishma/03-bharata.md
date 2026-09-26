@@ -117,7 +117,7 @@ them.
 "Now hear me name the peoples. Here are the Kurus and the Panchalas, the
 Shalvas, the Madreyas and the Jangalas. There are the Shurasenas, the Kalingas,
 the Bodhas and the Maukas. There are the Matsyas, the Sukutis, the Saubalyas and
-the Kuntalas. There are the Kashis and the Koshalas, the Chedis, the Vatsas and
+the Kuntalas. There are the Kashis and the Kosalas, the Chedis, the Vatsas and
 the Karushas. There are the Bhojas, the Sindhus and the Pulindakas, the
 Uttamaujas and the Dasharnas, and the Mekalas with the Utkalas. There are the
 Panchalas, the Kaushijas, the Ekaprishthas and the Yugandharas. There are the

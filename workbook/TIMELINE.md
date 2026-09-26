@@ -28,6 +28,8 @@ note it and keep the text's wording in the novel.
 | Duryodhana orders the march to Kurukshetra | "Today is Pushya", as Krishna reports it | 5.148.3 |
 | Both armies march out; the Kaurava camp in the western half of Kurukshetra | the morning after Bhishma finishes the story of Amba | 5.194.1; 5.196.1–11 |
 | Amba's austerity before the pyre | twelve years | 5.187.22 |
+| Day 1 of the war begins | the moon in the region of Magha; seven planets together | 6.17.2 |
+| Sanjaya returns to Dhritarashtra | after Bhishma falls, ten days in; he then tells the battle from the start | 6.14.1–11; 6.15.75 |
 | The war | Bhishma fights ten days, Drona five, Karna two, Shalya half a day; then the mace duel; that night Kritavarma, Ashvatthama and Kripa kill the sleeping Pandava army. That makes eighteen days | 1.2.26–28 |
 | The armies | eighteen akshauhinis in all, gathered at Samantapanchaka | 1.2.24–25 |
 | Gandhari's curse on Krishna's clan | fulfilled in the thirty-sixth year | 11.25.41 |

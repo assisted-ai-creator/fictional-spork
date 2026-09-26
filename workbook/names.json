@@ -2848,7 +2848,7 @@
    "name": "Brihadbala",
    "iast": "Bṛhadbala",
    "group": "Gandhara",
-   "who": "a son of the king of Gandhara, brother of Shakuni; named among the suitors at Draupadi's bridegroom choice; also a king born among the Prachetas who destroyed his family, in Bhima's list (5.72.16)",
+   "who": "a son of the king of Gandhara, brother of Shakuni; named among the suitors at Draupadi's bridegroom choice; also a king born among the Prachetas who destroyed his family, in Bhima's list (5.72.16); also king of Kosala, lord of one of Duryodhana's akshauhinis (6.16.34)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -4974,7 +4974,7 @@
    "name": "Ketuman",
    "iast": "Ketumat",
    "group": "King",
-   "who": "a king present in Yudhishthira's hall",
+   "who": "a king present in Yudhishthira's hall; also a king who rides with the Kalinga king on the first day (6.17.32-37)",
    "aka": [],
    "dialogue": [],
    "flag": [
@@ -7711,7 +7711,7 @@
    "name": "Shaibya",
    "iast": "Śaibya",
    "group": "Catalogue",
-   "who": "a king Krishna beat at Jaruthi; also Dyumatsena's wife, Satyavat's mother (3.282.2)",
+   "who": "a king Krishna beat at Jaruthi; also Dyumatsena's wife, Satyavat's mother (3.282.2); also of the Govasanas, who leads the kings on an elephant on the first day (6.17.20)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -11970,6 +11970,26 @@
    "dialogue": [],
    "flag": [],
    "ref": "5.190.9-11"
+  },
+  {
+   "name": "Kshemadhanva",
+   "iast": "Kṣemadhanvan",
+   "group": "King",
+   "who": "a chariot fighter in front of Duryodhana on the first day",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.17.26"
+  },
+  {
+   "name": "Shrutayus",
+   "iast": "Śrutāyus",
+   "group": "King",
+   "who": "a chariot fighter ahead of Bhishma on the first day",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.17.21"
   }
  ],
  "not_vyasa": [

@@ -462,12 +462,12 @@ and the whole battle is told as his answer. Days are fixed by the withdrawals
 
 | Ch | Title | CE | Plan |
 |----|-------|----|------|
-| 1 | Vyasa's Gift | 6.1–6.4 | The rules of battle; Vyāsa offers Dhṛtarāṣṭra sight and gives Sañjaya divine sight; the portents; Vyāsa on the signs of victory. |
-| 2 | The Island of Jambu | 6.5–6.8 | Dhṛtarāṣṭra asks about the earth; Sañjaya on beings, the elements, Sudarśana island, Meru and its sides. |
-| 3 | Bharata | 6.9–6.11 | The ranges and regions; Bhārata's rivers and peoples; the ages and lifespans. |
-| 4 | The Other Islands | 6.12–6.13 | The measure of Jambūkhaṇḍa; Śāka, Kuśa, Krauñca and Puṣkara islands; Rāhu, the sun and the moon. |
-| 5 | Bhishma Has Fallen | 6.14–6.16 | Sañjaya returns from the field with the news; Dhṛtarāṣṭra's grief and questions; Sañjaya begins. |
-| 6 | The Armies Face Each Other | 6.17–6.22 | The kings assemble; the arrays; Yudhiṣṭhira's dismay and Arjuna's answer; the Pāṇḍava array. |
+| 1 | Vyasa's Gift | 6.1–6.4 | ✅ drafted. The camps and the rules of battle; Vyāsa offers sight and gives Sañjaya the divine eye; the portents; "where dharma is, there is victory" (6.2.14); the signs of victory. |
+| 2 | The Island of Jambu | 6.5–6.8 | ✅ drafted. Why kings fight for the earth; beings and elements; Sudarśana seen in the moon; the six ranges and Meru; the Gaṅgā; the seven Gaṅgās; the Northern Kurus; the Jambu tree. |
+| 3 | Bharata | 6.9–6.11 | ✅ drafted. Ramaṇaka, Hairaṇvata, Airāvata; Hari in his golden cart; "the Pāṇḍavas do not covet it"; the rivers and peoples of Bhārata in full; the four ages (the fourth named Puṣya). |
+| 4 | The Other Islands | 6.12–6.13 | ✅ drafted. Śāka island without king or punishment; the northern oceans; Kuśa, Krauñca, Puṣkara; the elephants of the quarters; the sizes of Svarbhānu, moon and sun. |
+| 5 | Bhishma Has Fallen | 6.14–6.16 | ✅ drafted. Sañjaya returns after ten days (L-190); Dhṛtarāṣṭra's lament; Sañjaya's powers; Duryodhana sets guards against Śikhaṇḍin; the ten lords of akṣauhiṇīs; Bhīṣma in white. |
+| 6 | The Armies Face Each Other | 6.17–6.22 | ✅ drafted. Bhīṣma's door to heaven; Karṇa without weapons; the Kaurava banners; the Vajra array; "where Kṛṣṇa is, there is victory"; no Durgā hymn (L-34); Kṛṣṇa points out Bhīṣma. |
 | 7 | Arjuna's Despair | 6.23–6.24 | Gītā 1–2. |
 | 8 | Action | 6.25–6.27 | Gītā 3–5. |
 | 9 | The Steady Mind | 6.28–6.29 | Gītā 6–7. |
