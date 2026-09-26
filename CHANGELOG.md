@@ -6,6 +6,15 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Novel: Book 6, chapters 16–18: the second and third days
+- Ch 16 *The Heron Array* (CE 6.46–49), ch 17 *Bhima and the Kalingas*
+  (6.50–51) and ch 18 *The Third Day* (6.52–55): Duryodhana's reproach and
+  Bhishma's promise; Arjuna fights gently; Krishna runs at Bhishma with his
+  discus and Arjuna holds him back at the tenth step.
+- Ledger: L-36 now notes the tenth step on both days (6.55.98; 6.102.64) and
+  that the discus is named Sudarshana in the CE itself (6.55.89), while the
+  rejected \*201 adds that it flew into his hand at a thought.
+
 ### Novel: Book 6, chapters 14–15: the war begins
 - Ch 14 *Yudhishthira Asks Leave* (CE 6.41): the blessings of Bhishma, Drona,
   Kripa and Shalya; Karna refuses Krishna; Yuyutsu changes sides. Ch 15 *The
