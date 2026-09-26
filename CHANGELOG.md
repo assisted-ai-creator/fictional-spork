@@ -6,6 +6,13 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Novel: Book 5, chapter 15 drafted: Sanatsujata
+- Ch 15 *Sanatsujata* (CE 5.42–45): the Sanatsujatiya, rendered from the CE
+  verses without the commentary that fills Ganguli's version. Notes list the
+  rejected passages Ganguli translates here, including the whole of his
+  section 5.45 (CE Appendix I No. 2). This completes the Sanatsujata
+  sub-parva (5.42–45).
+
 ### Novel: Book 5, chapters 13–14 drafted: the Prajagara completed
 - Ch 13 *The Swan and the Sadhyas* (CE 5.36–37) and Ch 14 *Vidura's Last
   Counsel* (5.38–41): Atreya's teaching as a swan, the great families, Manu's
