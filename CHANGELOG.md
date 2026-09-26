@@ -6,6 +6,15 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Novel: Book 5, chapters 11–12 drafted: Vidura's night counsel
+- Ch 11 *Vidura's Night Counsel* (CE 5.33) and Ch 12 *The Sleepless King*
+  (5.34–35): the start of the Prajagara, Vidura's counsel to the sleepless
+  Dhritarashtra, kept saying by saying in the CE's order, with the story of
+  Virochana and Sudhanvan. The many well-known sayings that are rejected
+  lines here (for example "forgiveness is the virtue of the weak", 5.33.\*175)
+  are listed in the notes and not narrated.
+- Names: Keshini (Vidura's story).
+
 ### Novel: Book 5, chapters 7–10 drafted: Sanjaya's embassy
 - Ch 7 *Sanjaya's Mission* (CE 5.22–25), Ch 8 *Yudhishthira's Answer*
   (5.26–28), Ch 9 *Krishna's Answer* (5.29–30) and Ch 10 *Five Villages*

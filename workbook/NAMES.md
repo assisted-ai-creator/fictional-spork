@@ -922,7 +922,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Brihatsena** | Bṛhatsenā | Damayanti's nurse; also a king Drupada would summon (5.4.18) |  |  |  |
 | **Dama** | Dama | Damayanti's brother |  |  |  |
 | **Danta** | Dānta | Damayanti's brother |  |  |  |
-| **Keshini** | Keśinī | Damayanti's maid, who tests Bahuka |  |  |  |
+| **Keshini** | Keśinī | Damayanti's maid, who tests Bahuka; also the girl in Vidura's story who asks Virochana and Sudhanvan which of them is better (5.35.6) |  |  |  |
 | **Ballava** | Ballava | the name Bhima takes in Virata's court, as a cook and wrestler |  |  |  |
 | **Brihannada** | Bṛhannaḍā | the name Arjuna takes in Virata's court, as a eunuch who teaches dance |  |  | Brihannala, Vrihannala |
 | **Granthika** | Granthika | the name Nakula takes in Virata's court, as keeper of the horses; called Damagranthi by Draupadi (4.18.32) | Damagranthi |  |  |

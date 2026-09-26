@@ -400,8 +400,8 @@ Ambopākhyāna); the boundaries are read from the content of the adhyāyas.
 | 8 | Yudhishthira's Answer | 5.26–5.28 | ✅ drafted. "Give back Indraprastha"; Sañjaya: better to beg than to fight; dharma in distress; Kṛṣṇa to judge. |
 | 9 | Krishna's Answer | 5.29–5.30 | ✅ drafted. Action rules the world; the duties of the classes; the hall remembered (L-19); the two trees; Yudhiṣṭhira's greetings to all Hastināpura. |
 | 10 | Five Villages | 5.31–5.32 | ✅ drafted. The five villages (L-174); "ready for peace and ready for war"; Sañjaya's night return and rebuke. |
-| 11 | Vidura's Night Counsel | 5.33 | The sleepless king sends for Vidura. |
-| 12 | The Sleepless King | 5.34–5.35 | Vidura's counsel continues; Sudhanvan and Virocana. |
+| 11 | Vidura's Night Counsel | 5.33 | ✅ drafted. The marks of the wise and the fool; the counted sayings from one to ten; the steady king; give the Pāṇḍavas their kingdom. |
+| 12 | The Sleepless King | 5.34–5.35 | ✅ drafted. Consequences; the chariot of the body; the wounds of speech; the gods take away understanding; Virocana and Sudhanvan; the true assembly. |
 | 13 | The Swan and the Sadhyas | 5.36–5.37 | Dattātreya and the Sādhyas; Manu's seventeen fools. |
 | 14 | Vidura's Last Counsel | 5.38–5.41 | Vidura's counsel ends; he calls on Sanatsujāta. |
 | 15 | Sanatsujata | 5.42–5.45 | Death, silence, the eternal. |
