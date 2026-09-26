@@ -6,7 +6,7 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
-### Novel: Book 6, chapters 16–19: the second to fourth days
+### Novel: Book 6, chapters 16–20: the second to fourth days
 - Ch 16 *The Heron Array* (CE 6.46–49), ch 17 *Bhima and the Kalingas*
   (6.50–51) and ch 18 *The Third Day* (6.52–55): Duryodhana's reproach and
   Bhishma's promise; Arjuna fights gently; Krishna runs at Bhishma with his
@@ -20,6 +20,10 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 - Names: the rakshasa is now spelled Alambusa, from the CE *alambusa* (ch 15
   had borrowed the apsaras's spelling, Alambusha); new names for the sons of
   Dhritarashtra killed on day 4, Samyamani and Mahapadma.
+- Ch 20 *Who Krishna Is* (6.61–64): Bhishma's night answer to Duryodhana,
+  with Brahma's hymn to Vasudeva, told in full. Ledger L-195: Gandhari's
+  "where dharma is, there is victory" for eighteen days is in the CE
+  (11.13.8–9).
 
 ### Novel: Book 6, chapters 14–15: the war begins
 - Ch 14 *Yudhishthira Asks Leave* (CE 6.41): the blessings of Bhishma, Drona,
