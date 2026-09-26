@@ -40,6 +40,8 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 - Ch 26 *Ghatotkacha* (6.87–89) and ch 27 *The Eighth Day Ends* (6.90–92):
   Sanjaya and Bhishma shout that Ghatotkacha's magic is a trick; Arjuna's
   grief for Iravan; Bhima's seventeen on day 8 (L-194).
+- Ch 28 *Duryodhana's Reproach* (6.93–94). Ledger L-196: Bhishma's "five
+  golden arrows" are not in the CE or Ganguli.
 
 ### Novel: Book 6, chapters 14–15: the war begins
 - Ch 14 *Yudhishthira Asks Leave* (CE 6.41): the blessings of Bhishma, Drona,
