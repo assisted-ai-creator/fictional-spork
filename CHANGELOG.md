@@ -6,6 +6,19 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Novel: Book 5, chapters 7–10 drafted: Sanjaya's embassy
+- Ch 7 *Sanjaya's Mission* (CE 5.22–25), Ch 8 *Yudhishthira's Answer*
+  (5.26–28), Ch 9 *Krishna's Answer* (5.29–30) and Ch 10 *Five Villages*
+  (5.31–32): Dhritarashtra's instructions and fears, Yudhishthira's
+  questions, Sanjaya's counsel to give up the kingdom, dharma in distress,
+  Krishna on action and the four classes, the deeds in the hall remembered,
+  Yudhishthira's greetings to everyone in Hastinapura, the five villages,
+  and Sanjaya's return. This completes the Sanjayayana (5.22–32).
+- Ledger: L-174 (the five villages: four named in the CE, and "any fifth");
+  L-19 extended with Krishna's words at 5.29.33 and 5.58.21.
+- Names: Bahlika son of Pratipa, Babhru of Kashi. Places: Kushasthala,
+  Vrikasthala, Asandi.
+
 ### Novel: Book 5, chapters 4–6 drafted: Nahusha, his fall, the armies gather
 - Ch 4 *Nahusha* (CE 5.11–14) and Ch 5 *The Fall of Nahusha* (5.15–18):
   Shalya's tale continues, with Nahusha made king of the gods, Shachi's

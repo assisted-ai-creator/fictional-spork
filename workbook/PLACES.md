@@ -30,3 +30,6 @@ used in the novel. They are here only as orientation, marked "(trad.)".
 | Rohitaka forest | Rohitakāraṇya | One of the lands filled with Duryodhana's armies | 5.19.29 | |
 | Ahicchatra | Ahicchatra | One of the lands filled with Duryodhana's armies | 5.19.30 | |
 | Mahishmati | Māhiṣmatī | Nila's city in the south | 2.28; 5.19.23 | |
+| Kushasthala | Kuśasthala | First of the five villages Yudhishthira asks for | 5.31.19 | |
+| Vrikasthala | Vṛkasthala | One of the five villages Yudhishthira asks for; where Krishna rests on his way to Hastinapura | 5.31.19; 5.84.1 | |
+| Asandi | Āsandī | One of the five villages Yudhishthira asks for | 5.31.19 | |

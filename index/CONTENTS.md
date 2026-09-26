@@ -2,7 +2,7 @@
 
 # Contents
 
-**237 chapters, 518,861 words.** 237 drafted
+**241 chapters, 528,737 words.** 241 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -274,5 +274,9 @@
 | 4 | [Nahusha](../novel/book-05-udyoga/04-nahusha.md) | 5.11-14 | drafted | 2,324 |
 | 5 | [The Fall of Nahusha](../novel/book-05-udyoga/05-the-fall-of-nahusha.md) | 5.15-18 | drafted | 2,773 |
 | 6 | [The Armies Gather](../novel/book-05-udyoga/06-the-armies-gather.md) | 5.19-21 | drafted | 1,527 |
+| 7 | [Sanjaya's Mission](../novel/book-05-udyoga/07-sanjayas-mission.md) | 5.22-25 | drafted | 2,850 |
+| 8 | [Yudhishthira's Answer](../novel/book-05-udyoga/08-yudhishthiras-answer.md) | 5.26-28 | drafted | 2,385 |
+| 9 | [Krishna's Answer](../novel/book-05-udyoga/09-krishnas-answer.md) | 5.29-30 | drafted | 3,149 |
+| 10 | [Five Villages](../novel/book-05-udyoga/10-five-villages.md) | 5.31-32 | drafted | 1,492 |
 
-*Book 5 so far: 13,771 words.*
+*Book 5 so far: 23,647 words.*

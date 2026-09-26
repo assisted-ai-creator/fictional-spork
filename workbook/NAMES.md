@@ -880,7 +880,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kritin** | Kṛtin | king of the Shukaras, who brought elephants to the Rajasuya |  |  |  |
 | **Abhibhu** | Abhibhū | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Amshuman** | Aṃśumat | a king named among the suitors at Draupadi's bridegroom choice |  |  | Amshumat |
-| **Bahlika** | Bāhlika | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Bahlika** | Bāhlika | a king named among the suitors at Draupadi's bridegroom choice; also the great king Bahlika, son of Pratipa, whom Yudhishthira asks after; wants only peace among the Bharatas (5.23.9; 5.30.19) |  |  |  |
 | **Bhagadatta** | Bhagadatta | a mighty king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Bhagiratha** | Bhagīratha | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Bhoja** | Bhoja | a warrior paired with Ashvatthama among the suitors at Draupadi's bridegroom choice |  |  |  |
@@ -940,7 +940,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Anadhrishti** | Anādhṛṣṭi | a Vrishni hero who comes to Indraprastha with Krishna |  |  |  |
 | **Anakadundubhi** | Ānakadundubhi | Vasudeva, Krishna's father |  |  |  |
 | **Andhakabhoja** | Andhakabhoja | a Yadava chief whose two sons are named among the great warriors |  |  |  |
-| **Babhru** | Babhru | a Vrishni at the Rajasuya; his wife was carried off by Shishupala (2.42.10) |  |  |  |
+| **Babhru** | Babhru | a Vrishni at the Rajasuya; his wife was carried off by Shishupala (2.42.10); also Babhru of Kashi, who has Krishna for his brother and master (5.28.13) |  |  |  |
 | **Balarama** | Balarāma | Krishna's elder brother, the plough-bearer | Baladeva, Rama, Samkarshana, Halayudha, Kamapala | Baladeva | Balram, Balaram |
 | **Bhangakara** | Bhaṅgakāra | a Vrishni named at the Raivataka festival (the reading is uncertain) |  |  |  |
 | **Bhanu** | Bhānu | a Vrishni hero |  |  |  |

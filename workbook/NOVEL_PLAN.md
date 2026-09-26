@@ -396,10 +396,10 @@ Ambopākhyāna); the boundaries are read from the content of the adhyāyas.
 | 4 | Nahusha | 5.11–5.14 | ✅ drafted. Nahuṣa made king of the gods; he demands Śacī; Bṛhaspati will not give her up; the horse sacrifice and the sin shared out; Upaśruti and the lotus stalk. |
 | 5 | The Fall of Nahusha | 5.15–5.18 | ✅ drafted. The seers yoked; Agni finds Indra; the guardians' lordships; Agastya's curse (L-173); Śalya's promise and departure. |
 | 6 | The Armies Gather | 5.19–5.21 | ✅ drafted. Seven akṣauhiṇīs and eleven; Drupada's priest in the Kuru hall; Karṇa's retort and Bhīṣma's rebuke; Sañjaya to be sent. |
-| 7 | Sanjaya's Mission | 5.22–5.25 | Dhṛtarāṣṭra's instructions; Sañjaya at Upaplavya. |
-| 8 | Yudhishthira's Answer | 5.26–5.28 | Peace or war; Sañjaya's counsel of renunciation; Yudhiṣṭhira's reply. |
-| 9 | Krishna's Answer | 5.29–5.30 | Kṛṣṇa on duty and the dice; Sañjaya takes his leave and the messages. |
-| 10 | Five Villages | 5.31–5.32 | Yudhiṣṭhira's message; Sañjaya returns to Dhṛtarāṣṭra. |
+| 7 | Sanjaya's Mission | 5.22–5.25 | ✅ drafted. Dhṛtarāṣṭra's praise and fear of the Pāṇḍavas; Yudhiṣṭhira asks after every Kuru; Sañjaya's plea for peace. |
+| 8 | Yudhishthira's Answer | 5.26–5.28 | ✅ drafted. "Give back Indraprastha"; Sañjaya: better to beg than to fight; dharma in distress; Kṛṣṇa to judge. |
+| 9 | Krishna's Answer | 5.29–5.30 | ✅ drafted. Action rules the world; the duties of the classes; the hall remembered (L-19); the two trees; Yudhiṣṭhira's greetings to all Hastināpura. |
+| 10 | Five Villages | 5.31–5.32 | ✅ drafted. The five villages (L-174); "ready for peace and ready for war"; Sañjaya's night return and rebuke. |
 | 11 | Vidura's Night Counsel | 5.33 | The sleepless king sends for Vidura. |
 | 12 | The Sleepless King | 5.34–5.35 | Vidura's counsel continues; Sudhanvan and Virocana. |
 | 13 | The Swan and the Sadhyas | 5.36–5.37 | Dattātreya and the Sādhyas; Manu's seventeen fools. |
