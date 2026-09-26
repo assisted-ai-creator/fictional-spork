@@ -103,8 +103,8 @@ against the CE when the Book is drafted.
 | 17 | Stop! | 1.51–1.53 | ✅ drafted. The boon; Takṣaka held in the air; the charm; Śaunaka asks for the Bhārata (L-67). |
 | 18 | The Story in Brief | 1.54–1.56 | ✅ drafted. Vyāsa at the sacrifice; Vaiśaṃpāyana's summary; the praise of the work. |
 | 19 | The Fish's Daughter | 1.57 | ✅ drafted. Uparicara Vasu; Satyavatī; Parāśara; Vyāsa; the births of the heroes. |
-| 20 | The Burden of the Earth | 1.58 | ✅ drafted. The golden age after Rāma Jāmadagnya; the asuras born; the Earth to Brahmā; Hari agrees. |
-| 21 | The Families of Beings | 1.59–1.60 | ✅ drafted. The gods go down; Daksha's daughters; gods, asuras, gandharvas, apsarases; Rudras, Vasus, Bhṛgus; beasts and birds. |
+| 20 | The Burden of the Earth | 1.58 | ✅ drafted. Virāṭa's return and joy; the dice; the blow and the blood caught; Uttara's account of the god's son (4.63–64). |
+| 21 | The Families of Beings | 1.59–1.60 | ✅ drafted. The Pāṇḍavas on the royal seats; Arjuna names them; Virāṭa's apology; Uttarā given to Abhimanyu; the allies at Upaplavya; the wedding (4.65–67). **Book 4 complete.** |
 | 22 | Gods and Demons Born as Men | 1.61 | ✅ drafted. Who is whose portion: Jarāsaṃdha to Draupadī. |
 | 23 | The King Who Went Hunting | 1.62–1.64 | ✅ drafted. Duḥṣanta's reign; the hunt; Kaṇva's hermitage on the Mālinī. |
 | 24 | Shakuntala | 1.65–1.67 | ✅ drafted. Menakā and Viśvāmitra; the birds; the gāndharva marriage; Kaṇva's blessing. |

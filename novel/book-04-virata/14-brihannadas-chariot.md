@@ -33,7 +33,7 @@ fierce, hard even for the gods to face. I do not hope to go into the Bharata
 army with its terrible bows, crowded with chariots, elephants and horses,
 thronged with foot soldiers and banners. Just seeing the enemy in battle makes
 my heart shake. Drona is there, and Bhishma, Kripa, Karna, Vivimshati,
-Ashvatthaman, Vikarna, Somadatta, Bahlika, and the hero Duryodhana, the king,
+Ashvatthama, Vikarna, Somadatta, Bahlika, and the hero Duryodhana, the king,
 best of chariot fighters, glorious great archers all, all skilled in war. Just
 seeing these Kurus with their divisions drawn up, ready to strike, my hair
 stands on end and I feel faint."

@@ -116,7 +116,7 @@ and in the science of the bow. His deeds were like Indra's, and he made his own
 family great.
 
 Mahadeva and Death, desire and anger, were joined together as one, Bharata. From
-them was born the hero Ashvatthaman, the scorcher of enemies. He lived on earth,
+them was born the hero Ashvatthama, the scorcher of enemies. He lived on earth,
 lord of men, a hero of great courage with eyes like lotus petals, a destroyer of
 the enemy's side.
 
@@ -208,7 +208,7 @@ down in hard times.
 | The danavas born as kings: Jarasandha, Shishupala, Shalya and the rest | 1.61.4–37 |
 | The planet, the sons of Anayu and Kalaka | 1.61.38–53 |
 | The Krodhavashas; Devaka | 1.61.54–62 |
-| Drona, Ashvatthaman, Bhishma, Kripa, Shakuni, Satyaki, Drupada, Kritavarma, Virata | 1.61.63–76 |
+| Drona, Ashvatthama, Bhishma, Kripa, Shakuni, Satyaki, Drupada, Kritavarma, Virata | 1.61.63–76 |
 | Dhritarashtra, Vidura, Duryodhana and his brothers | 1.61.77–83 |
 | The Pandavas, Abhimanyu, Dhrishtadyumna, Shikhandi, Draupadi's sons, Karna | 1.61.84–89 |
 | Vasudeva, Baladeva, Pradyumna; the sixteen thousand | 1.61.90–94 |
@@ -231,7 +231,7 @@ down in hard times.
 * **Duryodhana** is a portion of Kali (1.61.80–81), the spirit of the losing
   throw at dice and of the last age. **Shakuni** is Dvapara (1.61.72). The
   hundred brothers are "born of Pulastya", i.e. rakshasas (1.61.82–83).
-* **Ashvatthaman** is from Mahadeva and Death, desire and anger joined (1.61.66).
+* **Ashvatthama** is from Mahadeva and Death, desire and anger joined (1.61.66).
 * **Draupadi** is a share of Shri, "for love" (*ratyartham*, 1.61.95).
 * **The mothers.** Kunti and Madri are Siddhi and Dhriti. Gandhari, "the
   daughter of Subala", is Mati (1.61.98).

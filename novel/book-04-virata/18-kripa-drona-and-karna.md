@@ -4,7 +4,7 @@ chapter: 18
 title: Kripa, Drona and Karna
 ce: [4.52-55]
 status: drafted
-summary: Arjuna fights Kripa, sparing him when his horses throw him, and leaves him without bow, chariot or driver; he greets Drona and asks him to strike first, and the two masters fight until Drona is covered in arrows and Ashvatthaman comes to his rescue; Ashvatthaman cuts Arjuna's bowstring but runs out of arrows; then Arjuna turns on Karna, taunts him with the dicing hall and his flight, and wounds him so that he leaves the field.
+summary: Arjuna fights Kripa, sparing him when his horses throw him, and leaves him without bow, chariot or driver; he greets Drona and asks him to strike first, and the two masters fight until Drona is covered in arrows and Ashvatthama comes to his rescue; Ashvatthama cuts Arjuna's bowstring but runs out of arrows; then Arjuna turns on Karna, taunts him with the dicing hall and his flight, and wounds him so that he leaves the field.
 ---
 
 # Kripa, Drona and Karna
@@ -181,9 +181,9 @@ Maghavan praised the Pandava's swiftness with weapons, and so did the gandharvas
 and apsarases who had gathered there.
 
 Then the teacher's son, leader of a host of chariots, suddenly held the Pandava
-back with a great crowd of chariots. Ashvatthaman in his heart honoured that
-deed of the great Partha's, and was also filled with great anger at him. Seized
-by rage, he ran at Partha in the battle, scattering thousands of arrows like a
+back with a great crowd of chariots. Ashvatthama in his heart honoured that deed
+of the great Partha's, and was also filled with great anger at him. Seized by
+rage, he ran at Partha in the battle, scattering thousands of arrows like a
 cloud pouring rain. The strong-armed Partha turned his horses towards Drona's
 son and gave Drona room to get away. Drona took the chance and quickly went away
 with his swift horses, his armour and banner cut, the hero wounded by the finest
@@ -198,15 +198,15 @@ shine and the wind did not blow, when the sky was thick with arrows and made one
 shadow everywhere. There was a great crackling as the two warriors struck each
 other, like bamboos burning, conqueror of enemy cities.
 
-Arjuna brought all his horses near to death, and Ashvatthaman, dazed, king,
-could not tell one direction from another. Then Drona's son, of great valour,
-seeing a tiny gap as Partha moved about, cut his bowstring with a razor arrow.
-The gods praised him when they saw that superhuman deed. Then Drona's son,
-drawing back eight bow lengths from that bull among men, struck Partha again in
-the heart with heron-feathered arrows. Then strong-armed Partha, laughing aloud,
-strung the Gandiva with a new string by force. Then Partha turned his chariot in
-a half moon and met him, like a rutting elephant, leader of a herd, meeting
-another rutting elephant.
+Arjuna brought all his horses near to death, and Ashvatthama, dazed, king, could
+not tell one direction from another. Then Drona's son, of great valour, seeing a
+tiny gap as Partha moved about, cut his bowstring with a razor arrow. The gods
+praised him when they saw that superhuman deed. Then Drona's son, drawing back
+eight bow lengths from that bull among men, struck Partha again in the heart
+with heron-feathered arrows. Then strong-armed Partha, laughing aloud, strung
+the Gandiva with a new string by force. Then Partha turned his chariot in a half
+moon and met him, like a rutting elephant, leader of a herd, meeting another
+rutting elephant.
 
 Then a great battle began between those two heroes of the earth, in the middle
 of the field, only the two of them, making the hair stand on end. All the Kurus
@@ -214,7 +214,7 @@ watched those two heroes with wonder, the great men fighting like two leaders of
 herds that have met. Those two heroes, bulls among men, struck each other with
 arrows like venomous snakes, like blazing serpents. The great Pandava had two
 heavenly quivers that never ran out, and so the hero Partha stood in the battle
-like a mountain that does not move. But Ashvatthaman's arrows, as he shot them
+like a mountain that does not move. But Ashvatthama's arrows, as he shot them
 quickly in the battle, soon ran out, and so Arjuna had the better of him.
 
 Then Karna, drawing his great bow with greater fury, twanged it, and there was a
@@ -279,8 +279,8 @@ shouted, and so did Uttara, the great chariot fighter.
 | Scene | CE |
 |-------|----|
 | Arjuna and Kripa | 4.52.1–28 |
-| Arjuna greets Drona; the fight; Ashvatthaman intervenes | 4.53.1–69 |
-| Arjuna and Ashvatthaman; Karna's challenge | 4.54.1–20 |
+| Arjuna greets Drona; the fight; Ashvatthama intervenes | 4.53.1–69 |
+| Arjuna and Ashvatthama; Karna's challenge | 4.54.1–20 |
 | Arjuna and Karna; Karna leaves the field | 4.55.1–25 |
 
 **Divergences.**

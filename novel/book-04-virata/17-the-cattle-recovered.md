@@ -140,7 +140,7 @@ eternal dharma. If Drona strikes my body first, then I shall strike him, and he
 will not be angry.
 
 "Not far from him, the one on whose banner a bow is seen is the teacher's son,
-Ashvatthaman, the great chariot fighter. He is always to be honoured by me, and
+Ashvatthama, the great chariot fighter. He is always to be honoured by me, and
 by all who bear weapons. When you reach his chariot, turn aside again and again.
 Now see the one in the army of chariots, clad in golden armour, standing with a
 third of the best of the army. On his banner is an elephant, set on a golden
@@ -221,7 +221,7 @@ still.
 * **Greeting the elders.** A rejected line (\*872) has Arjuna greet Drona, Kripa and Bhishma with arrows. In the CE it is Drona who says that two arrows fell at his feet and two passed by his ears (4.48.6–7).
 * **Karna's fight.** A rejected appendix passage (@44) adds a longer exchange between Arjuna and Karna. Not narrated.
 * **Uttara wants to go home.** A rejected line (\*902) has Uttara urge Arjuna to go back to the city now the cattle are won. Not narrated.
-* **Ashvatthaman and Karna.** A rejected appendix passage (@46) has Ashvatthaman taunt Karna. Not narrated.
+* **Ashvatthama and Karna.** A rejected appendix passage (@46) has Ashvatthama taunt Karna. Not narrated.
 * Other rejected lines (\*871, \*873–\*901, \*903–\*918, @43, @45) add details. Not narrated.
 
 **Choices.**

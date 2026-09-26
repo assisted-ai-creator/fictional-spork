@@ -18,6 +18,16 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the lament verses found only in the vulgate are left out; the number of
   snakes at 1.3.142 is read as 28,800 (the vulgate has 28,008).
 
+### Novel: Book 4 complete; chapters 20–21 drafted: Virata's dice; the Pandavas revealed
+- Ch 20 *Virata's Dice* (CE 4.63–64): the blow with the die and the blood
+  caught in a bowl; Uttara's account of the god's son. Ch 21 *The Pandavas
+  Revealed* (4.65–67): the brothers on the royal seats, Arjuna's declaration,
+  Virata's apology, the princess Uttara given to Abhimanyu, the wedding.
+  Book 4 now covers all 67 adhyayas of the Virata Parva.
+- Ledger: L-170 (the blood in the bowl is CE).
+- Spelling: "Ashvatthaman" normalised to the house form "Ashvatthama" in
+  Books 1 and 4, and added to the flag list.
+
 ### Novel: Book 4, chapter 19 drafted: the stupefying weapon
 - Ch 19 *The Stupefying Weapon* (CE 4.56–62): Arjuna routs the Kaurava army,
   fights Bhishma, taunts Duryodhana back into battle, stupefies the leaders

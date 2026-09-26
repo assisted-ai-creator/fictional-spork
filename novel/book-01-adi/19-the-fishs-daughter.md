@@ -208,8 +208,8 @@ Kritavarma, devoted to Narayana, were born from Satyaka and Hridika.
 
 The seed of the fierce ascetic, the great seer Bharadvaja, fell into a trough, a
 *droni*, and grew there. From it Drona was born. From Gautama Sharadvat, twins
-were born from a clump of reeds: the mother of Ashvatthaman, and mighty Kripa.
-And Ashvatthaman, the best of those who bear weapons, was born from Drona.
+were born from a clump of reeds: the mother of Ashvatthama, and mighty Kripa.
+And Ashvatthama, the best of those who bear weapons, was born from Drona.
 
 In the same way Dhrishtadyumna, as bright as fire itself, was born from the fire
 at a great sacrifice, a hero with a bow, mighty, born to destroy Drona. And in

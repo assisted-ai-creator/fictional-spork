@@ -514,7 +514,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Purujit** | Purujit | Kunti's brother, Yudhishthira's maternal uncle |  |  |  |
 | **Ambalika** | Ambālikā | princess of Kashi; Vichitravirya's wife; mother of Pandu |  |  |  |
 | **Ambika** | Ambikā | princess of Kashi; Vichitravirya's wife; mother of Dhritarashtra. The Kausalya of Rama's story, Rama's mother (3.258.8), is a different woman | Kausalya |  |  |
-| **Ashvatthama** | Aśvatthāman | son of Drona and Kripi | Drauni | Drauni | Ashwatthama, Aswatthama, Ashwathama, Ashvathama |
+| **Ashvatthama** | Aśvatthāman | son of Drona and Kripi | Drauni | Drauni | Ashwatthama, Aswatthama, Ashwathama, Ashvathama, Ashvatthaman |
 | **Bhishma** | Bhīṣma | Devavrata, son of Shantanu and Ganga, who vowed never to marry or rule | Devavrata, Gangeya, Shantanava | Gangeya, Devavrata | Bheeshma, Bhisma, Bhishm |
 | **Bhurishravas** | Bhūriśravas | son of Somadatta |  |  |  |
 | **Chitrangada** | Citrāṅgada | elder son of Shantanu and Satyavati. The same name belongs to Chitravahana's daughter of Manalura, Arjuna's wife and mother of Babhruvahana (1.207.15), and to a suitor king (1.177.20) |  |  |  |

@@ -385,7 +385,7 @@ my victory."
 * 4.60.6 *ājamīḍhau*: "of Ajamidha's line".
 * 4.60.11 and 4.60.13 *sahasā*: "suddenly". Also at 4.61.28.
 * 4.60.18: Arjuna plays on the name Duryodhana, "hard to fight".
-* 4.61.13: white for Drona and Kripa, yellow for Karna, blue for Ashvatthaman and Duryodhana.
+* 4.61.13: white for Drona and Kripa, yellow for Karna, blue for Ashvatthama and Duryodhana.
 * 4.61.14: Bhishma alone is not stupefied.
 * 4.61.26 *pratipūjya mūrdhnā*: "by bowing his head".
 * 4.62.11: Uttara, at Arjuna's word, claims the victory as his own. This keeps the disguise.

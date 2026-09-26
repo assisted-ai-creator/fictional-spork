@@ -4,7 +4,7 @@ chapter: 16
 title: The Kaurava Council
 ce: [4.42-47]
 status: drafted
-summary: Facing Arjuna, the Kaurava leaders quarrel; Duryodhana claims the Pandavas have been found out before their time and sneers at Drona's praise of Arjuna; Karna boasts that he will kill Arjuna alone; Kripa and Ashvatthaman rebuke him, recalling Arjuna's deeds and the dicing; Bhishma makes peace and Duryodhana begs Drona's pardon; Bhishma then reckons the years, showing that the thirteen years are complete, and sends Duryodhana home with a quarter of the army and the cattle while the rest stand to fight.
+summary: Facing Arjuna, the Kaurava leaders quarrel; Duryodhana claims the Pandavas have been found out before their time and sneers at Drona's praise of Arjuna; Karna boasts that he will kill Arjuna alone; Kripa and Ashvatthama rebuke him, recalling Arjuna's deeds and the dicing; Bhishma makes peace and Duryodhana begs Drona's pardon; Bhishma then reckons the years, showing that the thirteen years are complete, and sends Duryodhana home with a quarter of the army and the cattle while the rest stand to fight.
 ---
 
 # The Kaurava Council
@@ -149,12 +149,11 @@ the danavas fought Vasava."
 
 ---
 
-"The cattle have not been won yet," said Ashvatthaman, "nor have they crossed
-the border, nor reached Hastinapura, and you, Karna, are boasting. Men who have
-won many battles and gained great wealth and conquered the enemy's land say
-nothing of their own manhood. Fire cooks without a word. The sun shines in
-silence. The earth bears the worlds silently, with all that moves and does not
-move.
+"The cattle have not been won yet," said Ashvatthama, "nor have they crossed the
+border, nor reached Hastinapura, and you, Karna, are boasting. Men who have won
+many battles and gained great wealth and conquered the enemy's land say nothing
+of their own manhood. Fire cooks without a word. The sun shines in silence. The
+earth bears the worlds silently, with all that moves and does not move.
 
 "The wise have laid down the work of the four classes, by which each may gain
 wealth and do no wrong. A brahmin, having learned the Vedas, should sacrifice
@@ -222,7 +221,7 @@ Let us all join together and fight the son of the Punisher of Paka, who has
 come. Of the troubles of an army that the wise have named, division is the
 chief, and the wise think it the worst."
 
-"Let the teacher himself forgive, then," said Ashvatthaman. "Let peace be made
+"Let the teacher himself forgive, then," said Ashvatthama. "Let peace be made
 here. When the teacher was blamed, what I said was said in anger."
 
 Then Duryodhana asked Drona's pardon, Bharata, together with Karna, Bhishma and
@@ -270,8 +269,8 @@ what belongs to war be arranged quickly."
 "Hear what I think about this, if you like it," said Bhishma. "Take a quarter of
 the army quickly and go towards the city. Let another quarter take the cattle
 and go. We shall fight the Pandava with half the army, or the Matsya if he comes
-back, or even Shatakratu. Let the teacher stand in the middle and Ashvatthaman
-on the left. Let wise Kripa, son of Sharadvat, guard the right flank. Let Karna,
+back, or even Shatakratu. Let the teacher stand in the middle and Ashvatthama on
+the left. Let wise Kripa, son of Sharadvat, guard the right flank. Let Karna,
 the suta's son, stand in front in his armour. I shall stand behind the whole
 army and protect it."
 
@@ -285,7 +284,7 @@ army and protect it."
 | Duryodhana: the year not over; attack on Drona | 4.42.1–31 |
 | Karna's boast | 4.43.1–21 |
 | Kripa's rebuke | 4.44.1–22 |
-| Ashvatthaman's rebuke | 4.45.1–26 |
+| Ashvatthama's rebuke | 4.45.1–26 |
 | Bhishma makes peace; Drona pardoned | 4.46.1–18 |
 | Bhishma's reckoning; the battle order | 4.47.1–19 |
 
@@ -294,7 +293,7 @@ army and protect it."
 * **Found out too soon?** The CE settles this in Bhishma's reckoning: with the extra months, the thirteen years are complete, with five months and twelve nights over (4.47.3–5), and the narrator has already said the time had passed (4.30.2–3). Rejected lines (\*854–\*855) add that the year ended the day before, and give a rule for the extra month. See L-168.
 * **Not even a village.** A rejected line (\*859) has Duryodhana refuse even a village, an army, a slave girl or the smallest thing. In the CE he says only, "I shall not give the Pandavas the kingdom" (4.47.15).
 * **Kripa's list.** Rejected lines (\*832–\*834) add Arjuna's fight with Shiva as a hunter, his winning the great weapon from Indra and his winning of Draupadi. Not narrated.
-* **Karna's retort.** A rejected appendix passage (@42) gives Karna an angry answer to Ashvatthaman. Not narrated.
+* **Karna's retort.** A rejected appendix passage (@42) gives Karna an angry answer to Ashvatthama. Not narrated.
 * Other rejected lines (\*803–\*831, \*835–\*853, \*856–\*858, \*860–\*870, @41) add details. Not narrated.
 
 **Choices.**
@@ -310,5 +309,5 @@ army and protect it."
 * 4.45.8 *vaitaṃsikaḥ*: "a bird-catcher", one who lives by snares.
 * 4.45.11 *ekavastrā … rajasvalā*: "in a single garment, in her season", as at 2.60.
 * 4.45.23 *kṛta*, *dvāpara*: the throws of the dice (see Book 2).
-* 4.46.8–9: Bhishma's praise of Drona and Ashvatthaman is kept.
+* 4.46.8–9: Bhishma's praise of Drona and Ashvatthama is kept.
 * 4.47.3–4: Bhishma's reckoning is given as he says it. Two months are added every five years, and the thirteen years yield five months and twelve nights over.
