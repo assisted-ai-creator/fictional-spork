@@ -6,6 +6,15 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Novel: Book 5, chapters 50–52 drafted: Amba and Rama
+- Ch 50 *Amba* (CE 5.171–174): Amba's release, Shalva's refusal, her resolve
+  against Bhishma, and her grandfather Hotravahana. Ch 51 *Rama Takes Up Amba's
+  Cause* (5.175–178). Ch 52 *Bhishma and Rama* (5.179–183): the first days of
+  the twenty-three-day fight.
+- Ledger: L-186 (Amba never asks Bhishma to marry her), L-187 (twenty-three
+  days).
+- Names: Amba, Shalva, Shaikhavatya, Hotravahana, Akritavrana.
+
 ### Novel: Book 5, chapters 48–49 drafted: the Rathatiratha
 - Ch 48 *Chariot Fighters* (CE 5.163–166): Bhishma's rating of the Kaurava
   warriors, Karna rated half a chariot fighter and their quarrel, and the Pandava

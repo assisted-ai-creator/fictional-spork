@@ -194,7 +194,7 @@
    "name": "Amba",
    "iast": "Ambā",
    "group": "Kashi",
-   "who": "eldest princess of Kashi, carried off by Bhishma",
+   "who": "eldest princess of Kashi, carried off by Bhishma; also eldest daughter of the king of Kashi; let go to Shalva, refused by him; seeks Rama's help against Bhishma (5.171.4)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -1948,7 +1948,7 @@
    "name": "Shalva",
    "iast": "Śālva",
    "group": "King",
-   "who": "king of the Shalvas and lord of Saubha, whom Amba had chosen; beaten by Bhishma at Varanasi; a Shalva, lord of Saubha, also attacks Dvaraka and is killed by Krishna (3.15–22). The CE calls both 'lord of Saubha' but does not say they are the same man",
+   "who": "king of the Shalvas and lord of Saubha, whom Amba had chosen; beaten by Bhishma at Varanasi; a Shalva, lord of Saubha, also attacks Dvaraka and is killed by Krishna (3.15–22). The CE calls both 'lord of Saubha' but does not say they are the same man; also king of the Shalvas and of Saubha, whom Amba chose; refuses her after Bhishma carried her off (5.171.6)",
    "aka": [
     "lord of Saubha"
    ],
@@ -8004,7 +8004,7 @@
    "name": "Hotravahana",
    "iast": "Hotravāhana",
    "group": "Seer",
-   "who": "a seer who honours Yudhishthira at Dvaitavana",
+   "who": "a seer who honours Yudhishthira at Dvaitavana; also a royal seer of the Srinjaya line, Amba's mother's father, Rama's friend (5.174.14)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -8716,7 +8716,7 @@
    "name": "Akritavrana",
    "iast": "Akṛtavraṇa",
    "group": "Seer",
-   "who": "a follower of Rama Jamadagnya, who tells his story on Mount Mahendra",
+   "who": "a follower of Rama Jamadagnya, who tells his story on Mount Mahendra; also Rama Jamadagnya's dear companion, who drives his chariot against Bhishma (5.175.6)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -11937,6 +11937,16 @@
    "dialogue": [],
    "flag": [],
    "ref": "5.168.21"
+  },
+  {
+   "name": "Shaikhavatya",
+   "iast": "Śaikhāvatya",
+   "group": "Seer",
+   "who": "an old ascetic of the forest ashram who shelters Amba",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.173.11"
   }
  ],
  "not_vyasa": [

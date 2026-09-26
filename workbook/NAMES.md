@@ -478,7 +478,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Dantavakra** | Dantavakra | a king allied to Jarasandha |  |  |  |
 | **Karusha** | Karūṣa | a king allied to Jarasandha; Shishupala carried off Bhadra of Vaishali for Karusha (2.42.11) |  |  |  |
 | **Vakra** | Vakra | lord of the Karushas who fights with magic, Jarasandha's follower |  |  |  |
-| **Amba** | Ambā | eldest princess of Kashi, carried off by Bhishma |  |  |  |
+| **Amba** | Ambā | eldest princess of Kashi, carried off by Bhishma; also eldest daughter of the king of Kashi; let go to Shalva, refused by him; seeks Rama's help against Bhishma (5.171.4) |  |  |  |
 | **Subandhu** | Subandhu | king of Kashi, defeated by Bhima |  |  |  |
 | **Suvarnavarman** | Suvarṇavarman | king of Kashi, Vapushtama's father |  |  |  |
 | **Bahushali** | Bāhuśālin | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  | Bahushalin |
@@ -598,7 +598,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Samgramajit** | Saṃgrāmajit | a king present in Yudhishthira's hall |  |  |  |
 | **Satyaratha** | Satyaratha | eldest of the five Trigarta brothers, on the Kaurava side |  |  |  |
 | **Shakuntala** | Śakuntalā | daughter of Vishvamitra and Menaka, raised by Kanva; wife of Dushyanta, mother of Bharata |  |  | Sakuntala, Shakuntalaa |
-| **Shalva** | Śālva | king of the Shalvas and lord of Saubha, whom Amba had chosen; beaten by Bhishma at Varanasi; a Shalva, lord of Saubha, also attacks Dvaraka and is killed by Krishna (3.15–22). The CE calls both 'lord of Saubha' but does not say they are the same man | lord of Saubha |  |  |
+| **Shalva** | Śālva | king of the Shalvas and lord of Saubha, whom Amba had chosen; beaten by Bhishma at Varanasi; a Shalva, lord of Saubha, also attacks Dvaraka and is killed by Krishna (3.15–22). The CE calls both 'lord of Saubha' but does not say they are the same man; also king of the Shalvas and of Saubha, whom Amba chose; refuses her after Bhishma carried her off (5.171.6) | lord of Saubha |  |  |
 | **Shama** | Śama | one of eighteen kings who destroyed their own families, born among the Nandivegas (named by Bhima) |  |  |  |
 | **Shanta** | Śāntā | daughter of Lomapada, wife of Rishyashringa |  |  |  |
 | **Sharmishtha** | Śarmiṣṭhā | daughter of the asura king Vrishaparvan; Devayani's rival and servant; mother of Druhyu, Anu and Puru |  |  | Sarmishtha, Sharmista |
@@ -846,7 +846,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Agastya** | Agastya | seer who hunted during a sacrifice and consecrated the deer to the gods; also the seer Nahusha touched with his foot, who cursed him to fall as a snake for ten thousand years (5.17.11–15) |  |  |  |
 | **Agniveshya** | Agniveśya | sage who received the weapon of Fire from Bharadvaja and taught Drona |  |  |  |
 | **Ahalya** | Ahalyā | Gautama's wife, whose lake is a ford in Gautama's forest |  |  |  |
-| **Akritavrana** | Akṛtavraṇa | a follower of Rama Jamadagnya, who tells his story on Mount Mahendra |  |  |  |
+| **Akritavrana** | Akṛtavraṇa | a follower of Rama Jamadagnya, who tells his story on Mount Mahendra; also Rama Jamadagnya's dear companion, who drives his chariot against Bhishma (5.175.6) |  |  |  |
 | **Akshamala** | Akṣamālā | Vasishtha's wife, in the list of couples |  |  |  |
 | **Animandavya** | Aṇīmāṇḍavya | the seer impaled as a thief who cursed Dharma to be born as Vidura | Mandavya |  | Animandavya Rishi |
 | **Apsuhomya** | Apsuhomya | a seer present in Yudhishthira's hall |  |  |  |
@@ -892,7 +892,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Haribabhru** | Haribabhru | a seer present in Yudhishthira's hall |  |  |  |
 | **Harimedhas** | Harimedhas | father of Dhvajavati |  |  |  |
 | **Harita** | Hārīta | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
-| **Hotravahana** | Hotravāhana | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
+| **Hotravahana** | Hotravāhana | a seer who honours Yudhishthira at Dvaitavana; also a royal seer of the Srinjaya line, Amba's mother's father, Rama's friend (5.174.14) |  |  |  |
 | **Jaimini** | Jaimini | a seer present in Yudhishthira's hall |  |  |  |
 | **Jamadagni** | Jamadagni | a great Bhargava seer, father of Rama Jamadagnya |  |  |  |
 | **Janghabandhu** | Jaṅghābandhu | a seer present in Yudhishthira's hall |  |  |  |
@@ -966,6 +966,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sarika** | Sārika | a seer present in Yudhishthira's hall |  |  |  |
 | **Sarpamali** | Sarpamālin | a seer present in Yudhishthira's hall |  |  | Sarpamalin |
 | **Savarni** | Sāvarṇi | a seer present in Yudhishthira's hall; also set a boundary in the south that the sun does not pass (5.107.11) |  |  |  |
+| **Shaikhavatya** | Śaikhāvatya | an old ascetic of the forest ashram who shelters Amba |  |  |  |
 | **Shakradhanus** | Śakradhanus | a great seer born of the sun, known as the god Kapila |  |  |  |
 | **Shakti** | Śakti | Vasishtha's eldest son, eaten by Kalmashapada; father of Parashara | Shaktri |  | Sakti |
 | **Shalihotra** | Śālihotra | the sage of horse lore |  |  |  |

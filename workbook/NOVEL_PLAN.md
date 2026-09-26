@@ -439,9 +439,9 @@ Ambopākhyāna); the boundaries are read from the content of the adhyāyas.
 | 47 | The Answer to Uluka | 5.160–5.162 | ✅ drafted. Arjuna swears to fell Bhīṣma first; Dhṛṣṭadyumna matches the warriors; Bhīṣma begins counting the chariot fighters. |
 | 48 | Chariot Fighters | 5.163–5.166 | ✅ drafted. Bhīṣma rates the Kaurava warriors; Aśvatthāman loves life too much; Karṇa "half a chariot fighter" (L-184); their quarrel; the Pāṇḍava brothers and Arjuna. |
 | 49 | Bhishma Ranks the Pandavas | 5.167–5.170 | ✅ drafted. The rest of the Pāṇḍava side; Bhīṣma will not fight Śikhaṇḍin, born a woman (L-185); the three princesses of Kāśi carried off. |
-| 50 | Amba | 5.171–5.174 | The three princesses; Ambā sent to Śālva and refused. |
-| 51 | Rama Takes Up Amba's Cause | 5.175–5.178 | Hotravāhana and Akṛtavraṇa; Rāma Jāmadagnya summons Bhīṣma. |
-| 52 | Bhishma and Rama | 5.179–5.183 | The duel at Kurukṣetra. |
+| 50 | Amba | 5.171–5.174 | ✅ drafted. Ambā let go; Śālva refuses her; she blames Bhīṣma; the ascetics' counsel; Hotravāhana sends her to Rāma. |
+| 51 | Rama Takes Up Amba's Cause | 5.175–5.178 | ✅ drafted. Akṛtavraṇa; Ambā asks Rāma to kill Bhīṣma (not to wed her: L-186); Rāma's vow; "take her back"; Bhīṣma accepts the challenge. |
+| 52 | Bhishma and Rama | 5.179–5.183 | ✅ drafted. Bhīṣma in white; Gaṅgā pleads; Rāma's chariot of the Vedas; days of arrows and divine weapons; the eight brahmins; twenty-three days (L-187). |
 | 53 | The Sleeping Weapon | 5.184–5.187 | The dream; the prasvāpa weapon withheld; the duel ends. |
 | 54 | Amba's Vow | 5.188–5.191 | Ambā's austerities; Śiva's boon; the girl raised as a son. |
 | 55 | Shikhandin | 5.192–5.193 | The yakṣa Sthūṇākarṇa exchanges sex with Śikhaṇḍinī. |
