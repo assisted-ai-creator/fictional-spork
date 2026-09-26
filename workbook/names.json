@@ -2406,7 +2406,7 @@
    "name": "Ekalavya",
    "iast": "Ekalavya",
    "group": "Nishada",
-   "who": "son of the Nishada king Hiranyadhanus; taught himself before a clay Drona and gave his thumb",
+   "who": "son of the Nishada king Hiranyadhanus; taught himself before a clay Drona and gave his thumb; also killed by Krishna, as Arjuna says (5.47.71; also 16.7.10) (5.47.71)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -3308,7 +3308,7 @@
    "name": "Rukmini",
    "iast": "Rukmiṇī",
    "group": "Vrishni",
-   "who": "mother of a son of Krishna's line named at Draupadi's bridegroom choice",
+   "who": "mother of a son of Krishna's line named at Draupadi's bridegroom choice; also Krishna's wife, of the Bhojas, whom he carried off in a single chariot (5.47.68) (5.47.68)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -5785,7 +5785,7 @@
    "name": "Sharabha",
    "iast": "Śarabha",
    "group": "Catalogue",
-   "who": "named in Yama's hall (2.8)",
+   "who": "named in Yama's hall (2.8); also brother of the king of the Chedis, who fights for the Pandavas (5.49.43)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -7092,7 +7092,7 @@
    "name": "Mura",
    "iast": "Mura",
    "group": "Yavana",
-   "who": "one of two Yavana lords ruled by Bhagadatta",
+   "who": "one of two Yavana lords ruled by Bhagadatta; also the asura Mura, killed by Krishna on the way to Naraka (5.47.77)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -10494,6 +10494,56 @@
    "dialogue": [],
    "flag": [],
    "ref": "5.41.2"
+  },
+  {
+   "name": "Karakarsha",
+   "iast": "Karakarṣa",
+   "group": "Chedi",
+   "who": "a Chedi warrior named with Sharabha on the Pandavas' side (5.49.43)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.49.43"
+  },
+  {
+   "name": "Sudarshana",
+   "iast": "Sudarśana",
+   "group": "King",
+   "who": "a king, \"the pride of the gods\", whom Krishna freed from captivity (5.47.69)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.47.69"
+  },
+  {
+   "name": "Nagnajit",
+   "iast": "Nagnajit",
+   "group": "King",
+   "who": "a king whose sons Krishna defeated among the Gandharas (5.47.69)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.47.69"
+  },
+  {
+   "name": "Duhsaha",
+   "iast": "Duḥsaha",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, present in the Kuru hall (5.46.8)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.46.8"
+  },
+  {
+   "name": "Kalakhanjas",
+   "iast": "Kālakhañja",
+   "group": "Demon",
+   "who": "asuras killed by Nara in the war of the gods (5.48.14)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.48.14"
   }
  ],
  "not_vyasa": [

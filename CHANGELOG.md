@@ -6,6 +6,16 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Novel: Book 5, chapters 16–17 drafted: Arjuna's message; Nara and Narayana
+- Ch 16 *Arjuna's Message* (CE 5.46–47): the kings gather at dawn and Sanjaya
+  gives Arjuna's message in full, with its refrain "then the son of
+  Dhritarashtra will repent the war", the brahmin's prophecy, Krishna's
+  deeds and the omens. Ch 17 *Nara and Narayana* (5.48–49): Bhishma on Nara
+  and Narayana, his quarrel with Karna, Sanjaya's faint, and the Pandava
+  champions.
+- Ledger: L-175 (Krishna killed Ekalavya, CE 5.47.71, 16.7.10).
+- Names: Sharabha, Karakarsha, Sudarshana, Nagnajit, Duhsaha and others.
+
 ### Novel: Book 5, chapter 15 drafted: Sanatsujata
 - Ch 15 *Sanatsujata* (CE 5.42–45): the Sanatsujatiya, rendered from the CE
   verses without the commentary that fills Ganguli's version. Notes list the

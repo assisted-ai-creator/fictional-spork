@@ -2,7 +2,7 @@
 
 # Contents
 
-**246 chapters, 546,506 words.** 246 drafted
+**248 chapters, 552,303 words.** 248 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -283,5 +283,7 @@
 | 13 | [The Swan and the Sadhyas](../novel/book-05-udyoga/13-the-swan-and-the-sadhyas.md) | 5.36-37 | drafted | 3,709 |
 | 14 | [Vidura's Last Counsel](../novel/book-05-udyoga/14-viduras-last-counsel.md) | 5.38-41 | drafted | 4,032 |
 | 15 | [Sanatsujata](../novel/book-05-udyoga/15-sanatsujata.md) | 5.42-45 | drafted | 3,594 |
+| 16 | [Arjuna's Message](../novel/book-05-udyoga/16-arjunas-message.md) | 5.46-47 | drafted | 3,759 |
+| 17 | [Nara and Narayana](../novel/book-05-udyoga/17-nara-and-narayana.md) | 5.48-49 | drafted | 2,038 |
 
-*Book 5 so far: 41,416 words.*
+*Book 5 so far: 47,213 words.*
