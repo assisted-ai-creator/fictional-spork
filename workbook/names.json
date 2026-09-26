@@ -3126,7 +3126,7 @@
    "name": "Dridhadhanva",
    "iast": "Dṛḍhadhanvan",
    "group": "Suitor",
-   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice; also a fine chariot fighter on the Pandava side (5.168.25)",
    "aka": [],
    "dialogue": [],
    "flag": [
@@ -11857,6 +11857,86 @@
    "dialogue": [],
    "flag": [],
    "ref": "5.155.7"
+  },
+  {
+   "name": "Satyaratha",
+   "iast": "Satyaratha",
+   "group": "King",
+   "who": "eldest of the five Trigarta brothers, on the Kaurava side",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.163.11"
+  },
+  {
+   "name": "Alayudha",
+   "iast": "Alāyudha",
+   "group": "Rakshasa",
+   "who": "a rakshasa lord on the Kaurava side, with an old feud against the Pandavas",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.164.33"
+  },
+  {
+   "name": "Kshatradharman",
+   "iast": "Kṣatradharman",
+   "group": "Panchala",
+   "who": "son of Dhrishtadyumna, rated half a chariot fighter by Bhishma",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.168.7"
+  },
+  {
+   "name": "Amitaujas",
+   "iast": "Amitaujas",
+   "group": "Panchala",
+   "who": "a Panchala great chariot fighter on the Pandava side",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.168.10"
+  },
+  {
+   "name": "Kashika",
+   "iast": "Kāśika",
+   "group": "King",
+   "who": "a king on the Pandava side named by Bhishma",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.168.14"
+  },
+  {
+   "name": "Vyaghradatta",
+   "iast": "Vyāghradatta",
+   "group": "King",
+   "who": "a splendid chariot fighter on the Pandava side",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.168.18"
+  },
+  {
+   "name": "Krodhahantri",
+   "iast": "Krodhahantṛ",
+   "group": "King",
+   "who": "another name of Senabindu, on the Pandava side",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.168.19"
+  },
+  {
+   "name": "Kashya",
+   "iast": "Kāśya",
+   "group": "King",
+   "who": "the king of Kashi on the Pandava side, a chariot fighter of single worth",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.168.21"
   }
  ],
  "not_vyasa": [

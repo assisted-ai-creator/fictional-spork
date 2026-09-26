@@ -6,6 +6,15 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Novel: Book 5, chapters 48–49 drafted: the Rathatiratha
+- Ch 48 *Chariot Fighters* (CE 5.163–166): Bhishma's rating of the Kaurava
+  warriors, Karna rated half a chariot fighter and their quarrel, and the Pandava
+  brothers. Ch 49 *Bhishma Ranks the Pandavas* (5.167–170): the rest of the
+  Pandava side, Bhishma's refusal to fight Shikhandi, and the start of the story
+  of Amba.
+- Ledger: L-184 (Karna as *ardharatha*), L-185 (Shikhandi).
+- Names: the chariot fighters named in the count.
+
 ### Novel: Book 5, chapters 45–47 drafted: the armies ready, and Uluka's embassy
 - Ch 45 *Bhishma Takes Command* (CE 5.152–155): the eleven Kaurava armies,
   Bhishma's terms, Karna standing aside, Dhrishtadyumna and Arjuna as the Pandava

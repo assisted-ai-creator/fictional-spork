@@ -559,12 +559,15 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kalmashapada** | Kalmāṣapāda | Ikshvaku king cursed by Shakti to eat men; freed by Vasishtha; father (by Vasishtha) of Ashmaka | Saudasa, Mitrasaha |  |  |
 | **Kamala** | Kamala | a king present in Yudhishthira's hall |  |  |  |
 | **Kampana** | Kampana | a king present in Yudhishthira's hall |  |  |  |
+| **Kashika** | Kāśika | a king on the Pandava side named by Bhishma |  |  |  |
+| **Kashya** | Kāśya | the king of Kashi on the Pandava side, a chariot fighter of single worth |  |  |  |
 | **Ketuman** | Ketumat | a king present in Yudhishthira's hall |  |  | Ketumat |
 | **Kotikashya** | Koṭikāśya | son of King Suratha, a Shibi prince (Shaibya) in Jayadratha's company, who questions Draupadi; killed by Bhima | Kotika, Shaibya |  |  |
 | **Kratha** | Kratha | an overlord of kings defeated by Bhima; also a king Krishna beat at Jaruthi (3.13.27); also a monkey chief; also a king Drupada would summon, with "Kratha's son" (5.4.16, 21) |  |  |  |
 | **Krishashva** | Kṛśāśva | a royal seer watching the battle from Indra's sky chariot |  |  |  |
 | **Kritakshana** | Kṛtakṣaṇa | a king present in Yudhishthira's hall |  |  |  |
 | **Kritavirya** | Kṛtavīrya | king who enriched the Bhrigus; father of Arjuna Kartavirya |  |  |  |
+| **Krodhahantri** | Krodhahantṛ | another name of Senabindu, on the Pandava side |  |  |  |
 | **Kshemajit** | Kṣemajit | a king present in Yudhishthira's hall |  |  |  |
 | **Kshemaka** | Kṣemaka | a king present in Yudhishthira's hall |  |  |  |
 | **Kshemankara** | Kṣemaṃkara | a king of the Trigartas in Jayadratha's company; killed by Nakula |  |  |  |
@@ -593,6 +596,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Rita** | Ṛta | a king at the Rajasuya (the reading is uncertain) |  |  |  |
 | **Sahaja** | Sahaja | one of eighteen kings who destroyed their own families, born among the Chedis and Matsyas (named by Bhima) |  |  |  |
 | **Samgramajit** | Saṃgrāmajit | a king present in Yudhishthira's hall |  |  |  |
+| **Satyaratha** | Satyaratha | eldest of the five Trigarta brothers, on the Kaurava side |  |  |  |
 | **Shakuntala** | Śakuntalā | daughter of Vishvamitra and Menaka, raised by Kanva; wife of Dushyanta, mother of Bharata |  |  | Sakuntala, Shakuntalaa |
 | **Shalva** | Śālva | king of the Shalvas and lord of Saubha, whom Amba had chosen; beaten by Bhishma at Varanasi; a Shalva, lord of Saubha, also attacks Dvaraka and is killed by Krishna (3.15–22). The CE calls both 'lord of Saubha' but does not say they are the same man | lord of Saubha |  |  |
 | **Shama** | Śama | one of eighteen kings who destroyed their own families, born among the Nandivegas (named by Bhima) |  |  |  |
@@ -625,6 +629,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vivardhana** | Vivardhana | a king present in Yudhishthira's hall |  |  |  |
 | **Vriddhakshatra** | Vṛddhakṣatra | father of Jayadratha |  |  |  |
 | **Vrishaparvan** | Vṛṣaparvan | king of the asuras, Shukra's patron, father of Sharmishtha; also a royal seer whose hermitage lies below Gandhamadana, where the Pandavas leave their brahmins (3.155.17–25); the text does not say whether he is the same |  |  | Vrishaparva |
+| **Vyaghradatta** | Vyāghradatta | a splendid chariot fighter on the Pandava side |  |  |  |
 | **Yadu** | Yadu | Yayati's eldest son, by Devayani; ancestor of the Yadavas |  |  |  |
 | **Yauvanashva** | Yauvanāśva | an emperor of old who gave up taxes; he laid a mace at Bindusaras |  |  |  |
 | **Yayati** | Yayāti | son of Nahusha, husband of Devayani and Sharmishtha, who traded his old age for Puru's youth |  |  | Yayathi |
@@ -737,9 +742,11 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Pushkara** | Puṣkara | Nala's brother, who won Nala's kingdom from him at dice; also the lotus-eyed son of Varuna, husband of Soma's daughter Jyotsnakali (5.96.12) |  |  |  |
 | **Varshneya** | Vārṣṇeya | Nala's charioteer, who took his children to Vidarbha and then served Rituparna. Not Krishna, who is also called Varshneya |  |  |  |
 | **Prakarakarna** | Prākārakarṇa | the long-lived owl of the Himalaya (3.191.4) |  |  |  |
+| **Amitaujas** | Amitaujas | a Panchala great chariot fighter on the Pandava side |  |  |  |
 | **Dhrishtadyumna** | Dhṛṣṭadyumna | Drupada's son, born from the sacrificial fire to kill Drona | Parshata |  | Dhristadyumna, Drishtadyumna |
 | **Drupada** | Drupada | king of the Panchalas, Drona's childhood friend and enemy | Yajnasena |  |  |
 | **Kshatradeva** | Kṣatradeva | a hero on the Pandavas' side, named after Shikhandi |  |  |  |
+| **Kshatradharman** | Kṣatradharman | son of Dhrishtadyumna, rated half a chariot fighter by Bhishma |  |  |  |
 | **Prishata** | Pṛṣata | king of the Panchalas, Bharadvaja's friend, Drupada's father |  |  |  |
 | **Prishati** | Pṛṣatī | Drupada's queen, mother (by adoption of the fire-born twins) of Dhrishtadyumna and Draupadi |  |  |  |
 | **Satyajit** | Satyajit | one of Drupada's ten sons, named first among them |  |  |  |
@@ -771,6 +778,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Bhadra** | Bhadrā | Vyushitashva's wife, daughter of Kakshivat; also the name of Kubera's wife (1.191.6); also Bhadra of Vaishali, carried off by Shishupala (2.42.11) |  |  |  |
 | **Ila** | Iḍā | parent of Pururavas, who is called Aila after Ila |  |  |  |
 | **Vyushitashva** | Vyuṣitāśva | Paurava king whose dead body gave his widow Bhadra seven sons |  |  |  |
+| **Alayudha** | Alāyudha | a rakshasa lord on the Kaurava side, with an old feud against the Pandavas |  |  |  |
 | **Baka** | Baka | man-eating rakshasa near Ekachakra, killed by Bhima |  |  | Bakasura |
 | **Hidimba** | Hiḍimba / Hiḍimbā | a rakshasa brother and sister of the forest. Bhima kills the brother and marries the sister. In English the names collide, so give context until the brother is dead |  |  | Hidimbi, Hidimbaa |
 | **Jara** | Jarā | the rakshasi who joined the two halves of Jarasandha |  |  |  |
@@ -1028,7 +1036,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Chitrayudha** | Citrāyudha | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Danda** | Daṇḍa | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Dandadhara** | Daṇḍadhāra | a king named among the suitors at Draupadi's bridegroom choice; also a king Drupada would summon (5.4.18) |  |  |  |
-| **Dridhadhanva** | Dṛḍhadhanvan | a king named among the suitors at Draupadi's bridegroom choice |  |  | Dridhadhanvan |
+| **Dridhadhanva** | Dṛḍhadhanvan | a king named among the suitors at Draupadi's bridegroom choice; also a fine chariot fighter on the Pandava side (5.168.25) |  |  | Dridhadhanvan |
 | **Jalasandha** | Jalasaṃdha | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Jayatsena** | Jayatsena | a king named among the suitors at Draupadi's bridegroom choice; also one of the five secret names Yudhishthira gives the Pandavas in Virata's city (4.5.30); also Jayatsena of Magadha, Jarasandha's son, who brings the Pandavas an akshauhini (5.19.8) |  |  |  |
 | **Maniman** | Maṇimat | a king named among the suitors at Draupadi's bridegroom choice; also a rakshasa, friend of Kubera, killed by Bhima on Gandhamadana (3.157.52–68) |  |  | Manimat |

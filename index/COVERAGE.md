@@ -2,7 +2,7 @@
 
 # Coverage of the Critical Edition
 
-**26,848 of 73,815 verses covered (36.37%).** A verse is covered when a chapter's `ce` spans include it.
+**27,056 of 73,815 verses covered (36.65%).** A verse is covered when a chapter's `ce` spans include it.
 
 | Book | Adhyāyas complete | Verses covered | Progress | Next uncovered |
 |------|-------------------|----------------|----------|----------------|
@@ -10,7 +10,7 @@
 | 2. Sabha | 72/72 | 2,390/2,390 | `██████████` 100.0% | none |
 | 3. Aranyaka | 299/299 | 10,316/10,316 | `██████████` 100.0% | none |
 | 4. Virata | 67/67 | 1,824/1,824 | `██████████` 100.0% | none |
-| 5. Udyoga | 162/197 | 5,122/6,063 | `████████░░` 84.5% | 5.163 |
+| 5. Udyoga | 170/197 | 5,330/6,063 | `████████░░` 87.9% | 5.171 |
 | 6. Bhishma | 0/117 | 0/5,406 | `░░░░░░░░░░` 0.0% | 6.1 |
 | 7. Drona | 0/173 | 0/8,152 | `░░░░░░░░░░` 0.0% | 7.1 |
 | 8. Karna | 0/69 | 0/3,871 | `░░░░░░░░░░` 0.0% | 8.1 |
@@ -45,4 +45,4 @@
 
 ### Book 5
 
-* Complete adhyāyas: 5.1–5.162
+* Complete adhyāyas: 5.1–5.170

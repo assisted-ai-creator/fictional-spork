@@ -437,8 +437,8 @@ Ambopākhyāna); the boundaries are read from the content of the adhyāyas.
 | 45 | Bhishma Takes Command | 5.152–5.155 | ✅ drafted. The eleven armies; Bhīṣma's terms, ten thousand a day (L-182); Karṇa stands aside; Dhṛṣṭadyumna commander; Balarāma's pilgrimage; Rukmin refused by both sides. |
 | 46 | Uluka's Message | 5.156–5.159 | ✅ drafted. Sañjaya on fate and fault; Ulūka's taunts, briefed and delivered; no cat fable (L-183); Kṛṣṇa's answer. |
 | 47 | The Answer to Uluka | 5.160–5.162 | ✅ drafted. Arjuna swears to fell Bhīṣma first; Dhṛṣṭadyumna matches the warriors; Bhīṣma begins counting the chariot fighters. |
-| 48 | Chariot Fighters | 5.163–5.166 | Bhīṣma ranks the Kaurava warriors; Karṇa walks out. |
-| 49 | Bhishma Ranks the Pandavas | 5.167–5.170 | The Pāṇḍava side ranked; why Bhīṣma will not fight Śikhaṇḍin. |
+| 48 | Chariot Fighters | 5.163–5.166 | ✅ drafted. Bhīṣma rates the Kaurava warriors; Aśvatthāman loves life too much; Karṇa "half a chariot fighter" (L-184); their quarrel; the Pāṇḍava brothers and Arjuna. |
+| 49 | Bhishma Ranks the Pandavas | 5.167–5.170 | ✅ drafted. The rest of the Pāṇḍava side; Bhīṣma will not fight Śikhaṇḍin, born a woman (L-185); the three princesses of Kāśi carried off. |
 | 50 | Amba | 5.171–5.174 | The three princesses; Ambā sent to Śālva and refused. |
 | 51 | Rama Takes Up Amba's Cause | 5.175–5.178 | Hotravāhana and Akṛtavraṇa; Rāma Jāmadagnya summons Bhīṣma. |
 | 52 | Bhishma and Rama | 5.179–5.183 | The duel at Kurukṣetra. |
