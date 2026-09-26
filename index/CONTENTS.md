@@ -2,7 +2,7 @@
 
 # Contents
 
-**248 chapters, 552,303 words.** 248 drafted
+**251 chapters, 559,642 words.** 251 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -285,5 +285,8 @@
 | 15 | [Sanatsujata](../novel/book-05-udyoga/15-sanatsujata.md) | 5.42-45 | drafted | 3,594 |
 | 16 | [Arjuna's Message](../novel/book-05-udyoga/16-arjunas-message.md) | 5.46-47 | drafted | 3,759 |
 | 17 | [Nara and Narayana](../novel/book-05-udyoga/17-nara-and-narayana.md) | 5.48-49 | drafted | 2,038 |
+| 18 | [Dhritarashtra's Fear](../novel/book-05-udyoga/18-dhritarashtras-fear.md) | 5.50-53 | drafted | 2,800 |
+| 19 | [Duryodhana's Boast](../novel/book-05-udyoga/19-duryodhanas-boast.md) | 5.54-55 | drafted | 1,902 |
+| 20 | [The Pandava Army](../novel/book-05-udyoga/20-the-pandava-army.md) | 5.56-58 | drafted | 2,637 |
 
-*Book 5 so far: 47,213 words.*
+*Book 5 so far: 54,552 words.*

@@ -6,6 +6,16 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Novel: Book 5, chapters 18–20 drafted: the council in the Kuru hall
+- Ch 18 *Dhritarashtra's Fear* (CE 5.50–53), Ch 19 *Duryodhana's Boast*
+  (5.54–55) and Ch 20 *The Pandava Army* (5.56–58): Dhritarashtra's fear of
+  Bhima and Arjuna, Sanjaya's reproach, Duryodhana's boasts and his "sacrifice
+  of battle", the Kaurava leaders shared out among the Pandava champions, and
+  Sanjaya's visit to Krishna and Arjuna in the inner rooms.
+- Ledger: L-176 (Krishna and Arjuna in the inner rooms); L-106 extended with
+  the rejected Hanuman line at 5.55.\*341.
+- Names: Satyajit, Uttamaujas, Yudhamanyu, Kshatradeva.
+
 ### Novel: Book 5, chapters 16–17 drafted: Arjuna's message; Nara and Narayana
 - Ch 16 *Arjuna's Message* (CE 5.46–47): the kings gather at dawn and Sanjaya
   gives Arjuna's message in full, with its refrain "then the son of

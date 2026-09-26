@@ -619,9 +619,13 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Prakarakarna** | Prākārakarṇa | the long-lived owl of the Himalaya (3.191.4) |  |  |  |
 | **Dhrishtadyumna** | Dhṛṣṭadyumna | Drupada's son, born from the sacrificial fire to kill Drona | Parshata |  | Dhristadyumna, Drishtadyumna |
 | **Drupada** | Drupada | king of the Panchalas, Drona's childhood friend and enemy | Yajnasena |  |  |
+| **Kshatradeva** | Kṣatradeva | a hero on the Pandavas' side, named after Shikhandi |  |  |  |
 | **Prishata** | Pṛṣata | king of the Panchalas, Bharadvaja's friend, Drupada's father |  |  |  |
 | **Prishati** | Pṛṣatī | Drupada's queen, mother (by adoption of the fire-born twins) of Dhrishtadyumna and Draupadi |  |  |  |
+| **Satyajit** | Satyajit | one of Drupada's ten sons, named first among them |  |  |  |
 | **Shikhandi** | Śikhaṇḍin | Drupada's child, born a daughter, who became a man; Amba reborn | Shikhandini (as a girl) |  | Shikhandin, Sikhandi, Shikhandee |
+| **Uttamaujas** | Uttamaujas | a Panchala hero on the Pandavas' side |  |  |  |
+| **Yudhamanyu** | Yudhāmanyu | a Panchala hero on the Pandavas' side, "hard to beat" |  |  |  |
 | **Abhimanyu** | Abhimanyu | son of Arjuna and Subhadra | Saubhadra |  |  |
 | **Arjuna** | Arjuna | third son of Kunti, by Indra; the great archer | Partha, Dhananjaya, Phalguna, Kiritin, Bibhatsu, Savyasachin, Gudakesha, Jishnu, Vijaya | Partha, Dhananjaya | Arjun |
 | **Bhima** | Bhīma | second son of Kunti, by Vayu the wind; immensely strong; also the name of the king of Vidarbha, Damayanti's father (3.50.5), inside Brihadashva's tale only | Bhimasena, Vrikodara | Bhimasena, Vrikodara | Bheem, Bheema, Bhim |
@@ -946,7 +950,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Anadhrishti** | Anādhṛṣṭi | a Vrishni hero who comes to Indraprastha with Krishna |  |  |  |
 | **Anakadundubhi** | Ānakadundubhi | Vasudeva, Krishna's father |  |  |  |
 | **Andhakabhoja** | Andhakabhoja | a Yadava chief whose two sons are named among the great warriors |  |  |  |
-| **Babhru** | Babhru | a Vrishni at the Rajasuya; his wife was carried off by Shishupala (2.42.10); also Babhru of Kashi, who has Krishna for his brother and master (5.28.13) |  |  |  |
+| **Babhru** | Babhru | a Vrishni at the Rajasuya; his wife was carried off by Shishupala (2.42.10); also Babhru of Kashi, who has Krishna for his brother and master (5.28.13); also also a son of Virata on the Pandavas' side (5.56.33) |  |  |  |
 | **Balarama** | Balarāma | Krishna's elder brother, the plough-bearer | Baladeva, Rama, Samkarshana, Halayudha, Kamapala | Baladeva | Balram, Balaram |
 | **Bhangakara** | Bhaṅgakāra | a Vrishni named at the Raivataka festival (the reading is uncertain) |  |  |  |
 | **Bhanu** | Bhānu | a Vrishni hero |  |  |  |

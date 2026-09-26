@@ -7488,7 +7488,7 @@
    "name": "Babhru",
    "iast": "Babhru",
    "group": "Vrishni",
-   "who": "a Vrishni at the Rajasuya; his wife was carried off by Shishupala (2.42.10); also Babhru of Kashi, who has Krishna for his brother and master (5.28.13)",
+   "who": "a Vrishni at the Rajasuya; his wife was carried off by Shishupala (2.42.10); also Babhru of Kashi, who has Krishna for his brother and master (5.28.13); also also a son of Virata on the Pandavas' side (5.56.33)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -10544,6 +10544,46 @@
    "dialogue": [],
    "flag": [],
    "ref": "5.48.14"
+  },
+  {
+   "name": "Satyajit",
+   "iast": "Satyajit",
+   "group": "Panchala",
+   "who": "one of Drupada's ten sons, named first among them",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.56.4"
+  },
+  {
+   "name": "Uttamaujas",
+   "iast": "Uttamaujas",
+   "group": "Panchala",
+   "who": "a Panchala hero on the Pandavas' side",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.56.32"
+  },
+  {
+   "name": "Yudhamanyu",
+   "iast": "Yudhāmanyu",
+   "group": "Panchala",
+   "who": "a Panchala hero on the Pandavas' side, \"hard to beat\"",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.56.32"
+  },
+  {
+   "name": "Kshatradeva",
+   "iast": "Kṣatradeva",
+   "group": "Panchala",
+   "who": "a hero on the Pandavas' side, named after Shikhandi",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.56.32"
   }
  ],
  "not_vyasa": [

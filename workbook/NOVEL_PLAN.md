@@ -407,9 +407,9 @@ Ambopākhyāna); the boundaries are read from the content of the adhyāyas.
 | 15 | Sanatsujata | 5.42–5.45 | ✅ drafted. Carelessness is death; the brahmin who lives unknown; the faults and virtues of austerity; the muni made by silence; the four feet of chastity; the colourless imperishable; the hymn "the yogis see him". |
 | 16 | Arjuna's Message | 5.46–5.47 | ✅ drafted. The kings gather at dawn; "then he will repent the war"; Indra or Kṛṣṇa; Kṛṣṇa's deeds, Ekalavya among them (L-175); the omens. |
 | 17 | Nara and Narayana | 5.48–5.49 | ✅ drafted. Nara and Nārāyaṇa; Karṇa "cursed by Rāma"; Bhīṣma's scorn; Sañjaya faints; the Pāṇḍava champions. |
-| 18 | Dhritarashtra's Fear | 5.50–5.53 | The father's fear of Bhīma and Arjuna. |
-| 19 | Duryodhana's Boast | 5.54–5.55 | Duryodhana's answer to his father. |
-| 20 | The Pandava Army | 5.56–5.58 | Sañjaya lists the Pāṇḍava champions; Kṛṣṇa and Arjuna in the inner rooms. |
+| 18 | Dhritarashtra's Fear | 5.50–5.53 | ✅ drafted. Sleepless fear of Bhīma, taller than Arjuna by a span; the three powers in one chariot; "I think it good not to fight"; Sañjaya's reproach. |
+| 19 | Duryodhana's Boast | 5.54–5.55 | ✅ drafted. Eleven armies against seven; no one equals him with the mace; Karṇa and Indra's spear; Arjuna's banner and the brothers' horses. |
+| 20 | The Pandava Army | 5.56–5.58 | ✅ drafted. The Kaurava leaders shared out; the sacrifice of battle; "not a needle's point"; Kṛṣṇa and Arjuna in the inner rooms (L-176). |
 | 21 | Father and Son | 5.59–5.62 | Dhṛtarāṣṭra weighs the strengths; Karṇa's boast; Bhīṣma's scorn. |
 | 22 | Who Krishna Is | 5.63–5.69 | Duryodhana's defiance; Sañjaya on Kṛṣṇa's nature and names. |
 | 23 | The Pandavas' Counsel | 5.70–5.71 | Yudhiṣṭhira asks Kṛṣṇa to go to Hastināpura. |
