@@ -49,7 +49,7 @@
    "name": "Janamejaya",
    "iast": "Janamejaya",
    "group": "Kuru",
-   "who": "king of the Kurus, great-grandson of Arjuna; the snake sacrifice is his; also a king Drupada would summon (5.4.22)",
+   "who": "king of the Kurus, great-grandson of Arjuna; the snake sacrifice is his; also a king Drupada would summon (5.4.22); also a king born among the Nipas who destroyed his family, in Bhima's list (5.72.13)",
    "aka": [
     "Parikshita (son of Parikshit)"
    ],
@@ -665,7 +665,8 @@
     "Dasharha",
     "Damodara",
     "Shauri",
-    "Adhokshaja"
+    "Adhokshaja",
+    "Vishvaksena"
    ],
    "dialogue": [
     "Keshava",
@@ -1663,7 +1664,7 @@
    "name": "Pururavas",
    "iast": "Purūravas",
    "group": "King",
-   "who": "son of Ila, husband of Urvashi, ancestor of the Lunar line",
+   "who": "son of Ila, husband of Urvashi, ancestor of the Lunar line; also a king born among the Diptakshas who destroyed his family, in Bhima's list (5.72.15)",
    "aka": [
     "Aila"
    ],
@@ -1989,7 +1990,7 @@
    "name": "Bali",
    "iast": "Bali",
    "group": "King",
-   "who": "king who rescued Dirghatamas from the Ganga and had him father sons on his queen (not the asura Bali); also Bali, the asura son of Virochana and grandson of Prahlada (3.29); whose kingdom Vishnu took in the form of a dwarf (3.299.13)",
+   "who": "king who rescued Dirghatamas from the Ganga and had him father sons on his queen (not the asura Bali); also Bali, the asura son of Virochana and grandson of Prahlada (3.29); whose kingdom Vishnu took in the form of a dwarf (3.299.13); also the asura Bali, first in Bhima's list of those who destroyed their own people (5.72.12)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -2845,7 +2846,7 @@
    "name": "Brihadbala",
    "iast": "Bṛhadbala",
    "group": "Gandhara",
-   "who": "a son of the king of Gandhara, brother of Shakuni; named among the suitors at Draupadi's bridegroom choice",
+   "who": "a son of the king of Gandhara, brother of Shakuni; named among the suitors at Draupadi's bridegroom choice; also a king born among the Prachetas who destroyed his family, in Bhima's list (5.72.16)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -5405,7 +5406,7 @@
    "name": "Vishvaksena",
    "iast": "Viṣvaksena",
    "group": "Catalogue",
-   "who": "named in Indra's hall (2.7)",
+   "who": "named in Indra's hall (2.7); also a name of Krishna, used by Yudhishthira (5.70.90)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -7558,7 +7559,7 @@
    "name": "Shambara",
    "iast": "Śambara",
    "group": "Demon",
-   "who": "an asura killed by Indra",
+   "who": "an asura killed by Indra; also quoted by Yudhishthira on the misery of having no food for today or tomorrow (5.70.22)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -10237,7 +10238,7 @@
    "name": "Bahu",
    "iast": "Bāhu",
    "group": "Catalogue",
-   "who": "a king, \"conqueror of cities\", Drupada would summon (5.4.19)",
+   "who": "a king, \"conqueror of cities\", Drupada would summon (5.4.19); also a king born among the Sundaravegas who destroyed his family, in Bhima's list (5.72.15)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -10614,6 +10615,136 @@
    "dialogue": [],
    "flag": [],
    "ref": "5.61.11"
+  },
+  {
+   "name": "Udavarta",
+   "iast": "Udāvarta",
+   "group": "King",
+   "who": "one of eighteen kings who destroyed their own families, born among the Haihayas (named by Bhima)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.72.13"
+  },
+  {
+   "name": "Bahula",
+   "iast": "Bahula",
+   "group": "King",
+   "who": "one of eighteen kings who destroyed their own families, born among the Talajanghas (named by Bhima)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.72.13"
+  },
+  {
+   "name": "Vasu",
+   "iast": "Vasu",
+   "group": "King",
+   "who": "a proud king born among the Krimis, one of eighteen who destroyed their own families (named by Bhima)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.72.13"
+  },
+  {
+   "name": "Ajabindu",
+   "iast": "Ajabindu",
+   "group": "King",
+   "who": "one of eighteen kings who destroyed their own families, born among the Suviras (named by Bhima)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.72.14"
+  },
+  {
+   "name": "Kusharddhika",
+   "iast": "Kuśarddhika",
+   "group": "King",
+   "who": "one of eighteen kings who destroyed their own families, born among the Surashtras (named by Bhima)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.72.14"
+  },
+  {
+   "name": "Arkaja",
+   "iast": "Arkaja",
+   "group": "King",
+   "who": "one of eighteen kings who destroyed their own families, born among the Balihas (named by Bhima)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.72.14"
+  },
+  {
+   "name": "Dhautamulaka",
+   "iast": "Dhautamūlaka",
+   "group": "King",
+   "who": "one of eighteen kings who destroyed their own families, born among the Chinas (named by Bhima)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.72.14"
+  },
+  {
+   "name": "Hayagriva",
+   "iast": "Hayagrīva",
+   "group": "King",
+   "who": "a king born among the Videhas who destroyed his family, in Bhima's list",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.72.15"
+  },
+  {
+   "name": "Varapra",
+   "iast": "Varapra",
+   "group": "King",
+   "who": "one of eighteen kings who destroyed their own families, born among the Mahaujasas (named by Bhima)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.72.15"
+  },
+  {
+   "name": "Sahaja",
+   "iast": "Sahaja",
+   "group": "King",
+   "who": "one of eighteen kings who destroyed their own families, born among the Chedis and Matsyas (named by Bhima)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.72.16"
+  },
+  {
+   "name": "Dharana",
+   "iast": "Dhāraṇa",
+   "group": "King",
+   "who": "one of eighteen kings who destroyed their own families, born among the Indravatsas (named by Bhima)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.72.16"
+  },
+  {
+   "name": "Vigahana",
+   "iast": "Vigāhana",
+   "group": "King",
+   "who": "one of eighteen kings who destroyed their own families, born among the Mukutas (named by Bhima)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.72.16"
+  },
+  {
+   "name": "Shama",
+   "iast": "Śama",
+   "group": "King",
+   "who": "one of eighteen kings who destroyed their own families, born among the Nandivegas (named by Bhima)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.72.17"
   }
  ],
  "not_vyasa": [

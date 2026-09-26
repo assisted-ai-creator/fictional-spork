@@ -6,6 +6,19 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Novel: Book 5, chapters 23–25 drafted: the Bhagavadyana begins
+- Ch 23 *The Pandavas' Counsel* (CE 5.70–71): Yudhishthira on what poverty and
+  war do to a man, the five villages again, Krishna's decision to go to the
+  Kuru court, and his answer that a kshatriya does not beg. Ch 24 *Bhima Speaks
+  Softly* (5.72–75): Bhima pleads for peace and names eighteen kings who ruined
+  their families (Bali, as the CE reads, not the vulgate's Kali); Krishna goads
+  him; Bhima's answer; fate and human effort. Ch 25 *Draupadi's Hair*
+  (5.76–80): Arjuna, Nakula, Sahadeva and Satyaki; Draupadi holds out her hair
+  and asks for Duhshasana's arm; Krishna's promise.
+- Ledger: L-19 extended with 5.80.26 ("I longed for you in my mind, Govinda").
+- Names: the kings of Bhima's list (Udavarta, Ajabindu, Kusharddhika and
+  others); Vishvaksena added as a name of Krishna.
+
 ### Novel: Book 5, chapters 21–22 drafted: the Yanasamdhi completed
 - Ch 21 *Father and Son* (CE 5.59–62): Dhritarashtra weighs the sides,
   Duryodhana's claims to power over the elements, Karna's boast and his vow
