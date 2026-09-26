@@ -10584,6 +10584,36 @@
    "dialogue": [],
    "flag": [],
    "ref": "5.56.32"
+  },
+  {
+   "name": "Jalasamdha",
+   "iast": "Jalasaṃdha",
+   "group": "King",
+   "who": "a king on the Kaurava side, greeted in Arjuna's message",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.64.7"
+  },
+  {
+   "name": "Vedidhvaja",
+   "iast": "Vedidhvaja",
+   "group": "King",
+   "who": "a king Bhishma names among those on the Kaurava side",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.61.16"
+  },
+  {
+   "name": "Bana",
+   "iast": "Bāṇa",
+   "group": "Demon",
+   "who": "the asura Bana, killed by Krishna, as Bhishma says",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.61.11"
   }
  ],
  "not_vyasa": [

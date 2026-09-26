@@ -312,6 +312,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vishvakarman** | Viśvakarman | the craftsman of the gods |  |  | Vishwakarma, Vishvakarma |
 | **Vivasvat** | Vivasvat | the sun god, father of Yama | Surya, Arka, Ravi |  | Vivaswat, Vivasvan |
 | **Ashvachakra** | Aśvacakra | an enemy killed by Samba |  |  |  |
+| **Bana** | Bāṇa | the asura Bana, killed by Krishna, as Bhishma says |  |  |  |
 | **Hiranyakashipu** | Hiraṇyakaśipu | a great asura king, ancestor of Nikumbha |  |  | Hiranyakasipu |
 | **Ilvala** | Ilvala | a daitya of Manimati who killed brahmins by feeding them his brother Vatapi |  |  |  |
 | **Jambha** | Jambha | an asura given up by the great asuras, as Kavya advised |  |  |  |
@@ -481,6 +482,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Gaya** | Gaya | an ancient king, a model of dharma and truthfulness |  |  |  |
 | **Girika** | Girikā | Vasu's wife, daughter of the mountain Kolahala and the river Shuktimati |  |  |  |
 | **Ikshvaku** | Ikṣvāku | an ancient king, founder of the solar line |  |  |  |
+| **Jalasamdha** | Jalasaṃdha | a king on the Kaurava side, greeted in Arjuna's message |  |  |  |
 | **Jantu** | Jantu | Somaka's son, sacrificed and born again as the eldest of a hundred |  |  |  |
 | **Jatasura** | Jaṭāsura | a king present in Yudhishthira's hall; also a rakshasa who lived with the Pandavas disguised as a brahmin, carried off Yudhishthira, the twins and Draupadi, and was killed by Bhima (3.154) |  |  |  |
 | **Kakshasena** | Kakṣasena | a king present in Yudhishthira's hall |  |  |  |
@@ -541,6 +543,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vapushtama** | Vapuṣṭamā | daughter of Suvarnavarman of Kashi; Janamejaya's wife |  |  |  |
 | **Vasudana** | Vasudāna | a king present in Yudhishthira's hall |  |  |  |
 | **Vasumanas** | Vasumanas | royal seer, son of Rushadashva, a grandson of Yayati through his daughter | Vasumat |  |  |
+| **Vedidhvaja** | Vedidhvaja | a king Bhishma names among those on the Kaurava side |  |  |  |
 | **Virasena** | Vīrasena | father of Nala |  |  |  |
 | **Vivardhana** | Vivardhana | a king present in Yudhishthira's hall |  |  |  |
 | **Vriddhakshatra** | Vṛddhakṣatra | father of Jayadratha |  |  |  |

@@ -2,7 +2,7 @@
 
 # Contents
 
-**251 chapters, 559,642 words.** 251 drafted
+**253 chapters, 564,426 words.** 253 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -288,5 +288,7 @@
 | 18 | [Dhritarashtra's Fear](../novel/book-05-udyoga/18-dhritarashtras-fear.md) | 5.50-53 | drafted | 2,800 |
 | 19 | [Duryodhana's Boast](../novel/book-05-udyoga/19-duryodhanas-boast.md) | 5.54-55 | drafted | 1,902 |
 | 20 | [The Pandava Army](../novel/book-05-udyoga/20-the-pandava-army.md) | 5.56-58 | drafted | 2,637 |
+| 21 | [Father and Son](../novel/book-05-udyoga/21-father-and-son.md) | 5.59-62 | drafted | 2,311 |
+| 22 | [Who Krishna Is](../novel/book-05-udyoga/22-who-krishna-is.md) | 5.63-69 | drafted | 2,473 |
 
-*Book 5 so far: 54,552 words.*
+*Book 5 so far: 59,336 words.*

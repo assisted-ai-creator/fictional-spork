@@ -410,8 +410,8 @@ Ambopākhyāna); the boundaries are read from the content of the adhyāyas.
 | 18 | Dhritarashtra's Fear | 5.50–5.53 | ✅ drafted. Sleepless fear of Bhīma, taller than Arjuna by a span; the three powers in one chariot; "I think it good not to fight"; Sañjaya's reproach. |
 | 19 | Duryodhana's Boast | 5.54–5.55 | ✅ drafted. Eleven armies against seven; no one equals him with the mace; Karṇa and Indra's spear; Arjuna's banner and the brothers' horses. |
 | 20 | The Pandava Army | 5.56–5.58 | ✅ drafted. The Kaurava leaders shared out; the sacrifice of battle; "not a needle's point"; Kṛṣṇa and Arjuna in the inner rooms (L-176). |
-| 21 | Father and Son | 5.59–5.62 | Dhṛtarāṣṭra weighs the strengths; Karṇa's boast; Bhīṣma's scorn. |
-| 22 | Who Krishna Is | 5.63–5.69 | Duryodhana's defiance; Sañjaya on Kṛṣṇa's nature and names. |
+| 21 | Father and Son | 5.59–5.62 | ✅ drafted. The gods and Arjuna; Duryodhana's powers; Karṇa's weapon from Rāma and his vow not to fight while Bhīṣma fights (L-177); the fowler's birds; the honey on the cliff. |
+| 22 | Who Krishna Is | 5.63–5.69 | ✅ drafted. Arjuna's last words; Vyāsa and Gāndhārī; "where Kṛṣṇa is, there is victory"; Duryodhana refuses refuge; the meaning of Kṛṣṇa's names. |
 | 23 | The Pandavas' Counsel | 5.70–5.71 | Yudhiṣṭhira asks Kṛṣṇa to go to Hastināpura. |
 | 24 | Bhima Speaks Softly | 5.72–5.75 | Bhīma for peace; Kṛṣṇa's goading; Bhīma's answer. |
 | 25 | Draupadi's Hair | 5.76–5.80 | Arjuna, Nakula, Sahadeva, Sātyaki; Draupadī's plea. |

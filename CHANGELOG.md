@@ -6,6 +6,18 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Novel: Book 5, chapters 21–22 drafted: the Yanasamdhi completed
+- Ch 21 *Father and Son* (CE 5.59–62): Dhritarashtra weighs the sides,
+  Duryodhana's claims to power over the elements, Karna's boast and his vow
+  not to fight while Bhishma fights, Vidura's fables of the fowler's two
+  birds and the honey on the cliff. Ch 22 *Who Krishna Is* (5.63–69): Arjuna's
+  last words, Vyasa and Gandhari, "where Krishna is, there is victory",
+  Duryodhana's refusal to take refuge, and the meanings of Krishna's names.
+  This completes the Yanasamdhi (5.46–69).
+- Ledger: L-177 (Karna's curse from Rama: CE, told fully at 12.3, with a worm
+  not a bee; his refusal to fight under Bhishma).
+- Names: Jalasamdha, Vedidhvaja, Bana.
+
 ### Novel: Book 5, chapters 18–20 drafted: the council in the Kuru hall
 - Ch 18 *Dhritarashtra's Fear* (CE 5.50–53), Ch 19 *Duryodhana's Boast*
   (5.54–55) and Ch 20 *The Pandava Army* (5.56–58): Dhritarashtra's fear of
