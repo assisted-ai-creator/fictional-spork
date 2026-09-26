@@ -2,7 +2,7 @@
 
 # Contents
 
-**313 chapters, 742,781 words.** 313 drafted
+**314 chapters, 746,875 words.** 314 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -357,5 +357,6 @@
 | 24 | [Shrutayus](../novel/book-06-bhishma/24-shrutayus.md) | 6.80-82 | drafted | 3,311 |
 | 25 | [Iravan](../novel/book-06-bhishma/25-iravan.md) | 6.83-86 | drafted | 4,266 |
 | 26 | [Ghatotkacha](../novel/book-06-bhishma/26-ghatotkacha.md) | 6.87-89 | drafted | 2,220 |
+| 27 | [The Eighth Day Ends](../novel/book-06-bhishma/27-the-eighth-day-ends.md) | 6.90-92 | drafted | 4,094 |
 
-*Book 6 so far: 92,523 words.*
+*Book 6 so far: 96,617 words.*

@@ -488,7 +488,7 @@ and the whole battle is told as his answer. Days are fixed by the withdrawals
 | 24 | Shrutayus | 6.80–6.82 | ✅ drafted. Yudhiṣṭhira's anger and Śrutāyus; Cekitāna and Kṛpa fall senseless; Abhimanyu spares the princes for Bhīma's vow; Arjuna and Suśarman; Yudhiṣṭhira rebukes Śikhaṇḍin; the Vāruṇa weapon; Bhīma smashes Citrasena's chariot; Bhīṣma passes Śikhaṇḍin again; nightfall; the camps like heaven; end of day 7. |
 | 25 | Iravan | 6.83–6.86 | ✅ drafted. The sea array and the horned array; Bhīma kills Sunābha and seven more brothers (L-194); "Bhīma will kill every one he sees"; who Irāvān is; the six sons of Subala; Alambusa kills Irāvān by magic (L-37); Arjuna does not yet know. |
 | 26 | Ghatotkacha | 6.87–6.89 | ✅ drafted. Ghaṭotkaca's roar after Irāvān's death; the Vaṅga elephants; his list of wrongs; the Vaṅga king's elephant takes the spear; Ghaṭotkaca beats back Droṇa and the rest; Bhīma sent to help; the blind battle in the dust. |
-| 27 | The Eighth Day Ends | 6.90–6.92 | Duryodhana against Bhīma; Bhagadatta; Arjuna's grief for Irāvān; more sons of Dhṛtarāṣṭra killed. |
+| 27 | The Eighth Day Ends | 6.90–6.92 | ✅ drafted. Bhīma leaves Droṇa senseless; Nīla and Aśvatthāman; Ghaṭotkaca's magic routs the Kauravas while Sañjaya and Bhīṣma shout; Bhagadatta on Supratīka; Ghaṭotkaca breaks the lance on his knee; Arjuna learns of Irāvān and curses wealth; Bhīma kills nine more brothers (L-194); nightfall. |
 | 28 | Duryodhana's Reproach | 6.93–6.94 | The night council; Duryodhana reproaches Bhīṣma; Bhīṣma's promise. |
 | 29 | The Ninth Day | 6.95–6.98 | The arrays; Abhimanyu and Alambuṣa; Droṇa and Arjuna. |
 | 30 | Krishna Runs at Bhishma | 6.99–6.102 | Bhīṣma's slaughter; Kṛṣṇa's anger; Arjuna's promise. |

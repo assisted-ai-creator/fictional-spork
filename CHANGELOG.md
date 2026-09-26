@@ -37,7 +37,9 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 - Ch 25 *Iravan* (6.83–86): Bhima kills eight more brothers (L-194); Iravan
   killed by Alambusa (L-37 now gives the day and the killer). Ch 23's note no
   longer calls Iravan's mother Ulupi, which the CE does not (L-103).
-- Ch 26 *Ghatotkacha* (6.87–89).
+- Ch 26 *Ghatotkacha* (6.87–89) and ch 27 *The Eighth Day Ends* (6.90–92):
+  Sanjaya and Bhishma shout that Ghatotkacha's magic is a trick; Arjuna's
+  grief for Iravan; Bhima's seventeen on day 8 (L-194).
 
 ### Novel: Book 6, chapters 14–15: the war begins
 - Ch 14 *Yudhishthira Asks Leave* (CE 6.41): the blessings of Bhishma, Drona,
