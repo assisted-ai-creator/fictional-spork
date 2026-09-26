@@ -6,7 +6,7 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
-### Novel: Book 6, chapters 16–30: the second to ninth days
+### Novel: Book 6, chapters 16–31: the second to ninth days
 - Ch 16 *The Heron Array* (CE 6.46–49), ch 17 *Bhima and the Kalingas*
   (6.50–51) and ch 18 *The Third Day* (6.52–55): Duryodhana's reproach and
   Bhishma's promise; Arjuna fights gently; Krishna runs at Bhishma with his
@@ -46,6 +46,8 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the sun weapon; Drona and Arjuna.
 - Ch 30 *Krishna Runs at Bhishma* (6.99–102): the whip, not the discus, and
   the tenth step again (L-36); the duel repeated from 6.55 is kept and noted.
+- Ch 31 *How Bhishma Can Be Killed* (6.103). Ledger: L-185 completed (Bhishma
+  tells the Pandavas himself); L-197 ("I am your father's father", ✅).
 
 ### Novel: Book 6, chapters 14–15: the war begins
 - Ch 14 *Yudhishthira Asks Leave* (CE 6.41): the blessings of Bhishma, Drona,

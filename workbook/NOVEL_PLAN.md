@@ -492,7 +492,7 @@ and the whole battle is told as his answer. Days are fixed by the withdrawals
 | 28 | Duryodhana's Reproach | 6.93–6.94 | ✅ drafted. Karṇa's offer; Duryodhana rides by lamplight to Bhīṣma's tent; his tearful plea; "that was proof enough"; "a dying man sees every tree as gold"; Bhīṣma's promise, sparing Śikhaṇḍin; no golden arrows (L-196). |
 | 29 | The Ninth Day | 6.95–6.98 | ✅ drafted. Duryodhana orders Bhīṣma guarded, repeating his word about Śikhaṇḍin; Arjuna places Śikhaṇḍin in front; the all-sided array; omens; Abhimanyu and Alambusa (the sun weapon); Sātyaki and Aśvatthāman; Droṇa against Arjuna; the wind and mountain weapons; Bhīma kills an elephant with its own tusk. |
 | 30 | Krishna Runs at Bhishma | 6.99–6.102 | ✅ drafted. Bhīṣma crushes the Pāṇḍava army; the soldiers curse Duryodhana; Śakuni's horsemen cut down; Śalya and Yudhiṣṭhira; fourteen thousand Cedi, Kāśi and Karūṣa chariot fighters killed; Arjuna fights gently; Kṛṣṇa runs at Bhīṣma whip in hand and is stopped at the tenth step (L-36); sunset. |
-| 31 | How Bhishma Can Be Killed | 6.103 | The night visit: Bhīṣma tells the Pāṇḍavas how he can be brought down. |
+| 31 | How Bhishma Can Be Killed | 6.103 | ✅ drafted. Yudhiṣṭhira's despair; Kṛṣṇa offers to kill Bhīṣma himself; the unarmed visit to Bhīṣma's tent; Bhīṣma tells them to put Śikhaṇḍin in front (L-185); "I am your father's father" (L-197); Bṛhaspati's law of the assassin; the plan agreed. |
 | 32 | Shikhandi Goes First | 6.104–6.108 | The tenth day; Śikhaṇḍin before Arjuna; the duels. |
 | 33 | The Fall of Bhishma | 6.109–6.114 | The last fight; Bhīṣma falls. |
 | 34 | The Bed of Arrows | 6.115–6.117 | The pillow of arrows; the water from the earth; Karṇa comes to Bhīṣma. |

@@ -2,7 +2,7 @@
 
 # Contents
 
-**317 chapters, 756,679 words.** 317 drafted
+**318 chapters, 759,115 words.** 318 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -361,5 +361,6 @@
 | 28 | [Duryodhana's Reproach](../novel/book-06-bhishma/28-duryodhanas-reproach.md) | 6.93-94 | drafted | 1,387 |
 | 29 | [The Ninth Day](../novel/book-06-bhishma/29-the-ninth-day.md) | 6.95-98 | drafted | 4,229 |
 | 30 | [Krishna Runs at Bhishma](../novel/book-06-bhishma/30-krishna-runs-at-bhishma.md) | 6.99-102 | drafted | 4,188 |
+| 31 | [How Bhishma Can Be Killed](../novel/book-06-bhishma/31-how-bhishma-can-be-killed.md) | 6.103 | drafted | 2,436 |
 
-*Book 6 so far: 106,421 words.*
+*Book 6 so far: 108,857 words.*
