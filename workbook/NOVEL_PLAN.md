@@ -36,20 +36,20 @@ against the CE when the Book is drafted.
 | 2 | **Sabhā**: *The Assembly Hall* | 2.1–2.72 | 72 | 18 | Vaiśaṃpāyana |
 | 3 | **Āraṇyaka**: *The Forest* | 3.1–3.299 | 299 | 70 | Vaiśaṃpāyana; many inset tellers |
 | 4 | **Virāṭa**: *The Year in Hiding* | 4.1–4.67 | 67 | 16 | Vaiśaṃpāyana |
-| 5 | **Udyoga**: *The Effort for Peace* | 5.1–5.197 | ✅ drafted. Bhīma kills the wrestler Jīmūta at the festival of Brahmā (4.12). | 45 | Vaiśaṃpāyana |
-| 6 | **Bhīṣma**: *Bhishma's Battle* | 6.1–6.117 | ✅ drafted. Kīcaka woos the sairandhrī; Sudeṣṇā sends her for wine; the kick in the hall; Yudhiṣṭhira presses Bhīma's toe (4.13–15). | 30 | Sañjaya → Dhṛtarāṣṭra |
-| 7 | **Droṇa**: *Drona's Battle* | 7.1–7.173 | ✅ drafted. Draupadī goes to Bhīma by night and blames the dice (4.16–17). | 40 | Sañjaya → Dhṛtarāṣṭra |
-| 8 | **Karṇa**: *Karna's Battle* | 8.1–8.69 | ✅ drafted. Draupadī's lament and her calloused hands; "a month and a half more"; Bhīma resolves to kill Kīcaka (4.18–20). | 18 | Sañjaya → Dhṛtarāṣṭra |
-| 9 | **Śalya**: *Shalya's Battle and the Mace Duel* | 9.1–9.64 | ✅ drafted. Kīcaka meets Bhīma in the dark dance hall and is crushed (4.21). | 16 | Sañjaya → Dhṛtarāṣṭra |
-| 10 | **Sauptika**: *The Night Raid* | 10.1–10.18 | ✅ drafted. The Upakīcakas carry the sairandhrī to the pyre; Bhīma kills all 105 with a tree; "thirteen days" (4.22–23). | 5 | Sañjaya → Dhṛtarāṣṭra |
-| 11 | **Strī**: *The Women* | 11.1–11.27 | ✅ drafted. Talk of Kīcaka's death; the spies' report; Duryodhana, Karṇa, Duḥśāsana, Droṇa, Bhīṣma and Kṛpa on finding the Pāṇḍavas (4.24–28). | 7 | Vaiśaṃpāyana |
-| 12 | **Śānti**: *Peace* | 12.1–12.353 | ✅ drafted. Suśarman's raid; Virāṭa captured and freed; the tree forbidden; Virāṭa offers Kaṅka the kingdom (4.29–32). | 45 | Vaiśaṃpāyana; Bhīṣma teaching |
-| 13 | **Anuśāsana**: *The Instructions* | 13.1–13.154 | ✅ drafted. The Kauravas take the northern herds; Uttara's boast; Draupadī names Bṛhannaḍā; cloth for the dolls (4.33–35). | 25 | Bhīṣma teaching |
-| 14 | **Āśvamedhika**: *The Horse Sacrifice* | 14.1–14.96 | ✅ drafted. Uttara runs; Arjuna catches him; the Kurus wonder; Droṇa's omens; Duryodhana's "twelve more years" (4.36–37). | 18 | Vaiśaṃpāyana |
-| 15 | **Āśramavāsika**: *The Hermitage* | 15.1–15.47 | ✅ drafted. The weapons in the śamī; the Gāṇḍīva's history; Arjuna's ten names; the vow, not a curse; the monkey banner and the conch (4.38–41). | 10 | Vaiśaṃpāyana |
-| 16 | **Mausala**: *The Iron Club* | 16.1–16.9 | ✅ drafted. Duryodhana, Karṇa, Kṛpa and Aśvatthāman quarrel; Bhīṣma makes peace and reckons the years; the battle order (4.42–47). | 3 | Vaiśaṃpāyana |
-| 17 | **Mahāprasthānika**: *The Great Journey* | 17.1–17.3 | ✅ drafted. The greeting arrows; the cattle turned back; Vikarṇa, Śatruṃtapa, Saṃgrāmajit; Karṇa driven off; the leaders pointed out; the gods watch (4.48–51). | 1 | Vaiśaṃpāyana |
-| 18 | **Svargārohaṇa**: *The Ascent to Heaven* | 18.1–18.5 | ✅ drafted. Kṛpa unhorsed; Droṇa and Arjuna; Aśvatthāman cuts the bowstring; Karṇa wounded and in flight (4.52–55). | 2 | Vaiśaṃpāyana; Ugraśravas closes |
+| 5 | **Udyoga**: *The Effort for Peace* | 5.1–5.197 | 197 | 45 | Vaiśaṃpāyana |
+| 6 | **Bhīṣma**: *Bhishma's Battle* | 6.1–6.117 | 117 | 30 | Sañjaya → Dhṛtarāṣṭra |
+| 7 | **Droṇa**: *Drona's Battle* | 7.1–7.173 | 173 | 40 | Sañjaya → Dhṛtarāṣṭra |
+| 8 | **Karṇa**: *Karna's Battle* | 8.1–8.69 | 69 | 18 | Sañjaya → Dhṛtarāṣṭra |
+| 9 | **Śalya**: *Shalya's Battle and the Mace Duel* | 9.1–9.64 | 64 | 16 | Sañjaya → Dhṛtarāṣṭra |
+| 10 | **Sauptika**: *The Night Raid* | 10.1–10.18 | 18 | 5 | Sañjaya → Dhṛtarāṣṭra |
+| 11 | **Strī**: *The Women* | 11.1–11.27 | 27 | 7 | Vaiśaṃpāyana |
+| 12 | **Śānti**: *Peace* | 12.1–12.353 | 353 | 45 | Vaiśaṃpāyana; Bhīṣma teaching |
+| 13 | **Anuśāsana**: *The Instructions* | 13.1–13.154 | 154 | 25 | Bhīṣma teaching |
+| 14 | **Āśvamedhika**: *The Horse Sacrifice* | 14.1–14.96 | 96 | 18 | Vaiśaṃpāyana |
+| 15 | **Āśramavāsika**: *The Hermitage* | 15.1–15.47 | 47 | 10 | Vaiśaṃpāyana |
+| 16 | **Mausala**: *The Iron Club* | 16.1–16.9 | 9 | 3 | Vaiśaṃpāyana |
+| 17 | **Mahāprasthānika**: *The Great Journey* | 17.1–17.3 | 3 | 1 | Vaiśaṃpāyana |
+| 18 | **Svargārohaṇa**: *The Ascent to Heaven* | 18.1–18.5 | 5 | 2 | Vaiśaṃpāyana; Ugraśravas closes |
 | | | | **1,995** | **≈ 429** | |
 
 ---
@@ -78,7 +78,7 @@ against the CE when the Book is drafted.
 | 16 | Arjunavanavāsa | 1.200–1.210 | Nārada's tale of Sunda and Upasunda; the rule; Arjuna's exile; Ulūpī; Citrāṅgadā; the five apsarases |
 | 17 | Subhadrāharaṇa | 1.211–1.212 | Arjuna and Subhadrā |
 | 18 | Haraṇāharika | 1.213 | The bridal gifts; Abhimanyu and Draupadī's sons born |
-| 19 | Khāṇḍavadāha | 1.214–1.225 | ✅ drafted. Arjuna routs the Kauravas; duel with Bhīṣma; Duryodhana taunted; the stupefying weapon and the cloths for the dolls; Duryodhana's crown cut (4.56–62). |
+| 19 | Khāṇḍavadāha | 1.214–1.225 | Agni's hunger; Gāṇḍīva and the discus; the burning of the forest; Maya spared; the Śārṅgaka birds |
 
 ### Chapter plan (first part; refined while drafting)
 
@@ -103,8 +103,8 @@ against the CE when the Book is drafted.
 | 17 | Stop! | 1.51–1.53 | ✅ drafted. The boon; Takṣaka held in the air; the charm; Śaunaka asks for the Bhārata (L-67). |
 | 18 | The Story in Brief | 1.54–1.56 | ✅ drafted. Vyāsa at the sacrifice; Vaiśaṃpāyana's summary; the praise of the work. |
 | 19 | The Fish's Daughter | 1.57 | ✅ drafted. Uparicara Vasu; Satyavatī; Parāśara; Vyāsa; the births of the heroes. |
-| 20 | The Burden of the Earth | 1.58 | ✅ drafted. Virāṭa's return and joy; the dice; the blow and the blood caught; Uttara's account of the god's son (4.63–64). |
-| 21 | The Families of Beings | 1.59–1.60 | ✅ drafted. The Pāṇḍavas on the royal seats; Arjuna names them; Virāṭa's apology; Uttarā given to Abhimanyu; the allies at Upaplavya; the wedding (4.65–67). **Book 4 complete.** |
+| 20 | The Burden of the Earth | 1.58 | ✅ drafted. The golden age after Rāma Jāmadagnya; the asuras born; the Earth to Brahmā; Hari agrees. |
+| 21 | The Families of Beings | 1.59–1.60 | ✅ drafted. The gods go down; Daksha's daughters; gods, asuras, gandharvas, apsarases; Rudras, Vasus, Bhṛgus; beasts and birds. |
 | 22 | Gods and Demons Born as Men | 1.61 | ✅ drafted. Who is whose portion: Jarāsaṃdha to Draupadī. |
 | 23 | The King Who Went Hunting | 1.62–1.64 | ✅ drafted. Duḥṣanta's reign; the hunt; Kaṇva's hermitage on the Mālinī. |
 | 24 | Shakuntala | 1.65–1.67 | ✅ drafted. Menakā and Viśvāmitra; the birds; the gāndharva marriage; Kaṇva's blessing. |
@@ -361,23 +361,91 @@ are refined while drafting.
 | 2 | Dhaumya's Counsel | 4.4 | ✅ drafted. The household sent away; Dhaumya's rules for life in a king's house; the departure. |
 | 3 | The Shami Tree | 4.5 | ✅ drafted. The journey; the bows unstrung and bound in the śamī; the corpse; the secret names (L-163). |
 | 4 | Entering Virata's Court | 4.6–4.11 | ✅ drafted. The six come to court one by one; Sudeṣṇā and the five gandharva husbands; Bṛhannaḍā teaches the princess Uttarā. |
-| 5 | The Wrestler | 4.12 | The festival of Brahmā; Bhīma kills Jīmūta. |
-| 6 | Kichaka | 4.13–4.15 | Kīcaka desires the sairandhrī; Sudeṣṇā sends her for wine; the kick in the hall. |
-| 7 | Draupadi's Grief | 4.16–4.17 | Draupadī goes to Bhīma by night. |
-| 8 | Bhima's Promise | 4.18–4.20 | Draupadī's lament; Bhīma's promise. |
-| 9 | The Dance Hall | 4.21 | Kīcaka killed. |
-| 10 | The Upakichakas | 4.22–4.23 | Kīcaka's brothers; Draupadī saved; the city in fear. |
-| 11 | The Spies Return | 4.24–4.28 | Duryodhana's search; the counsel of Droṇa, Bhīṣma and Kṛpa. |
-| 12 | The Trigartas' Raid | 4.29–4.32 | Suśarman's raid; Virāṭa captured and freed. |
-| 13 | Uttara's Boast | 4.33–4.35 | The Kurus raid the northern herds; Uttara wants a driver. |
-| 14 | Brihannada's Chariot | 4.36–4.37 | Uttara flees; Arjuna drives; the Kurus see him. |
-| 15 | The Weapons in the Tree | 4.38–4.41 | The weapons revealed; Arjuna's names. |
-| 16 | The Kaurava Council | 4.42–4.47 | Karṇa, Kṛpa, Aśvatthāman and Bhīṣma; the count of the years. |
-| 17 | The Cattle Recovered | 4.48–4.51 | Arjuna drives back the cattle; the gods watch. |
-| 18 | Kripa, Drona and Karna | 4.52–4.55 | Arjuna fights his teachers and Karṇa. |
-| 19 | The Stupefying Weapon | 4.56–4.62 | Bhīṣma; Duryodhana; the Kurus stupefied and stripped. |
-| 20 | Virata's Dice | 4.63–4.64 | Virāṭa strikes Yudhiṣṭhira; Uttara's account. |
-| 21 | The Pandavas Revealed | 4.65–4.67 | The Pāṇḍavas revealed; Uttarā given to Abhimanyu. |
+| 5 | The Wrestler | 4.12 | ✅ drafted. Bhīma kills the wrestler Jīmūta at the festival of Brahmā (4.12). |
+| 6 | Kichaka | 4.13–4.15 | ✅ drafted. Kīcaka woos the sairandhrī; Sudeṣṇā sends her for wine; the kick in the hall; Yudhiṣṭhira presses Bhīma's toe (4.13–15). |
+| 7 | Draupadi's Grief | 4.16–4.17 | ✅ drafted. Draupadī goes to Bhīma by night and blames the dice (4.16–17). |
+| 8 | Bhima's Promise | 4.18–4.20 | ✅ drafted. Draupadī's lament and her calloused hands; "a month and a half more"; Bhīma resolves to kill Kīcaka (4.18–20). |
+| 9 | The Dance Hall | 4.21 | ✅ drafted. Kīcaka meets Bhīma in the dark dance hall and is crushed (4.21). |
+| 10 | The Upakichakas | 4.22–4.23 | ✅ drafted. The Upakīcakas carry the sairandhrī to the pyre; Bhīma kills all 105 with a tree; "thirteen days" (4.22–23). |
+| 11 | The Spies Return | 4.24–4.28 | ✅ drafted. Talk of Kīcaka's death; the spies' report; Duryodhana, Karṇa, Duḥśāsana, Droṇa, Bhīṣma and Kṛpa on finding the Pāṇḍavas (4.24–28). |
+| 12 | The Trigartas' Raid | 4.29–4.32 | ✅ drafted. Suśarman's raid; Virāṭa captured and freed; the tree forbidden; Virāṭa offers Kaṅka the kingdom (4.29–32). |
+| 13 | Uttara's Boast | 4.33–4.35 | ✅ drafted. The Kauravas take the northern herds; Uttara's boast; Draupadī names Bṛhannaḍā; cloth for the dolls (4.33–35). |
+| 14 | Brihannada's Chariot | 4.36–4.37 | ✅ drafted. Uttara runs; Arjuna catches him; the Kurus wonder; Droṇa's omens; Duryodhana's "twelve more years" (4.36–37). |
+| 15 | The Weapons in the Tree | 4.38–4.41 | ✅ drafted. The weapons in the śamī; the Gāṇḍīva's history; Arjuna's ten names; the vow, not a curse; the monkey banner and the conch (4.38–41). |
+| 16 | The Kaurava Council | 4.42–4.47 | ✅ drafted. Duryodhana, Karṇa, Kṛpa and Aśvatthāman quarrel; Bhīṣma makes peace and reckons the years; the battle order (4.42–47). |
+| 17 | The Cattle Recovered | 4.48–4.51 | ✅ drafted. The greeting arrows; the cattle turned back; Vikarṇa, Śatruṃtapa, Saṃgrāmajit; Karṇa driven off; the leaders pointed out; the gods watch (4.48–51). |
+| 18 | Kripa, Drona and Karna | 4.52–4.55 | ✅ drafted. Kṛpa unhorsed; Droṇa and Arjuna; Aśvatthāman cuts the bowstring; Karṇa wounded and in flight (4.52–55). |
+| 19 | The Stupefying Weapon | 4.56–4.62 | ✅ drafted. Arjuna routs the Kauravas; duel with Bhīṣma; Duryodhana taunted; the stupefying weapon and the cloths for the dolls; Duryodhana's crown cut (4.56–62). |
+| 20 | Virata's Dice | 4.63–4.64 | ✅ drafted. Virāṭa's return and joy; the dice; the blow and the blood caught; Uttara's account of the god's son (4.63–64). |
+| 21 | The Pandavas Revealed | 4.65–4.67 | ✅ drafted. The Pāṇḍavas on the royal seats; Arjuna names them; Virāṭa's apology; Uttarā given to Abhimanyu; the allies at Upaplavya; the wedding (4.65–67). **Book 4 complete.** |
+
+## Book 5: Udyoga Parva: *The Effort for Peace* (CE 5.1–5.197)
+
+6,063 verses in 197 adhyāyas. The chapter list was drawn up from the CE's
+adhyāya openings before drafting. Titles and contents are provisional and
+are refined while drafting. The sub-parva groupings follow the CE's own list
+in 1.2 (Udyoga, Saṃjayayāna, Prajāgara, Sānatsujāta, Yānasaṃdhi,
+Bhagavadyāna, Vivāda, Niryāṇa, Rathātirathasaṃkhyā, Ulūkadūtāgamana,
+Ambopākhyāna); the boundaries are read from the content of the adhyāyas.
+
+| Ch | Title | CE | Plan |
+|----|-------|----|------|
+| 1 | The Council in Virata's Hall | 5.1–5.6 | ✅ drafted. Four days after the wedding; Kṛṣṇa's case for an envoy; Balarāma blames the gambler; Sātyaki's anger; Drupada's list of kings; Kṛṣṇa goes home; the priest sent. |
+| 2 | The Choice at Dvaraka | 5.7–5.8 | ✅ drafted. Duryodhana at the head, Arjuna at the feet; the Nārāyaṇas or Kṛṣṇa unarmed (L-171); Balarāma stands aside; Śalya won by the feast; Karṇa's spirit to be broken (L-172). |
+| 3 | Indra and Vritra | 5.9–5.10 | ✅ drafted. Śalya's tale: Triśiras and the birds; Vṛtra and the yawn; the pact; the foam at twilight; Indra hides in the waters. |
+| 4 | Nahusha | 5.11–5.14 | Nahuṣa made king of the gods; he wants Śacī; Bṛhaspati's protection; Upaśruti. |
+| 5 | The Fall of Nahusha | 5.15–5.18 | The sages' litter; Indra restored; Śalya's promise to Yudhiṣṭhira. |
+| 6 | The Armies Gather | 5.19–5.21 | The akṣauhiṇīs; Drupada's priest in the Kuru hall; Bhīṣma and Karṇa; Sañjaya to be sent. |
+| 7 | Sanjaya's Mission | 5.22–5.25 | Dhṛtarāṣṭra's instructions; Sañjaya at Upaplavya. |
+| 8 | Yudhishthira's Answer | 5.26–5.28 | Peace or war; Sañjaya's counsel of renunciation; Yudhiṣṭhira's reply. |
+| 9 | Krishna's Answer | 5.29–5.30 | Kṛṣṇa on duty and the dice; Sañjaya takes his leave and the messages. |
+| 10 | Five Villages | 5.31–5.32 | Yudhiṣṭhira's message; Sañjaya returns to Dhṛtarāṣṭra. |
+| 11 | Vidura's Night Counsel | 5.33 | The sleepless king sends for Vidura. |
+| 12 | The Sleepless King | 5.34–5.35 | Vidura's counsel continues; Sudhanvan and Virocana. |
+| 13 | The Swan and the Sadhyas | 5.36–5.37 | Dattātreya and the Sādhyas; Manu's seventeen fools. |
+| 14 | Vidura's Last Counsel | 5.38–5.41 | Vidura's counsel ends; he calls on Sanatsujāta. |
+| 15 | Sanatsujata | 5.42–5.45 | Death, silence, the eternal. |
+| 16 | Arjuna's Message | 5.46–5.47 | Sañjaya reports Arjuna's words to the assembled Kurus. |
+| 17 | Nara and Narayana | 5.48–5.49 | Bhīṣma on Nara and Nārāyaṇa; Karṇa and Bhīṣma; the Pāṇḍava allies. |
+| 18 | Dhritarashtra's Fear | 5.50–5.53 | The father's fear of Bhīma and Arjuna. |
+| 19 | Duryodhana's Boast | 5.54–5.55 | Duryodhana's answer to his father. |
+| 20 | The Pandava Army | 5.56–5.58 | Sañjaya lists the Pāṇḍava champions; Kṛṣṇa and Arjuna in the inner rooms. |
+| 21 | Father and Son | 5.59–5.62 | Dhṛtarāṣṭra weighs the strengths; Karṇa's boast; Bhīṣma's scorn. |
+| 22 | Who Krishna Is | 5.63–5.69 | Duryodhana's defiance; Sañjaya on Kṛṣṇa's nature and names. |
+| 23 | The Pandavas' Counsel | 5.70–5.71 | Yudhiṣṭhira asks Kṛṣṇa to go to Hastināpura. |
+| 24 | Bhima Speaks Softly | 5.72–5.75 | Bhīma for peace; Kṛṣṇa's goading; Bhīma's answer. |
+| 25 | Draupadi's Hair | 5.76–5.80 | Arjuna, Nakula, Sahadeva, Sātyaki; Draupadī's plea. |
+| 26 | Krishna Sets Out | 5.81–5.82 | The departure; the seers on the road; the omens. |
+| 27 | Hastinapura Waits | 5.83–5.86 | Dhṛtarāṣṭra's plans for gifts; Vidura's warning; Duryodhana's plan. |
+| 28 | Kunti's Grief | 5.87–5.88 | Kṛṣṇa enters the city; Kuntī's lament. |
+| 29 | Vidura's House | 5.89–5.92 | Duryodhana's food refused; Vidura's night counsel. |
+| 30 | Krishna in the Hall | 5.93–5.95 | Kṛṣṇa's speech; Rāma Jāmadagnya's tale of Dambhodbhava. |
+| 31 | The Worlds Below | 5.96–5.100 | Kaṇva's tale: Mātali's search through the underworlds. |
+| 32 | Gunakeshi | 5.101–5.103 | Sumukha; Garuḍa's pride humbled. |
+| 33 | Galava's Fee | 5.104–5.110 | Nārada's tale: Gālava and the eight hundred horses. |
+| 34 | Madhavi | 5.111–5.117 | Śāṇḍilī; Mādhavī and the three kings. |
+| 35 | Yayati's Fall | 5.118–5.121 | Yayāti falls from heaven and is raised by his grandsons. |
+| 36 | The Elders Plead | 5.122–5.125 | Dhṛtarāṣṭra, Bhīṣma, Droṇa and Vidura; Duryodhana's reply. |
+| 37 | Krishna's Anger | 5.126–5.127 | Kṛṣṇa answers Duryodhana; Gāndhārī's counsel. |
+| 38 | The Cosmic Form | 5.128–5.129 | The plot to seize Kṛṣṇa; the form in the hall (L-30). |
+| 39 | Vidula's Son | 5.130–5.132 | Kuntī's message: the tale of Vidulā. |
+| 40 | A Mother's Counsel | 5.133–5.137 | Vidulā's counsel ends; Kuntī's words to her sons; Bhīṣma and Droṇa plead. |
+| 41 | Krishna and Karna | 5.138–5.141 | Kṛṣṇa tells Karṇa his birth; Karṇa's refusal. |
+| 42 | Kunti and Karna | 5.142–5.144 | Kuntī at the river; the promise of five sons (L-31). |
+| 43 | Krishna's Report | 5.145–5.148 | Kṛṣṇa tells the Pāṇḍavas what happened in the hall. |
+| 44 | The March to Kurukshetra | 5.149–5.151 | The commander chosen; the army marches; the camp. |
+| 45 | Bhishma Takes Command | 5.152–5.155 | The Kaurava divisions; Bhīṣma consecrated; Rukmin. |
+| 46 | Uluka's Message | 5.156–5.159 | Duryodhana's insults sent by Ulūka. |
+| 47 | The Answer to Uluka | 5.160–5.162 | The Pāṇḍavas' replies; the army marshalled. |
+| 48 | Chariot Fighters | 5.163–5.166 | Bhīṣma ranks the Kaurava warriors; Karṇa walks out. |
+| 49 | Bhishma Ranks the Pandavas | 5.167–5.170 | The Pāṇḍava side ranked; why Bhīṣma will not fight Śikhaṇḍin. |
+| 50 | Amba | 5.171–5.174 | The three princesses; Ambā sent to Śālva and refused. |
+| 51 | Rama Takes Up Amba's Cause | 5.175–5.178 | Hotravāhana and Akṛtavraṇa; Rāma Jāmadagnya summons Bhīṣma. |
+| 52 | Bhishma and Rama | 5.179–5.183 | The duel at Kurukṣetra. |
+| 53 | The Sleeping Weapon | 5.184–5.187 | The dream; the prasvāpa weapon withheld; the duel ends. |
+| 54 | Amba's Vow | 5.188–5.191 | Ambā's austerities; Śiva's boon; the girl raised as a son. |
+| 55 | Shikhandin | 5.192–5.193 | The yakṣa Sthūṇākarṇa exchanges sex with Śikhaṇḍinī. |
+| 56 | The Armies Move | 5.194–5.197 | How long each would take to destroy the enemy; the armies set out. |
 
 ## Books 2–18: provisional sub-parvas
 
@@ -391,7 +459,8 @@ concordance, cross-checked against the CE's list of sub-parvas.
   Anudyūta 66–72
 * **Book 3, Āraṇyaka**: now planned by CE adhyāya in the table above.
 * **Book 4, Virāṭa**: now planned by CE adhyāya in the table above.
-* **Book 5, Udyoga**: Udyoga 1–21 · Sañjayayāna 22–32 · Prajāgara 33–41 ·
+* **Book 5, Udyoga**: now planned by CE adhyāya in the table above. Provisional
+  sub-parvas: Udyoga 1–21 · Sañjayayāna 22–32 · Prajāgara 33–41 ·
   Sanatsujāta 42–45 · Yānasaṃdhi 46–69 · Bhagavadyāna 70–137 · Karṇa and Kuntī
   138–146 · Sainyaniryāṇa 147–156 · Ulūkadūtāgamana 157–160 · Rathātirathasaṃkhyā
   161–169 · Ambopākhyāna 170–197

@@ -19,6 +19,9 @@ note it and keep the text's wording in the novel.
 | The Pandavas' exile after the dice | twelve years in the forest and a thirteenth year unrecognised | (ref) |
 | The food of the Sun | "seven and five" (twelve) years of inexhaustible food | 3.4.2 |
 | Arjuna's disguise as Brihannada | the year in hiding, a vow at his brother's command | 4.40.12 |
+| The Pandavas revealed | "on the third day" after the battle for the cattle | 4.65.1 |
+| The council in Virata's hall | after four dawns' rest following Abhimanyu's wedding | 5.1.1 |
+| Duryodhana and Arjuna at Dvaraka | the same day | 5.7.4 |
 | The war | Bhishma fights ten days, Drona five, Karna two, Shalya half a day; then the mace duel; that night Kritavarma, Ashvatthama and Kripa kill the sleeping Pandava army. That makes eighteen days | 1.2.26–28 |
 | The armies | eighteen akshauhinis in all, gathered at Samantapanchaka | 1.2.24–25 |
 | Gandhari's curse on Krishna's clan | fulfilled in the thirty-sixth year | 11.25.41 |

@@ -49,7 +49,7 @@
    "name": "Janamejaya",
    "iast": "Janamejaya",
    "group": "Kuru",
-   "who": "king of the Kurus, great-grandson of Arjuna; the snake sacrifice is his",
+   "who": "king of the Kurus, great-grandson of Arjuna; the snake sacrifice is his; also a king Drupada would summon (5.4.22)",
    "aka": [
     "Parikshita (son of Parikshit)"
    ],
@@ -1198,7 +1198,7 @@
    "name": "Kadru",
    "iast": "Kadrū",
    "group": "Gods",
-   "who": "daughter of the creator, wife of Kashyapa, mother of a thousand nagas",
+   "who": "daughter of the creator, wife of Kashyapa, mother of a thousand nagas; also a king Drupada would summon (5.4.21)",
    "aka": [],
    "dialogue": [],
    "flag": [
@@ -2151,7 +2151,7 @@
    "name": "Devaka",
    "iast": "Devaka",
    "group": "King",
-   "who": "king whose daughter by a shudra woman married Vidura",
+   "who": "king whose daughter by a shudra woman married Vidura; also a king Drupada would summon (5.4.23)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -2887,7 +2887,7 @@
    "name": "Dandadhara",
    "iast": "Daṇḍadhāra",
    "group": "Suitor",
-   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice; also a king Drupada would summon (5.4.18)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -3175,7 +3175,7 @@
    "name": "Shrutayu",
    "iast": "Śrutāyu",
    "group": "Suitor",
-   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice; also a king Drupada would summon (5.4.24)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -4094,7 +4094,7 @@
    "name": "Vritra",
    "iast": "Vṛtra",
    "group": "Demon",
-   "who": "the demon slain by Indra (\"slayer of Vritra\")",
+   "who": "the demon slain by Indra (\"slayer of Vritra\"); also the asura Tvashtri made to kill Indra; killed with foam at twilight (5.9–10) (5.9.43)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -4114,10 +4114,13 @@
    "name": "Tvashtri",
    "iast": "Tvaṣṭṛ",
    "group": "Deity",
-   "who": "one of the gods who attack Krishna and Arjuna at Khandava",
+   "who": "one of the gods who attack Krishna and Arjuna at Khandava; also the divine craftsman who made the thunderbolt; father of Trishiras and maker of Vritra (5.9.3)",
    "aka": [],
    "dialogue": [],
-   "flag": [],
+   "flag": [
+    "Tvashtar",
+    "Tvastri"
+   ],
    "ref": "1.218.32-35"
   },
   {
@@ -7355,7 +7358,7 @@
    "name": "Kratha",
    "iast": "Kratha",
    "group": "King",
-   "who": "an overlord of kings defeated by Bhima; also a king Krishna beat at Jaruthi (3.13.27); also a monkey chief",
+   "who": "an overlord of kings defeated by Bhima; also a king Krishna beat at Jaruthi (3.13.27); also a monkey chief; also a king Drupada would summon, with \"Kratha's son\" (5.4.16, 21)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -8238,7 +8241,7 @@
    "name": "Brihatsena",
    "iast": "Bṛhatsenā",
    "group": "Vidarbha",
-   "who": "Damayanti's nurse",
+   "who": "Damayanti's nurse; also a king Drupada would summon (5.4.18)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -8615,16 +8618,6 @@
    "dialogue": [],
    "flag": [],
    "ref": "3.98.3"
-  },
-  {
-   "name": "Tvashtar",
-   "iast": "Tvaṣṭṛ",
-   "group": "God",
-   "who": "the divine craftsman, who made the thunderbolt",
-   "aka": [],
-   "dialogue": [],
-   "flag": [],
-   "ref": "3.98.22"
   },
   {
    "name": "Asamanjas",
@@ -9312,7 +9305,7 @@
    "name": "Durjaya",
    "iast": "Durjaya",
    "group": "Kaurava",
-   "who": "a son of Dhritarashtra, carried off by the gandharvas at Dvaitavana",
+   "who": "a son of Dhritarashtra, carried off by the gandharvas at Dvaitavana; also a king Drupada would summon (5.4.22)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -10139,6 +10132,328 @@
    "dialogue": [],
    "flag": [],
    "ref": "4.51.10"
+  },
+  {
+   "name": "Papajit",
+   "iast": "Pāpajit",
+   "group": "Catalogue",
+   "who": "a king Drupada would summon (5.4.13)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.4.13"
+  },
+  {
+   "name": "Chitravarman",
+   "iast": "Citravarman",
+   "group": "Catalogue",
+   "who": "a king Drupada would summon (5.4.13)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.4.13"
+  },
+  {
+   "name": "Suvastuka",
+   "iast": "Suvāstuka",
+   "group": "Catalogue",
+   "who": "a king Drupada would summon (5.4.13)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.4.13"
+  },
+  {
+   "name": "Munjakesha",
+   "iast": "Muñjakeśa",
+   "group": "Catalogue",
+   "who": "a king Drupada would summon (5.4.14)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.4.14"
+  },
+  {
+   "name": "Suparshva",
+   "iast": "Supārśva",
+   "group": "Catalogue",
+   "who": "a king Drupada would summon (5.4.14)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.4.14"
+  },
+  {
+   "name": "Paurava",
+   "iast": "Paurava",
+   "group": "Catalogue",
+   "who": "a great chariot fighter Drupada would summon (5.4.14)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.4.14"
+  },
+  {
+   "name": "Pautimatsyaka",
+   "iast": "Pautimatsyaka",
+   "group": "Catalogue",
+   "who": "a king Drupada would summon (5.4.17)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.4.17"
+  },
+  {
+   "name": "Audra",
+   "iast": "Auḍra",
+   "group": "Catalogue",
+   "who": "a king Drupada would summon (5.4.18)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.4.18"
+  },
+  {
+   "name": "Aparajita",
+   "iast": "Aparājita",
+   "group": "Catalogue",
+   "who": "a king Drupada would summon (5.4.18)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.4.18"
+  },
+  {
+   "name": "Nishada",
+   "iast": "Niṣāda",
+   "group": "Catalogue",
+   "who": "a king Drupada would summon (5.4.18)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.4.18"
+  },
+  {
+   "name": "Bahu",
+   "iast": "Bāhu",
+   "group": "Catalogue",
+   "who": "a king, \"conqueror of cities\", Drupada would summon (5.4.19)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.4.19"
+  },
+  {
+   "name": "Adari",
+   "iast": "Adāri",
+   "group": "Catalogue",
+   "who": "a king Drupada would summon (5.4.20)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.4.20"
+  },
+  {
+   "name": "Nadija",
+   "iast": "Nadīja",
+   "group": "Catalogue",
+   "who": "a king Drupada would summon (5.4.20)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.4.20"
+  },
+  {
+   "name": "Karnaveshta",
+   "iast": "Karṇaveṣṭa",
+   "group": "Catalogue",
+   "who": "a king Drupada would summon (5.4.20)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.4.20"
+  },
+  {
+   "name": "Samartha",
+   "iast": "Samartha",
+   "group": "Catalogue",
+   "who": "a king Drupada would summon (5.4.20)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.4.20"
+  },
+  {
+   "name": "Suvira",
+   "iast": "Suvīra",
+   "group": "Catalogue",
+   "who": "a king Drupada would summon (5.4.20)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.4.20"
+  },
+  {
+   "name": "Marjara",
+   "iast": "Mārjāra",
+   "group": "Catalogue",
+   "who": "a king Drupada would summon (5.4.20)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.4.20"
+  },
+  {
+   "name": "Kanyaka",
+   "iast": "Kanyaka",
+   "group": "Catalogue",
+   "who": "a king Drupada would summon (5.4.20)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.4.20"
+  },
+  {
+   "name": "Mahavira",
+   "iast": "Mahāvīra",
+   "group": "Catalogue",
+   "who": "a king Drupada would summon (5.4.21)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.4.21"
+  },
+  {
+   "name": "Nikara",
+   "iast": "Nikara",
+   "group": "Catalogue",
+   "who": "a king Drupada would summon (5.4.21)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.4.21"
+  },
+  {
+   "name": "Tumula",
+   "iast": "Tumula",
+   "group": "Catalogue",
+   "who": "a king Drupada would summon (5.4.21)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.4.21"
+  },
+  {
+   "name": "Viradharman",
+   "iast": "Vīradharman",
+   "group": "Catalogue",
+   "who": "a king Drupada would summon (5.4.21)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.4.21"
+  },
+  {
+   "name": "Bhumipala",
+   "iast": "Bhūmipāla",
+   "group": "Catalogue",
+   "who": "a king Drupada would summon (5.4.21)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.4.21"
+  },
+  {
+   "name": "Ashadha",
+   "iast": "Āṣāḍha",
+   "group": "Catalogue",
+   "who": "a king Drupada would summon (5.4.22)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.4.22"
+  },
+  {
+   "name": "Vayuvega",
+   "iast": "Vāyuvega",
+   "group": "Catalogue",
+   "who": "a king Drupada would summon (5.4.22)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.4.22"
+  },
+  {
+   "name": "Purvapalin",
+   "iast": "Pūrvapālin",
+   "group": "Catalogue",
+   "who": "a king Drupada would summon (5.4.22)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.4.22"
+  },
+  {
+   "name": "Bhuritejas",
+   "iast": "Bhūritejas",
+   "group": "Catalogue",
+   "who": "a king Drupada would summon (5.4.23)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.4.23"
+  },
+  {
+   "name": "Kshemadhurti",
+   "iast": "Kṣemadhūrti",
+   "group": "Catalogue",
+   "who": "a king Drupada would summon (5.4.23)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.4.23"
+  },
+  {
+   "name": "Udbhava",
+   "iast": "Udbhava",
+   "group": "Catalogue",
+   "who": "a king Drupada would summon (5.4.24)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.4.24"
+  },
+  {
+   "name": "Vatadhana",
+   "iast": "Vāṭadhāna",
+   "group": "Catalogue",
+   "who": "a king Drupada would summon (5.4.24)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.4.24"
+  },
+  {
+   "name": "Dridhayu",
+   "iast": "Dṛḍhāyus",
+   "group": "Catalogue",
+   "who": "a king Drupada would summon (5.4.24)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.4.24"
+  },
+  {
+   "name": "Trishiras",
+   "iast": "Triśiras",
+   "group": "Deity",
+   "who": "Tvashtri's three-headed son, killed by Indra, also called Vishvarupa (5.9)",
+   "aka": [
+    "Vishvarupa"
+   ],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.9.3"
   }
  ],
  "not_vyasa": [

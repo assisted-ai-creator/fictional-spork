@@ -6,6 +6,27 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Novel: Book 5 begun, chapters 1–3 drafted: the council, the choice at Dvaraka, Indra and Vritra
+- Checked Books 1–4 before starting: all 663 adhyayas covered, index and
+  reflow checks clean.
+- Ch 1 *The Council in Virata's Hall* (CE 5.1–6): Krishna's case for an
+  envoy, Balarama's blame of the gambler, Satyaki's anger, Drupada's list of
+  kings, the priest sent to Hastinapura. Ch 2 *The Choice at Dvaraka*
+  (5.7–8): Duryodhana and Arjuna at Krishna's bedside, the Narayanas or
+  Krishna unarmed, Shalya won by Duryodhana's halls, Yudhishthira's request
+  about Karna. Ch 3 *Indra and Vritra* (5.9–10): Shalya's tale of Trishiras,
+  Vritra, the yawn, the pact and the foam.
+- Book 5 chapter plan (57 chapters, provisional) added to `NOVEL_PLAN.md`.
+- Ledger: L-171 (the choice at Dvaraka), L-172 (Shalya won over; Karna's
+  spirit to be broken).
+- Fixed `NOVEL_PLAN.md`: the Book 4 chapter notes for chapters 5–21 had been
+  written into the wrong tables (the eighteen-Books overview, the Book 1
+  sub-parva table and Book 1 chapters 20–21). Those rows are restored and the
+  notes moved to the Book 4 table.
+- Names: Drupada's list of kings (5.4), Trishiras; Tvashtar merged into
+  Tvashtri (the three uses of "Tvashtar" in Book 3 ch 33 normalised).
+- Timeline: the council four days after the wedding.
+
 ### Novel: Book 1 (Adi Parva), chapters 1–7 drafted
 - Ch 1 *The Storyteller in the Forest* (CE 1.1.1–101); Ch 2 *When I Heard*
   (1.1.102–210); Ch 3 *The Hundred Parts* (1.2); Ch 4 *The Teacher's Pupils*

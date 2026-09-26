@@ -2,7 +2,7 @@
 
 # Contents
 
-**231 chapters, 505,090 words.** 231 drafted
+**234 chapters, 512,237 words.** 234 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -263,3 +263,13 @@
 | 21 | [The Pandavas Revealed](../novel/book-04-virata/21-the-pandavas-revealed.md) | 4.65-67 | drafted | 1,888 |
 
 *Book 4 so far: 41,574 words.*
+
+## Book 5: Udyoga Parva, *The Effort for Peace*
+
+| # | Chapter | CE | Status | Words |
+|---|---------|----|--------|-------|
+| 1 | [The Council in Virata's Hall](../novel/book-05-udyoga/01-the-council-in-viratas-hall.md) | 5.1-6 | drafted | 3,024 |
+| 2 | [The Choice at Dvaraka](../novel/book-05-udyoga/02-the-choice-at-dvaraka.md) | 5.7-8 | drafted | 1,622 |
+| 3 | [Indra and Vritra](../novel/book-05-udyoga/03-indra-and-vritra.md) | 5.9-10 | drafted | 2,501 |
+
+*Book 5 so far: 7,147 words.*
