@@ -475,8 +475,8 @@ and the whole battle is told as his answer. Days are fixed by the withdrawals
 | 11 | The Form of All | 6.33–6.34 | ✅ drafted. Gītā 11–12: the divine form; "I am Time"; the instrument; Arjuna's apology; the way of love; the devotee dear to Kṛṣṇa. |
 | 12 | The Field and the Strands | 6.35–6.37 | ✅ drafted. Gītā 13–15: the field and its knower (L-191: the 701st verse is rejected); the three strands; the upside-down tree; the highest Person. |
 | 13 | Freedom | 6.38–6.40 | ✅ drafted. Gītā 16–18: godlike and demonic; three kinds of faith, food, austerity, giving; Om Tat Sat; renouncing and relinquishing; "take refuge in me alone"; "my confusion is gone" (L-192). |
-| 14 | Yudhishthira Asks Leave | 6.41 | Yudhiṣṭhira goes unarmed to Bhīṣma, Droṇa, Kṛpa and Śalya; Yuyutsu changes sides. |
-| 15 | The First Day | 6.42–6.45 | The first clash; the duels; the deaths of Uttara and Śveta. |
+| 14 | Yudhishthira Asks Leave | 6.41 | ✅ drafted. Yudhiṣṭhira unarmed before Bhīṣma, Droṇa, Kṛpa and Śalya; "a man is the slave of wealth"; Droṇa's condition; Śalya's promise; Karṇa refuses Kṛṣṇa; Yuyutsu crosses over. |
+| 15 | The First Day | 6.42–6.45 | ✅ drafted. Bhīma's roar; the duels; the melee where kin kill kin; Abhimanyu fells Bhīṣma's banner; Śalya kills Uttara; no Śveta in the CE (L-193); the Pāṇḍavas withdraw. |
 | 16 | The Heron Array | 6.46–6.49 | Yudhiṣṭhira's despair at night; the second day's arrays; Arjuna and Bhīṣma; Droṇa and Dhṛṣṭadyumna. |
 | 17 | Bhima and the Kalingas | 6.50–6.51 | Bhīma's fight with the Kaliṅgas; the end of the second day. |
 | 18 | The Third Day | 6.52–6.55 | The Garuḍa and half-moon arrays; Kṛṣṇa's anger at Bhīṣma; Arjuna's great slaughter. |
@@ -486,9 +486,9 @@ and the whole battle is told as his answer. Days are fixed by the withdrawals
 | 22 | The Sixth Day | 6.71–6.75 | Dhṛtarāṣṭra blames fate; Saṃjaya blames him; Bhīma alone among the Kauravas; Duryodhana wounded. |
 | 23 | The Seventh Day | 6.76–6.79 | Bhīṣma's comfort to Duryodhana; the Maṇḍala array; the duels. |
 | 24 | Shrutayus | 6.80–6.82 | Yudhiṣṭhira and Śrutāyus; Arjuna's fight; the evening. |
-| 25 | Iravat | 6.83–6.86 | The eighth day; Bhīma kills sons of Dhṛtarāṣṭra; Irāvat's death. |
+| 25 | Iravan | 6.83–6.86 | The eighth day; Bhīma kills sons of Dhṛtarāṣṭra; Irāvān's death. |
 | 26 | Ghatotkacha | 6.87–6.89 | Ghaṭotkaca's fury; Duryodhana and the rākṣasa. |
-| 27 | The Eighth Day Ends | 6.90–6.92 | Duryodhana against Bhīma; Bhagadatta; Arjuna's grief for Irāvat; more sons of Dhṛtarāṣṭra killed. |
+| 27 | The Eighth Day Ends | 6.90–6.92 | Duryodhana against Bhīma; Bhagadatta; Arjuna's grief for Irāvān; more sons of Dhṛtarāṣṭra killed. |
 | 28 | Duryodhana's Reproach | 6.93–6.94 | The night council; Duryodhana reproaches Bhīṣma; Bhīṣma's promise. |
 | 29 | The Ninth Day | 6.95–6.98 | The arrays; Abhimanyu and Alambuṣa; Droṇa and Arjuna. |
 | 30 | Krishna Runs at Bhishma | 6.99–6.102 | Bhīṣma's slaughter; Kṛṣṇa's anger; Arjuna's promise. |

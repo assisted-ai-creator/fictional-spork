@@ -6,6 +6,13 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Novel: Book 6, chapters 14–15: the war begins
+- Ch 14 *Yudhishthira Asks Leave* (CE 6.41): the blessings of Bhishma, Drona,
+  Kripa and Shalya; Karna refuses Krishna; Yuyutsu changes sides. Ch 15 *The
+  First Day* (6.42–45).
+- Ledger: L-193 (no Shveta in the CE: Uttara is killed by Shalya, and his
+  brother Shankha survives). "Iravat" corrected to the house spelling Iravan.
+
 ### Novel: Book 6, the Bhagavad Gita (chapters 7–13)
 - The whole Gita (CE 6.23–40, 700 verses) told in very simple English at the
   author's request, every verse kept, with explanatory footnotes: a plain
