@@ -1,0 +1,285 @@
+name: Build Book 1 PDF
+
+on:
+  push:
+    branches: ["claude/friendly-fermat-jmpwa1"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install PDF dependency
+        run: python -m pip install --disable-pip-version-check reportlab
+
+      - name: Compile Book 1 reading edition
+        run: python3 tools/compile_novel.py --book 1
+
+      - name: Build PDF
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          from xml.sax.saxutils import escape
+          from reportlab.lib.enums import TA_CENTER, TA_JUSTIFY
+          from reportlab.lib.pagesizes import A5
+          from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
+          from reportlab.lib.units import mm
+          from reportlab.pdfbase import pdfmetrics
+          from reportlab.pdfbase.ttfonts import TTFont
+          from reportlab.platypus import (
+              BaseDocTemplate, Frame, PageTemplate, Paragraph, Spacer, PageBreak,
+              HRFlowable, KeepTogether, TableOfContents
+          )
+
+          ROOT = Path(".")
+          md = ROOT / "build" / "manuscript-book01.md"
+          out = ROOT / "build" / "the-mahabharata-book-1-adi-parva.pdf"
+          text = md.read_text(encoding="utf-8")
+
+          # Use a Unicode serif font available on the Ubuntu runner.
+          font_regular = "/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf"
+          font_bold = "/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf"
+          font_italic = "/usr/share/fonts/truetype/dejavu/DejaVuSerif-Italic.ttf"
+          font_bolditalic = "/usr/share/fonts/truetype/dejavu/DejaVuSerif-BoldItalic.ttf"
+          for path in [font_regular, font_bold, font_italic, font_bolditalic]:
+              if not Path(path).exists():
+                  raise SystemExit(f"Required font not found: {path}")
+          pdfmetrics.registerFont(TTFont("BookSerif", font_regular))
+          pdfmetrics.registerFont(TTFont("BookSerif-Bold", font_bold))
+          pdfmetrics.registerFont(TTFont("BookSerif-Italic", font_italic))
+          pdfmetrics.registerFont(TTFont("BookSerif-BoldItalic", font_bolditalic))
+          pdfmetrics.registerFontFamily(
+              "BookSerif",
+              normal="BookSerif",
+              bold="BookSerif-Bold",
+              italic="BookSerif-Italic",
+              boldItalic="BookSerif-BoldItalic",
+          )
+
+          styles = getSampleStyleSheet()
+          title = ParagraphStyle(
+              "BookTitle", parent=styles["Title"], fontName="BookSerif-Bold",
+              fontSize=25, leading=31, alignment=TA_CENTER,
+              spaceAfter=10*mm, textColor="#222222"
+          )
+          subtitle = ParagraphStyle(
+              "BookSubtitle", parent=styles["Normal"], fontName="BookSerif-Italic",
+              fontSize=12.5, leading=18, alignment=TA_CENTER, textColor="#444444"
+          )
+          h1 = ParagraphStyle(
+              "H1", parent=styles["Heading1"], fontName="BookSerif-Bold",
+              fontSize=19, leading=24, alignment=TA_CENTER,
+              spaceBefore=10*mm, spaceAfter=7*mm, keepWithNext=True,
+              textColor="#222222"
+          )
+          h2 = ParagraphStyle(
+              "H2", parent=styles["Heading2"], fontName="BookSerif-Bold",
+              fontSize=15, leading=20, spaceBefore=7*mm, spaceAfter=4*mm,
+              keepWithNext=True, textColor="#333333"
+          )
+          h3 = ParagraphStyle(
+              "H3", parent=styles["Heading3"], fontName="BookSerif-Bold",
+              fontSize=12.5, leading=17, spaceBefore=5*mm, spaceAfter=3*mm,
+              keepWithNext=True, textColor="#333333"
+          )
+          body = ParagraphStyle(
+              "Body", parent=styles["BodyText"], fontName="BookSerif",
+              fontSize=10.3, leading=15.2, alignment=TA_JUSTIFY,
+              spaceAfter=4.0*mm, firstLineIndent=6*mm,
+              textColor="#202020", splitLongWords=False
+          )
+          first = ParagraphStyle(
+              "First", parent=body, firstLineIndent=0,
+          )
+          quote = ParagraphStyle(
+              "Quote", parent=body, fontName="BookSerif-Italic",
+              leftIndent=9*mm, rightIndent=5*mm, firstLineIndent=0,
+              alignment=TA_CENTER, spaceBefore=2*mm, spaceAfter=3*mm
+          )
+          toc_title = ParagraphStyle(
+              "TOCTitle", parent=styles["Heading1"], fontName="BookSerif-Bold",
+              fontSize=18, leading=23, alignment=TA_CENTER, spaceAfter=8*mm
+          )
+          toc1 = ParagraphStyle(
+              "TOC1", fontName="BookSerif", fontSize=9.5, leading=13,
+              leftIndent=0, firstLineIndent=0, spaceAfter=1.5*mm
+          )
+          toc0 = ParagraphStyle(
+              "TOC0", fontName="BookSerif-Bold", fontSize=10.5, leading=14,
+              leftIndent=0, firstLineIndent=0, spaceBefore=2*mm, spaceAfter=1.5*mm
+          )
+
+          class BookDocTemplate(BaseDocTemplate):
+              def __init__(self, filename, **kwargs):
+                  super().__init__(filename, **kwargs)
+                  frame = Frame(
+                      self.leftMargin, self.bottomMargin,
+                      self.width, self.height, id="normal"
+                  )
+                  self.addPageTemplates([
+                      PageTemplate(id="book", frames=frame, onPage=draw_page)
+                  ])
+
+              def afterFlowable(self, flowable):
+                  if isinstance(flowable, Paragraph):
+                      style_name = flowable.style.name
+                      text_plain = re.sub(r"<[^>]+>", "", flowable.getPlainText())
+                      if style_name == "H1":
+                          key = "h1-" + str(self.seq.nextf("h1"))
+                          self.canv.bookmarkPage(key)
+                          self.canv.addOutlineEntry(text_plain, key, level=0, closed=False)
+                          self.notify("TOCEntry", (0, text_plain, self.page))
+                      elif style_name == "H2":
+                          key = "h2-" + str(self.seq.nextf("h2"))
+                          self.canv.bookmarkPage(key)
+                          self.canv.addOutlineEntry(text_plain, key, level=1, closed=True)
+                          self.notify("TOCEntry", (1, text_plain, self.page))
+
+          def draw_page(canvas, doc):
+              canvas.saveState()
+              canvas.setFont("BookSerif", 8)
+              canvas.setFillColorRGB(0.35,0.35,0.35)
+              if doc.page > 1:
+                  canvas.drawCentredString(A5[0]/2, 11*mm, str(doc.page))
+              canvas.restoreState()
+
+          doc = BookDocTemplate(
+              str(out),
+              pagesize=A5,
+              rightMargin=18*mm,
+              leftMargin=18*mm,
+              topMargin=19*mm,
+              bottomMargin=17*mm,
+              title="The Mahabharata - Book 1: Adi Parva",
+              author="",
+              subject="Plain-English reading edition",
+          )
+
+          # Split compiled reading edition into front matter and Book 1.
+          marker = "# Book 1: Adi Parva"
+          if marker not in text:
+              raise SystemExit("Book 1 marker not found in compiled manuscript.")
+          front, book = text.split(marker, 1)
+
+          story = []
+
+          # Dedicated title page.
+          story.append(Spacer(1, 35*mm))
+          story.append(Paragraph("THE MAHABHARATA", title))
+          story.append(Paragraph("Vyasa's Epic, Told in Plain English", subtitle))
+          story.append(Spacer(1, 12*mm))
+          story.append(HRFlowable(width="45%", thickness=0.7, color="#777777", hAlign="CENTER"))
+          story.append(Spacer(1, 8*mm))
+          story.append(Paragraph("Book 1 - Adi Parva", subtitle))
+          story.append(Spacer(1, 4*mm))
+          story.append(Paragraph("Reading edition prepared from the repository's Book 1 manuscript.", subtitle))
+          story.append(PageBreak())
+
+          def inline_markup(s):
+              s = escape(s, {'"': '&quot;'})
+              s = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", s)
+              s = re.sub(r"(?<!\*)\*([^*\n]+?)\*(?!\*)", r"<i>\1</i>", s)
+              return s
+
+          def add_paragraph(buf, style=body):
+              if not buf:
+                  return
+              s = " ".join(x.strip() for x in buf).strip()
+              if not s:
+                  return
+              story.append(Paragraph(inline_markup(s), style))
+              buf.clear()
+
+          # Render front matter as normal book prose, preserving its section hierarchy.
+          lines = front.splitlines()
+          pbuf = []
+          in_front = True
+          first_body_para = True
+          for line in lines:
+              if line.startswith("# "):
+                  add_paragraph(pbuf)
+                  txt = line[2:].strip()
+                  story.append(Paragraph(inline_markup(txt), h1))
+              elif line.startswith("## "):
+                  add_paragraph(pbuf)
+                  story.append(Paragraph(inline_markup(line[3:].strip()), h2))
+              elif line.startswith("### "):
+                  add_paragraph(pbuf)
+                  story.append(Paragraph(inline_markup(line[4:].strip()), h3))
+              elif line.strip() == "---":
+                  add_paragraph(pbuf)
+                  story.append(Spacer(1, 3*mm))
+                  story.append(HRFlowable(width="100%", thickness=0.6, color="#888888"))
+                  story.append(Spacer(1, 3*mm))
+              elif line.startswith("> "):
+                  add_paragraph(pbuf)
+                  story.append(Paragraph(inline_markup(line[2:].strip()), quote))
+              elif not line.strip():
+                  add_paragraph(pbuf, first if first_body_para else body)
+                  first_body_para = False
+              else:
+                  pbuf.append(line)
+          add_paragraph(pbuf, first if first_body_para else body)
+
+          story.append(PageBreak())
+          story.append(Paragraph("Contents", toc_title))
+          toc = TableOfContents()
+          toc.levelStyles = [toc0, toc1]
+          story.append(toc)
+          story.append(PageBreak())
+
+          # Book 1: chapter heading + body.
+          lines = book.splitlines()
+          pbuf = []
+          first_in_chapter = True
+          for line in lines:
+              if line.startswith("# "):
+                  add_paragraph(pbuf)
+                  if story and len(story) > 0:
+                      story.append(PageBreak())
+                  story.append(Paragraph(inline_markup(line[2:].strip()), h1))
+                  first_in_chapter = True
+              elif line.startswith("## "):
+                  add_paragraph(pbuf)
+                  story.append(Paragraph(inline_markup(line[3:].strip()), h2))
+              elif line.startswith("### "):
+                  add_paragraph(pbuf)
+                  story.append(Paragraph(inline_markup(line[4:].strip()), h3))
+              elif line.strip() == "---":
+                  add_paragraph(pbuf)
+                  story.append(HRFlowable(width="100%", thickness=0.6, color="#888888"))
+              elif line.startswith("> "):
+                  add_paragraph(pbuf)
+                  story.append(Paragraph(inline_markup(line[2:].strip()), quote))
+              elif not line.strip():
+                  add_paragraph(pbuf, first if first_in_chapter else body)
+                  first_in_chapter = False
+              else:
+                  pbuf.append(line)
+          add_paragraph(pbuf, first if first_in_chapter else body)
+
+          # Remove an accidental double page break near the first Book heading.
+          # ReportLab simply handles consecutive breaks, but this keeps the source flow tidy.
+          doc.multiBuild(story, maxPasses=3)
+
+          print(f"Built {out} ({out.stat().st_size} bytes)")
+          PY
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: book-1-adi-parva-pdf
+          path: build/the-mahabharata-book-1-adi-parva.pdf
+          if-no-files-found: error
