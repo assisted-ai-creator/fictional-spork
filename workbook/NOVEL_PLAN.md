@@ -447,6 +447,56 @@ Ambopākhyāna); the boundaries are read from the content of the adhyāyas.
 | 55 | Shikhandi | 5.192–5.193 | ✅ drafted. The queen's confession; the yakṣa Sthūṇākarṇa exchanges sex with Śikhaṇḍinī; the test; Kubera's curse; Bhīṣma's vow not to shoot at one who was a woman (L-189). |
 | 56 | The Armies Move | 5.194–5.197 | ✅ drafted. A month, a month, two months, ten nights, five nights; Bhīṣma laughs at Karṇa; Arjuna will not use divine weapons on ordinary men; the Kaurava camp like a second Hastinapura; Yudhiṣṭhira's army marches. |
 
+## Book 6: Bhīṣma Parva: *Bhishma's Battle* (CE 6.1–6.117)
+
+5,406 verses in 117 adhyāyas (1.2.158–159 counts 117 adhyāyas and 5,884
+ślokas). The CE's list in 1.2.55–56 gives four sub-parvas:
+Jambūkhaṇḍavinirmāṇa, Bhūmi, Bhagavadgītā and Bhīṣmavadha. The chapter list
+was drawn from the CE's adhyāya openings before drafting; titles and contents
+are provisional. The frame: Vyāsa gives Sañjaya divine sight (6.2); after ten
+days Sañjaya comes back and tells Dhṛtarāṣṭra that Bhīṣma has fallen (6.14),
+and the whole battle is told as his answer. Days are fixed by the withdrawals
+(*avahāra*) at 6.45.63, 6.51.42, 6.55.128, 6.60.69, 6.70.35, 6.75.58, 6.82.51,
+6.92.79 and 6.103.4, and the tenth day is named at 6.104.38. The Gītā
+(6.23–6.40) is told in full, all eighteen of its chapters (see Open question 3).
+
+| Ch | Title | CE | Plan |
+|----|-------|----|------|
+| 1 | Vyasa's Gift | 6.1–6.4 | The rules of battle; Vyāsa offers Dhṛtarāṣṭra sight and gives Sañjaya divine sight; the portents; Vyāsa on the signs of victory. |
+| 2 | The Island of Jambu | 6.5–6.8 | Dhṛtarāṣṭra asks about the earth; Sañjaya on beings, the elements, Sudarśana island, Meru and its sides. |
+| 3 | Bharata | 6.9–6.11 | The ranges and regions; Bhārata's rivers and peoples; the ages and lifespans. |
+| 4 | The Other Islands | 6.12–6.13 | The measure of Jambūkhaṇḍa; Śāka, Kuśa, Krauñca and Puṣkara islands; Rāhu, the sun and the moon. |
+| 5 | Bhishma Has Fallen | 6.14–6.16 | Sañjaya returns from the field with the news; Dhṛtarāṣṭra's grief and questions; Sañjaya begins. |
+| 6 | The Armies Face Each Other | 6.17–6.22 | The kings assemble; the arrays; Yudhiṣṭhira's dismay and Arjuna's answer; the Pāṇḍava array. |
+| 7 | Arjuna's Despair | 6.23–6.24 | Gītā 1–2. |
+| 8 | Action | 6.25–6.27 | Gītā 3–5. |
+| 9 | The Steady Mind | 6.28–6.29 | Gītā 6–7. |
+| 10 | The Imperishable | 6.30–6.32 | Gītā 8–10. |
+| 11 | The Form of All | 6.33–6.34 | Gītā 11–12. |
+| 12 | The Field and the Strands | 6.35–6.37 | Gītā 13–15. |
+| 13 | Freedom | 6.38–6.40 | Gītā 16–18. |
+| 14 | Yudhishthira Asks Leave | 6.41 | Yudhiṣṭhira goes unarmed to Bhīṣma, Droṇa, Kṛpa and Śalya; Yuyutsu changes sides. |
+| 15 | The First Day | 6.42–6.45 | The first clash; the duels; the deaths of Uttara and Śveta. |
+| 16 | The Heron Array | 6.46–6.49 | Yudhiṣṭhira's despair at night; the second day's arrays; Arjuna and Bhīṣma; Droṇa and Dhṛṣṭadyumna. |
+| 17 | Bhima and the Kalingas | 6.50–6.51 | Bhīma's fight with the Kaliṅgas; the end of the second day. |
+| 18 | The Third Day | 6.52–6.55 | The Garuḍa and half-moon arrays; Kṛṣṇa's anger at Bhīṣma; Arjuna's great slaughter. |
+| 19 | The Fourth Day | 6.56–6.60 | Abhimanyu; Bhīma and the elephants; Bhīma kills sons of Dhṛtarāṣṭra; Ghaṭotkaca. |
+| 20 | Who Krishna Is | 6.61–6.64 | Dhṛtarāṣṭra asks why the Pāṇḍavas cannot be killed; Bhīṣma tells Duryodhana of Vāsudeva. |
+| 21 | The Fifth Day | 6.65–6.70 | The Makara and Śyena arrays; Bhīṣma and Śikhaṇḍin; Sātyaki and Bhūriśravas. |
+| 22 | The Sixth Day | 6.71–6.75 | Dhṛtarāṣṭra blames fate; Saṃjaya blames him; Bhīma alone among the Kauravas; Duryodhana wounded. |
+| 23 | The Seventh Day | 6.76–6.79 | Bhīṣma's comfort to Duryodhana; the Maṇḍala array; the duels. |
+| 24 | Shrutayus | 6.80–6.82 | Yudhiṣṭhira and Śrutāyus; Arjuna's fight; the evening. |
+| 25 | Iravat | 6.83–6.86 | The eighth day; Bhīma kills sons of Dhṛtarāṣṭra; Irāvat's death. |
+| 26 | Ghatotkacha | 6.87–6.89 | Ghaṭotkaca's fury; Duryodhana and the rākṣasa. |
+| 27 | The Eighth Day Ends | 6.90–6.92 | Duryodhana against Bhīma; Bhagadatta; Arjuna's grief for Irāvat; more sons of Dhṛtarāṣṭra killed. |
+| 28 | Duryodhana's Reproach | 6.93–6.94 | The night council; Duryodhana reproaches Bhīṣma; Bhīṣma's promise. |
+| 29 | The Ninth Day | 6.95–6.98 | The arrays; Abhimanyu and Alambuṣa; Droṇa and Arjuna. |
+| 30 | Krishna Runs at Bhishma | 6.99–6.102 | Bhīṣma's slaughter; Kṛṣṇa's anger; Arjuna's promise. |
+| 31 | How Bhishma Can Be Killed | 6.103 | The night visit: Bhīṣma tells the Pāṇḍavas how he can be brought down. |
+| 32 | Shikhandi Goes First | 6.104–6.108 | The tenth day; Śikhaṇḍin before Arjuna; the duels. |
+| 33 | The Fall of Bhishma | 6.109–6.114 | The last fight; Bhīṣma falls. |
+| 34 | The Bed of Arrows | 6.115–6.117 | The pillow of arrows; the water from the earth; Karṇa comes to Bhīṣma. |
+
 ## Books 2–18: provisional sub-parvas
 
 These come from Ganguli's section headings mapped to CE numbers by the
@@ -464,8 +514,9 @@ concordance, cross-checked against the CE's list of sub-parvas.
   Sanatsujāta 42–45 · Yānasaṃdhi 46–69 · Bhagavadyāna 70–137 · Karṇa and Kuntī
   138–146 · Sainyaniryāṇa 147–156 · Ulūkadūtāgamana 157–160 · Rathātirathasaṃkhyā
   161–169 · Ambopākhyāna 170–197
-* **Book 6, Bhīṣma**: Jambūkhaṇḍavinirmāṇa 1–11 · Bhūmi 12–13 · Bhagavadgītā
-  14–40 (the Gītā proper 23–40) · Bhīṣmavadha 41–117
+* **Book 6, Bhīṣma**: now planned by CE adhyāya in the table above.
+  Provisional sub-parvas: Jambūkhaṇḍavinirmāṇa 1–11 · Bhūmi 12–13 ·
+  Bhagavadgītā 14–40 (the Gītā proper 23–40) · Bhīṣmavadha 41–117
 * **Book 7, Droṇa**: Droṇābhiṣeka 1–15 · Saṃśaptakavadha 16–31 · Abhimanyuvadha
   32–51 · Pratijñā 52–60 · Jayadrathavadha 61–121 · Ghaṭotkacavadha 122–154 ·
   Droṇavadha 155–165 · Nārāyaṇāstramokṣa 166–173

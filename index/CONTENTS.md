@@ -2,7 +2,7 @@
 
 # Contents
 
-**287 chapters, 650,258 words.** 287 drafted
+**290 chapters, 658,671 words.** 290 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -326,3 +326,13 @@
 | 56 | [The Armies Move](../novel/book-05-udyoga/56-the-armies-move.md) | 5.194-197 | drafted | 1,796 |
 
 *Book 5 so far: 145,168 words.*
+
+## Book 6: Bhishma Parva, *Bhishma's Battle*
+
+| # | Chapter | CE | Status | Words |
+|---|---------|----|--------|-------|
+| 1 | [Vyasa's Gift](../novel/book-06-bhishma/01-vyasas-gift.md) | 6.1-4 | drafted | 3,328 |
+| 2 | [The Island of Jambu](../novel/book-06-bhishma/02-the-island-of-jambu.md) | 6.5-8 | drafted | 2,714 |
+| 3 | [Bharata](../novel/book-06-bhishma/03-bharata.md) | 6.9-11 | drafted | 2,371 |
+
+*Book 6 so far: 8,413 words.*
