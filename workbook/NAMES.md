@@ -34,7 +34,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Darada** | Darada | a Bahlika king whom Shishupala says split the earth at his birth |  |  |  |
 | **Jambhaka** | Jambhaka | father of a Bhoja king spared by Krishna |  |  |  |
 | **Kamsa** | Kaṃsa | the tyrant of Mathura, Jarasandha's son-in-law, killed by Krishna and Balarama |  |  | Kansa |
-| **Rukmin** | Rukmin | son of Bhishmaka, king at Bhojakata |  |  |  |
+| **Rukmin** | Rukmin | son of Bhishmaka, king at Bhojakata; also built Bhojakata where Krishna beat him; offers help to Arjuna and Duryodhana and is refused by both (5.155.15) |  |  |  |
 | **Sunaman** | Sunāman | killed with Kamsa; also a son of Garuda (5.99.2) |  |  |  |
 | **Jarita** | Jaritā | a female Sharngaka bird, mother of Mandapala's four sons |  |  |  |
 | **Jaritari** | Jaritāri | eldest of the four Sharngaka fledglings |  |  |  |
@@ -105,6 +105,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Divakara** | Divākara | a descendant of Garuda, named by Narada |  |  |  |
 | **Divodasa** | Divodāsa | named in Yama's hall (2.8); also king of Kashi, son of Bhimasena, father of Pratardana by Madhavi (5.115.1) |  |  |  |
 | **Dridhayu** | Dṛḍhāyus | a king Drupada would summon (5.4.24) |  |  |  |
+| **Druma** | Druma | the kimpurusha of Gandhamadana who taught Rukmin and gave him the Vijaya bow (Ganguli: Drona) |  |  |  |
 | **Dvipaka** | Dvīpaka | a descendant of Garuda, named by Narada |  |  |  |
 | **Gajakarna** | Gajakarṇa | named in Kubera's hall (2.10) |  |  |  |
 | **Gandakandu** | Gaṇḍakaṇḍu | named in Kubera's hall (2.10) |  |  |  |
@@ -548,6 +549,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Gaya** | Gaya | an ancient king, a model of dharma and truthfulness |  |  |  |
 | **Girika** | Girikā | Vasu's wife, daughter of the mountain Kolahala and the river Shuktimati |  |  |  |
 | **Hayagriva** | Hayagrīva | a king born among the Videhas who destroyed his family, in Bhima's list |  |  |  |
+| **Hiranyaloman** | Hiraṇyaloman | Bhishmaka, Rukmin's father, lord of the Akritis and of the south |  |  |  |
 | **Ikshvaku** | Ikṣvāku | an ancient king, founder of the solar line |  |  |  |
 | **Jalasamdha** | Jalasaṃdha | a king on the Kaurava side, greeted in Arjuna's message |  |  |  |
 | **Jantu** | Jantu | Somaka's son, sacrificed and born again as the eldest of a hundred |  |  |  |

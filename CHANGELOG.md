@@ -6,6 +6,15 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Novel: Book 5, chapters 45–47 drafted: the armies ready, and Uluka's embassy
+- Ch 45 *Bhishma Takes Command* (CE 5.152–155): the eleven Kaurava armies,
+  Bhishma's terms, Karna standing aside, Dhrishtadyumna and Arjuna as the Pandava
+  commanders, Balarama's pilgrimage, Rukmin refused. Ch 46 *Uluka's Message*
+  (5.156–159). Ch 47 *The Answer to Uluka* (5.160–162): Arjuna's vow to fell
+  Bhishma first, the matching of opponents, and the start of Bhishma's count.
+- Ledger: L-182 (Bhishma's terms; the sixteen thousand women), L-183 (the cat
+  fable is an appendix passage).
+
 ### Novel: Book 5, chapters 43–44 drafted: the Bhagavadyana ends
 - Ch 43 *Krishna's Report* (CE 5.145–148): Krishna's second account of the
   hall, with Bhishma's history of his vow, Gandhari's and Dhritarashtra's

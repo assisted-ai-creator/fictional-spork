@@ -434,9 +434,9 @@ Ambopākhyāna); the boundaries are read from the content of the adhyāyas.
 | 42 | Kunti and Karna | 5.142–5.144 | ✅ drafted. Vidura's fears; Kuntī at the Gaṅgā; the Sun's voice; Karṇa's reproach and his promise to spare four brothers (L-31). |
 | 43 | Krishna's Report | 5.145–5.148 | ✅ drafted. Kṛṣṇa's report: Bhīṣma's own history, Droṇa, Vidura, Gāndhārī, Dhṛtarāṣṭra on Yadu and Devāpi (a second account of the hall); five villages offered at the last; only the rod is left. |
 | 44 | The March to Kurukshetra | 5.149–5.151 | ✅ drafted. Seven leaders; four candidates for commander, the choice left to Kṛṣṇa; the march; Draupadī stays at Upaplavya; the camp by the Hiraṇvatī; Duryodhana's orders; Yudhiṣṭhira's grief. |
-| 45 | Bhishma Takes Command | 5.152–5.155 | The Kaurava divisions; Bhīṣma consecrated; Rukmin. |
-| 46 | Uluka's Message | 5.156–5.159 | Duryodhana's insults sent by Ulūka. |
-| 47 | The Answer to Uluka | 5.160–5.162 | The Pāṇḍavas' replies; the army marshalled. |
+| 45 | Bhishma Takes Command | 5.152–5.155 | ✅ drafted. The eleven armies; Bhīṣma's terms, ten thousand a day (L-182); Karṇa stands aside; Dhṛṣṭadyumna commander; Balarāma's pilgrimage; Rukmin refused by both sides. |
+| 46 | Uluka's Message | 5.156–5.159 | ✅ drafted. Sañjaya on fate and fault; Ulūka's taunts, briefed and delivered; no cat fable (L-183); Kṛṣṇa's answer. |
+| 47 | The Answer to Uluka | 5.160–5.162 | ✅ drafted. Arjuna swears to fell Bhīṣma first; Dhṛṣṭadyumna matches the warriors; Bhīṣma begins counting the chariot fighters. |
 | 48 | Chariot Fighters | 5.163–5.166 | Bhīṣma ranks the Kaurava warriors; Karṇa walks out. |
 | 49 | Bhishma Ranks the Pandavas | 5.167–5.170 | The Pāṇḍava side ranked; why Bhīṣma will not fight Śikhaṇḍin. |
 | 50 | Amba | 5.171–5.174 | The three princesses; Ambā sent to Śālva and refused. |

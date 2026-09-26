@@ -2,7 +2,7 @@
 
 # Contents
 
-**275 chapters, 622,172 words.** 275 drafted
+**278 chapters, 628,728 words.** 278 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -312,5 +312,8 @@
 | 42 | [Kunti and Karna](../novel/book-05-udyoga/42-kunti-and-karna.md) | 5.142-144 | drafted | 1,676 |
 | 43 | [Krishna's Report](../novel/book-05-udyoga/43-krishnas-report.md) | 5.145-148 | drafted | 3,053 |
 | 44 | [The March to Kurukshetra](../novel/book-05-udyoga/44-the-march-to-kurukshetra.md) | 5.149-151 | drafted | 2,885 |
+| 45 | [Bhishma Takes Command](../novel/book-05-udyoga/45-bhishma-takes-command.md) | 5.152-155 | drafted | 2,823 |
+| 46 | [Uluka's Message](../novel/book-05-udyoga/46-ulukas-message.md) | 5.156-159 | drafted | 2,048 |
+| 47 | [The Answer to Uluka](../novel/book-05-udyoga/47-the-answer-to-uluka.md) | 5.160-162 | drafted | 1,685 |
 
-*Book 5 so far: 117,082 words.*
+*Book 5 so far: 123,638 words.*

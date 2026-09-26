@@ -7401,7 +7401,7 @@
    "name": "Rukmin",
    "iast": "Rukmin",
    "group": "Bhoja",
-   "who": "son of Bhishmaka, king at Bhojakata",
+   "who": "son of Bhishmaka, king at Bhojakata; also built Bhojakata where Krishna beat him; offers help to Arjuna and Duryodhana and is refused by both (5.155.15)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -11837,6 +11837,26 @@
    "dialogue": [],
    "flag": [],
    "ref": "5.128.46"
+  },
+  {
+   "name": "Hiranyaloman",
+   "iast": "Hiraṇyaloman",
+   "group": "King",
+   "who": "Bhishmaka, Rukmin's father, lord of the Akritis and of the south",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.155.1"
+  },
+  {
+   "name": "Druma",
+   "iast": "Druma",
+   "group": "Catalogue",
+   "who": "the kimpurusha of Gandhamadana who taught Rukmin and gave him the Vijaya bow (Ganguli: Drona)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.155.7"
   }
  ],
  "not_vyasa": [
