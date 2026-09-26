@@ -6,6 +6,15 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Novel: Book 5, chapters 39–40 drafted: Kunti's message
+- Ch 39 *Blaze for a Moment* (CE 5.130–132): Kunti's message to Yudhishthira,
+  that the king makes the age, and the story of Vidura (the CE's *vidurā*;
+  Ganguli's Vidula) rebuking her son Sanjaya. Ch 40 *A Mother's Counsel*
+  (5.133–137): the end of the story, Kunti's messages to her sons and Draupadi,
+  Krishna leaving with Karna in his chariot, and Bhishma's and Drona's last plea
+  to Duryodhana.
+- Plan: ch 39 retitled from "Vidula's Son" to follow the CE's name.
+
 ### Novel: Book 5, chapters 36–38 drafted: the embassy fails
 - Ch 36 *The Elders Plead* (CE 5.122–125): Krishna, Bhishma, Drona, Vidura and
   Dhritarashtra urge peace; Duryodhana refuses even a needle's point of land.

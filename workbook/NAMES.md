@@ -174,7 +174,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Meghakrit** | Meghakṛt | a descendant of Garuda, named by Narada |  |  |  |
 | **Meghavasas** | Meghavāsas | named in Varuna's hall (2.9) |  |  |  |
 | **Mishrakeshi** | Miśrakeśī | named in Kubera's hall (2.10); also an apsaras Sudeshna names in praising the sairandhri (4.8.14) |  |  |  |
-| **Muchukunda** | Mucukunda | named in Yama's hall (2.8) |  |  |  |
+| **Muchukunda** | Mucukunda | named in Yama's hall (2.8); also a royal seer who refused the earth as Vaishravana's gift and won it by his own arms (5.130.8) |  |  |  |
 | **Munjakesha** | Muñjakeśa | a king Drupada would summon (5.4.14) |  |  |  |
 | **Mushikada** | Mūṣikāda | named in Varuna's hall (2.9); also a naga of Bhogavati, named by Narada (5.101.9-16) |  |  |  |
 | **Nabhaga** | Nābhāga | named in Yama's hall (2.8) |  |  |  |
@@ -648,7 +648,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Pratipa** | Pratīpa | Kuru king, father of Devapi, Shantanu and Bahlika; Ganga sat on his right thigh | Paryashravas |  |  |
 | **Purumitra** | Purumitra | a player at the dice game, on the Kaurava side |  |  |  |
 | **Samvarana** | Saṃvaraṇa | son of Riksha, king of the Bharatas, husband of Tapati, father of Kuru |  |  |  |
-| **Sanjaya** | Saṃjaya | Dhritarashtra's charioteer and counsellor, given divine sight by Vyasa; returns the kings' courtesies at the Rajasuya (2.32.5); also one of the twelve Sauvira princes who follow Jayadratha (3.249.10) | Gavalgani |  | Sanjay |
+| **Sanjaya** | Saṃjaya | Dhritarashtra's charioteer and counsellor, given divine sight by Vyasa; returns the kings' courtesies at the Rajasuya (2.32.5); also one of the twelve Sauvira princes who follow Jayadratha (3.249.10); also the son of Vidurā, beaten by the king of Sindhu, in the story Kunti tells (5.131.27) | Gavalgani |  | Sanjay |
 | **Satyavati** | Satyavatī | the fisherman's adopted daughter who became Shantanu's queen; mother of Vyasa; also daughter of Gadhi, wife of Richika (5.117.4) | Kali, Gandhavati, Yojanagandha, Matsyagandha, Satya |  | Satyawati |
 | **Satyavrata** | Satyavrata | a player at the dice game, on the Kaurava side |  |  |  |
 | **Saumadatti** | Saumadatti | Somadatta's son, named as an ally of Duryodhana |  |  |  |
@@ -656,7 +656,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Somadatta** | Somadatta | the Bahlika prince, Bhishma's cousin's son; father of Bhurishravas |  |  |  |
 | **Tapati** | Tapatī | daughter of the Sun, Savitri's younger sister; Samvarana's wife and Kuru's mother; hence Arjuna is 'Tapatya' |  |  |  |
 | **Vichitravirya** | Vicitravīrya | younger son of Shantanu and Satyavati; husband of Ambika and Ambalika |  |  | Vichitraveerya |
-| **Vidura** | Vidura | son of Vyasa and a serving woman; Dharma born as a man; wise counsellor | Kshattri |  |  |
+| **Vidura** | Vidura | son of Vyasa and a serving woman; Dharma born as a man; wise counsellor; also a proud kshatriya woman (Vidurā) who rebukes her son Sanjaya, in the story Kunti tells; Ganguli calls her Vidula (5.131.4) | Kshattri |  |  |
 | **Rukmangada** | Rukmāṅgada | son of Shalya |  |  |  |
 | **Rukmaratha** | Rukmaratha | son of Shalya |  |  |  |
 | **Shalya** | Śalya | king of Madra, Madri's brother |  |  | Salya |

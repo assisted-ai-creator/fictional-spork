@@ -428,8 +428,8 @@ Ambopākhyāna); the boundaries are read from the content of the adhyāyas.
 | 36 | The Elders Plead | 5.122–5.125 | ✅ drafted. Kṛṣṇa's plea to Duryodhana; Bhīṣma, Droṇa, Vidura, Dhṛtarāṣṭra; "let the slaughter end"; not a needle's point of land (L-180). |
 | 37 | Krishna's Anger | 5.126–5.127 | ✅ drafted. Kṛṣṇa lists Duryodhana's crimes; Duryodhana walks out; bind the four as Kaṃsa was given up; Gāndhārī on mastering the senses. |
 | 38 | The Cosmic Form | 5.128–5.129 | ✅ drafted. The plot to seize Kṛṣṇa; Sātyaki's warning; Vidura's list of Kṛṣṇa's deeds; the form, seen by Droṇa, Bhīṣma, Vidura, Sañjaya and the seers only (L-30). |
-| 39 | Vidula's Son | 5.130–5.132 | Kuntī's message: the tale of Vidulā. |
-| 40 | A Mother's Counsel | 5.133–5.137 | Vidulā's counsel ends; Kuntī's words to her sons; Bhīṣma and Droṇa plead. |
+| 39 | Blaze for a Moment | 5.130–5.132 | ✅ drafted. Kuntī's message: the king makes the age; the tale of Vidurā (CE; Ganguli's Vidulā) and her son Sañjaya: "blaze for a moment". |
+| 40 | A Mother's Counsel | 5.133–5.137 | ✅ drafted. The mother's counsel and hidden treasure; Kuntī's messages; Kṛṣṇa leaves with Karṇa in his chariot; Bhīṣma's and Droṇa's last plea. |
 | 41 | Krishna and Karna | 5.138–5.141 | Kṛṣṇa tells Karṇa his birth; Karṇa's refusal. |
 | 42 | Kunti and Karna | 5.142–5.144 | Kuntī at the river; the promise of five sons (L-31). |
 | 43 | Krishna's Report | 5.145–5.148 | Kṛṣṇa tells the Pāṇḍavas what happened in the hall. |
