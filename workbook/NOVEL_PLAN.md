@@ -480,7 +480,7 @@ and the whole battle is told as his answer. Days are fixed by the withdrawals
 | 16 | The Heron Array | 6.46–6.49 | ✅ drafted. Yudhiṣṭhira's despair; Dhṛṣṭadyumna commander ("made to be Droṇa's death"); the Heron array; "Shame on the kshatriya's dharma!"; Bhīṣma and Arjuna matched; Kṛṣṇa wounded; Droṇa and Dhṛṣṭadyumna. |
 | 17 | Bhima and the Kalingas | 6.50–6.51 | ✅ drafted. Bhīma alone against the Kaliṅgas: Śakradeva, Bhānumat, Śrutāyus and Ketumat killed; "Death in Bhīma's shape"; Sātyaki kills Bhīṣma's charioteer; Abhimanyu and Lakṣmaṇa; Arjuna routs the Kauravas; end of day 2. |
 | 18 | The Third Day | 6.52–6.55 | ✅ drafted. The Garuḍa and half-moon arrays; Sātyaki's chariot cut to pieces; Bhīma knocks Duryodhana senseless; Duryodhana's reproach and Bhīṣma's promise; Arjuna's gentle fighting; Kṛṣṇa runs at Bhīṣma with the discus and is held back at the tenth step (L-36); the Indra weapon; end of day 3. |
-| 19 | The Fourth Day | 6.56–6.60 | Abhimanyu; Bhīma and the elephants; Bhīma kills sons of Dhṛtarāṣṭra; Ghaṭotkaca. |
+| 19 | The Fourth Day | 6.56–6.60 | ✅ drafted. Bhīṣma against Arjuna; Abhimanyu holds off five; Dhṛṣṭadyumna kills the son of Sāṃyamani; "fate is stronger than effort"; Abhimanyu kills the king of Magadha; Bhīma and the elephants; Bhīma kills eight of Dhṛtarāṣṭra's sons (L-194); Bhagadatta; Ghaṭotkaca's magic Airāvata; Bhīṣma calls the halt. |
 | 20 | Who Krishna Is | 6.61–6.64 | Dhṛtarāṣṭra asks why the Pāṇḍavas cannot be killed; Bhīṣma tells Duryodhana of Vāsudeva. |
 | 21 | The Fifth Day | 6.65–6.70 | The Makara and Śyena arrays; Bhīṣma and Śikhaṇḍin; Sātyaki and Bhūriśravas. |
 | 22 | The Sixth Day | 6.71–6.75 | Dhṛtarāṣṭra blames fate; Saṃjaya blames him; Bhīma alone among the Kauravas; Duryodhana wounded. |

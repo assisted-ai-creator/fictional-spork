@@ -127,9 +127,9 @@ and gave a lion roar. The king of the Chedis, in great anger, quickly pierced
 Bahlika with nine arrows, like a maddened elephant goring another. Roaring again
 and again, those two angry men met like Mars and Mercury.
 
-"Ghatotkacha, of cruel deeds, went against the rakshasa Alambusha, of cruel
+"Ghatotkacha, of cruel deeds, went against the rakshasa Alambusa, of cruel
 deeds, like Shakra against Bala in battle. Ghatotkacha in his fury tore the
-mighty rakshasa with ninety sharp arrows, Bharata. Alambusha held off Bhima's
+mighty rakshasa with ninety sharp arrows, Bharata. Alambusa held off Bhima's
 mighty son again and again with straight arrows. Wounded with arrows, the two of
 them shone in the battle like mighty Bala and Shakra in the war of the gods and
 asuras.
