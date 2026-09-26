@@ -2,7 +2,7 @@
 
 # Contents
 
-**263 chapters, 589,317 words.** 263 drafted
+**266 chapters, 598,129 words.** 266 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -300,5 +300,8 @@
 | 30 | [Krishna in the Hall](../novel/book-05-udyoga/30-krishna-in-the-hall.md) | 5.93-95 | drafted | 2,987 |
 | 31 | [The Worlds Below](../novel/book-05-udyoga/31-the-worlds-below.md) | 5.96-100 | drafted | 2,001 |
 | 32 | [Gunakeshi](../novel/book-05-udyoga/32-gunakeshi.md) | 5.101-103 | drafted | 1,950 |
+| 33 | [Galava's Fee](../novel/book-05-udyoga/33-galavas-fee.md) | 5.104-110 | drafted | 3,399 |
+| 34 | [Madhavi](../novel/book-05-udyoga/34-madhavi.md) | 5.111-117 | drafted | 3,211 |
+| 35 | [Yayati's Fall](../novel/book-05-udyoga/35-yayatis-fall.md) | 5.118-121 | drafted | 2,202 |
 
-*Book 5 so far: 84,227 words.*
+*Book 5 so far: 93,039 words.*

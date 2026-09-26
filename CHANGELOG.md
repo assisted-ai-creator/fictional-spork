@@ -6,6 +6,17 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Novel: Book 5, chapters 33–35 drafted: Narada's tale of Galava, Madhavi and Yayati
+- Ch 33 *Galava's Fee* (CE 5.104–110): Janamejaya's question, Narada on
+  obstinacy, Vishvamitra tested by Dharma, the eight hundred black-eared
+  horses, Garuda's account of the four quarters, and the flight east.
+  Ch 34 *Madhavi* (5.111–117): Shandili and Garuda's wings, Yayati's gift of
+  his daughter, her boon and her plan, the four kings and four sons.
+  Ch 35 *Yayati's Fall* (5.118–121): Madhavi chooses the forest, Yayati's pride
+  and fall, and his rescue by his daughter's sons.
+- Ledger: L-179 (Madhavi: her boon and plan are her own; she chooses the forest).
+- Names: Shandili, Haryashva, Divodasa, Madhavi and others from the tale.
+
 ### Novel: Book 5, chapters 26–32 drafted: Krishna's embassy to the hall, and Kanva's tale
 - Ch 26 *Krishna Sets Out* (CE 5.81–82): the departure in the month Kaumuda,
   Yudhishthira's message to Kunti, the seers on the road, the portents, the

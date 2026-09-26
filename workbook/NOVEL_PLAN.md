@@ -422,9 +422,9 @@ Ambopākhyāna); the boundaries are read from the content of the adhyāyas.
 | 30 | Krishna in the Hall | 5.93–5.95 | ✅ drafted. Kṛṣṇa's speech to Dhṛtarāṣṭra; Rāma's tale of Dambhodbhava; Kaṇva begins Mātali's story. |
 | 31 | The Worlds Below | 5.96–5.100 | ✅ drafted. Nārada's tour: Varuṇa, Pātāla, Hiraṇyapura, Garuḍa's line, Rasātala. |
 | 32 | Gunakeshi | 5.101–5.103 | ✅ drafted. Sumukha chosen; Indra grants long life; Garuḍa humbled by Viṣṇu's arm; Duryodhana slaps his thigh. |
-| 33 | Galava's Fee | 5.104–5.110 | Nārada's tale: Gālava and the eight hundred horses. |
-| 34 | Madhavi | 5.111–5.117 | Śāṇḍilī; Mādhavī and the three kings. |
-| 35 | Yayati's Fall | 5.118–5.121 | Yayāti falls from heaven and is raised by his grandsons. |
+| 33 | Galava's Fee | 5.104–5.110 | ✅ drafted. Nārada on obstinacy; Dharma tests Viśvāmitra; the eight hundred black-eared horses; Garuḍa's four quarters; the flight east. |
+| 34 | Madhavi | 5.111–5.117 | ✅ drafted. Śāṇḍilī and Garuḍa's wings; Yayāti gives Mādhavī; her boon and plan (L-179); Haryaśva, Divodāsa, Uśīnara, Viśvāmitra; four sons. |
+| 35 | Yayati's Fall | 5.118–5.121 | ✅ drafted. Mādhavī chooses the forest; Yayāti's pride and fall; raised by his daughter's sons, Mādhavī and Gālava; Brahmā on pride. |
 | 36 | The Elders Plead | 5.122–5.125 | Dhṛtarāṣṭra, Bhīṣma, Droṇa and Vidura; Duryodhana's reply. |
 | 37 | Krishna's Anger | 5.126–5.127 | Kṛṣṇa answers Duryodhana; Gāndhārī's counsel. |
 | 38 | The Cosmic Form | 5.128–5.129 | The plot to seize Kṛṣṇa; the form in the hall (L-30). |
