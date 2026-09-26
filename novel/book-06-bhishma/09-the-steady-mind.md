@@ -202,10 +202,10 @@ sacrifice, with their minds joined to me, know me even at the hour of death.'"
 
 [^b6c9-4]: **A one-pointed mind.** *What it means:* the mind fixed on a single
     thing, not scattered. *In the story:* when Drona tested his pupils, he set a
-    model bird on a tree and asked each one, "Do you see the bird, the tree, me,
-    your brothers?" Yudhishthira said he saw them all, and Drona sent him away.
-    Arjuna said, "I see only the bird … I see its head, not its body." Drona
-    told him to shoot, and he brought it down (CE 1.123.46–67).
+    model bird on a tree and asked each one what he saw. Yudhishthira said he
+    saw the tree, his teacher, his brothers and the bird, and Drona sent him
+    away. Arjuna said, "I see only the bird … I see its head, not its body."
+    Drona told him to shoot, and he brought it down (CE 1.123.46–67).
 
 [^b6c9-5]: **The vow of celibacy (*brahmacarya*).** *What it means:* keeping
     away from sex, so that the body's energy and the mind's attention are not
