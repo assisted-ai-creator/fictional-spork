@@ -2,7 +2,7 @@
 
 # Contents
 
-**266 chapters, 598,129 words.** 266 drafted
+**269 chapters, 605,319 words.** 269 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -303,5 +303,8 @@
 | 33 | [Galava's Fee](../novel/book-05-udyoga/33-galavas-fee.md) | 5.104-110 | drafted | 3,399 |
 | 34 | [Madhavi](../novel/book-05-udyoga/34-madhavi.md) | 5.111-117 | drafted | 3,211 |
 | 35 | [Yayati's Fall](../novel/book-05-udyoga/35-yayatis-fall.md) | 5.118-121 | drafted | 2,202 |
+| 36 | [The Elders Plead](../novel/book-05-udyoga/36-the-elders-plead.md) | 5.122-125 | drafted | 3,013 |
+| 37 | [Krishna's Anger](../novel/book-05-udyoga/37-krishnas-anger.md) | 5.126-127 | drafted | 2,337 |
+| 38 | [The Cosmic Form](../novel/book-05-udyoga/38-the-cosmic-form.md) | 5.128-129 | drafted | 1,840 |
 
-*Book 5 so far: 93,039 words.*
+*Book 5 so far: 100,229 words.*

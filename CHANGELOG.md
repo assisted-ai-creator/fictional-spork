@@ -6,6 +6,16 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Novel: Book 5, chapters 36–38 drafted: the embassy fails
+- Ch 36 *The Elders Plead* (CE 5.122–125): Krishna, Bhishma, Drona, Vidura and
+  Dhritarashtra urge peace; Duryodhana refuses even a needle's point of land.
+  Ch 37 *Krishna's Anger* (5.126–127): Krishna's charges, Duryodhana's walkout,
+  the proposal to bind him as the Yadavas gave up Kamsa, Gandhari's rebuke.
+  Ch 38 *The Cosmic Form* (5.128–129): the plot to seize Krishna, Satyaki's
+  warning, the form in the hall, and Krishna's departure.
+- Ledger: L-30 revised (the form is CE; Dhritarashtra's sight is rejected);
+  L-180 (the needle's point, CE 5.125.26).
+
 ### Novel: Book 5, chapters 33–35 drafted: Narada's tale of Galava, Madhavi and Yayati
 - Ch 33 *Galava's Fee* (CE 5.104–110): Janamejaya's question, Narada on
   obstinacy, Vishvamitra tested by Dharma, the eight hundred black-eared

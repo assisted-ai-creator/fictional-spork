@@ -168,7 +168,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Marichi** | Marīci | named in Indra's hall (2.7) |  |  |  |
 | **Marjara** | Mārjāra | a king Drupada would summon (5.4.20) |  |  |  |
 | **Marutta** | Marutta | named in Indra's hall (2.7); also sacrificed at Ushirabija in the north (5.109.20) |  |  |  |
-| **Matanga** | Mataṅga | named in Yama's hall (2.8) |  |  |  |
+| **Matanga** | Mataṅga | named in Yama's hall (2.8); also whose saying "break rather than bend" Duryodhana quotes (5.125.20) |  |  |  |
 | **Matarishvan** | Mātariśvan | a descendant of Garuda, named by Narada |  |  |  |
 | **Medhatithi** | Medhātithi | named in Indra's hall (2.7) |  |  |  |
 | **Meghakrit** | Meghakṛt | a descendant of Garuda, named by Narada |  |  |  |
@@ -357,6 +357,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vivasvat** | Vivasvat | the sun god, father of Yama; also a son of Diti killed by Garuda (5.103.12) | Surya, Arka, Ravi |  | Vivaswat, Vivasvan |
 | **Ashvachakra** | Aśvacakra | an enemy killed by Samba |  |  |  |
 | **Bana** | Bāṇa | the asura Bana, killed by Krishna, as Bhishma says |  |  |  |
+| **Dhenuka** | Dhenuka | a demon killed by Krishna, named by Vidura |  |  |  |
 | **Hiranyakashipu** | Hiraṇyakaśipu | a great asura king, ancestor of Nikumbha |  |  | Hiranyakasipu |
 | **Ilvala** | Ilvala | a daitya of Manimati who killed brahmins by feeding them his brother Vatapi |  |  |  |
 | **Jambha** | Jambha | an asura given up by the great asuras, as Kavya advised |  |  |  |
@@ -784,7 +785,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Dirghajihva** | Dīrghajihvā | a rakshasi killed by Indra |  |  |  |
 | **Dundubhi** | Dundubhī | a gandharvi born on earth as Manthara at Brahma's command |  |  |  |
 | **Dushana** | Dūṣaṇa | a rakshasa killed by Rama with Khara in the Dandaka forest |  |  |  |
-| **Dvivida** | Dvivida | a monkey, one of Sugriva's counsellors |  |  |  |
+| **Dvivida** | Dvivida | a monkey, one of Sugriva's counsellors; also a monkey king who showered Krishna with stones at the gate of Saubha (5.128.41) |  |  |  |
 | **Gaja** | Gaja | a monkey chief |  |  |  |
 | **Gandhamadana** | Gandhamādana | a monkey chief who lives on Mount Gandhamadana |  |  |  |
 | **Gavaksha** | Gavākṣa | a golangula monkey chief; eaten by Kumbhakarna |  |  |  |

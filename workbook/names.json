@@ -6228,7 +6228,7 @@
    "name": "Matanga",
    "iast": "Mataṅga",
    "group": "Catalogue",
-   "who": "named in Yama's hall (2.8)",
+   "who": "named in Yama's hall (2.8); also whose saying \"break rather than bend\" Duryodhana quotes (5.125.20)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -9611,7 +9611,7 @@
    "name": "Dvivida",
    "iast": "Dvivida",
    "group": "Rama story",
-   "who": "a monkey, one of Sugriva's counsellors",
+   "who": "a monkey, one of Sugriva's counsellors; also a monkey king who showered Krishna with stones at the gate of Saubha (5.128.41)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -11827,6 +11827,16 @@
    "dialogue": [],
    "flag": [],
    "ref": "5.112.4"
+  },
+  {
+   "name": "Dhenuka",
+   "iast": "Dhenuka",
+   "group": "Demon",
+   "who": "a demon killed by Krishna, named by Vidura",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.128.46"
   }
  ],
  "not_vyasa": [

@@ -425,9 +425,9 @@ Ambopākhyāna); the boundaries are read from the content of the adhyāyas.
 | 33 | Galava's Fee | 5.104–5.110 | ✅ drafted. Nārada on obstinacy; Dharma tests Viśvāmitra; the eight hundred black-eared horses; Garuḍa's four quarters; the flight east. |
 | 34 | Madhavi | 5.111–5.117 | ✅ drafted. Śāṇḍilī and Garuḍa's wings; Yayāti gives Mādhavī; her boon and plan (L-179); Haryaśva, Divodāsa, Uśīnara, Viśvāmitra; four sons. |
 | 35 | Yayati's Fall | 5.118–5.121 | ✅ drafted. Mādhavī chooses the forest; Yayāti's pride and fall; raised by his daughter's sons, Mādhavī and Gālava; Brahmā on pride. |
-| 36 | The Elders Plead | 5.122–5.125 | Dhṛtarāṣṭra, Bhīṣma, Droṇa and Vidura; Duryodhana's reply. |
-| 37 | Krishna's Anger | 5.126–5.127 | Kṛṣṇa answers Duryodhana; Gāndhārī's counsel. |
-| 38 | The Cosmic Form | 5.128–5.129 | The plot to seize Kṛṣṇa; the form in the hall (L-30). |
+| 36 | The Elders Plead | 5.122–5.125 | ✅ drafted. Kṛṣṇa's plea to Duryodhana; Bhīṣma, Droṇa, Vidura, Dhṛtarāṣṭra; "let the slaughter end"; not a needle's point of land (L-180). |
+| 37 | Krishna's Anger | 5.126–5.127 | ✅ drafted. Kṛṣṇa lists Duryodhana's crimes; Duryodhana walks out; bind the four as Kaṃsa was given up; Gāndhārī on mastering the senses. |
+| 38 | The Cosmic Form | 5.128–5.129 | ✅ drafted. The plot to seize Kṛṣṇa; Sātyaki's warning; Vidura's list of Kṛṣṇa's deeds; the form, seen by Droṇa, Bhīṣma, Vidura, Sañjaya and the seers only (L-30). |
 | 39 | Vidula's Son | 5.130–5.132 | Kuntī's message: the tale of Vidulā. |
 | 40 | A Mother's Counsel | 5.133–5.137 | Vidulā's counsel ends; Kuntī's words to her sons; Bhīṣma and Droṇa plead. |
 | 41 | Krishna and Karna | 5.138–5.141 | Kṛṣṇa tells Karṇa his birth; Karṇa's refusal. |
