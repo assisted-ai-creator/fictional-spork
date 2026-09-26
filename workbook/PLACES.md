@@ -42,3 +42,4 @@ used in the novel. They are here only as orientation, marked "(trad.)".
 | Vatsabhumi | Vatsabhūmi | The land of the Vatsas, haunted by siddhas and charanas, where Amba wanders among the bathing places and half of her becomes the river Amba | 5.187.23, 38–40 | |
 | Amba (river) | Ambā | A crooked seasonal river in Vatsabhumi, full of crocodiles and hard to cross; half of Amba became it | 5.187.39–40 | |
 | Ramahrada | Rāmahrada | "Rama's lake", one of the bathing places where Amba practises austerity | 5.187.27 | |
+| Prasthala | Prasthala | Kingdom of Susharma, who holds the left wing of Bhishma's heron array on the sixth day | 6.71.19 | |

@@ -2,7 +2,7 @@
 
 # Contents
 
-**308 chapters, 724,229 words.** 308 drafted
+**309 chapters, 729,066 words.** 309 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -352,5 +352,6 @@
 | 19 | [The Fourth Day](../novel/book-06-bhishma/19-the-fourth-day.md) | 6.56-60 | drafted | 5,106 |
 | 20 | [Who Krishna Is](../novel/book-06-bhishma/20-who-krishna-is.md) | 6.61-64 | drafted | 3,664 |
 | 21 | [The Fifth Day](../novel/book-06-bhishma/21-the-fifth-day.md) | 6.65-70 | drafted | 4,141 |
+| 22 | [The Sixth Day](../novel/book-06-bhishma/22-the-sixth-day.md) | 6.71-75 | drafted | 4,837 |
 
-*Book 6 so far: 73,971 words.*
+*Book 6 so far: 78,808 words.*

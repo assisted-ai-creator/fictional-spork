@@ -6,7 +6,7 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
-### Novel: Book 6, chapters 16–21: the second to fifth days
+### Novel: Book 6, chapters 16–22: the second to sixth days
 - Ch 16 *The Heron Array* (CE 6.46–49), ch 17 *Bhima and the Kalingas*
   (6.50–51) and ch 18 *The Third Day* (6.52–55): Duryodhana's reproach and
   Bhishma's promise; Arjuna fights gently; Krishna runs at Bhishma with his
@@ -26,6 +26,9 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   (11.13.8–9).
 - Ch 21 *The Fifth Day* (6.65–70): Arjuna spares Ashvatthama; Bhurishravas
   kills Satyaki's ten sons.
+- Ch 22 *The Sixth Day* (6.71–75): Bhima on foot among Duryodhana's
+  brothers; Dhrishtadyumna's bewildering weapon; Bhima cuts down Duryodhana's
+  serpent banner. The wounded princes are not said to die (noted).
 
 ### Novel: Book 6, chapters 14–15: the war begins
 - Ch 14 *Yudhishthira Asks Leave* (CE 6.41): the blessings of Bhishma, Drona,

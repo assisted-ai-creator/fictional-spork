@@ -34,6 +34,7 @@ note it and keep the text's wording in the novel.
 | Day 3 | Garuda and half-moon arrays; Duryodhana wounded and his reproach; Krishna runs at Bhishma with the discus; Arjuna's Indra weapon; the Kurus withdraw at dusk | 6.52.1; 6.55.127–132 |
 | Day 4 | Abhimanyu against five; Bhima's elephant slaughter; eight of Dhritarashtra's sons killed; Ghatotkacha on a magic Airavata; Bhishma calls the halt | 6.56.1; 6.60.24–32, 67–73 |
 | Day 5 | makara and hawk arrays; Bhurishravas kills Satyaki's ten sons; Arjuna kills twenty-five thousand; halt at twilight | 6.65.1; 6.70.11–24, 31–37 |
+| Day 6 | makara and heron arrays; Bhima on foot among Duryodhana's brothers; the bewildering weapon; Bhima cuts Duryodhana's banner; Bhishma withdraws after sunset | 6.71.1; 6.75.56–59 |
 | Sanjaya returns to Dhritarashtra | after Bhishma falls, ten days in; he then tells the battle from the start | 6.14.1–11; 6.15.75 |
 | The war | Bhishma fights ten days, Drona five, Karna two, Shalya half a day; then the mace duel; that night Kritavarma, Ashvatthama and Kripa kill the sleeping Pandava army. That makes eighteen days | 1.2.26–28 |
 | The armies | eighteen akshauhinis in all, gathered at Samantapanchaka | 1.2.24–25 |
