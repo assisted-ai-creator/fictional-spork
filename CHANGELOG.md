@@ -6,6 +6,15 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Novel: Book 5, chapters 41–42 drafted: Karna's choice
+- Ch 41 *Krishna and Karna* (CE 5.138–141): the offer of the throne, Karna's
+  refusal, the war as a sacrifice, the new moon named for battle, and Karna's
+  omens and dreams. Ch 42 *Kunti and Karna* (5.142–144): Kunti's revelation at
+  the Ganga, the Sun's voice, Karna's reproach and his promise.
+- Ledger: L-31 revised (Karna's promise is his own; no boons asked); L-181
+  (Draupadi in Krishna's offer; Karna already knew his birth).
+- Timeline: the battle set for the new moon (5.140.18).
+
 ### Novel: Book 5, chapters 39–40 drafted: Kunti's message
 - Ch 39 *Blaze for a Moment* (CE 5.130–132): Kunti's message to Yudhishthira,
   that the king makes the age, and the story of Vidura (the CE's *vidurā*;

@@ -2,7 +2,7 @@
 
 # Contents
 
-**271 chapters, 611,353 words.** 271 drafted
+**273 chapters, 616,234 words.** 273 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -308,5 +308,7 @@
 | 38 | [The Cosmic Form](../novel/book-05-udyoga/38-the-cosmic-form.md) | 5.128-129 | drafted | 1,840 |
 | 39 | [Blaze for a Moment](../novel/book-05-udyoga/39-blaze-for-a-moment.md) | 5.130-132 | drafted | 2,805 |
 | 40 | [A Mother's Counsel](../novel/book-05-udyoga/40-a-mothers-counsel.md) | 5.133-137 | drafted | 3,229 |
+| 41 | [Krishna and Karna](../novel/book-05-udyoga/41-krishna-and-karna.md) | 5.138-141 | drafted | 3,205 |
+| 42 | [Kunti and Karna](../novel/book-05-udyoga/42-kunti-and-karna.md) | 5.142-144 | drafted | 1,676 |
 
-*Book 5 so far: 106,263 words.*
+*Book 5 so far: 111,144 words.*
