@@ -478,7 +478,7 @@ and the whole battle is told as his answer. Days are fixed by the withdrawals
 | 14 | Yudhishthira Asks Leave | 6.41 | ✅ drafted. Yudhiṣṭhira unarmed before Bhīṣma, Droṇa, Kṛpa and Śalya; "a man is the slave of wealth"; Droṇa's condition; Śalya's promise; Karṇa refuses Kṛṣṇa; Yuyutsu crosses over. |
 | 15 | The First Day | 6.42–6.45 | ✅ drafted. Bhīma's roar; the duels; the melee where kin kill kin; Abhimanyu fells Bhīṣma's banner; Śalya kills Uttara; no Śveta in the CE (L-193); the Pāṇḍavas withdraw. |
 | 16 | The Heron Array | 6.46–6.49 | ✅ drafted. Yudhiṣṭhira's despair; Dhṛṣṭadyumna commander ("made to be Droṇa's death"); the Heron array; "Shame on the kshatriya's dharma!"; Bhīṣma and Arjuna matched; Kṛṣṇa wounded; Droṇa and Dhṛṣṭadyumna. |
-| 17 | Bhima and the Kalingas | 6.50–6.51 | Bhīma's fight with the Kaliṅgas; the end of the second day. |
+| 17 | Bhima and the Kalingas | 6.50–6.51 | ✅ drafted. Bhīma alone against the Kaliṅgas: Śakradeva, Bhānumat, Śrutāyus and Ketumat killed; "Death in Bhīma's shape"; Sātyaki kills Bhīṣma's charioteer; Abhimanyu and Lakṣmaṇa; Arjuna routs the Kauravas; end of day 2. |
 | 18 | The Third Day | 6.52–6.55 | The Garuḍa and half-moon arrays; Kṛṣṇa's anger at Bhīṣma; Arjuna's great slaughter. |
 | 19 | The Fourth Day | 6.56–6.60 | Abhimanyu; Bhīma and the elephants; Bhīma kills sons of Dhṛtarāṣṭra; Ghaṭotkaca. |
 | 20 | Who Krishna Is | 6.61–6.64 | Dhṛtarāṣṭra asks why the Pāṇḍavas cannot be killed; Bhīṣma tells Duryodhana of Vāsudeva. |

@@ -30,6 +30,7 @@ note it and keep the text's wording in the novel.
 | Amba's austerity before the pyre | twelve years | 5.187.22 |
 | Day 1 of the war begins | the moon in the region of Magha; seven planets together | 6.17.2 |
 | Day 1 ends | the Pandavas withdraw at sunset; Uttara killed by Shalya | 6.45.35–41, 62–63 |
+| Day 2 | the Heron array; Bhima destroys the Kalingas; Bhishma calls the halt at sunset | 6.46.41; 6.51.41–43 |
 | Sanjaya returns to Dhritarashtra | after Bhishma falls, ten days in; he then tells the battle from the start | 6.14.1–11; 6.15.75 |
 | The war | Bhishma fights ten days, Drona five, Karna two, Shalya half a day; then the mace duel; that night Kritavarma, Ashvatthama and Kripa kill the sleeping Pandava army. That makes eighteen days | 1.2.26–28 |
 | The armies | eighteen akshauhinis in all, gathered at Samantapanchaka | 1.2.24–25 |

@@ -66,6 +66,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Arishtanemi** | Ariṣṭanemi | named in Yama's hall (2.8) |  |  |  |
 | **Arshtishena** | Ārṣṭiṣeṇa | named in Yama's hall (2.8); also the royal seer, lean with austerity, whose hermitage on Gandhamadana the Pandavas reach (3.155.89–3.156) |  |  |  |
 | **Ashadha** | Āṣāḍha | a king Drupada would summon (5.4.22) |  |  |  |
+| **Ashoka** | Aśoka | Bhima's charioteer, who brings him a new chariot on the second day |  |  |  |
 | **Ashravya** | Āśrāvya | named in Indra's hall (2.7) |  |  |  |
 | **Ashvatara** | Aśvatara | named in Varuna's hall (2.9); also a naga of Bhogavati, named by Narada (5.101.9-16) |  |  |  |
 | **Atri** | Atri | named in Indra's hall (2.7); the seer who praises King Vainya (3.183) |  |  |  |
@@ -155,7 +156,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kundalin** | Kuṇḍalin | a descendant of Garuda, named by Narada |  |  |  |
 | **Kushika** | Kuśika | named in Yama's hall (2.8) |  |  |  |
 | **Kustumburu** | Kustumburu | named in Kubera's hall (2.10) |  |  |  |
-| **Lakshmana** | Lakṣmaṇa | named in Yama's hall (2.8); also Rama's brother, son of Dasharatha (3.26.8) |  |  |  |
+| **Lakshmana** | Lakṣmaṇa | named in Yama's hall (2.8); also Rama's brother, son of Dasharatha (3.26.8); also Duryodhana's son, who fights Abhimanyu (6.51.8-13) |  |  |  |
 | **Likhita** | Likhita | named in Indra's hall (2.7) |  |  |  |
 | **Madhu** | Madhu | named in Yama's hall (2.8); also the asura killed with Kaitabha by Vishnu on his thighs (3.194) |  |  |  |
 | **Madhuparka** | Madhuparka | a descendant of Garuda, named by Narada |  |  |  |
@@ -529,6 +530,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Bahula** | Bahula | one of eighteen kings who destroyed their own families, born among the Talajanghas (named by Bhima) |  |  |  |
 | **Balaksha** | Balākṣa | a royal seer watching the battle from Indra's sky chariot |  |  |  |
 | **Bali** | Bali | king who rescued Dirghatamas from the Ganga and had him father sons on his queen (not the asura Bali); also Bali, the asura son of Virochana and grandson of Prahlada (3.29); whose kingdom Vishnu took in the form of a dwarf (3.299.13); also the asura Bali, first in Bhima's list of those who destroyed their own people (5.72.12) |  |  |  |
+| **Bhanuman** | Bhānumat | a Kalinga prince, cut in two by Bhima on his elephant |  |  |  |
 | **Bharata** | Bharata | son of Dushyanta and Shakuntala, first called Sarvadamana; the emperor from whom the Bharatas take their name; also son of Dasharatha and Kaikeyi, who rules from Nandigrama with Rama's sandals before him (3.261.38) | Sarvadamana |  |  |
 | **Bhimaratha** | Bhīmaratha | a king present in Yudhishthira's hall |  |  |  |
 | **Bhishmaka** | Bhīṣmaka | a king present in Yudhishthira's hall |  |  |  |
@@ -562,7 +564,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kampana** | Kampana | a king present in Yudhishthira's hall |  |  |  |
 | **Kashika** | Kāśika | a king on the Pandava side named by Bhishma |  |  |  |
 | **Kashya** | Kāśya | the king of Kashi on the Pandava side, a chariot fighter of single worth |  |  |  |
-| **Ketuman** | Ketumat | a king present in Yudhishthira's hall; also a king who rides with the Kalinga king on the first day (6.17.32-37) |  |  | Ketumat |
+| **Ketuman** | Ketumat | a king present in Yudhishthira's hall; also a king who rides with the Kalinga king on the first day (6.17.32-37); also son of the Nishada, killed by Bhima on the second day (6.50.5, 70) |  |  | Ketumat |
 | **Kotikashya** | Koṭikāśya | son of King Suratha, a Shibi prince (Shaibya) in Jayadratha's company, who questions Draupadi; killed by Bhima | Kotika, Shaibya |  |  |
 | **Kratha** | Kratha | an overlord of kings defeated by Bhima; also a king Krishna beat at Jaruthi (3.13.27); also a monkey chief; also a king Drupada would summon, with "Kratha's son" (5.4.16, 21) |  |  |  |
 | **Krishashva** | Kṛśāśva | a royal seer watching the battle from Indra's sky chariot |  |  |  |
@@ -598,7 +600,10 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Rita** | Ṛta | a king at the Rajasuya (the reading is uncertain) |  |  |  |
 | **Sahaja** | Sahaja | one of eighteen kings who destroyed their own families, born among the Chedis and Matsyas (named by Bhima) |  |  |  |
 | **Samgramajit** | Saṃgrāmajit | a king present in Yudhishthira's hall |  |  |  |
+| **Satya** | Satya | a wheel guard of the Kalinga king, killed by Bhima |  |  |  |
+| **Satyadeva** | Satyadeva | a wheel guard of the Kalinga king, killed by Bhima |  |  |  |
 | **Satyaratha** | Satyaratha | eldest of the five Trigarta brothers, on the Kaurava side |  |  |  |
+| **Shakradeva** | Śakradeva | son of the king of Kalinga, killed by Bhima with his mace on the second day |  |  |  |
 | **Shakuntala** | Śakuntalā | daughter of Vishvamitra and Menaka, raised by Kanva; wife of Dushyanta, mother of Bharata |  |  | Sakuntala, Shakuntalaa |
 | **Shalva** | Śālva | king of the Shalvas and lord of Saubha, whom Amba had chosen; beaten by Bhishma at Varanasi; a Shalva, lord of Saubha, also attacks Dvaraka and is killed by Krishna (3.15–22). The CE calls both 'lord of Saubha' but does not say they are the same man; also king of the Shalvas and of Saubha, whom Amba chose; refuses her after Bhishma carried her off (5.171.6) | lord of Saubha |  |  |
 | **Shama** | Śama | one of eighteen kings who destroyed their own families, born among the Nandivegas (named by Bhima) |  |  |  |
@@ -607,7 +612,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shibi** | Śibi | son of Ushinara, a royal seer of unequalled generosity, a grandson of Yayati through his daughter; also son of Ushinara and Madhavi (5.116.20) | Aushinara |  | Sibi |
 | **Shrutarvan** | Śrutarvan | a king whom Agastya asks for wealth |  |  |  |
 | **Shrutayudha** | Śrutāyudha | a king present in Yudhishthira's hall |  |  |  |
-| **Shrutayus** | Śrutāyus | a chariot fighter ahead of Bhishma on the first day |  |  |  |
+| **Shrutayus** | Śrutāyus | a chariot fighter ahead of Bhishma on the first day; also king of Kalinga, killed by Bhima on the second day (6.50.6, 61-68) |  |  |  |
 | **Sudarshana** | Sudarśana | a king, "the pride of the gods", whom Krishna freed from captivity (5.47.69) |  |  |  |
 | **Sudeshna** | Sudeṣṇā | Bali's queen, mother of Anga by Dirghatamas (another Sudeshna is Virata's queen); also Virata's queen, a princess of the Kekayas, whom Draupadi serves as sairandhri (4.8.6) |  |  |  |
 | **Sudharma** | Sudharman | a king present in Yudhishthira's hall; also Sudharma, king of Dasharna, made Bhima's general (2.26.5); also wife of Matali (5.95.19) |  |  | Sudharman |

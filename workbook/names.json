@@ -4974,7 +4974,7 @@
    "name": "Ketuman",
    "iast": "Ketumat",
    "group": "King",
-   "who": "a king present in Yudhishthira's hall; also a king who rides with the Kalinga king on the first day (6.17.32-37)",
+   "who": "a king present in Yudhishthira's hall; also a king who rides with the Kalinga king on the first day (6.17.32-37); also son of the Nishada, killed by Bhima on the second day (6.50.5, 70)",
    "aka": [],
    "dialogue": [],
    "flag": [
@@ -5918,7 +5918,7 @@
    "name": "Lakshmana",
    "iast": "Lakṣmaṇa",
    "group": "Catalogue",
-   "who": "named in Yama's hall (2.8); also Rama's brother, son of Dasharatha (3.26.8)",
+   "who": "named in Yama's hall (2.8); also Rama's brother, son of Dasharatha (3.26.8); also Duryodhana's son, who fights Abhimanyu (6.51.8-13)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -11985,11 +11985,61 @@
    "name": "Shrutayus",
    "iast": "Śrutāyus",
    "group": "King",
-   "who": "a chariot fighter ahead of Bhishma on the first day",
+   "who": "a chariot fighter ahead of Bhishma on the first day; also king of Kalinga, killed by Bhima on the second day (6.50.6, 61-68)",
    "aka": [],
    "dialogue": [],
    "flag": [],
    "ref": "6.17.21"
+  },
+  {
+   "name": "Shakradeva",
+   "iast": "Śakradeva",
+   "group": "King",
+   "who": "son of the king of Kalinga, killed by Bhima with his mace on the second day",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.50.18-22"
+  },
+  {
+   "name": "Bhanuman",
+   "iast": "Bhānumat",
+   "group": "King",
+   "who": "a Kalinga prince, cut in two by Bhima on his elephant",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.50.30-35"
+  },
+  {
+   "name": "Satyadeva",
+   "iast": "Satyadeva",
+   "group": "King",
+   "who": "a wheel guard of the Kalinga king, killed by Bhima",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.50.69"
+  },
+  {
+   "name": "Satya",
+   "iast": "Satya",
+   "group": "King",
+   "who": "a wheel guard of the Kalinga king, killed by Bhima",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.50.69"
+  },
+  {
+   "name": "Ashoka",
+   "iast": "Aśoka",
+   "group": "Catalogue",
+   "who": "Bhima's charioteer, who brings him a new chariot on the second day",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.50.64"
   }
  ],
  "not_vyasa": [
