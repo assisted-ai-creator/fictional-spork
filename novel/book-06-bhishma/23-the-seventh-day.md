@@ -371,6 +371,6 @@ Upendra charged the army of the daityas."
 * 6.78.55 *śvāvidvat*: "like a porcupine".
 * 6.78.56 *vṛṣakasya … syālasya te*: "Vrishaka, your brother-in-law", Gandhari's brother.
 * 6.79.17 *navamam*: "a ninth bow", as the text reads.
-* 6.79.22 *nāgarājasutāsutaḥ*: "the son of the naga king's daughter", Iravan, whose mother is Ulupi.
+* 6.79.22 *nāgarājasutāsutaḥ*: "the son of the naga king's daughter", Iravan. The CE does not name his mother (6.86.6–8; ledger L-103).
 * 6.79.25 *tārakāmaye*: "in the battle over Tara".
 * 6.79.55 *indropendrau*: "Indra and Upendra", Indra and his younger brother Vishnu.
