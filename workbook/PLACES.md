@@ -38,3 +38,4 @@ used in the novel. They are here only as orientation, marked "(trad.)".
 | Hiranyapura | Hiraṇyapura | The city of the daityas and danavas below Patala, built by Vishvakarman | 5.98.1–2 | |
 | Rasatala | Rasātala | The seventh level of the earth, where Surabhi lives | 5.100.1 | |
 | Bhogavati | Bhogavatī | The city of the nagas, guarded by Vasuki | 5.101.1 | |
+| Hiranvati | Hiraṇvatī | A holy river at Kurukshetra, with good bathing places, where Krishna has the Pandava camp's moat dug | 5.149.73 | |

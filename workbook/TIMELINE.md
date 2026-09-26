@@ -25,6 +25,7 @@ note it and keep the text's wording in the novel.
 | Krishna sets out for Hastinapura | the month Kaumuda (Karttika), under Revati, at the end of autumn as the cold season came; the hour of Mitra | 5.81.6–7 |
 | Krishna's night at Vrikasthala | the evening of the first day's journey | 5.82.20–29 |
 | Krishna names the day for battle | the new moon, seven days after his talk with Karna; its deity is Shakra | 5.140.18 |
+| Duryodhana orders the march to Kurukshetra | "Today is Pushya", as Krishna reports it | 5.148.3 |
 | The war | Bhishma fights ten days, Drona five, Karna two, Shalya half a day; then the mace duel; that night Kritavarma, Ashvatthama and Kripa kill the sleeping Pandava army. That makes eighteen days | 1.2.26–28 |
 | The armies | eighteen akshauhinis in all, gathered at Samantapanchaka | 1.2.24–25 |
 | Gandhari's curse on Krishna's clan | fulfilled in the thirty-sixth year | 11.25.41 |

@@ -2,7 +2,7 @@
 
 # Contents
 
-**273 chapters, 616,234 words.** 273 drafted
+**275 chapters, 622,172 words.** 275 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -310,5 +310,7 @@
 | 40 | [A Mother's Counsel](../novel/book-05-udyoga/40-a-mothers-counsel.md) | 5.133-137 | drafted | 3,229 |
 | 41 | [Krishna and Karna](../novel/book-05-udyoga/41-krishna-and-karna.md) | 5.138-141 | drafted | 3,205 |
 | 42 | [Kunti and Karna](../novel/book-05-udyoga/42-kunti-and-karna.md) | 5.142-144 | drafted | 1,676 |
+| 43 | [Krishna's Report](../novel/book-05-udyoga/43-krishnas-report.md) | 5.145-148 | drafted | 3,053 |
+| 44 | [The March to Kurukshetra](../novel/book-05-udyoga/44-the-march-to-kurukshetra.md) | 5.149-151 | drafted | 2,885 |
 
-*Book 5 so far: 111,144 words.*
+*Book 5 so far: 117,082 words.*

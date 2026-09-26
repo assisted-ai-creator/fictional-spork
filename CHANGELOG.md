@@ -6,6 +6,16 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Novel: Book 5, chapters 43–44 drafted: the Bhagavadyana ends
+- Ch 43 *Krishna's Report* (CE 5.145–148): Krishna's second account of the
+  hall, with Bhishma's history of his vow, Gandhari's and Dhritarashtra's
+  arguments from the succession (Yadu, Devapi), and the four ways of policy.
+  Ch 44 *The March to Kurukshetra* (5.149–151): the seven leaders, the question
+  of the commander, the march and the camp by the Hiranvati, Duryodhana's orders,
+  and Yudhishthira's grief. This completes the Bhagavadyana (5.70–151).
+- Ledger: L-174 extended (the five villages in Krishna's report, 5.148.16).
+- Places: Hiranvati. Timeline: "Today is Pushya" (5.148.3).
+
 ### Novel: Book 5, chapters 41–42 drafted: Karna's choice
 - Ch 41 *Krishna and Karna* (CE 5.138–141): the offer of the throne, Karna's
   refusal, the war as a sacrifice, the new moon named for battle, and Karna's

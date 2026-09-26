@@ -432,8 +432,8 @@ Ambopākhyāna); the boundaries are read from the content of the adhyāyas.
 | 40 | A Mother's Counsel | 5.133–5.137 | ✅ drafted. The mother's counsel and hidden treasure; Kuntī's messages; Kṛṣṇa leaves with Karṇa in his chariot; Bhīṣma's and Droṇa's last plea. |
 | 41 | Krishna and Karna | 5.138–5.141 | ✅ drafted. Pāṇḍu's son by law; the throne and Draupadī offered (L-181); Karṇa already knows, and refuses; the war as a sacrifice; the new moon in seven days; the omens and dreams. |
 | 42 | Kunti and Karna | 5.142–5.144 | ✅ drafted. Vidura's fears; Kuntī at the Gaṅgā; the Sun's voice; Karṇa's reproach and his promise to spare four brothers (L-31). |
-| 43 | Krishna's Report | 5.145–5.148 | Kṛṣṇa tells the Pāṇḍavas what happened in the hall. |
-| 44 | The March to Kurukshetra | 5.149–5.151 | The commander chosen; the army marches; the camp. |
+| 43 | Krishna's Report | 5.145–5.148 | ✅ drafted. Kṛṣṇa's report: Bhīṣma's own history, Droṇa, Vidura, Gāndhārī, Dhṛtarāṣṭra on Yadu and Devāpi (a second account of the hall); five villages offered at the last; only the rod is left. |
+| 44 | The March to Kurukshetra | 5.149–5.151 | ✅ drafted. Seven leaders; four candidates for commander, the choice left to Kṛṣṇa; the march; Draupadī stays at Upaplavya; the camp by the Hiraṇvatī; Duryodhana's orders; Yudhiṣṭhira's grief. |
 | 45 | Bhishma Takes Command | 5.152–5.155 | The Kaurava divisions; Bhīṣma consecrated; Rukmin. |
 | 46 | Uluka's Message | 5.156–5.159 | Duryodhana's insults sent by Ulūka. |
 | 47 | The Answer to Uluka | 5.160–5.162 | The Pāṇḍavas' replies; the army marshalled. |
