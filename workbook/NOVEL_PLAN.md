@@ -393,9 +393,9 @@ Ambopākhyāna); the boundaries are read from the content of the adhyāyas.
 | 1 | The Council in Virata's Hall | 5.1–5.6 | ✅ drafted. Four days after the wedding; Kṛṣṇa's case for an envoy; Balarāma blames the gambler; Sātyaki's anger; Drupada's list of kings; Kṛṣṇa goes home; the priest sent. |
 | 2 | The Choice at Dvaraka | 5.7–5.8 | ✅ drafted. Duryodhana at the head, Arjuna at the feet; the Nārāyaṇas or Kṛṣṇa unarmed (L-171); Balarāma stands aside; Śalya won by the feast; Karṇa's spirit to be broken (L-172). |
 | 3 | Indra and Vritra | 5.9–5.10 | ✅ drafted. Śalya's tale: Triśiras and the birds; Vṛtra and the yawn; the pact; the foam at twilight; Indra hides in the waters. |
-| 4 | Nahusha | 5.11–5.14 | Nahuṣa made king of the gods; he wants Śacī; Bṛhaspati's protection; Upaśruti. |
-| 5 | The Fall of Nahusha | 5.15–5.18 | The sages' litter; Indra restored; Śalya's promise to Yudhiṣṭhira. |
-| 6 | The Armies Gather | 5.19–5.21 | The akṣauhiṇīs; Drupada's priest in the Kuru hall; Bhīṣma and Karṇa; Sañjaya to be sent. |
+| 4 | Nahusha | 5.11–5.14 | ✅ drafted. Nahuṣa made king of the gods; he demands Śacī; Bṛhaspati will not give her up; the horse sacrifice and the sin shared out; Upaśruti and the lotus stalk. |
+| 5 | The Fall of Nahusha | 5.15–5.18 | ✅ drafted. The seers yoked; Agni finds Indra; the guardians' lordships; Agastya's curse (L-173); Śalya's promise and departure. |
+| 6 | The Armies Gather | 5.19–5.21 | ✅ drafted. Seven akṣauhiṇīs and eleven; Drupada's priest in the Kuru hall; Karṇa's retort and Bhīṣma's rebuke; Sañjaya to be sent. |
 | 7 | Sanjaya's Mission | 5.22–5.25 | Dhṛtarāṣṭra's instructions; Sañjaya at Upaplavya. |
 | 8 | Yudhishthira's Answer | 5.26–5.28 | Peace or war; Sañjaya's counsel of renunciation; Yudhiṣṭhira's reply. |
 | 9 | Krishna's Answer | 5.29–5.30 | Kṛṣṇa on duty and the dice; Sañjaya takes his leave and the messages. |

@@ -265,7 +265,7 @@ on being king."
 
 **Divergences.**
 
-* **Indra's sin divided.** A long rejected passage (\*75) has the carpenter keep silent for a year, Shiva's ghosts cry out that Indra is a brahmin-killer, and Indra divide the sin among the earth, the ocean, the trees and women, giving each a boon. In the CE Indra goes back to heaven and the carpenter goes home (5.9.39). Not narrated.
+* **Indra's sin divided.** A long rejected passage (\*75) has the carpenter keep silent for a year, Shiva's ghosts cry out that Indra is a brahmin-killer, and Indra divide the sin among the earth, the ocean, the trees and women, giving each a boon. In the CE Indra goes back to heaven and the carpenter goes home (5.9.39). The rejected passage is not narrated here. The CE does tell of the sin being shared out among trees, rivers, mountains, the earth and women, but later, at Indra's horse sacrifice after Vritra's death (5.13.16–18), in the next chapter.
 * **The heads alive.** Rejected lines (\*71, \*72) say the heads seemed alive, bring the carpenter to the forest by chance, and add that the heads were born again as the three birds. In the CE the carpenter is working nearby and the birds fly out of the mouths (5.9.25, 35–38).
 * **Vritra's swallowing of the world.** A rejected passage (\*77) has Vritra swallow the elements, smell, taste and the senses. Not narrated.
 * **Shiva's ghosts.** A rejected line (\*90) has Shiva's ghosts call Indra a brahmin-killer after Vritra's death. The CE says only that he was overcome by the falsehood and by the earlier killing (5.10.42).

@@ -2,7 +2,7 @@
 
 # Contents
 
-**234 chapters, 512,237 words.** 234 drafted
+**237 chapters, 518,861 words.** 237 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -271,5 +271,8 @@
 | 1 | [The Council in Virata's Hall](../novel/book-05-udyoga/01-the-council-in-viratas-hall.md) | 5.1-6 | drafted | 3,024 |
 | 2 | [The Choice at Dvaraka](../novel/book-05-udyoga/02-the-choice-at-dvaraka.md) | 5.7-8 | drafted | 1,622 |
 | 3 | [Indra and Vritra](../novel/book-05-udyoga/03-indra-and-vritra.md) | 5.9-10 | drafted | 2,501 |
+| 4 | [Nahusha](../novel/book-05-udyoga/04-nahusha.md) | 5.11-14 | drafted | 2,324 |
+| 5 | [The Fall of Nahusha](../novel/book-05-udyoga/05-the-fall-of-nahusha.md) | 5.15-18 | drafted | 2,773 |
+| 6 | [The Armies Gather](../novel/book-05-udyoga/06-the-armies-gather.md) | 5.19-21 | drafted | 1,527 |
 
-*Book 5 so far: 7,147 words.*
+*Book 5 so far: 13,771 words.*

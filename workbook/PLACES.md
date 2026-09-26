@@ -25,3 +25,8 @@ used in the novel. They are here only as orientation, marked "(trad.)".
 | Kamyaka forest | Kāmyaka | A forest of the exile | | |
 | Dvaita forest / lake | Dvaita | A forest and lake of the exile; the Yaksha's lake | | |
 | Manipura | Maṇipūra | Kingdom of Chitrangada, Arjuna's wife | 1.207 | |
+| Upaplavya | Upaplavya | A town of Virata's where the Pandavas and their allies gather after the year in hiding; their camp during the peace talks | 4.67.14; 5.8.15 | |
+| Kurujangala | Kurujāṅgala | The Kuru country, filled with Duryodhana's armies | 5.19.29 | |
+| Rohitaka forest | Rohitakāraṇya | One of the lands filled with Duryodhana's armies | 5.19.29 | |
+| Ahicchatra | Ahicchatra | One of the lands filled with Duryodhana's armies | 5.19.30 | |
+| Mahishmati | Māhiṣmatī | Nila's city in the south | 2.28; 5.19.23 | |

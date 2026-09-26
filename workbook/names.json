@@ -1406,7 +1406,7 @@
    "name": "Airavata",
    "iast": "Airāvata",
    "group": "Naga",
-   "who": "a chief naga, brother of Vasuki (not the elephant of the same name)",
+   "who": "a chief naga, brother of Vasuki; also Indra's elephant, king of elephants (5.18.1)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -1689,7 +1689,7 @@
    "name": "Nahusha",
    "iast": "Nahuṣa",
    "group": "King",
-   "who": "son of Ayus, father of Yayati; for a time he made himself Indra; cursed by Agastya to be a serpent, he seizes Bhima and is freed by Yudhishthira's answers (3.176–178)",
+   "who": "son of Ayus, father of Yayati; for a time he made himself Indra; cursed by Agastya to be a serpent, he seizes Bhima and is freed by Yudhishthira's answers (3.176–178); also made king of the gods while Indra hid; demanded Shachi; yoked the seers to his carriage (5.11–17)",
    "aka": [],
    "dialogue": [],
    "flag": [
@@ -2186,7 +2186,7 @@
    "name": "Agastya",
    "iast": "Agastya",
    "group": "Seer",
-   "who": "seer who hunted during a sacrifice and consecrated the deer to the gods",
+   "who": "seer who hunted during a sacrifice and consecrated the deer to the gods; also the seer Nahusha touched with his foot, who cursed him to fall as a snake for ten thousand years (5.17.11–15)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -2897,7 +2897,7 @@
    "name": "Jayatsena",
    "iast": "Jayatsena",
    "group": "Suitor",
-   "who": "a king named among the suitors at Draupadi's bridegroom choice; also one of the five secret names Yudhishthira gives the Pandavas in Virata's city (4.5.30)",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice; also one of the five secret names Yudhishthira gives the Pandavas in Virata's city (4.5.30); also Jayatsena of Magadha, Jarasandha's son, who brings the Pandavas an akshauhini (5.19.8)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -10454,6 +10454,36 @@
    "dialogue": [],
    "flag": [],
    "ref": "5.9.3"
+  },
+  {
+   "name": "Upashruti",
+   "iast": "Upaśruti",
+   "group": "Deity",
+   "who": "the goddess of the overheard word, who leads Shachi to Indra hidden in a lotus stalk (5.13–14)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.13.24"
+  },
+  {
+   "name": "Atharvangiras",
+   "iast": "Atharvāṅgiras",
+   "group": "Seer",
+   "who": "the name Indra gives Angiras when he honours him with Atharva Veda hymns (5.18.5–7)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.18.7"
+  },
+  {
+   "name": "Pandya",
+   "iast": "Pāṇḍya",
+   "group": "King",
+   "who": "the Pandya king, who comes to Yudhishthira with fighters from the lands along the sea (5.19.9)",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.19.9"
   }
  ],
  "not_vyasa": [

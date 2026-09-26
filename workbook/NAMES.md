@@ -307,6 +307,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Trishiras** | Triśiras | Tvashtri's three-headed son, killed by Indra, also called Vishvarupa (5.9) | Vishvarupa |  |  |
 | **Tvashtri** | Tvaṣṭṛ | one of the gods who attack Krishna and Arjuna at Khandava; also the divine craftsman who made the thunderbolt; father of Trishiras and maker of Vritra (5.9.3) |  |  | Tvashtar, Tvastri |
 | **Uma** | Umā | Shiva's wife, daughter of the king of mountains |  |  |  |
+| **Upashruti** | Upaśruti | the goddess of the overheard word, who leads Shachi to Indra hidden in a lotus stalk (5.13–14) |  |  |  |
 | **Vishvakarman** | Viśvakarman | the craftsman of the gods |  |  | Vishwakarma, Vishvakarma |
 | **Vivasvat** | Vivasvat | the sun god, father of Yama | Surya, Arka, Ravi |  | Vivaswat, Vivasvan |
 | **Ashvachakra** | Aśvacakra | an enemy killed by Samba |  |  |  |
@@ -504,7 +505,8 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Manu** | Manu | Manu son of Vivasvat (through Martanda in 1.70), from whom the human race descends; the fish saves him from the flood (3.185) | Vaivasvata |  |  |
 | **Meghavahana** | Meghavāhana | a king allied to Jarasandha |  |  |  |
 | **Munjaketu** | Muñjaketu | a king present in Yudhishthira's hall |  |  |  |
-| **Nahusha** | Nahuṣa | son of Ayus, father of Yayati; for a time he made himself Indra; cursed by Agastya to be a serpent, he seizes Bhima and is freed by Yudhishthira's answers (3.176–178) |  |  | Nahush |
+| **Nahusha** | Nahuṣa | son of Ayus, father of Yayati; for a time he made himself Indra; cursed by Agastya to be a serpent, he seizes Bhima and is freed by Yudhishthira's answers (3.176–178); also made king of the gods while Indra hid; demanded Shachi; yoked the seers to his carriage (5.11–17) |  |  | Nahush |
+| **Pandya** | Pāṇḍya | the Pandya king, who comes to Yudhishthira with fighters from the lands along the sea (5.19.9) |  |  |  |
 | **Paushya** | Pauṣya | king whose queen gives her earrings to Uttanka |  |  |  |
 | **Pratardana** | Pratardana | royal seer, a grandson of Yayati through his daughter |  |  |  |
 | **Pundraka** | Puṇḍraka | a king present in Yudhishthira's hall |  |  |  |
@@ -590,7 +592,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shankha** | Śaṅkha | son of Virata |  |  |  |
 | **Uttara** | Uttara | son of Virata; also Uttarā, Virata's daughter, whom Brihannada teaches to dance (4.10.8); later Abhimanyu's wife. The prince and the princess have the same name in English: always say which. The prince is also called Bhuminjaya (4.33.9) and Prithivinjaya (4.36.1) | Bhuminjaya, Prithivinjaya |  |  |
 | **Virata** | Virāṭa | king of the Matsyas, host of the Pandavas' year in hiding |  |  | Viraat |
-| **Airavata** | Airāvata | a chief naga, brother of Vasuki (not the elephant of the same name) |  |  |  |
+| **Airavata** | Airāvata | a chief naga, brother of Vasuki; also Indra's elephant, king of elephants (5.18.1) |  |  |  |
 | **Arbuda** | Arbuda | a snake of Magadha |  |  |  |
 | **Ashvasena** | Aśvasena | Takshaka's son, who escapes the burning of Khandava and is cursed by Arjuna, Agni and Krishna |  |  |  |
 | **Elapatra** | Elāpatra | the snake who remembers Brahma's words and counsels Vasuki to give his sister to Jaratkaru |  |  |  |
@@ -704,7 +706,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sankriti** | Sāṅkṛti | father of Rantideva |  |  |  |
 | **Satyavat** | Satyavat | son of Dyumatsena, Savitri's husband, fated to die within a year | Chitrashva |  |  |
 | **Adrishyanti** | Adṛśyantī | Shakti's wife, mother of Parashara |  |  |  |
-| **Agastya** | Agastya | seer who hunted during a sacrifice and consecrated the deer to the gods |  |  |  |
+| **Agastya** | Agastya | seer who hunted during a sacrifice and consecrated the deer to the gods; also the seer Nahusha touched with his foot, who cursed him to fall as a snake for ten thousand years (5.17.11–15) |  |  |  |
 | **Agniveshya** | Agniveśya | sage who received the weapon of Fire from Bharadvaja and taught Drona |  |  |  |
 | **Ahalya** | Ahalyā | Gautama's wife, whose lake is a ford in Gautama's forest |  |  |  |
 | **Akritavrana** | Akṛtavraṇa | a follower of Rama Jamadagnya, who tells his story on Mount Mahendra |  |  |  |
@@ -716,6 +718,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Ashtavakra** | Aṣṭāvakra | son of Kahoda and Sujata, bent in eight places, who beat Bandin in debate |  |  |  |
 | **Asita Devala** | Asita Devala | a seer present in Yudhishthira's hall | Asita |  |  |
 | **Astika** | Āstīka | son of Jaratkaru and Vasuki's sister; he stops the snake sacrifice |  |  |  |
+| **Atharvangiras** | Atharvāṅgiras | the name Indra gives Angiras when he honours him with Atharva Veda hymns (5.18.5–7) |  |  |  |
 | **Atreya** | Ātreya | Vamadeva's pupil (3.190.55) |  |  |  |
 | **Aurva** | Aurva | Bhrigu born from his mother's thigh; his anger became the Mare's Head fire in the sea; Dhaumya cites him as one who lived hidden in a thigh (3.299.14) |  |  |  |
 | **Aushija** | Auśija | a seer present in Yudhishthira's hall |  |  |  |
@@ -891,7 +894,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Dandadhara** | Daṇḍadhāra | a king named among the suitors at Draupadi's bridegroom choice; also a king Drupada would summon (5.4.18) |  |  |  |
 | **Dridhadhanva** | Dṛḍhadhanvan | a king named among the suitors at Draupadi's bridegroom choice |  |  | Dridhadhanvan |
 | **Jalasandha** | Jalasaṃdha | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
-| **Jayatsena** | Jayatsena | a king named among the suitors at Draupadi's bridegroom choice; also one of the five secret names Yudhishthira gives the Pandavas in Virata's city (4.5.30) |  |  |  |
+| **Jayatsena** | Jayatsena | a king named among the suitors at Draupadi's bridegroom choice; also one of the five secret names Yudhishthira gives the Pandavas in Virata's city (4.5.30); also Jayatsena of Magadha, Jarasandha's son, who brings the Pandavas an akshauhini (5.19.8) |  |  |  |
 | **Maniman** | Maṇimat | a king named among the suitors at Draupadi's bridegroom choice; also a rakshasa, friend of Kubera, killed by Bhima on Gandhamadana (3.157.52–68) |  |  | Manimat |
 | **Nila** | Nīla | a king named among the suitors at Draupadi's bridegroom choice; also King Nila of Mahishmati, protected by Agni (2.28.11); also a monkey chief who kills Pramathin |  |  |  |
 | **Paundraka Vasudeva** | Pauṇḍraka Vāsudeva | king of the Pundras, named among the suitors at Draupadi's bridegroom choice |  |  |  |

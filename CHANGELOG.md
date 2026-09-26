@@ -6,6 +6,21 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Novel: Book 5, chapters 4–6 drafted: Nahusha, his fall, the armies gather
+- Ch 4 *Nahusha* (CE 5.11–14) and Ch 5 *The Fall of Nahusha* (5.15–18):
+  Shalya's tale continues, with Nahusha made king of the gods, Shachi's
+  refuge with Brihaspati, Upashruti and the lotus stalk, the seers yoked to
+  Nahusha's carriage, Agni's search, and Agastya's curse; Shalya repeats his
+  promise about Karna and goes to Duryodhana. Ch 6 *The Armies Gather*
+  (5.19–21): seven akshauhinis for the Pandavas and eleven for Duryodhana,
+  the priest's embassy, Karna's retort, Dhritarashtra's decision to send
+  Sanjaya. This completes the Udyoga sub-parva (5.1–21).
+- Ch 3 notes corrected: the sharing out of Indra's sin is CE at 5.13.16–18,
+  not only a rejected passage.
+- Ledger: L-173 (no "Sarpa! sarpa!" in the CE).
+- Names: Upashruti, Atharvangiras, the Pandya king; Airavata now also covers
+  Indra's elephant. Places: Upaplavya, Kurujangala and other lands of 5.19.
+
 ### Novel: Book 5 begun, chapters 1–3 drafted: the council, the choice at Dvaraka, Indra and Vritra
 - Checked Books 1–4 before starting: all 663 adhyayas covered, index and
   reflow checks clean.
