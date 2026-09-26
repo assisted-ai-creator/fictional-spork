@@ -253,3 +253,29 @@ Before a chapter is marked `verified`:
 - [ ] `tools/style_check.py` passes with no banned patterns and readability in range.
 - [ ] Read through at speaking pace. Rewrite any line you would not say aloud.
 - [ ] Front matter updated (`status`, `words`), index rebuilt, changelog entry added.
+
+## 13. The Bhagavad Gita (Book 6, CE 6.23–40)
+
+The author asked for the Gita to be told in full, in **very simple English**,
+with **footnotes** that explain its ideas. This is the one place in the novel
+where the reading text carries footnotes.
+
+1. **Every verse is kept**, in order. Simple words, short sentences, but the
+   meaning of each verse unchanged. Where a verse is hard, say plainly what it
+   says and put the difficulty in the notes block (*Choices*), not in the text.
+2. **Forms of address are trimmed** to a name now and then (Arjuna, Partha,
+   Krishna). The frame stays: Sanjaya tells it (double quotes), the speakers
+   speak in single quotes.
+3. **Footnotes** go on a key word the first time it matters in a chapter,
+   using Markdown footnotes with labels unique across the novel
+   (`[^b6c7-1]`). The definitions sit at the end of the story text, before
+   `<!-- notes -->`, under a `## Explanations` heading. Each footnote has:
+   * **What it means**: a plain definition in one or two sentences;
+   * **An everyday example**, marked as an example (it is not the text);
+   * **In the story**, where one fits: a moment from the Mahabharata that
+     shows the idea, **cited to the CE and checked** like any other claim.
+     Never a vulgate or popular story.
+4. **Footnotes explain; they do not add.** They do not tell the reader which
+   school of interpretation is right, and they do not put new teachings in
+   Krishna's mouth. Where commentators differ, say so briefly.
+5. The readability targets apply to the footnotes too.

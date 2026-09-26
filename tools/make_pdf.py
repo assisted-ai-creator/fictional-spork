@@ -107,7 +107,7 @@ def font_css(files: list[Path]) -> str:
 def md(text: str) -> str:
     # Keep the line breaks of verse set in blockquotes.
     lines = [(ln.rstrip() + "  ") if ln.lstrip().startswith(">") else ln for ln in text.splitlines()]
-    body = markdown.markdown("\n".join(lines), extensions=["smarty"], output_format="html")
+    body = markdown.markdown("\n".join(lines), extensions=["smarty", "footnotes"], output_format="html")
     return body.replace("<hr />", '<hr class="break">').replace("<hr>", '<hr class="break">')
 
 
