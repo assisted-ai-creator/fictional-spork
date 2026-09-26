@@ -2,7 +2,7 @@
 
 # Contents
 
-**299 chapters, 688,033 words.** 299 drafted
+**300 chapters, 692,255 words.** 300 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -343,5 +343,6 @@
 | 10 | [The Imperishable](../novel/book-06-bhishma/10-the-imperishable.md) | 6.30-32 | drafted | 3,721 |
 | 11 | [The Form of All](../novel/book-06-bhishma/11-the-form-of-all.md) | 6.33-34 | drafted | 2,751 |
 | 12 | [The Field and the Strands](../novel/book-06-bhishma/12-the-field-and-the-strands.md) | 6.35-37 | drafted | 2,982 |
+| 13 | [Freedom](../novel/book-06-bhishma/13-freedom.md) | 6.38-40 | drafted | 4,222 |
 
-*Book 6 so far: 37,775 words.*
+*Book 6 so far: 41,997 words.*

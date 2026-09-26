@@ -6,6 +6,21 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Novel: Book 6, the Bhagavad Gita (chapters 7–13)
+- The whole Gita (CE 6.23–40, 700 verses) told in very simple English at the
+  author's request, every verse kept, with explanatory footnotes: a plain
+  definition, an everyday example and, where one fits, a CE-cited moment from
+  the epic (Style Guide §13). Ch 7 *Arjuna's Despair* (Gita 1–2), ch 8
+  *Action* (3–5), ch 9 *The Steady Mind* (6–7), ch 10 *The Imperishable*
+  (8–10), ch 11 *The Form of All* (11–12), ch 12 *The Field and the Strands*
+  (13–15), ch 13 *Freedom* (16–18).
+- Tools: `reflow.py` wraps footnote definitions; `style_check.py` ignores
+  footnote marks when splitting sentences; `make_pdf.py` enables Markdown
+  footnotes. Glossary: yoga, Brahman, the self, strands, nature, Sankhya,
+  nirvana.
+- Ledger: L-191 (the 701st verse is a rejected passage), L-192 (the 745-verse
+  count is rejected).
+
 ### Novel: Book 6 begun: plan and chapters 1–6
 - Book 6 chapter plan (34 chapters) in `NOVEL_PLAN.md`, drawn from the CE
   adhyāya openings, with the ten days fixed by the CE's withdrawals.

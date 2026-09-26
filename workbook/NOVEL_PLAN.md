@@ -468,13 +468,13 @@ and the whole battle is told as his answer. Days are fixed by the withdrawals
 | 4 | The Other Islands | 6.12–6.13 | ✅ drafted. Śāka island without king or punishment; the northern oceans; Kuśa, Krauñca, Puṣkara; the elephants of the quarters; the sizes of Svarbhānu, moon and sun. |
 | 5 | Bhishma Has Fallen | 6.14–6.16 | ✅ drafted. Sañjaya returns after ten days (L-190); Dhṛtarāṣṭra's lament; Sañjaya's powers; Duryodhana sets guards against Śikhaṇḍin; the ten lords of akṣauhiṇīs; Bhīṣma in white. |
 | 6 | The Armies Face Each Other | 6.17–6.22 | ✅ drafted. Bhīṣma's door to heaven; Karṇa without weapons; the Kaurava banners; the Vajra array; "where Kṛṣṇa is, there is victory"; no Durgā hymn (L-34); Kṛṣṇa points out Bhīṣma. |
-| 7 | Arjuna's Despair | 6.23–6.24 | Gītā 1–2. |
-| 8 | Action | 6.25–6.27 | Gītā 3–5. |
-| 9 | The Steady Mind | 6.28–6.29 | Gītā 6–7. |
-| 10 | The Imperishable | 6.30–6.32 | Gītā 8–10. |
-| 11 | The Form of All | 6.33–6.34 | Gītā 11–12. |
-| 12 | The Field and the Strands | 6.35–6.37 | Gītā 13–15. |
-| 13 | Freedom | 6.38–6.40 | Gītā 16–18. |
+| 7 | Arjuna's Despair | 6.23–6.24 | ✅ drafted. Gītā 1–2, in simple English with footnotes (Style Guide §13): the conches; Arjuna's despair; the self that never dies; the kshatriya's duty; action without craving; steady wisdom. |
+| 8 | Action | 6.25–6.27 | ✅ drafted. Gītā 3–5: no one can stop acting; the wheel of sacrifice; desire the enemy; "whenever dharma grows weak" (L-140); action and inaction; the kinds of sacrifice; the lotus leaf. |
+| 9 | The Steady Mind | 6.28–6.29 | ✅ drafted. Gītā 6–7: lifting oneself; how to meditate; the lamp without wind; practice and letting go; no one who strives is lost; pearls on a thread; four kinds of devotees. |
+| 10 | The Imperishable | 6.30–6.32 | ✅ drafted. Gītā 8–10: the last thought; the day of Brahmā; the bright and dark paths; the royal secret; a leaf, a flower; the powers. |
+| 11 | The Form of All | 6.33–6.34 | ✅ drafted. Gītā 11–12: the divine form; "I am Time"; the instrument; Arjuna's apology; the way of love; the devotee dear to Kṛṣṇa. |
+| 12 | The Field and the Strands | 6.35–6.37 | ✅ drafted. Gītā 13–15: the field and its knower (L-191: the 701st verse is rejected); the three strands; the upside-down tree; the highest Person. |
+| 13 | Freedom | 6.38–6.40 | ✅ drafted. Gītā 16–18: godlike and demonic; three kinds of faith, food, austerity, giving; Om Tat Sat; renouncing and relinquishing; "take refuge in me alone"; "my confusion is gone" (L-192). |
 | 14 | Yudhishthira Asks Leave | 6.41 | Yudhiṣṭhira goes unarmed to Bhīṣma, Droṇa, Kṛpa and Śalya; Yuyutsu changes sides. |
 | 15 | The First Day | 6.42–6.45 | The first clash; the duels; the deaths of Uttara and Śveta. |
 | 16 | The Heron Array | 6.46–6.49 | Yudhiṣṭhira's despair at night; the second day's arrays; Arjuna and Bhīṣma; Droṇa and Dhṛṣṭadyumna. |
