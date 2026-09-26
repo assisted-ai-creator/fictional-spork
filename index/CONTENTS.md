@@ -2,7 +2,7 @@
 
 # Contents
 
-**302 chapters, 698,829 words.** 302 drafted
+**303 chapters, 702,836 words.** 303 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -346,5 +346,6 @@
 | 13 | [Freedom](../novel/book-06-bhishma/13-freedom.md) | 6.38-40 | drafted | 4,222 |
 | 14 | [Yudhishthira Asks Leave](../novel/book-06-bhishma/14-yudhishthira-asks-leave.md) | 6.41 | drafted | 2,364 |
 | 15 | [The First Day](../novel/book-06-bhishma/15-the-first-day.md) | 6.42-45 | drafted | 4,210 |
+| 16 | [The Heron Array](../novel/book-06-bhishma/16-the-heron-array.md) | 6.46-49 | drafted | 4,007 |
 
-*Book 6 so far: 48,571 words.*
+*Book 6 so far: 52,578 words.*
