@@ -402,8 +402,8 @@ Ambopākhyāna); the boundaries are read from the content of the adhyāyas.
 | 10 | Five Villages | 5.31–5.32 | ✅ drafted. The five villages (L-174); "ready for peace and ready for war"; Sañjaya's night return and rebuke. |
 | 11 | Vidura's Night Counsel | 5.33 | ✅ drafted. The marks of the wise and the fool; the counted sayings from one to ten; the steady king; give the Pāṇḍavas their kingdom. |
 | 12 | The Sleepless King | 5.34–5.35 | ✅ drafted. Consequences; the chariot of the body; the wounds of speech; the gods take away understanding; Virocana and Sudhanvan; the true assembly. |
-| 13 | The Swan and the Sadhyas | 5.36–5.37 | Dattātreya and the Sādhyas; Manu's seventeen fools. |
-| 14 | Vidura's Last Counsel | 5.38–5.41 | Vidura's counsel ends; he calls on Sanatsujāta. |
+| 13 | The Swan and the Sadhyas | 5.36–5.37 | ✅ drafted. Ātreya as a swan; the best, middling and lowest man; the great families; kin like firebrands; Manu's seventeen; the five strengths; the forest and its lions. |
+| 14 | Vidura's Last Counsel | 5.38–5.41 | ✅ drafted. Counsel, kin and forgiveness; "where there is dharma, there is victory"; the river of the self; "my mind turns again"; Sanatsujāta called. |
 | 15 | Sanatsujata | 5.42–5.45 | Death, silence, the eternal. |
 | 16 | Arjuna's Message | 5.46–5.47 | Sañjaya reports Arjuna's words to the assembled Kurus. |
 | 17 | Nara and Narayana | 5.48–5.49 | Bhīṣma on Nara and Nārāyaṇa; Karṇa and Bhīṣma; the Pāṇḍava allies. |

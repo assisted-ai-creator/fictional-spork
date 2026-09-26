@@ -418,7 +418,7 @@ sons."
 
 **Divergences.**
 
-* **"Those who say pleasant things are easy to find."** The well-known saying that men who speak pleasantly are easy to find, but a speaker and hearer of unpleasant good advice are rare, is a rejected line here (5.34.\*186). Not narrated.
+* **"Those who say pleasant things are easy to find."** The well-known saying that men who speak pleasantly are easy to find, but a speaker and hearer of unpleasant good advice are rare, is a rejected line here (5.34.\*186). The CE has it later, at 5.37.14, and it is told there.
 * **"The gods do not guard with a stick"** appears as a rejected line at 5.34.\*192 and in the CE text at 5.35.33. The novel tells it once, at 5.35.33.
 * **Keshini's bridegroom choice.** A rejected passage (\*193) sets the story at Keshini's bridegroom choice. In the CE she simply asks Virochana her question (5.35.6).
 * **The hamsa.** A long rejected passage (\*207, \*209) brings in a swan (hamsa) who questions Prahlada, and adds the division of sin among the chief, the doer and the silent members of an assembly. Not narrated. The same teaching on the silent assembly is also rejected at \*214.

@@ -6,6 +6,16 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Novel: Book 5, chapters 13–14 drafted: the Prajagara completed
+- Ch 13 *The Swan and the Sadhyas* (CE 5.36–37) and Ch 14 *Vidura's Last
+  Counsel* (5.38–41): Atreya's teaching as a swan, the great families, Manu's
+  seventeen fools, the five strengths, Dhritarashtra's "where there is
+  dharma, there is victory" and "my mind turns again when I meet Duryodhana",
+  and Vidura calling Sanatsujata. This completes the Prajagara (5.33–41).
+- Notes record that the advice to give up Duryodhana at birth is CE in Book 1
+  (1.107.29–32) but only a rejected reminder here (5.39.\*231).
+- Names: Sanatsujata, Atreya the swan.
+
 ### Novel: Book 5, chapters 11–12 drafted: Vidura's night counsel
 - Ch 11 *Vidura's Night Counsel* (CE 5.33) and Ch 12 *The Sleepless King*
   (5.34–35): the start of the Prajagara, Vidura's counsel to the sleepless

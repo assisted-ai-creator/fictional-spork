@@ -2,7 +2,7 @@
 
 # Contents
 
-**243 chapters, 535,171 words.** 243 drafted
+**245 chapters, 542,912 words.** 245 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -280,5 +280,7 @@
 | 10 | [Five Villages](../novel/book-05-udyoga/10-five-villages.md) | 5.31-32 | drafted | 1,492 |
 | 11 | [Vidura's Night Counsel](../novel/book-05-udyoga/11-viduras-night-counsel.md) | 5.33 | drafted | 2,685 |
 | 12 | [The Sleepless King](../novel/book-05-udyoga/12-the-sleepless-king.md) | 5.34-35 | drafted | 3,749 |
+| 13 | [The Swan and the Sadhyas](../novel/book-05-udyoga/13-the-swan-and-the-sadhyas.md) | 5.36-37 | drafted | 3,709 |
+| 14 | [Vidura's Last Counsel](../novel/book-05-udyoga/14-viduras-last-counsel.md) | 5.38-41 | drafted | 4,032 |
 
-*Book 5 so far: 30,081 words.*
+*Book 5 so far: 37,822 words.*

@@ -9071,7 +9071,7 @@
    "name": "Atreya",
    "iast": "Ātreya",
    "group": "Seer",
-   "who": "Vamadeva's pupil (3.190.55)",
+   "who": "Vamadeva's pupil (3.190.55); also the son of Atri who, in the form of a swan, taught the Sadhya gods (5.36.1)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -10484,6 +10484,16 @@
    "dialogue": [],
    "flag": [],
    "ref": "5.19.9"
+  },
+  {
+   "name": "Sanatsujata",
+   "iast": "Sanatsujāta",
+   "group": "Seer",
+   "who": "the eternal youth, whom Vidura calls to teach Dhritarashtra that there is no death",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.41.2"
   }
  ],
  "not_vyasa": [

@@ -719,7 +719,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Asita Devala** | Asita Devala | a seer present in Yudhishthira's hall | Asita |  |  |
 | **Astika** | Āstīka | son of Jaratkaru and Vasuki's sister; he stops the snake sacrifice |  |  |  |
 | **Atharvangiras** | Atharvāṅgiras | the name Indra gives Angiras when he honours him with Atharva Veda hymns (5.18.5–7) |  |  |  |
-| **Atreya** | Ātreya | Vamadeva's pupil (3.190.55) |  |  |  |
+| **Atreya** | Ātreya | Vamadeva's pupil (3.190.55); also the son of Atri who, in the form of a swan, taught the Sadhya gods (5.36.1) |  |  |  |
 | **Aurva** | Aurva | Bhrigu born from his mother's thigh; his anger became the Mare's Head fire in the sea; Dhaumya cites him as one who lived hidden in a thigh (3.299.14) |  |  |  |
 | **Aushija** | Auśija | a seer present in Yudhishthira's hall |  |  |  |
 | **Babhrumali** | Babhrumālin | a seer present in Yudhishthira's hall |  |  | Babhrumalin |
@@ -822,6 +822,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sahasrapat** | Sahasrapād | seer cursed to be a dundubha snake |  |  |  |
 | **Sanatana** | Sanātana | a seer present in Yudhishthira's hall |  |  |  |
 | **Sanatkumara** | Sanatkumāra | a son of Brahma, who sang the praise of Prithudaka; he settles the dispute between Atri and Gautama (3.183.20–27) |  |  |  |
+| **Sanatsujata** | Sanatsujāta | the eternal youth, whom Vidura calls to teach Dhritarashtra that there is no death |  |  |  |
 | **Sarika** | Sārika | a seer present in Yudhishthira's hall |  |  |  |
 | **Sarpamali** | Sarpamālin | a seer present in Yudhishthira's hall |  |  | Sarpamalin |
 | **Savarni** | Sāvarṇi | a seer present in Yudhishthira's hall |  |  |  |
