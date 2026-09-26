@@ -6,7 +6,7 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
-### Novel: Book 6, chapters 16–23: the second to seventh days
+### Novel: Book 6, chapters 16–24: the second to seventh days
 - Ch 16 *The Heron Array* (CE 6.46–49), ch 17 *Bhima and the Kalingas*
   (6.50–51) and ch 18 *The Third Day* (6.52–55): Duryodhana's reproach and
   Bhishma's promise; Arjuna fights gently; Krishna runs at Bhishma with his
@@ -32,6 +32,8 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 - Ch 23 *The Seventh Day* (6.76–79), the morning: Drona kills Virata's son
   Shankha (L-193 updated); Bhishma's healing herb; Ghatotkacha runs from
   Bhagadatta.
+- Ch 24 *Shrutayus* (6.80–82): Yudhishthira's anger; Abhimanyu spares the
+  princes, remembering Bhima's vow; Yudhishthira rebukes Shikhandi.
 
 ### Novel: Book 6, chapters 14–15: the war begins
 - Ch 14 *Yudhishthira Asks Leave* (CE 6.41): the blessings of Bhishma, Drona,
