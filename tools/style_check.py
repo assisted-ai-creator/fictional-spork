@@ -98,6 +98,7 @@ def syllables(word: str) -> int:
 
 def sentences_of(text: str) -> list[str]:
     body = re.sub(r"^#.*$", "", text, flags=re.M)          # drop headings
+    body = re.sub(r"\[\^[^\]]+\]:?", "", body)              # drop footnote marks
     body = re.sub(r"\s+", " ", body)
     parts = re.split(r"(?<=[.!?])[\"'”’)]*\s+(?=[\"'“‘(]*[A-Z])", body)
     return [p for p in parts if words_of(p)]
