@@ -6,6 +6,23 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Novel: Book 5, chapters 26–32 drafted: Krishna's embassy to the hall, and Kanva's tale
+- Ch 26 *Krishna Sets Out* (CE 5.81–82): the departure in the month Kaumuda,
+  Yudhishthira's message to Kunti, the seers on the road, the portents, the
+  night at Vrikasthala. Ch 27 *Hastinapura Waits* (5.83–86): the rest halls,
+  Dhritarashtra's gifts, Vidura's warning, Duryodhana's plan to seize Krishna.
+  Ch 28 *Kunti's Grief* (5.87–88). Ch 29 *Vidura's House* (5.89–92): Krishna
+  refuses Duryodhana's food; Vidura's warning and Krishna's reasons; the drive
+  to the hall. Ch 30 *Krishna in the Hall* (5.93–95): Krishna's speech, Rama
+  Jamadagnya's tale of Dambhodbhava, Kanva's warning. Ch 31 *The Worlds Below*
+  (5.96–100) and ch 32 *Gunakeshi* (5.101–103): Matali's search, Narada's tour
+  of the worlds under the earth, Sumukha, and Garuda humbled.
+- Ledger: L-178 (Krishna at Vidura's table: the refusal is CE; the "greens"
+  exchange is \*423 and Vidura's boons are an appendix passage).
+- Names: the nagas of Bhogavati, Garuda's descendants, the cows of the
+  quarters, and others from Kanva's tale. Places: Shalibhavana, Patala,
+  Hiranyapura, Rasatala, Bhogavati. Timeline: Krishna's departure (5.81.7).
+
 ### Novel: Book 5, chapters 23–25 drafted: the Bhagavadyana begins
 - Ch 23 *The Pandavas' Counsel* (CE 5.70–71): Yudhishthira on what poverty and
   war do to a man, the five villages again, Krishna's decision to go to the

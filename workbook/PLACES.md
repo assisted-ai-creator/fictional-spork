@@ -33,3 +33,8 @@ used in the novel. They are here only as orientation, marked "(trad.)".
 | Kushasthala | Kuśasthala | First of the five villages Yudhishthira asks for | 5.31.19 | |
 | Vrikasthala | Vṛkasthala | One of the five villages Yudhishthira asks for; where Krishna rests on his way to Hastinapura | 5.31.19; 5.84.1 | |
 | Asandi | Āsandī | One of the five villages Yudhishthira asks for | 5.31.19 | |
+| Shalibhavana | Śālibhavana | A rich grain country Krishna passes through on the road to Hastinapura | 5.82.15 | |
+| Patala | Pātāla | The city at the navel of the naga world, where the asura fire burns and the gods stored the nectar | 5.97.1–6 | |
+| Hiranyapura | Hiraṇyapura | The city of the daityas and danavas below Patala, built by Vishvakarman | 5.98.1–2 | |
+| Rasatala | Rasātala | The seventh level of the earth, where Surabhi lives | 5.100.1 | |
+| Bhogavati | Bhogavatī | The city of the nagas, guarded by Vasuki | 5.101.1 | |

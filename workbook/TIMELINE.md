@@ -22,6 +22,8 @@ note it and keep the text's wording in the novel.
 | The Pandavas revealed | "on the third day" after the battle for the cattle | 4.65.1 |
 | The council in Virata's hall | after four dawns' rest following Abhimanyu's wedding | 5.1.1 |
 | Duryodhana and Arjuna at Dvaraka | the same day | 5.7.4 |
+| Krishna sets out for Hastinapura | the month Kaumuda (Karttika), under Revati, at the end of autumn as the cold season came; the hour of Mitra | 5.81.6–7 |
+| Krishna's night at Vrikasthala | the evening of the first day's journey | 5.82.20–29 |
 | The war | Bhishma fights ten days, Drona five, Karna two, Shalya half a day; then the mace duel; that night Kritavarma, Ashvatthama and Kripa kill the sleeping Pandava army. That makes eighteen days | 1.2.26–28 |
 | The armies | eighteen akshauhinis in all, gathered at Samantapanchaka | 1.2.24–25 |
 | Gandhari's curse on Krishna's clan | fulfilled in the thirty-sixth year | 11.25.41 |

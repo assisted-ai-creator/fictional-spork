@@ -415,13 +415,13 @@ Ambopākhyāna); the boundaries are read from the content of the adhyāyas.
 | 23 | The Pandavas' Counsel | 5.70–5.71 | ✅ drafted. Yudhiṣṭhira on poverty and war; the five villages again; Kṛṣṇa will go; a kṣatriya does not beg; the omens. |
 | 24 | Bhima Speaks Softly | 5.72–5.75 | ✅ drafted. Bhīma for peace; the eighteen kings who ruined their families (Bali, not Kali); Kṛṣṇa's goading; Bhīma's answer; fate and effort. |
 | 25 | Draupadi's Hair | 5.76–5.80 | ✅ drafted. Arjuna, Nakula, Sahadeva, Sātyaki; Draupadī holds out her hair and asks for Duḥśāsana's arm (L-22); "I longed for you in my mind, Govinda" (L-19). |
-| 26 | Krishna Sets Out | 5.81–5.82 | The departure; the seers on the road; the omens. |
-| 27 | Hastinapura Waits | 5.83–5.86 | Dhṛtarāṣṭra's plans for gifts; Vidura's warning; Duryodhana's plan. |
-| 28 | Kunti's Grief | 5.87–5.88 | Kṛṣṇa enters the city; Kuntī's lament. |
-| 29 | Vidura's House | 5.89–5.92 | Duryodhana's food refused; Vidura's night counsel. |
-| 30 | Krishna in the Hall | 5.93–5.95 | Kṛṣṇa's speech; Rāma Jāmadagnya's tale of Dambhodbhava. |
-| 31 | The Worlds Below | 5.96–5.100 | Kaṇva's tale: Mātali's search through the underworlds. |
-| 32 | Gunakeshi | 5.101–5.103 | Sumukha; Garuḍa's pride humbled. |
+| 26 | Krishna Sets Out | 5.81–5.82 | ✅ drafted. The departure in Kaumuda; Yudhiṣṭhira's message to Kuntī; Arjuna's and Bhīma's vows; Rāma Jāmadagnya and the seers on the road; portents; the night at Vṛkasthala. |
+| 27 | Hastinapura Waits | 5.83–5.86 | ✅ drafted. Rest halls Kṛṣṇa passes by; Dhṛtarāṣṭra's gifts; Vidura exposes the ploy; Duryodhana's plan to seize Kṛṣṇa; Bhīṣma walks out. |
+| 28 | Kunti's Grief | 5.87–5.88 | ✅ drafted. Kṛṣṇa enters the city; Kuntī asks after each son and Draupadī; "the time has come for which a kṣatriya woman bears a son". |
+| 29 | Vidura's House | 5.89–5.92 | ✅ drafted. Kṛṣṇa refuses Duryodhana's food and eats at Vidura's (L-178); Vidura's warning; Kṛṣṇa's reasons; the drive to the hall; the seers in the sky. |
+| 30 | Krishna in the Hall | 5.93–5.95 | ✅ drafted. Kṛṣṇa's speech to Dhṛtarāṣṭra; Rāma's tale of Dambhodbhava; Kaṇva begins Mātali's story. |
+| 31 | The Worlds Below | 5.96–5.100 | ✅ drafted. Nārada's tour: Varuṇa, Pātāla, Hiraṇyapura, Garuḍa's line, Rasātala. |
+| 32 | Gunakeshi | 5.101–5.103 | ✅ drafted. Sumukha chosen; Indra grants long life; Garuḍa humbled by Viṣṇu's arm; Duryodhana slaps his thigh. |
 | 33 | Galava's Fee | 5.104–5.110 | Nārada's tale: Gālava and the eight hundred horses. |
 | 34 | Madhavi | 5.111–5.117 | Śāṇḍilī; Mādhavī and the three kings. |
 | 35 | Yayati's Fall | 5.118–5.121 | Yayāti falls from heaven and is raised by his grandsons. |

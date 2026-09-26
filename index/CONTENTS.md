@@ -2,7 +2,7 @@
 
 # Contents
 
-**256 chapters, 572,180 words.** 256 drafted
+**263 chapters, 589,317 words.** 263 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -293,5 +293,12 @@
 | 23 | [The Pandavas' Counsel](../novel/book-05-udyoga/23-the-pandavas-counsel.md) | 5.70-71 | drafted | 3,141 |
 | 24 | [Bhima Speaks Softly](../novel/book-05-udyoga/24-bhima-speaks-softly.md) | 5.72-75 | drafted | 2,042 |
 | 25 | [Draupadi's Hair](../novel/book-05-udyoga/25-draupadis-hair.md) | 5.76-80 | drafted | 2,571 |
+| 26 | [Krishna Sets Out](../novel/book-05-udyoga/26-krishna-sets-out.md) | 5.81-82 | drafted | 2,232 |
+| 27 | [Hastinapura Waits](../novel/book-05-udyoga/27-hastinapura-waits.md) | 5.83-86 | drafted | 1,696 |
+| 28 | [Kunti's Grief](../novel/book-05-udyoga/28-kuntis-grief.md) | 5.87-88 | drafted | 3,033 |
+| 29 | [Vidura's House](../novel/book-05-udyoga/29-viduras-house.md) | 5.89-92 | drafted | 3,238 |
+| 30 | [Krishna in the Hall](../novel/book-05-udyoga/30-krishna-in-the-hall.md) | 5.93-95 | drafted | 2,987 |
+| 31 | [The Worlds Below](../novel/book-05-udyoga/31-the-worlds-below.md) | 5.96-100 | drafted | 2,001 |
+| 32 | [Gunakeshi](../novel/book-05-udyoga/32-gunakeshi.md) | 5.101-103 | drafted | 1,950 |
 
-*Book 5 so far: 67,090 words.*
+*Book 5 so far: 84,227 words.*
