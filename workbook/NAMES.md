@@ -778,6 +778,10 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Pushkara** | Puṣkara | Nala's brother, who won Nala's kingdom from him at dice; also the lotus-eyed son of Varuna, husband of Soma's daughter Jyotsnakali (5.96.12) |  |  |  |
 | **Varshneya** | Vārṣṇeya | Nala's charioteer, who took his children to Vidarbha and then served Rituparna. Not Krishna, who is also called Varshneya |  |  |  |
 | **Mahapadma** | Mahāpadma | one of the elephants of the quarters, conjured with Airavata by Ghatotkacha's magic |  |  |  |
+| **Maharaudra** | Mahāraudra | a rakshasa chief with Ghatotkacha, killed by Duryodhana |  |  |  |
+| **Pramathi** | Pramāthin | a rakshasa chief with Ghatotkacha, killed by Duryodhana |  |  |  |
+| **Vegavan** | Vegavat | a rakshasa chief with Ghatotkacha, killed by Duryodhana |  |  |  |
+| **Vidyujjihva** | Vidyujjihva | a rakshasa chief with Ghatotkacha, killed by Duryodhana |  |  |  |
 | **Prakarakarna** | Prākārakarṇa | the long-lived owl of the Himalaya (3.191.4) |  |  |  |
 | **Amitaujas** | Amitaujas | a Panchala great chariot fighter on the Pandava side |  |  |  |
 | **Dhrishtadyumna** | Dhṛṣṭadyumna | Drupada's son, born from the sacrificial fire to kill Drona | Parshata |  | Dhristadyumna, Drishtadyumna |
@@ -797,11 +801,13 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Ghatotkacha** | Ghaṭotkaca | son of Bhima and the rakshasi Hidimba |  |  | Ghatotkach |
 | **Indrasena** | Indrasena | Yudhishthira's messenger and charioteer; follows the Pandavas into the forest (3.1.10); also the name of both of Nala's children, the boy Indrasena and the girl Indrasena (3.57.21) |  |  |  |
 | **Iravan** | Irāvān (Irāvat) | Arjuna's son by a daughter of the snake king, unnamed in the CE (6.86.6-8; the vulgate makes her Ulupi, ledger L-103); dies in battle (not a self-sacrifice: ledger L-37) | Iravat |  | Aravan, Iravat |
+| **Kshatradharma** | Kṣatradharman | a warrior who follows Bhima to Ghatotkacha's aid |  |  |  |
 | **Kunti** | Kuntī | Pritha, daughter of Shura, adopted by Kuntibhoja; Pandu's senior wife; mother of Karna, Yudhishthira, Bhima and Arjuna | Pritha | Pritha | Kunthi |
 | **Madri** | Mādrī | princess of Madra, Shalya's sister; Pandu's second wife; mother of Nakula and Sahadeva |  |  |  |
 | **Nakula** | Nakula | elder of Madri's twin sons, by the Ashvins |  |  | Nakul |
 | **Prativindhya** | Prativindhya | son of Draupadi and Yudhishthira; also a king of the north defeated by Arjuna (2.23.15) |  |  |  |
 | **Sahadeva** | Sahadeva | younger of Madri's twin sons, by the Ashvins; also the name of Jarasandha's son, consecrated king of Magadha by Krishna (2.20.29; 2.22.39) |  |  | Sahdev, Sahadev |
+| **Saucitti** | Saucitti | a warrior who follows Bhima to Ghatotkacha's aid |  |  |  |
 | **Shatanika** | Śatānīka | son of Draupadi and Nakula, named after a royal seer of the Kuru line; another Shatanika is Virata's younger brother (4.30.10) |  |  |  |
 | **Shrutakarman** | Śrutakarman | son of Draupadi. The CE's lists differ: Arjuna's son at 1.213.76 and 3.224.10, Sahadeva's at 1.90.82 and 3.13.66 | Shrutakarma |  |  |
 | **Shrutakirti** | Śrutakīrti | son of Draupadi and Arjuna in the lists at 1.57.102, 1.90.82 and 3.13.65; the lists at 1.213.76 and 3.224.10 give Arjuna's son as Shrutakarman |  |  |  |
@@ -1079,14 +1085,14 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Jalasandha** | Jalasaṃdha | a king named among the suitors at Draupadi's bridegroom choice; also a son of Dhritarashtra, killed by Bhima on the fourth day (6.60.24-28) |  |  |  |
 | **Jayatsena** | Jayatsena | a king named among the suitors at Draupadi's bridegroom choice; also one of the five secret names Yudhishthira gives the Pandavas in Virata's city (4.5.30); also Jayatsena of Magadha, Jarasandha's son, who brings the Pandavas an akshauhini (5.19.8); also a son of Dhritarashtra, wounded by Shatanika on the sixth day (6.75.38-42) |  |  |  |
 | **Maniman** | Maṇimat | a king named among the suitors at Draupadi's bridegroom choice; also a rakshasa, friend of Kubera, killed by Bhima on Gandhamadana (3.157.52–68) |  |  | Manimat |
-| **Nila** | Nīla | a king named among the suitors at Draupadi's bridegroom choice; also King Nila of Mahishmati, protected by Agni (2.28.11); also a monkey chief who kills Pramathin |  |  |  |
+| **Nila** | Nīla | a king named among the suitors at Draupadi's bridegroom choice; also King Nila of Mahishmati, protected by Agni (2.28.11); also a monkey chief who kills Pramathin; also lord of Anupa, who follows Bhima to Ghatotkacha's aid (6.89.14) |  |  |  |
 | **Paundraka Vasudeva** | Pauṇḍraka Vāsudeva | king of the Pundras, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Rochamana** | Rocamāna | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Samudrasena** | Samudrasena | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
-| **Satyadhriti** | Satyadhṛti | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Satyadhriti** | Satyadhṛti | a king named among the suitors at Draupadi's bridegroom choice; also follows Bhima to Ghatotkacha's aid on the eighth day (6.89.12) |  |  |  |
 | **Senabindu** | Senābindu | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Shala** | Śala | a king named among the suitors at Draupadi's bridegroom choice; also the eldest son of Parikshit of Ayodhya, killed for keeping Vamadeva's horses (3.190.43–69) |  |  |  |
-| **Shreniman** | Śreṇimat | a king named among the suitors at Draupadi's bridegroom choice |  |  | Shrenimat |
+| **Shreniman** | Śreṇimat | a king named among the suitors at Draupadi's bridegroom choice; also follows Bhima to Ghatotkacha's aid on the eighth day (6.89.12) |  |  | Shrenimat |
 | **Shrutayu** | Śrutāyu | a king named among the suitors at Draupadi's bridegroom choice; also a king Drupada would summon (5.4.24) |  |  |  |
 | **Shubhangada** | Śubhāṅgada | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Sudama** | Sudāman | a king named among the suitors at Draupadi's bridegroom choice; also Sudama, lord of the Dasharnas, grandfather of Damayanti (3.66.12) |  |  | Sudaman |

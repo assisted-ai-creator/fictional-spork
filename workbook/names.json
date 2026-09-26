@@ -2982,7 +2982,7 @@
    "name": "Satyadhriti",
    "iast": "Satyadhṛti",
    "group": "Suitor",
-   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice; also follows Bhima to Ghatotkacha's aid on the eighth day (6.89.12)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -3012,7 +3012,7 @@
    "name": "Nila",
    "iast": "Nīla",
    "group": "Suitor",
-   "who": "a king named among the suitors at Draupadi's bridegroom choice; also King Nila of Mahishmati, protected by Agni (2.28.11); also a monkey chief who kills Pramathin",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice; also King Nila of Mahishmati, protected by Agni (2.28.11); also a monkey chief who kills Pramathin; also lord of Anupa, who follows Bhima to Ghatotkacha's aid (6.89.14)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -3044,7 +3044,7 @@
    "name": "Shreniman",
    "iast": "Śreṇimat",
    "group": "Suitor",
-   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice; also follows Bhima to Ghatotkacha's aid on the eighth day (6.89.12)",
    "aka": [],
    "dialogue": [],
    "flag": [
@@ -12330,6 +12330,66 @@
    "dialogue": [],
    "flag": [],
    "ref": "6.86.24-42"
+  },
+  {
+   "name": "Vegavan",
+   "iast": "Vegavat",
+   "group": "Other",
+   "who": "a rakshasa chief with Ghatotkacha, killed by Duryodhana",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.87.20"
+  },
+  {
+   "name": "Maharaudra",
+   "iast": "Mahāraudra",
+   "group": "Other",
+   "who": "a rakshasa chief with Ghatotkacha, killed by Duryodhana",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.87.20"
+  },
+  {
+   "name": "Vidyujjihva",
+   "iast": "Vidyujjihva",
+   "group": "Other",
+   "who": "a rakshasa chief with Ghatotkacha, killed by Duryodhana",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.87.20"
+  },
+  {
+   "name": "Pramathi",
+   "iast": "Pramāthin",
+   "group": "Other",
+   "who": "a rakshasa chief with Ghatotkacha, killed by Duryodhana",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.87.20"
+  },
+  {
+   "name": "Saucitti",
+   "iast": "Saucitti",
+   "group": "Pandava",
+   "who": "a warrior who follows Bhima to Ghatotkacha's aid",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.89.12"
+  },
+  {
+   "name": "Kshatradharma",
+   "iast": "Kṣatradharman",
+   "group": "Pandava",
+   "who": "a warrior who follows Bhima to Ghatotkacha's aid",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.89.13"
   }
  ],
  "not_vyasa": [

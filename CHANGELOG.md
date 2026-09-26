@@ -6,7 +6,7 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
-### Novel: Book 6, chapters 16–25: the second to eighth days
+### Novel: Book 6, chapters 16–26: the second to eighth days
 - Ch 16 *The Heron Array* (CE 6.46–49), ch 17 *Bhima and the Kalingas*
   (6.50–51) and ch 18 *The Third Day* (6.52–55): Duryodhana's reproach and
   Bhishma's promise; Arjuna fights gently; Krishna runs at Bhishma with his
@@ -37,6 +37,7 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 - Ch 25 *Iravan* (6.83–86): Bhima kills eight more brothers (L-194); Iravan
   killed by Alambusa (L-37 now gives the day and the killer). Ch 23's note no
   longer calls Iravan's mother Ulupi, which the CE does not (L-103).
+- Ch 26 *Ghatotkacha* (6.87–89).
 
 ### Novel: Book 6, chapters 14–15: the war begins
 - Ch 14 *Yudhishthira Asks Leave* (CE 6.41): the blessings of Bhishma, Drona,
