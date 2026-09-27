@@ -530,7 +530,7 @@ provisional, and each row is filled in as it is drafted.
 | 17 | Arjuna's Vow | 7.50–7.51 | ✅ drafted. The silent camp; Arjuna's lament; Yuyutsu's reproach; Kṛṣṇa's comfort; Yudhiṣṭhira's account; the vow and the vow of fire (L-205). |
 | 18 | Jayadratha's Fear | 7.52–7.53 | ✅ drafted. Jayadratha begs to go home; Duryodhana and Droṇa reassure him; Kṛṣṇa calls the vow rash and reports the six guards; Arjuna's answer. |
 | 19 | Subhadra's Grief | 7.54–7.56 | ✅ drafted. The omens; Kṛṣṇa comforts Subhadrā; her lament; Draupadī and Uttarā; the nightly offering; the sleepless camp; "Arjuna is half of my body"; Kṛṣṇa's chariot made ready. |
-| 20 | The Night Journey | 7.57 | Arjuna's dream of going with Kṛṣṇa to Śiva. |
+| 20 | The Night Journey | 7.57 | ✅ drafted. The dream; the flight north; Śiva on the mountain; the hymn; the lake and the two snakes; the Pāśupata and the fulfilment of the vow. |
 | 21 | The Fourteenth Morning | 7.58–7.60 | Kṛṣṇa and Dāruka; the waking of Yudhiṣṭhira. |
 | 22 | The Cart and the Needle | 7.61–7.63 | Dhṛtarāṣṭra's question; Droṇa's arrays. |
 | 23 | Arjuna Breaks the Front | 7.64–7.65 |  |

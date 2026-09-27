@@ -61,6 +61,8 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   reassurance; Krishna's warning and Arjuna's answer.
 - Ch 19 *Subhadra's Grief* (CE 7.54–7.56): Subhadra's lament; the sleepless
   night; Krishna and Daruka.
+- Ch 20 *The Night Journey* (CE 7.57): Arjuna's dream journey with Krishna
+  to Shiva; the Pashupata weapon.
 
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in
