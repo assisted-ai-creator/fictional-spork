@@ -30,6 +30,10 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 - Ch 7 *The Garuda Array* (CE 7.19–7.21): the twelfth morning from Drona's
   side; Satyajit killed and Yudhishthira withdraws; a second Shatanika,
   Virata's brother, killed (noted beside 6.113.24); Karna's warning.
+- Ch 8 *The Pandavas Turn Back* (CE 7.22–7.24): the horses of the Pandava
+  heroes (their banners are only in a rejected appendix); Dhritarashtra on
+  fate; the single fights. The Book 7 plan is renumbered (67 chapters):
+  Bhagadatta now has two chapters.
 
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in

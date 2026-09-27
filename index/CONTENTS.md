@@ -2,7 +2,7 @@
 
 # Contents
 
-**328 chapters, 797,446 words.** 328 drafted
+**329 chapters, 800,390 words.** 329 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -379,5 +379,6 @@
 | 5 | [The End of the Eleventh Day](../novel/book-07-drona/05-the-end-of-the-eleventh-day.md) | 7.14-15 | drafted | 1,985 |
 | 6 | [The Sworn Band](../novel/book-07-drona/06-the-sworn-band.md) | 7.16-18 | drafted | 2,625 |
 | 7 | [The Garuda Array](../novel/book-07-drona/07-the-garuda-array.md) | 7.19-21 | drafted | 3,239 |
+| 8 | [The Pandavas Turn Back](../novel/book-07-drona/08-the-pandavas-turn-back.md) | 7.22-24 | drafted | 2,944 |
 
-*Book 7 so far: 20,893 words.*
+*Book 7 so far: 23,837 words.*

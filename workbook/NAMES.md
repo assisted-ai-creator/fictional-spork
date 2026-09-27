@@ -149,7 +149,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Krishivala** | Kṛṣīvala | named in Indra's hall (2.7) |  |  |  |
 | **Kritavega** | Kṛtavega | named in Yama's hall (2.8) |  |  |  |
 | **Kriti** | Kṛti | named in Yama's hall (2.8) |  |  |  |
-| **Kshemadhurti** | Kṣemadhūrti | a king Drupada would summon (5.4.23) |  |  |  |
+| **Kshemadhurti** | Kṣemadhūrti | a king Drupada would summon (5.4.23); also with his brother Brihanta, fights Satyaki (7.24.45) |  |  |  |
 | **Kshupa** | Kṣupa | named in Yama's hall (2.8) |  |  |  |
 | **Kumara** | Kumāra | a descendant of Garuda, named by Narada; also a naga of Bhogavati, named by Narada (5.101.9-16) |  |  |  |
 | **Kundaladhara** | Kuṇḍaladhara | named in Varuna's hall (2.9) |  |  |  |
@@ -549,6 +549,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Yuyutsu** | Yuyutsu | Dhritarashtra's son by a vaishya woman |  |  |  |
 | **Adhiratha** | Adhiratha | the charioteer (suta) who raised Karna |  |  |  |
 | **Bhumimjaya** | Bhūmiṃjaya | a warrior in the body of Drona's Garuda array |  |  |  |
+| **Bhutakarman** | Bhūtakarman | lord of the assembly, killed by Nakula's son Shatanika |  |  |  |
 | **Bhutavarman** | Bhūtavarman | a warrior in the neck of Drona's Garuda array |  |  |  |
 | **Jayadratha** | Jayadratha | king of the Sindhus; Duhshala's husband | Saindhava |  |  |
 | **Karna** | Karṇa | Kunti's first son, by the Sun, born with armour and earrings; raised by the charioteer Adhiratha and Radha; also the name of a son of Dhritarashtra (1.108.3), among Duryodhana's brothers on the sixth day (6.73.7) | Vasushena, Radheya, Vaikartana, Suta's son, Vrisha | Radheya | Karan, Karn, Vasusena |
@@ -806,7 +807,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Prishati** | Pṛṣatī | Drupada's queen, mother (by adoption of the fire-born twins) of Dhrishtadyumna and Draupadi |  |  |  |
 | **Satyajit** | Satyajit | one of Drupada's ten sons, named first among them |  |  |  |
 | **Shikhandi** | Śikhaṇḍin | Drupada's child, born a daughter, who became a man; Amba reborn | Shikhandini (as a girl) |  | Shikhandin, Sikhandi, Shikhandee |
-| **Simhasena** | Siṃhasena | a Panchala warrior killed by Drona on the eleventh day |  |  |  |
+| **Simhasena** | Siṃhasena | a Panchala warrior killed by Drona on the eleventh day; also a Panchala, son of Gopati, who turns back against Drona (7.22.43) |  |  |  |
 | **Uttamaujas** | Uttamaujas | a Panchala hero on the Pandavas' side |  |  |  |
 | **Yudhamanyu** | Yudhāmanyu | a Panchala hero on the Pandavas' side, "hard to beat" |  |  |  |
 | **Abhimanyu** | Abhimanyu | son of Arjuna and Subhadra | Saubhadra |  |  |
@@ -831,9 +832,15 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sutasoma** | Sutasoma | son of Draupadi and Bhima |  |  |  |
 | **Vishoka** | Viśoka | a servant of Yudhishthira who sees to the food at the Rajasuya; also named as a charioteer, leading the others when they rejoin the Pandavas at Subahu's city (3.174.14); also Bhima's charioteer in the war (6.60.8-14) |  |  |  |
 | **Yudhishthira** | Yudhiṣṭhira | eldest son of Kunti, by Dharma; the dharma king | Ajatashatru, Dharmaraja, Kaunteya, Partha | Ajatashatru | Yudhistira, Yudhishtira, Yudhisthira, Yudhishthir, Yudhisthir |
+| **Chandradeva** | Candradeva | son of Samudrasena |  |  |  |
+| **Chitra** | Citra | a warrior with a bright chariot, banner and bow |  |  |  |
+| **Dandaketu** | Daṇḍaketu | a warrior who turns back against Drona |  |  |  |
 | **Dridhasena** | Dṛḍhasena | brought down by Drona on the twelfth day |  |  |  |
 | **Kshatravarman** | Kṣatravarman | pierced by Drona on the twelfth day |  |  |  |
 | **Kshema** | Kṣema | a king killed by Drona on the twelfth day |  |  |  |
+| **Rathasena** | Rathasena | a warrior mad for battle |  |  |  |
+| **Shukla** | Śukla | a warrior all in white, banner, armour, horses and bow |  |  |  |
+| **Sukshatra** | Sukṣatra | son of the lord of Kosala |  |  |  |
 | **Yugandhara** | Yugaṃdhara | a warrior who holds back Drona; knocked from his chariot seat |  |  |  |
 | **Vishvagashva** | Viṣvagaśva | a Paurava king defeated by Arjuna; also an Ikshvaku, son of Prithu (3.193.3) |  |  |  |
 | **Haihayas** | Haihaya | a line of kings; a Haihaya prince kills Tarkshya's son by mistake (3.182) |  |  |  |
@@ -851,7 +858,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Puloman** | Puloman (Pulomā, m.) | the rakshasa who carries off Bhrigu's wife |  |  |  |
 | **Ravana** | Rāvaṇa | king of the rakshasas who carried off Sita; his story is told at 3.258–275 |  |  | Raavan, Ravan |
 | **Aja** | Aja | an Ikshvaku king, father of Dasharatha |  |  |  |
-| **Angada** | Aṅgada | Valin's son, who leads the southern search party |  |  |  |
+| **Angada** | Aṅgada | Valin's son, who leads the southern search party; also a warrior who holds back Uttamaujas (7.24.36) |  |  |  |
 | **Avindhya** | Avindhya | an old rakshasa, honoured by the elders, who wishes Rama well and sends word to Sita |  |  |  |
 | **Dadhimukha** | Dadhimukha | an old monkey chief; also a naga of Bhogavati, named by Narada (5.101.9-16) |  |  |  |
 | **Dhumraksha** | Dhūmrākṣa | a rakshasa general killed by Hanuman |  |  |  |
@@ -1095,7 +1102,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Bhoja** | Bhoja | a warrior paired with Ashvatthama among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Bhuri** | Bhūri | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Brihadratha** | Bṛhadratha | a king named among the suitors at Draupadi's bridegroom choice; also King Brihadratha of Magadha, Jarasandha's father (2.16.12) |  |  |  |
-| **Brihanta** | Bṛhanta | a king named among the suitors at Draupadi's bridegroom choice; also Brihanta, king of Kuluta, defeated by Arjuna (2.24.4) |  |  |  |
+| **Brihanta** | Bṛhanta | a king named among the suitors at Draupadi's bridegroom choice; also Brihanta, king of Kuluta, defeated by Arjuna (2.24.4); also with his brother Kshemadhurti, fights Satyaki (7.24.45) |  |  |  |
 | **Brihatkshatra** | Bṛhatkṣatra | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Chandrasena** | Candrasena | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Chitrayudha** | Citrāyudha | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
@@ -1104,20 +1111,20 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Dridhadhanva** | Dṛḍhadhanvan | a king named among the suitors at Draupadi's bridegroom choice; also a fine chariot fighter on the Pandava side (5.168.25) |  |  | Dridhadhanvan |
 | **Jalasandha** | Jalasaṃdha | a king named among the suitors at Draupadi's bridegroom choice; also a son of Dhritarashtra, killed by Bhima on the fourth day (6.60.24-28) |  |  |  |
 | **Jayatsena** | Jayatsena | a king named among the suitors at Draupadi's bridegroom choice; also one of the five secret names Yudhishthira gives the Pandavas in Virata's city (4.5.30); also Jayatsena of Magadha, Jarasandha's son, who brings the Pandavas an akshauhini (5.19.8); also a son of Dhritarashtra, wounded by Shatanika on the sixth day (6.75.38-42) |  |  |  |
-| **Maniman** | Maṇimat | a king named among the suitors at Draupadi's bridegroom choice; also a rakshasa, friend of Kubera, killed by Bhima on Gandhamadana (3.157.52–68) |  |  | Manimat |
+| **Maniman** | Maṇimat | a king named among the suitors at Draupadi's bridegroom choice; also a rakshasa, friend of Kubera, killed by Bhima on Gandhamadana (3.157.52–68); also a king killed by Bhurishravas with his sword (7.24.51-53) |  |  | Manimat |
 | **Nila** | Nīla | a king named among the suitors at Draupadi's bridegroom choice; also King Nila of Mahishmati, protected by Agni (2.28.11); also a monkey chief who kills Pramathin; also lord of Anupa, who follows Bhima to Ghatotkacha's aid (6.89.14) |  |  |  |
 | **Paundraka Vasudeva** | Pauṇḍraka Vāsudeva | king of the Pundras, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Rochamana** | Rocamāna | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Samudrasena** | Samudrasena | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
-| **Satyadhriti** | Satyadhṛti | a king named among the suitors at Draupadi's bridegroom choice; also follows Bhima to Ghatotkacha's aid on the eighth day (6.89.12) |  |  |  |
+| **Satyadhriti** | Satyadhṛti | a king named among the suitors at Draupadi's bridegroom choice; also follows Bhima to Ghatotkacha's aid on the eighth day (6.89.12); also Kshema's son, a master of weapons and the Veda (7.22.32, 48) |  |  |  |
 | **Senabindu** | Senābindu | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Shala** | Śala | a king named among the suitors at Draupadi's bridegroom choice; also the eldest son of Parikshit of Ayodhya, killed for keeping Vamadeva's horses (3.190.43–69) |  |  |  |
 | **Shreniman** | Śreṇimat | a king named among the suitors at Draupadi's bridegroom choice; also follows Bhima to Ghatotkacha's aid on the eighth day (6.89.12) |  |  | Shrenimat |
 | **Shrutayu** | Śrutāyu | a king named among the suitors at Draupadi's bridegroom choice; also a king Drupada would summon (5.4.24) |  |  |  |
 | **Shubhangada** | Śubhāṅgada | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
-| **Sudama** | Sudāman | a king named among the suitors at Draupadi's bridegroom choice; also Sudama, lord of the Dasharnas, grandfather of Damayanti (3.66.12) |  |  | Sudaman |
+| **Sudama** | Sudāman | a king named among the suitors at Draupadi's bridegroom choice; also Sudama, lord of the Dasharnas, grandfather of Damayanti (3.66.12); also a warrior with lotus-stalk coloured horses (7.22.42) |  |  | Sudaman |
 | **Sudanda** | Sudaṇḍa | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
-| **Sukumara** | Sukumāra | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Sukumara** | Sukumāra | a king named among the suitors at Draupadi's bridegroom choice; also son of Abhibhu, king of Kashi, a young great chariot fighter (7.22.19) |  |  |  |
 | **Sumitra** | Sumitra | a king named among the suitors at Draupadi's bridegroom choice; also Dasharatha's wife, mother of Lakshmana and Shatrughna (3.258.8) |  |  |  |
 | **Suryadhvaja** | Sūryadhvaja | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Sushena** | Suṣeṇa | a king named among the suitors at Draupadi's bridegroom choice; also Valin's father-in-law, a monkey chief; also a son of Dhritarashtra, killed by Bhima on the fourth day (6.60.24-28) |  |  |  |

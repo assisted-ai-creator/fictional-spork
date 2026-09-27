@@ -518,65 +518,66 @@ provisional, and each row is filled in as it is drafted.
 | 5 | The End of the Eleventh Day | 7.14–7.15 | ✅ drafted. Bhīma and Śalya's mace duel; Vṛṣasena; Droṇa drives at Yudhiṣṭhira; the wheel-guard prince; Arjuna's darkness of arrows; sunset. |
 | 6 | The Sworn Band | 7.16–7.18 | ✅ drafted. Droṇa's shame; the Trigartas' oath; Arjuna leaves Satyajit with Yudhiṣṭhira; Tvaṣṭṛ's weapon; "Both Kṛṣṇas are dead!"; the wind weapon. |
 | 7 | The Garuda Array | 7.19–7.21 | ✅ drafted. The twelfth day from Droṇa's side; Dhṛṣṭadyumna and Durmukha; Satyajit killed and Yudhiṣṭhira withdraws; the Matsya's brother Śatānīka; Karṇa's warning. |
-| 8 | The Pandavas Rally | 7.22–7.25 | The emblems of the Pāṇḍava heroes' chariots; single fights along the line. |
-| 9 | Bhagadatta | 7.26–7.29 | Arjuna turns from the saṃśaptakas; Bhagadatta and Supratīka; the Vaiṣṇava weapon. |
-| 10 | The End of the Twelfth Day | 7.30–7.32 | Bhīma, Karṇa and the rest; Duryodhana reproaches Droṇa. |
-| 11 | The Wheel Array | 7.33–7.35 | The thirteenth day; Abhimanyu knows how to enter. |
-| 12 | Abhimanyu Breaks In | 7.36–7.38 |  |
-| 13 | Jayadratha at the Gap | 7.39–7.43 | Jayadratha's boon holds back the Pāṇḍavas. |
-| 14 | Lakshmana | 7.44–7.47 |  |
-| 15 | The Death of Abhimanyu | 7.48–7.49 |  |
-| 16 | Arjuna's Vow | 7.50–7.51 | Arjuna comes back; the vow to kill Jayadratha. |
-| 17 | Jayadratha's Fear | 7.52–7.53 |  |
-| 18 | Subhadra's Grief | 7.54–7.56 |  |
-| 19 | The Night Journey | 7.57 | Arjuna's dream of going with Kṛṣṇa to Śiva. |
-| 20 | The Fourteenth Morning | 7.58–7.60 | Kṛṣṇa and Dāruka; the waking of Yudhiṣṭhira. |
-| 21 | The Cart and the Needle | 7.61–7.63 | Dhṛtarāṣṭra's question; Droṇa's arrays. |
-| 22 | Arjuna Breaks the Front | 7.64–7.65 |  |
-| 23 | Past Drona | 7.66–7.67 | Śrutāyudha and his mace; Sudakṣiṇa. |
-| 24 | Shrutayus and Achyutayus | 7.68–7.69 |  |
-| 25 | Duryodhana's Armour | 7.70–7.72 |  |
-| 26 | The Horses Drink | 7.73–7.75 |  |
-| 27 | Arjuna and Duryodhana | 7.76–7.78 |  |
-| 28 | The Banners | 7.79–7.81 |  |
-| 29 | At Drona's Front | 7.82–7.84 |  |
-| 30 | Satyaki and Drona | 7.85 |  |
-| 31 | Yudhishthira Sends Satyaki | 7.86–7.87 |  |
-| 32 | Satyaki Breaks Through | 7.88–7.90 |  |
-| 33 | Satyaki Goes On | 7.91–7.94 |  |
-| 34 | The Yavanas and the Kambojas | 7.95–7.97 |  |
-| 35 | Satyaki and Duhshasana | 7.98–7.100 |  |
-| 36 | Bhima Goes In | 7.101–7.102 |  |
-| 37 | Bhima Breaks Through | 7.103–7.105 |  |
-| 38 | Bhima and Karna | 7.106–7.109 |  |
-| 39 | Bhima and Karna Again | 7.110–7.113 |  |
-| 40 | Karna Spares Bhima | 7.114–7.115 |  |
-| 41 | Bhurishravas | 7.116–7.119 |  |
-| 42 | Jayadratha | 7.120–7.121 |  |
-| 43 | After Jayadratha | 7.122–7.123 |  |
-| 44 | Yudhishthira's Joy | 7.124–7.126 |  |
-| 45 | Drona Fights On | 7.127–7.129 |  |
-| 46 | The Night Battle | 7.130–7.131 |  |
-| 47 | Karna and Kripa | 7.132–7.134 |  |
-| 48 | Ashvatthama | 7.135–7.137 |  |
-| 49 | The Lamps | 7.138–7.140 |  |
-| 50 | Night Duels | 7.141–7.144 |  |
-| 51 | Karna in the Dark | 7.145–7.147 |  |
-| 52 | Ghatotkacha and Karna | 7.148–7.150 |  |
-| 53 | Alayudha | 7.151–7.153 |  |
-| 54 | The Spear | 7.154–7.155 |  |
-| 55 | Why Krishna Was Glad | 7.156–7.157 |  |
-| 56 | Yudhishthira's Grief | 7.158–7.159 |  |
-| 57 | The Moon Rises | 7.160–7.161 |  |
-| 58 | The Fifteenth Dawn | 7.162–7.163 |  |
-| 59 | "Ashvatthama Is Dead" | 7.164 |  |
-| 60 | The Death of Drona | 7.165 |  |
-| 61 | Ashvatthama's Anger | 7.166 |  |
-| 62 | The Quarrel | 7.167–7.168 |  |
-| 63 | Satyaki and Dhrishtadyumna | 7.169 |  |
-| 64 | The Narayana Weapon | 7.170–7.171 |  |
-| 65 | The Fire Weapon | 7.172 |  |
-| 66 | Shiva's Glory | 7.173 |  |
+| 8 | The Pandavas Turn Back | 7.22–7.24 | ✅ drafted. The horses of the Pāṇḍava heroes (their banners are only in App. @5); Dhṛtarāṣṭra on fate; the single fights: Yuyutsu cuts off Subāhu's arms; Bhūriśravas kills Maṇimat. |
+| 9 | Bhagadatta's Elephant | 7.25–7.27 | Bhīma and the elephant ranks; Bhagadatta and Supratīka rout the Pāṇḍavas; Arjuna turns from the saṃśaptakas. |
+| 10 | The Death of Bhagadatta | 7.28–7.29 | The Vaiṣṇava weapon; Bhagadatta killed. |
+| 11 | The End of the Twelfth Day | 7.30–7.32 | Bhīma, Karṇa and the rest; Duryodhana reproaches Droṇa. |
+| 12 | The Wheel Array | 7.33–7.35 | The thirteenth day; Abhimanyu knows how to enter. |
+| 13 | Abhimanyu Breaks In | 7.36–7.38 |  |
+| 14 | Jayadratha at the Gap | 7.39–7.43 | Jayadratha's boon holds back the Pāṇḍavas. |
+| 15 | Lakshmana | 7.44–7.47 |  |
+| 16 | The Death of Abhimanyu | 7.48–7.49 |  |
+| 17 | Arjuna's Vow | 7.50–7.51 | Arjuna comes back; the vow to kill Jayadratha. |
+| 18 | Jayadratha's Fear | 7.52–7.53 |  |
+| 19 | Subhadra's Grief | 7.54–7.56 |  |
+| 20 | The Night Journey | 7.57 | Arjuna's dream of going with Kṛṣṇa to Śiva. |
+| 21 | The Fourteenth Morning | 7.58–7.60 | Kṛṣṇa and Dāruka; the waking of Yudhiṣṭhira. |
+| 22 | The Cart and the Needle | 7.61–7.63 | Dhṛtarāṣṭra's question; Droṇa's arrays. |
+| 23 | Arjuna Breaks the Front | 7.64–7.65 |  |
+| 24 | Past Drona | 7.66–7.67 | Śrutāyudha and his mace; Sudakṣiṇa. |
+| 25 | Shrutayus and Achyutayus | 7.68–7.69 |  |
+| 26 | Duryodhana's Armour | 7.70–7.72 |  |
+| 27 | The Horses Drink | 7.73–7.75 |  |
+| 28 | Arjuna and Duryodhana | 7.76–7.78 |  |
+| 29 | The Banners | 7.79–7.81 |  |
+| 30 | At Drona's Front | 7.82–7.84 |  |
+| 31 | Satyaki and Drona | 7.85 |  |
+| 32 | Yudhishthira Sends Satyaki | 7.86–7.87 |  |
+| 33 | Satyaki Breaks Through | 7.88–7.90 |  |
+| 34 | Satyaki Goes On | 7.91–7.94 |  |
+| 35 | The Yavanas and the Kambojas | 7.95–7.97 |  |
+| 36 | Satyaki and Duhshasana | 7.98–7.100 |  |
+| 37 | Bhima Goes In | 7.101–7.102 |  |
+| 38 | Bhima Breaks Through | 7.103–7.105 |  |
+| 39 | Bhima and Karna | 7.106–7.109 |  |
+| 40 | Bhima and Karna Again | 7.110–7.113 |  |
+| 41 | Karna Spares Bhima | 7.114–7.115 |  |
+| 42 | Bhurishravas | 7.116–7.119 |  |
+| 43 | Jayadratha | 7.120–7.121 |  |
+| 44 | After Jayadratha | 7.122–7.123 |  |
+| 45 | Yudhishthira's Joy | 7.124–7.126 |  |
+| 46 | Drona Fights On | 7.127–7.129 |  |
+| 47 | The Night Battle | 7.130–7.131 |  |
+| 48 | Karna and Kripa | 7.132–7.134 |  |
+| 49 | Ashvatthama | 7.135–7.137 |  |
+| 50 | The Lamps | 7.138–7.140 |  |
+| 51 | Night Duels | 7.141–7.144 |  |
+| 52 | Karna in the Dark | 7.145–7.147 |  |
+| 53 | Ghatotkacha and Karna | 7.148–7.150 |  |
+| 54 | Alayudha | 7.151–7.153 |  |
+| 55 | The Spear | 7.154–7.155 |  |
+| 56 | Why Krishna Was Glad | 7.156–7.157 |  |
+| 57 | Yudhishthira's Grief | 7.158–7.159 |  |
+| 58 | The Moon Rises | 7.160–7.161 |  |
+| 59 | The Fifteenth Dawn | 7.162–7.163 |  |
+| 60 | "Ashvatthama Is Dead" | 7.164 |  |
+| 61 | The Death of Drona | 7.165 |  |
+| 62 | Ashvatthama's Anger | 7.166 |  |
+| 63 | The Quarrel | 7.167–7.168 |  |
+| 64 | Satyaki and Dhrishtadyumna | 7.169 |  |
+| 65 | The Narayana Weapon | 7.170–7.171 |  |
+| 66 | The Fire Weapon | 7.172 |  |
+| 67 | Shiva's Glory | 7.173 |  |
 
 ## Books 2–18: provisional sub-parvas
 
