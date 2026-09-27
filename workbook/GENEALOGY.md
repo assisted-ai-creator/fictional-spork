@@ -39,15 +39,19 @@ be pinned down while drafting.
 
   The five Pandavas ═══ Draupadi (daughter of Drupada)
       ├── Prativindhya (Yudhishthira's son)   ├── Sutasoma (Bhima's)
-      ├── Shrutakarma (Arjuna's)             ├── Shatanika (Nakula's)
-      └── Shrutasena (Sahadeva's)                                   (ref)
+      ├── Shrutakirti (Arjuna's)             ├── Shatanika (Nakula's)
+      └── Shrutakarman (Sahadeva's)                         (1.90.82)
 
   Other sons:
       Bhima ═══ Hidimba (rakshasi) ─► Ghatotkacha
-      Arjuna ═══ Ulupi (Naga princess) ─► Iravan
-      Arjuna ═══ Chitrangada (princess of Manipura) ─► Babhruvahana
+      Arjuna ═══ a daughter of the naga king (unnamed in the CE; L-103) ─► Iravan  (6.86.6)
+      Arjuna ═══ Chitrangada (princess of Manipura) ─► Babhruvahana  (1.209.24)
+      Yudhishthira ═══ Devika ─► Yaudheya; Bhima ═══ Baladhara ─► Sarvaga;
+      Nakula ═══ Karenumati ─► Niramitra; Sahadeva ═══ Vijaya ─► Suhotra  (1.90.83–87)
       Arjuna ═══ Subhadra (Krishna's sister) ─► ABHIMANYU ═══ Uttara (Virata's daughter)
-                                                  └─► PARIKSHIT ─► JANAMEJAYA
+                                                  └─► PARIKSHIT ═══ Madravati ─► JANAMEJAYA
+                                                      ═══ Vapushtama ─► Shatanika, Shanku;
+                                                      Shatanika ─► Ashvamedhadatta  (1.90.90–95)
 ```
 
 ## Kunti's and Madri's families
@@ -76,6 +80,28 @@ be pinned down while drafting.
 ## The line before Shantanu
 
 Pinned down while drafting CE 1.89–1.90 (the Puru line) and 1.62–1.69
-(Dushyanta, Shakuntala, Bharata). Outline: Daksha → … → Yayati → Puru →
-… → Dushyanta ═══ Shakuntala → Bharata → … → Kuru → … → Pratipa →
-Shantanu. **(ref)**
+(Dushyanta, Shakuntala, Bharata). The prose list at CE 1.90.7–46, with the
+wives it names:
+
+```
+  Daksha → Aditi → Vivasvat → Manu → Ila → Pururavas → Ayus → Nahusha → Yayati
+  (7.119.4 gives instead: Atri → Soma → Budha → Pururavas)
+
+  Yayati ═══ Devayani ─► Yadu, Turvasu;  ═══ Sharmishtha ─► Druhyu, Anu, Puru
+
+  Puru ═ Kausalya → Janamejaya ═ Ananta → Prachinvat ═ Ashmaki → Samyati ═ Varangi
+  → Ahampati ═ Bhanumati → Sarvabhauma ═ Sunanda → Jayatsena ═ Sushuva
+  → Arachina ═ Maryada → Mahabhauma ═ Suyajna → Ayutanayin ═ Bhasa
+  → Akrodhana ═ Karandu → Devatithi ═ Maryada → Richa ═ Sudeva → Riksha ═ Jvala
+  → Matinara ═ Sarasvati → Tamsu ═ Kalindi → Ilina ═ Rathantari
+  → Dushyanta ═ Shakuntala → Bharata ═ Sunanda → Bhumanyu ═ Jaya
+  → Suhotra ═ Suvarna → Hastin ═ Yashodhara (founded Hastinapura, 1.90.36)
+  → Vikunthana ═ Sudeva → Ajamidha (124 sons) → Samvarana ═ Tapati → Kuru ═ Shubhangi
+  → Viduratha ═ Sampriya → Arugvat ═ Amrita → Parikshit ═ Suyasha
+  → Bhimasena ═ Sukumari → Pratipa (Paryashravas) ═ Sunanda
+  → Devapi, SHANTANU, Bahlika
+```
+
+The verse list at CE 1.89 differs in places (for example Puru → Pravira →
+Manasyu). The Bhagavata Purana's version (9.20–22) differs again; see
+`tools/make_gita_pdf.py`, which draws both side by side.

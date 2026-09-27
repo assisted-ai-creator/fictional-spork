@@ -6,6 +6,23 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Tools: per-Book PDFs, a Gita study edition and the family tree
+- `tools/make_pdf.py` now writes one PDF per Book by default
+  (`build/mahabharata-bookNN-a4.pdf`); `--combined` restores a single PDF.
+- New `tools/make_gita_pdf.py`: the Bhagavad Gita (Book 6, ch 7–13) as an
+  18-chapter study edition, with each speaker marked by a quiet coloured rule,
+  every explanation boxed after the passage that uses it, a contents page, an
+  explanations index, and a family tree as an appendix. It also writes the
+  tree on its own (`build/gita/the-line-of-the-moon.pdf`).
+- The tree follows CE 1.70, 1.90 and 7.119, and sets the Bhagavata Purana's
+  line (9.14–9.24: the Puru line, the kings after Parikshit down to Kshemaka,
+  and Yadu's line down to Vasudeva) beside it, marked as outside the CE.
+- `workbook/GENEALOGY.md`: Arjuna's son by Draupadi is Shrutakirti and
+  Sahadeva's is Shrutakarman (1.90.82); Iravan's mother is unnamed in the CE
+  (6.86.6; L-103); added the other wives and sons (1.90.83–95) and the whole
+  prose line from Daksha to Shantanu (1.90.7–46).
+- Book 1 ch 33: removed a duplicated notes marker; Samprija → Sampriya.
+
 ### Novel: Book 6, chapters 16–33: the second to tenth days
 - Ch 16 *The Heron Array* (CE 6.46–49), ch 17 *Bhima and the Kalingas*
   (6.50–51) and ch 18 *The Third Day* (6.52–55): Duryodhana's reproach and

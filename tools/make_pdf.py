@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Typeset the drafted Books as a printable PDF.
 
-    python3 tools/make_pdf.py                    # all drafted Books, A4
-    python3 tools/make_pdf.py --books 1-3        # a range of Books
+    python3 tools/make_pdf.py                    # one PDF per drafted Book, A4
+    python3 tools/make_pdf.py --books 1-3        # Books 1 to 3, one PDF each
+    python3 tools/make_pdf.py --books 1-3 --combined   # Books 1 to 3 in one PDF
     python3 tools/make_pdf.py --size 6x9         # trade paperback trim
     python3 tools/make_pdf.py --out build/x.pdf
 
@@ -380,42 +381,51 @@ def parse_books(spec: str | None, available: set[int]) -> set[int]:
     return out & available
 
 
+def build_one(pw, all_chs, books, size, fonts, date, out_arg=None) -> None:
+    chs = [c for c in all_chs if c["book"] in books]
+    first, last = min(books), max(books)
+    name = f"mahabharata-book{first:02d}" + (f"-{last:02d}" if last != first else "") + f"-{size}.pdf"
+    out = (out_arg or BUILD / name).resolve()
+    out.parent.mkdir(parents=True, exist_ok=True)
+    body = out.with_name(out.stem + ".body.pdf")
+    pages = {}
+    for attempt in range(3):
+        render(pw, build_html(chs, books, size, fonts, {k: v + 1 for k, v in pages.items()}, date),
+               body, size)
+        flat, total = outline_pages(body)
+        new = page_map(flat, chs, books)
+        if new == pages:
+            break
+        pages = new
+        print(f"pass {attempt + 1}: {total} pages", file=sys.stderr)
+    stamp(pw, body, pages, chs, books, size, out)
+    body.unlink(missing_ok=True)
+    body.with_suffix(".html").unlink(missing_ok=True)
+    print(f"wrote {out.relative_to(ROOT) if out.is_relative_to(ROOT) else out} "
+          f"({len(PdfReader(str(out)).pages)} pages, {len(chs)} chapters)")
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--books", help="e.g. 1-3 or 2,3 (default: every drafted Book)")
     ap.add_argument("--size", choices=sorted(SIZES), default="a4")
-    ap.add_argument("--out", type=Path)
+    ap.add_argument("--combined", action="store_true",
+                    help="put all the chosen Books in one PDF (default: one PDF per Book)")
+    ap.add_argument("--out", type=Path, help="output path (only with --combined or a single Book)")
     args = ap.parse_args(argv)
 
     all_chs = load(set(BOOKS))
     books = parse_books(args.books, {c["book"] for c in all_chs})
     if not books:
         sys.exit("no drafted chapters in that range")
-    chs = [c for c in all_chs if c["book"] in books]
-    first, last = min(books), max(books)
-    name = f"mahabharata-book{first:02d}" + (f"-{last:02d}" if last != first else "") + f"-{args.size}.pdf"
-    out = (args.out or BUILD / name).resolve()
-    out.parent.mkdir(parents=True, exist_ok=True)
+    if args.out and not args.combined and len(books) > 1:
+        sys.exit("--out needs --combined when more than one Book is chosen")
     fonts = ensure_fonts()
     date = datetime.date.today().strftime("%-d %B %Y")
-    body = out.with_name(out.stem + ".body.pdf")
-
+    groups = [books] if args.combined else [{b} for b in sorted(books)]
     with sync_playwright() as pw:
-        pages = {}
-        for attempt in range(3):
-            render(pw, build_html(chs, books, args.size, fonts, {k: v + 1 for k, v in pages.items()}, date),
-                   body, args.size)
-            flat, total = outline_pages(body)
-            new = page_map(flat, chs, books)
-            if new == pages:
-                break
-            pages = new
-            print(f"pass {attempt + 1}: {total} pages", file=sys.stderr)
-        stamp(pw, body, pages, chs, books, args.size, out)
-    body.unlink(missing_ok=True)
-    body.with_suffix(".html").unlink(missing_ok=True)
-    print(f"wrote {out.relative_to(ROOT) if out.is_relative_to(ROOT) else out} "
-          f"({len(PdfReader(str(out)).pages)} pages, {len(chs)} chapters)")
+        for group in groups:
+            build_one(pw, all_chs, group, args.size, fonts, date, args.out)
 
 
 if __name__ == "__main__":

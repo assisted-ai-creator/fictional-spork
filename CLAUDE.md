@@ -51,7 +51,8 @@ run `reflow.py` and `style_check.py`, update the workbook files and `names.json`
 | `tools/style_check.py PATHS` | House-style lint and readability |
 | `tools/build_index.py [--check]` | Regenerate `index/` and `workbook/NAMES.md` |
 | `tools/compile_novel.py [--book N]` | Build the reading edition in `build/` |
-| `tools/make_pdf.py [--books 1-3] [--size a4\|6x9]` | Printable PDF in `build/` (needs `pip install markdown pypdf playwright`) |
+| `tools/make_pdf.py [--books 1-3] [--size a4\|6x9] [--combined]` | Printable PDFs in `build/`, one per Book unless `--combined` (needs `pip install markdown pypdf playwright`) |
+| `tools/make_gita_pdf.py` | Gita study edition and the family tree, in `build/gita/` |
 | `tools/reflow.py PATHS [--check]` | Rewrap chapter prose to 80 columns (notes untouched) |
 
 ## Git
