@@ -39,6 +39,8 @@ note it and keep the text's wording in the novel.
 | Day 8 | sea and horned arrays; Bhima kills seventeen of Dhritarashtra's sons; Alambusa kills Iravan; Ghatotkacha's magic; Arjuna learns of Iravan; withdrawal at nightfall | 6.83.1; 6.86.70; 6.92.1, 77–79 |
 | Day 9 | all-sided array; Abhimanyu beats Alambusa; Krishna runs at Bhishma whip in hand; Bhishma unbeaten at sunset; the armies withdraw | 6.95.1; 6.102.53–70; 6.102.78; 6.103.1–4 |
 | Day 10 | Shikhandi in front; Bhishma falls from his chariot a little before sunset, in the sun's southern course, and waits on the bed of arrows | 6.104.38; 6.114.81–100 |
+| Night of day 10 | The kings gather at Bhishma's bed; the pillow of arrows; Krishna and Yudhishthira | 6.115.27–65 |
+| Morning after day 10 | The crowd at the bed; Arjuna's stream of water; Bhishma pleads for peace; when the kings have gone, Karna comes to Bhishma and is given leave to fight | 6.116.1–6.117.34 |
 | Sanjaya returns to Dhritarashtra | after Bhishma falls, ten days in; he then tells the battle from the start | 6.14.1–11; 6.15.75 |
 | The war | Bhishma fights ten days, Drona five, Karna two, Shalya half a day; then the mace duel; that night Kritavarma, Ashvatthama and Kripa kill the sleeping Pandava army. That makes eighteen days | 1.2.26–28 |
 | The armies | eighteen akshauhinis in all, gathered at Samantapanchaka | 1.2.24–25 |

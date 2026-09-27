@@ -32,7 +32,14 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   prose line from Daksha to Shantanu (1.90.7–46).
 - Book 1 ch 33: removed a duplicated notes marker; Samprija → Sampriya.
 
-### Novel: Book 6, chapters 16–33: the second to tenth days
+### Novel: Book 6, chapters 16–34: the second to tenth days, and the bed of arrows
+- Ch 34 *The Bed of Arrows* (CE 6.115–117), which completes Book 6: Drona
+  falls from his chariot at the news; the pillow of three arrows; Bhishma
+  will wait for the sun to turn north; the surgeons sent away; Arjuna's
+  arrow brings up a stream of water; Bhishma's plea for peace; Karna is told
+  he is Kunti's son and given leave to fight.
+- Ledger: L-200 (no Ganga rising from the earth; a stream of water,
+  6.116.22–24) and L-201 (the fifty-eight nights, 13.153.27).
 - Ch 16 *The Heron Array* (CE 6.46–49), ch 17 *Bhima and the Kalingas*
   (6.50–51) and ch 18 *The Third Day* (6.52–55): Duryodhana's reproach and
   Bhishma's promise; Arjuna fights gently; Krishna runs at Bhishma with his

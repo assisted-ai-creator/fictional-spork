@@ -43,3 +43,4 @@ used in the novel. They are here only as orientation, marked "(trad.)".
 | Amba (river) | Ambā | A crooked seasonal river in Vatsabhumi, full of crocodiles and hard to cross; half of Amba became it | 5.187.39–40 | |
 | Ramahrada | Rāmahrada | "Rama's lake", one of the bathing places where Amba practises austerity | 5.187.27 | |
 | Prasthala | Prasthala | Kingdom of Susharma, who holds the left wing of Bhishma's heron array on the sixth day | 6.71.19 | |
+| Rajapura | Rājapura | City in Kalinga where Karna fought the kings for Duryodhana's sake; recalled by Bhishma | 6.117.15; 12.4.3 | |
