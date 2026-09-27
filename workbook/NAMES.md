@@ -802,6 +802,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Prishati** | Pṛṣatī | Drupada's queen, mother (by adoption of the fire-born twins) of Dhrishtadyumna and Draupadi |  |  |  |
 | **Satyajit** | Satyajit | one of Drupada's ten sons, named first among them |  |  |  |
 | **Shikhandi** | Śikhaṇḍin | Drupada's child, born a daughter, who became a man; Amba reborn | Shikhandini (as a girl) |  | Shikhandin, Sikhandi, Shikhandee |
+| **Simhasena** | Siṃhasena | a Panchala warrior killed by Drona on the eleventh day |  |  |  |
 | **Uttamaujas** | Uttamaujas | a Panchala hero on the Pandavas' side |  |  |  |
 | **Yudhamanyu** | Yudhāmanyu | a Panchala hero on the Pandavas' side, "hard to beat" |  |  |  |
 | **Abhimanyu** | Abhimanyu | son of Arjuna and Subhadra | Saubhadra |  |  |
@@ -826,6 +827,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sutasoma** | Sutasoma | son of Draupadi and Bhima |  |  |  |
 | **Vishoka** | Viśoka | a servant of Yudhishthira who sees to the food at the Rajasuya; also named as a charioteer, leading the others when they rejoin the Pandavas at Subahu's city (3.174.14); also Bhima's charioteer in the war (6.60.8-14) |  |  |  |
 | **Yudhishthira** | Yudhiṣṭhira | eldest son of Kunti, by Dharma; the dharma king | Ajatashatru, Dharmaraja, Kaunteya, Partha | Ajatashatru | Yudhistira, Yudhishtira, Yudhisthira, Yudhishthir, Yudhisthir |
+| **Yugandhara** | Yugaṃdhara | a warrior who holds back Drona; knocked from his chariot seat |  |  |  |
 | **Vishvagashva** | Viṣvagaśva | a Paurava king defeated by Arjuna; also an Ikshvaku, son of Prithu (3.193.3) |  |  |  |
 | **Haihayas** | Haihaya | a line of kings; a Haihaya prince kills Tarkshya's son by mistake (3.182) |  |  |  |
 | **Ajamidha** | Ajamīḍha | an ancestor of the Kurus; Kuru kings are called Ajamidhas after him |  |  |  |
@@ -1116,6 +1118,10 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vardhakshemi** | Vārdhakṣemi | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Vatsaraja** | Vatsarāja | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Vrika** | Vṛka | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Satyadharman** | Satyadharman | one of the five Trigarta brothers of the sworn band |  |  |  |
+| **Satyakarman** | Satyakarman | one of the five Trigarta brothers of the sworn band |  |  |  |
+| **Satyavarman** | Satyavarman | one of the five Trigarta brothers of the sworn band |  |  |  |
+| **Satyeshu** | Satyeṣu | one of the five Trigarta brothers of the sworn band |  |  |  |
 | **Shonashva** | Śoṇāśva | guard of Susharma's chariot wheel, who deserts him |  |  |  |
 | **Hanuman** | Hanūmat | the monkey, son of the wind; he meets Bhima in Book 3 and promises to sit on Arjuna's banner (3.150.15); not named on the banner at 1.216 |  |  | Hanumana |
 | **Kesarin** | Kesarin | the monkey in whose wife the Wind begot Hanuman (3.147.24) |  |  |  |

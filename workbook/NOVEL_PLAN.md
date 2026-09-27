@@ -515,10 +515,10 @@ provisional, and each row is filled in as it is drafted.
 | 2 | Drona Takes Command | 7.5–7.7 | ✅ drafted. Karṇa names Droṇa; the consecration; the cart and heron arrays; the omens; Sañjaya's summary of Droṇa's five days and his death. |
 | 3 | The Blind King's Questions | 7.8–7.10 | ✅ drafted. Dhṛtarāṣṭra's questions and grief; his speech on Kṛṣṇa's deeds. |
 | 4 | The Promise to Take Yudhishthira | 7.11–7.13 | ✅ drafted. Duryodhana's boon: Yudhiṣṭhira taken alive; Arjuna's answer; the eleventh day. |
-| 5 | The Sworn Band | 7.14–7.16 | Duels of the eleventh day; Vṛṣasena; evening; the Trigartas' oath to draw Arjuna away. |
-| 6 | The Garuda Array | 7.17–7.19 | The twelfth day: Arjuna against the saṃśaptakas; Droṇa's array. |
-| 7 | Drona Goes for Yudhishthira | 7.20–7.23 | Satyajit; the emblems of the Pāṇḍava heroes' chariots. |
-| 8 | The Pandavas Rally | 7.24–7.25 | The single fights along the line. |
+| 5 | The End of the Eleventh Day | 7.14–7.15 | ✅ drafted. Bhīma and Śalya's mace duel; Vṛṣasena; Droṇa drives at Yudhiṣṭhira; the wheel-guard prince; Arjuna's darkness of arrows; sunset. |
+| 6 | The Sworn Band | 7.16–7.18 | ✅ drafted. Droṇa's shame; the Trigartas' oath; Arjuna leaves Satyajit with Yudhiṣṭhira; Tvaṣṭṛ's weapon; "Both Kṛṣṇas are dead!"; the wind weapon. |
+| 7 | The Garuda Array | 7.19–7.21 | The twelfth day from Droṇa's side; Dhṛṣṭadyumna and Durmukha; Droṇa goes for Yudhiṣṭhira. |
+| 8 | The Pandavas Rally | 7.22–7.25 | The emblems of the Pāṇḍava heroes' chariots; single fights along the line. |
 | 9 | Bhagadatta | 7.26–7.29 | Arjuna turns from the saṃśaptakas; Bhagadatta and Supratīka; the Vaiṣṇava weapon. |
 | 10 | The End of the Twelfth Day | 7.30–7.32 | Bhīma, Karṇa and the rest; Duryodhana reproaches Droṇa. |
 | 11 | The Wheel Array | 7.33–7.35 | The thirteenth day; Abhimanyu knows how to enter. |

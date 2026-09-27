@@ -23,6 +23,10 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 - Ch 4 *The Promise to Take Yudhishthira* (CE 7.11–7.13): Drona's boon and
   its condition; Arjuna's promise; the eleventh day; Abhimanyu against the
   Paurava, Jayadratha and Shalya.
+- Ch 5 *The End of the Eleventh Day* (CE 7.14–7.15): the mace duel of Bhima
+  and Shalya; Drona drives at Yudhishthira; Arjuna's darkness of arrows.
+- Ch 6 *The Sworn Band* (CE 7.16–7.18): the Trigartas' oath; Arjuna leaves
+  Satyajit to guard Yudhishthira; Tvashtri's weapon and the wind weapon.
 
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in

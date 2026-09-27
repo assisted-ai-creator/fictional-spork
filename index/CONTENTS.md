@@ -2,7 +2,7 @@
 
 # Contents
 
-**325 chapters, 789,597 words.** 325 drafted
+**327 chapters, 794,207 words.** 327 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -376,5 +376,7 @@
 | 2 | [Drona Takes Command](../novel/book-07-drona/02-drona-takes-command.md) | 7.5-7 | drafted | 2,724 |
 | 3 | [The Blind King's Questions](../novel/book-07-drona/03-the-blind-kings-questions.md) | 7.8-10 | drafted | 3,854 |
 | 4 | [The Promise to Take Yudhishthira](../novel/book-07-drona/04-the-promise-to-take-yudhishthira.md) | 7.11-13 | drafted | 3,107 |
+| 5 | [The End of the Eleventh Day](../novel/book-07-drona/05-the-end-of-the-eleventh-day.md) | 7.14-15 | drafted | 1,985 |
+| 6 | [The Sworn Band](../novel/book-07-drona/06-the-sworn-band.md) | 7.16-18 | drafted | 2,625 |
 
-*Book 7 so far: 13,044 words.*
+*Book 7 so far: 17,654 words.*

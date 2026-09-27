@@ -12540,6 +12540,66 @@
    "dialogue": [],
    "flag": [],
    "ref": "7.13.44"
+  },
+  {
+   "name": "Satyadharman",
+   "iast": "Satyadharman",
+   "group": "Trigarta",
+   "who": "one of the five Trigarta brothers of the sworn band",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.16.17"
+  },
+  {
+   "name": "Satyavarman",
+   "iast": "Satyavarman",
+   "group": "Trigarta",
+   "who": "one of the five Trigarta brothers of the sworn band",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.16.17"
+  },
+  {
+   "name": "Satyeshu",
+   "iast": "Satyeṣu",
+   "group": "Trigarta",
+   "who": "one of the five Trigarta brothers of the sworn band",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.16.17"
+  },
+  {
+   "name": "Satyakarman",
+   "iast": "Satyakarman",
+   "group": "Trigarta",
+   "who": "one of the five Trigarta brothers of the sworn band",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.16.17"
+  },
+  {
+   "name": "Yugandhara",
+   "iast": "Yugaṃdhara",
+   "group": "Pandava side",
+   "who": "a warrior who holds back Drona; knocked from his chariot seat",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.15.30"
+  },
+  {
+   "name": "Simhasena",
+   "iast": "Siṃhasena",
+   "group": "Panchala",
+   "who": "a Panchala warrior killed by Drona on the eleventh day",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.15.32"
   }
  ],
  "not_vyasa": [
