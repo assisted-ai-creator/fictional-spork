@@ -690,6 +690,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vasumanas** | Vasumanas | royal seer, son of Rushadashva, a grandson of Yayati through his daughter; also son of Haryashva and Madhavi (5.114.17) | Vasumat |  |  |
 | **Vedidhvaja** | Vedidhvaja | a king Bhishma names among those on the Kaurava side |  |  |  |
 | **Vigahana** | Vigāhana | one of eighteen kings who destroyed their own families, born among the Mukutas (named by Bhima) |  |  |  |
+| **Viradhanva** | Vīradhanvan | a Kaurava-side bowman who meets Dhrishtaketu at Drona's front on the fourteenth day |  |  |  |
 | **Virasena** | Vīrasena | father of Nala |  |  |  |
 | **Vivardhana** | Vivardhana | a king present in Yudhishthira's hall |  |  |  |
 | **Vriddhakshatra** | Vṛddhakṣatra | father of Jayadratha |  |  |  |

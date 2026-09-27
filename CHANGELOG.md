@@ -83,6 +83,8 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   made with an arrow; Krishna tends the horses. Ledger L-209.
 - Ch 30 *Arjuna and Duryodhana* (CE 7.76–7.78): the armour that arrows cannot
   pierce; Duryodhana's palms. Ledger L-210 (not his fingernails).
+- Ch 31 *The Banners* (CE 7.79–7.81): the banners of the ten warriors;
+  Yudhishthira unhorsed by Drona.
 
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in
