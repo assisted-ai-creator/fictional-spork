@@ -93,6 +93,8 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   setting out. Ledger L-211.
 - Ch 35 *Satyaki Breaks Through* (CE 7.88–7.90): past Drona and Kritavarma;
   Dhritarashtra's lament; Kritavarma holds the Pandavas.
+- Ch 36 *Jalasandha* (CE 7.91–7.92): Satyaki kills Jalasandha of Magadha and
+  routs Duryodhana. Plan re-cut from ch 36 (Book 7 now 70 rows).
 
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in

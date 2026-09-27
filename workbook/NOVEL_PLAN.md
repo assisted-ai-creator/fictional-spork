@@ -546,40 +546,41 @@ provisional, and each row is filled in as it is drafted.
 | 33 | Satyaki and Drona | 7.85 | ✅ drafted. Droṇa wears down Sātyaki; the army saves him; Pāñcajanya heard; Yudhiṣṭhira begs Sātyaki to go to Arjuna. |
 | 34 | Yudhishthira Sends Satyaki | 7.86–7.87 | ✅ drafted. Arjuna's charge to Sātyaki; Yudhiṣṭhira's guards; the forces ahead; the Kailāvata drink and the heroes' bronze; Bhīma sent back. |
 | 35 | Satyaki Breaks Through | 7.88–7.90 | ✅ drafted. Droṇa's taunt; Sātyaki goes round him and through Karṇa's troops; Kṛtavarman wounds him; Dhṛtarāṣṭra's lament for his paid army; Kṛtavarman holds back the Pāṇḍavas. |
-| 36 | Satyaki Goes On | 7.91–7.94 |  |
-| 37 | The Yavanas and the Kambojas | 7.95–7.97 |  |
-| 38 | Satyaki and Duhshasana | 7.98–7.100 |  |
-| 39 | Bhima Goes In | 7.101–7.102 |  |
-| 40 | Bhima Breaks Through | 7.103–7.105 |  |
-| 41 | Bhima and Karna | 7.106–7.109 |  |
-| 42 | Bhima and Karna Again | 7.110–7.113 |  |
-| 43 | Karna Spares Bhima | 7.114–7.115 |  |
-| 44 | Bhurishravas | 7.116–7.119 |  |
-| 45 | Jayadratha | 7.120–7.121 |  |
-| 46 | After Jayadratha | 7.122–7.123 |  |
-| 47 | Yudhishthira's Joy | 7.124–7.126 |  |
-| 48 | Drona Fights On | 7.127–7.129 |  |
-| 49 | The Night Battle | 7.130–7.131 |  |
-| 50 | Karna and Kripa | 7.132–7.134 |  |
-| 51 | Ashvatthama | 7.135–7.137 |  |
-| 52 | The Lamps | 7.138–7.140 |  |
-| 53 | Night Duels | 7.141–7.144 |  |
-| 54 | Karna in the Dark | 7.145–7.147 |  |
-| 55 | Ghatotkacha and Karna | 7.148–7.150 |  |
-| 56 | Alayudha | 7.151–7.153 |  |
-| 57 | The Spear | 7.154–7.155 |  |
-| 58 | Why Krishna Was Glad | 7.156–7.157 |  |
-| 59 | Yudhishthira's Grief | 7.158–7.159 |  |
-| 60 | The Moon Rises | 7.160–7.161 |  |
-| 61 | The Fifteenth Dawn | 7.162–7.163 |  |
-| 62 | "Ashvatthama Is Dead" | 7.164 |  |
-| 63 | The Death of Drona | 7.165 |  |
-| 64 | Ashvatthama's Anger | 7.166 |  |
-| 65 | The Quarrel | 7.167–7.168 |  |
-| 66 | Satyaki and Dhrishtadyumna | 7.169 |  |
-| 67 | The Narayana Weapon | 7.170–7.171 |  |
-| 68 | The Fire Weapon | 7.172 |  |
-| 69 | Shiva's Glory | 7.173 |  |
+| 36 | Jalasandha | 7.91–7.92 | ✅ drafted. Sātyaki beats Kṛtavarman, scatters the elephants, kills Jalasandha of Magadha, drives off Duryodhana and fells Kṛtavarman again. |
+| 37 | Satyaki Goes On | 7.93–7.94 |  |
+| 38 | The Yavanas and the Kambojas | 7.95–7.97 |  |
+| 39 | Satyaki and Duhshasana | 7.98–7.100 |  |
+| 40 | Bhima Goes In | 7.101–7.102 |  |
+| 41 | Bhima Breaks Through | 7.103–7.105 |  |
+| 42 | Bhima and Karna | 7.106–7.109 |  |
+| 43 | Bhima and Karna Again | 7.110–7.113 |  |
+| 44 | Karna Spares Bhima | 7.114–7.115 |  |
+| 45 | Bhurishravas | 7.116–7.119 |  |
+| 46 | Jayadratha | 7.120–7.121 |  |
+| 47 | After Jayadratha | 7.122–7.123 |  |
+| 48 | Yudhishthira's Joy | 7.124–7.126 |  |
+| 49 | Drona Fights On | 7.127–7.129 |  |
+| 50 | The Night Battle | 7.130–7.131 |  |
+| 51 | Karna and Kripa | 7.132–7.134 |  |
+| 52 | Ashvatthama | 7.135–7.137 |  |
+| 53 | The Lamps | 7.138–7.140 |  |
+| 54 | Night Duels | 7.141–7.144 |  |
+| 55 | Karna in the Dark | 7.145–7.147 |  |
+| 56 | Ghatotkacha and Karna | 7.148–7.150 |  |
+| 57 | Alayudha | 7.151–7.153 |  |
+| 58 | The Spear | 7.154–7.155 |  |
+| 59 | Why Krishna Was Glad | 7.156–7.157 |  |
+| 60 | Yudhishthira's Grief | 7.158–7.159 |  |
+| 61 | The Moon Rises | 7.160–7.161 |  |
+| 62 | The Fifteenth Dawn | 7.162–7.163 |  |
+| 63 | "Ashvatthama Is Dead" | 7.164 |  |
+| 64 | The Death of Drona | 7.165 |  |
+| 65 | Ashvatthama's Anger | 7.166 |  |
+| 66 | The Quarrel | 7.167–7.168 |  |
+| 67 | Satyaki and Dhrishtadyumna | 7.169 |  |
+| 68 | The Narayana Weapon | 7.170–7.171 |  |
+| 69 | The Fire Weapon | 7.172 |  |
+| 70 | Shiva's Glory | 7.173 |  |
 
 ## Books 2–18: provisional sub-parvas
 

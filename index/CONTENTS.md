@@ -2,7 +2,7 @@
 
 # Contents
 
-**356 chapters, 860,703 words.** 356 drafted
+**357 chapters, 862,739 words.** 357 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -407,5 +407,6 @@
 | 33 | [Satyaki and Drona](../novel/book-07-drona/33-satyaki-and-drona.md) | 7.85 | drafted | 2,134 |
 | 34 | [Yudhishthira Sends Satyaki](../novel/book-07-drona/34-yudhishthira-sends-satyaki.md) | 7.86, 7.87 | drafted | 2,693 |
 | 35 | [Satyaki Breaks Through](../novel/book-07-drona/35-satyaki-breaks-through.md) | 7.88, 7.89, 7.90 | drafted | 3,210 |
+| 36 | [Jalasandha](../novel/book-07-drona/36-jalasandha.md) | 7.91, 7.92 | drafted | 2,036 |
 
-*Book 7 so far: 84,150 words.*
+*Book 7 so far: 86,186 words.*
