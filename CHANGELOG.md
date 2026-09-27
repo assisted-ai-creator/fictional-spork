@@ -6,6 +6,17 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Novel: Book 7 begins
+- Book 7 chapter plan in `workbook/NOVEL_PLAN.md` (66 provisional chapters,
+  drawn from the CE adhyaya openings and the sub-parvas at 1.2.57–58).
+- Ch 1 *Karna Goes to Bhishma* (CE 7.1–7.4): Sanjaya comes again at night;
+  the army without Bhishma; the kings call for Karna; Karna arms himself and
+  goes to the bed of arrows for Bhishma's blessing (a second telling of
+  6.117, kept as the CE keeps it).
+- Ch 2 *Drona Takes Command* (CE 7.5–7.7): Karna names Drona; the
+  consecration; the cart and heron arrays; the omens; Sanjaya's summary of
+  Drona's days and his death at Dhrishtadyumna's hands.
+
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in
   capitals at each change, plain bordered explanation boxes, no colour. The

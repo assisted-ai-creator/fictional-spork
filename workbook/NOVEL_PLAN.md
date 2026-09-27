@@ -497,6 +497,87 @@ and the whole battle is told as his answer. Days are fixed by the withdrawals
 | 33 | The Fall of Bhishma | 6.109–6.114 | ✅ drafted. Bhīma against ten; Bhīṣma, weary of life, asks to be killed; Duḥśāsana holds off Arjuna; Śatānīka killed; "two reasons"; the Vasus speak, heard only by Bhīṣma and Sañjaya; "not Śikhaṇḍin's arrows" (L-198); the fall, head to the east, before sunset; the swans; Bhīma dances. |
 | 34 | The Bed of Arrows | 6.115–6.117 | ✅ drafted. Drona falls at the news; the pillow of three arrows; "until the sun turns"; surgeons sent away; Yudhishthira's burning eye; the stream of water (L-200); the plea for peace; Karṇa told he is Kuntī's son, and given leave to fight; *yato dharmas tato jayaḥ*. Book 6 complete. |
 
+## Book 7: Droṇa Parva: *Drona's Battle* (CE 7.1–7.173)
+
+8,152 verses in 173 adhyāyas. The CE's list in 1.2.57–58 names the
+sub-parvas: Droṇābhiṣeka, Saṃśaptakavadha, Abhimanyuvadha, Pratijñā,
+Jayadrathavadha, Ghaṭotkacavadha, Droṇavadha and Nārāyaṇāstramokṣa; the
+summary at 1.2.160–165 names the main deaths. The frame: Sañjaya comes again
+from the camp to Hāstinapura at night (7.1.6–7), after Droṇa has fallen, and
+sums up Droṇa's five days (7.5–7.7); Dhṛtarāṣṭra's grief follows (7.8–7.10),
+and the whole of it is then told from the start (7.11). The chapter list was
+drawn from the adhyāya openings before drafting; the ranges and titles are
+provisional, and each row is filled in as it is drafted.
+
+| Ch | Title | CE | Plan |
+|----|-------|----|------|
+| 1 | Karna Goes to Bhishma | 7.1–7.4 | ✅ drafted. Sañjaya comes again at night; the Kurus call for Karṇa; Karṇa at the bed of arrows and Bhīṣma's blessing (a doublet of 6.117). |
+| 2 | Drona Takes Command | 7.5–7.7 | ✅ drafted. Karṇa names Droṇa; the consecration; the cart and heron arrays; the omens; Sañjaya's summary of Droṇa's five days and his death. |
+| 3 | The Blind King's Questions | 7.8–7.10 | Dhṛtarāṣṭra's questions and grief; his speech on Kṛṣṇa's deeds. |
+| 4 | The Promise to Take Yudhishthira | 7.11–7.13 | Duryodhana's boon: Yudhiṣṭhira taken alive; Arjuna's answer; the eleventh day. |
+| 5 | The Sworn Band | 7.14–7.16 | Duels of the eleventh day; Vṛṣasena; evening; the Trigartas' oath to draw Arjuna away. |
+| 6 | The Garuda Array | 7.17–7.19 | The twelfth day: Arjuna against the saṃśaptakas; Droṇa's array. |
+| 7 | Drona Goes for Yudhishthira | 7.20–7.23 | Satyajit; the emblems of the Pāṇḍava heroes' chariots. |
+| 8 | The Pandavas Rally | 7.24–7.25 | The single fights along the line. |
+| 9 | Bhagadatta | 7.26–7.29 | Arjuna turns from the saṃśaptakas; Bhagadatta and Supratīka; the Vaiṣṇava weapon. |
+| 10 | The End of the Twelfth Day | 7.30–7.32 | Bhīma, Karṇa and the rest; Duryodhana reproaches Droṇa. |
+| 11 | The Wheel Array | 7.33–7.35 | The thirteenth day; Abhimanyu knows how to enter. |
+| 12 | Abhimanyu Breaks In | 7.36–7.38 |  |
+| 13 | Jayadratha at the Gap | 7.39–7.43 | Jayadratha's boon holds back the Pāṇḍavas. |
+| 14 | Lakshmana | 7.44–7.47 |  |
+| 15 | The Death of Abhimanyu | 7.48–7.49 |  |
+| 16 | Arjuna's Vow | 7.50–7.51 | Arjuna comes back; the vow to kill Jayadratha. |
+| 17 | Jayadratha's Fear | 7.52–7.53 |  |
+| 18 | Subhadra's Grief | 7.54–7.56 |  |
+| 19 | The Night Journey | 7.57 | Arjuna's dream of going with Kṛṣṇa to Śiva. |
+| 20 | The Fourteenth Morning | 7.58–7.60 | Kṛṣṇa and Dāruka; the waking of Yudhiṣṭhira. |
+| 21 | The Cart and the Needle | 7.61–7.63 | Dhṛtarāṣṭra's question; Droṇa's arrays. |
+| 22 | Arjuna Breaks the Front | 7.64–7.65 |  |
+| 23 | Past Drona | 7.66–7.67 | Śrutāyudha and his mace; Sudakṣiṇa. |
+| 24 | Shrutayus and Achyutayus | 7.68–7.69 |  |
+| 25 | Duryodhana's Armour | 7.70–7.72 |  |
+| 26 | The Horses Drink | 7.73–7.75 |  |
+| 27 | Arjuna and Duryodhana | 7.76–7.78 |  |
+| 28 | The Banners | 7.79–7.81 |  |
+| 29 | At Drona's Front | 7.82–7.84 |  |
+| 30 | Satyaki and Drona | 7.85 |  |
+| 31 | Yudhishthira Sends Satyaki | 7.86–7.87 |  |
+| 32 | Satyaki Breaks Through | 7.88–7.90 |  |
+| 33 | Satyaki Goes On | 7.91–7.94 |  |
+| 34 | The Yavanas and the Kambojas | 7.95–7.97 |  |
+| 35 | Satyaki and Duhshasana | 7.98–7.100 |  |
+| 36 | Bhima Goes In | 7.101–7.102 |  |
+| 37 | Bhima Breaks Through | 7.103–7.105 |  |
+| 38 | Bhima and Karna | 7.106–7.109 |  |
+| 39 | Bhima and Karna Again | 7.110–7.113 |  |
+| 40 | Karna Spares Bhima | 7.114–7.115 |  |
+| 41 | Bhurishravas | 7.116–7.119 |  |
+| 42 | Jayadratha | 7.120–7.121 |  |
+| 43 | After Jayadratha | 7.122–7.123 |  |
+| 44 | Yudhishthira's Joy | 7.124–7.126 |  |
+| 45 | Drona Fights On | 7.127–7.129 |  |
+| 46 | The Night Battle | 7.130–7.131 |  |
+| 47 | Karna and Kripa | 7.132–7.134 |  |
+| 48 | Ashvatthama | 7.135–7.137 |  |
+| 49 | The Lamps | 7.138–7.140 |  |
+| 50 | Night Duels | 7.141–7.144 |  |
+| 51 | Karna in the Dark | 7.145–7.147 |  |
+| 52 | Ghatotkacha and Karna | 7.148–7.150 |  |
+| 53 | Alayudha | 7.151–7.153 |  |
+| 54 | The Spear | 7.154–7.155 |  |
+| 55 | Why Krishna Was Glad | 7.156–7.157 |  |
+| 56 | Yudhishthira's Grief | 7.158–7.159 |  |
+| 57 | The Moon Rises | 7.160–7.161 |  |
+| 58 | The Fifteenth Dawn | 7.162–7.163 |  |
+| 59 | "Ashvatthama Is Dead" | 7.164 |  |
+| 60 | The Death of Drona | 7.165 |  |
+| 61 | Ashvatthama's Anger | 7.166 |  |
+| 62 | The Quarrel | 7.167–7.168 |  |
+| 63 | Satyaki and Dhrishtadyumna | 7.169 |  |
+| 64 | The Narayana Weapon | 7.170–7.171 |  |
+| 65 | The Fire Weapon | 7.172 |  |
+| 66 | Shiva's Glory | 7.173 |  |
+
 ## Books 2–18: provisional sub-parvas
 
 These come from Ganguli's section headings mapped to CE numbers by the
