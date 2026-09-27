@@ -6,6 +6,20 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Companion text: the Mandukya Upanishad in plain English
+- New `companions/mandukya-upanishad/`, kept apart from the novel (the
+  Upanishad is not part of the Mahabharata). All 12 mantras with the
+  Sanskrit (Devanagari and IAST), a new plain English translation, notes on
+  hard terms, an explanation and an everyday comparison for each; the
+  peace chant; a summary table; common misconceptions; translation choices.
+- Sanskrit checked against two independent online copies. Attributions to
+  Shankara's commentary were checked; one that could not be confirmed
+  (mantra 10, *samana*) was removed.
+- Length: 12 mantras; 132 written Sanskrit words, 206 with sandhi undone
+  (`count_words.py`). The English translation is 538 words.
+- `make_pdf.py` typesets it as a designed A4 PDF (29 pages), committed
+  as `mandukya-upanishad.pdf`.
+
 ### Novel: Book 1 (Adi Parva), chapters 1–7 drafted
 - Ch 1 *The Storyteller in the Forest* (CE 1.1.1–101); Ch 2 *When I Heard*
   (1.1.102–210); Ch 3 *The Hundred Parts* (1.2); Ch 4 *The Teacher's Pupils*
