@@ -2,7 +2,7 @@
 
 # Contents
 
-**333 chapters, 809,729 words.** 333 drafted
+**334 chapters, 811,735 words.** 334 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -384,5 +384,6 @@
 | 10 | [The Death of Bhagadatta](../novel/book-07-drona/10-the-death-of-bhagadatta.md) | 7.28-29 | drafted | 1,821 |
 | 11 | [The End of the Twelfth Day](../novel/book-07-drona/11-the-end-of-the-twelfth-day.md) | 7.30-32 | drafted | 2,986 |
 | 12 | [The Wheel Array](../novel/book-07-drona/12-the-wheel-array.md) | 7.33-35 | drafted | 2,009 |
+| 13 | [Abhimanyu Alone](../novel/book-07-drona/13-abhimanyu-alone.md) | 7.36-38 | drafted | 2,006 |
 
-*Book 7 so far: 33,176 words.*
+*Book 7 so far: 35,182 words.*

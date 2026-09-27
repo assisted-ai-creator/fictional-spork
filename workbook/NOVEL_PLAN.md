@@ -523,7 +523,7 @@ provisional, and each row is filled in as it is drafted.
 | 10 | The Death of Bhagadatta | 7.28–7.29 | ✅ drafted. The Vaiṣṇava weapon becomes the Vaijayantī garland; Kṛṣṇa's four forms and Naraka's boon; the elephant and Bhagadatta killed (no blindfold: L-202); Vṛṣaka and Acala; Śakuni's illusions. |
 | 11 | The End of the Twelfth Day | 7.30–7.32 | ✅ drafted. "At Droṇa!"/"Not Droṇa!"; Aśvatthāman kills Nīla; the battle without order; Arjuna returns; Karṇa's three brothers killed; sunset. Next morning Duryodhana reproaches Droṇa; Droṇa's promise; the summary of Abhimanyu's death. |
 | 12 | The Wheel Array | 7.33–7.35 | ✅ drafted. Abhimanyu praised; the wheel array with Lakṣmaṇa's princes; "I cannot get out" (L-39); "no fifth"; Sumitra's warning; Abhimanyu breaks in. |
-| 13 | Abhimanyu Breaks In | 7.36–7.38 |  |
+| 13 | Abhimanyu Alone | 7.36–7.38 | ✅ drafted. Abhimanyu holds back the whole army; the Aśmaka prince, Śalya's brother and others killed; Karṇa shaken; Droṇa's praise and Duryodhana's anger; Duḥśāsana's boast. |
 | 14 | Jayadratha at the Gap | 7.39–7.43 | Jayadratha's boon holds back the Pāṇḍavas. |
 | 15 | Lakshmana | 7.44–7.47 |  |
 | 16 | The Death of Abhimanyu | 7.48–7.49 |  |

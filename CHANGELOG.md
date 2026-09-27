@@ -45,6 +45,8 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the summary of Abhimanyu's death.
 - Ch 12 *The Wheel Array* (CE 7.33–7.35): the thirteenth day; Yudhishthira
   asks Abhimanyu to break the wheel; "I cannot get out"; he breaks in.
+- Ch 13 *Abhimanyu Alone* (CE 7.36–7.38): Abhimanyu against the whole
+  army; Drona's praise; Duhshasana's boast.
 
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in

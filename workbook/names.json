@@ -3138,7 +3138,7 @@
    "name": "Sushena",
    "iast": "Suṣeṇa",
    "group": "Suitor",
-   "who": "a king named among the suitors at Draupadi's bridegroom choice; also Valin's father-in-law, a monkey chief; also a son of Dhritarashtra, killed by Bhima on the fourth day (6.60.24-28)",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice; also Valin's father-in-law, a monkey chief; also a son of Dhritarashtra, killed by Bhima on the fourth day (6.60.24-28); also killed by Abhimanyu on the thirteenth day (7.36.29)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -12435,7 +12435,7 @@
    "name": "Dirghalochana",
    "iast": "Dīrghalocana",
    "group": "Kaurava",
-   "who": "a son of Dhritarashtra, killed by Bhima on the eighth day",
+   "who": "a son of Dhritarashtra, killed by Bhima on the eighth day; also killed by Abhimanyu on the thirteenth day (7.36.29)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -12780,6 +12780,46 @@
    "dialogue": [],
    "flag": [],
    "ref": "7.31.63"
+  },
+  {
+   "name": "Kundabhedin",
+   "iast": "Kuṇḍabhedin",
+   "group": "Kaurava side",
+   "who": "killed by Abhimanyu on the thirteenth day",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.36.25, 29"
+  },
+  {
+   "name": "Vrindaraka",
+   "iast": "Vṛndāraka",
+   "group": "Kaurava side",
+   "who": "a warrior who shoots at Abhimanyu",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.36.25"
+  },
+  {
+   "name": "Lalittha",
+   "iast": "Lalittha",
+   "group": "Kaurava side",
+   "who": "a warrior who shoots at Abhimanyu",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.36.25"
+  },
+  {
+   "name": "Prabahu",
+   "iast": "Prabāhu",
+   "group": "Kaurava side",
+   "who": "a warrior who shoots at Abhimanyu",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.36.25"
   }
  ],
  "not_vyasa": [

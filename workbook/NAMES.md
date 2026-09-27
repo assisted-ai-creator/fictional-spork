@@ -501,7 +501,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Chitrasena** | Citrasena | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice; also the gandharva who teaches Arjuna music and dance in Indra's heaven (3.45.6-8) and, as king of the gandharvas, captures Duryodhana at Dvaitavana (3.230-231), and an apsaras (3.44.30). Same name, different beings: say which from context |  |  |  |
 | **Chitrashva** | Citrāśva | a son of Dhritarashtra |  |  |  |
 | **Dirghabahu** | Dīrghabāhu | a son of Dhritarashtra, killed by Bhima on the eighth day |  |  |  |
-| **Dirghalochana** | Dīrghalocana | a son of Dhritarashtra, killed by Bhima on the eighth day |  |  |  |
+| **Dirghalochana** | Dīrghalocana | a son of Dhritarashtra, killed by Bhima on the eighth day; also killed by Abhimanyu on the thirteenth day (7.36.29) |  |  |  |
 | **Duhsaha** | Duḥsaha | a son of Dhritarashtra, present in the Kuru hall (5.46.8) |  |  |  |
 | **Duhshala** | Duḥśalā | Dhritarashtra and Gandhari's one daughter; wife of Jayadratha |  |  | Dushala, Dussala |
 | **Duhshasana** | Duḥśāsana | second son of Dhritarashtra and Gandhari |  |  | Dushasana, Dussasana, Dushashan, Dushshasana |
@@ -555,8 +555,12 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Jayadratha** | Jayadratha | king of the Sindhus; Duhshala's husband | Saindhava |  |  |
 | **Karna** | Karṇa | Kunti's first son, by the Sun, born with armour and earrings; raised by the charioteer Adhiratha and Radha; also the name of a son of Dhritarashtra (1.108.3), among Duryodhana's brothers on the sixth day (6.73.7) | Vasushena, Radheya, Vaikartana, Suta's son, Vrisha | Radheya | Karan, Karn, Vasusena |
 | **Kshemasharman** | Kṣemaśarman | a warrior in the neck of Drona's Garuda array |  |  |  |
+| **Kundabhedin** | Kuṇḍabhedin | killed by Abhimanyu on the thirteenth day |  |  |  |
+| **Lalittha** | Lalittha | a warrior who shoots at Abhimanyu |  |  |  |
+| **Prabahu** | Prabāhu | a warrior who shoots at Abhimanyu |  |  |  |
 | **Radha** | Rādhā | Adhiratha's wife, Karna's foster mother. The only Radha in the epic (see ledger L-58) |  |  |  |
 | **Vipata** | Vipāṭa | a brother of Karna, killed by Arjuna |  |  |  |
+| **Vrindaraka** | Vṛndāraka | a warrior who shoots at Abhimanyu |  |  |  |
 | **Vrishakratha** | Vṛṣakrātha | a warrior in the body of Drona's Garuda array |  |  |  |
 | **Sharadandayani** | Śāradaṇḍāyanī | a hero's wife who bore three sons, Durjaya and others, by a brahmin |  |  |  |
 | **Drumaputra** | Drumaputra | ruler of the Kimpurushas |  |  |  |
@@ -1131,7 +1135,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sukumara** | Sukumāra | a king named among the suitors at Draupadi's bridegroom choice; also son of Abhibhu, king of Kashi, a young great chariot fighter (7.22.19) |  |  |  |
 | **Sumitra** | Sumitra | a king named among the suitors at Draupadi's bridegroom choice; also Dasharatha's wife, mother of Lakshmana and Shatrughna (3.258.8) |  |  |  |
 | **Suryadhvaja** | Sūryadhvaja | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
-| **Sushena** | Suṣeṇa | a king named among the suitors at Draupadi's bridegroom choice; also Valin's father-in-law, a monkey chief; also a son of Dhritarashtra, killed by Bhima on the fourth day (6.60.24-28) |  |  |  |
+| **Sushena** | Suṣeṇa | a king named among the suitors at Draupadi's bridegroom choice; also Valin's father-in-law, a monkey chief; also a son of Dhritarashtra, killed by Bhima on the fourth day (6.60.24-28); also killed by Abhimanyu on the thirteenth day (7.36.29) |  |  |  |
 | **Suvarchas** | Suvarcas | name of a son of Dhritarashtra and of other suitors at Draupadi's bridegroom choice; also a hermit who assures Dyumatsena that Satyavat lives (3.282.10); also a son of Garuda (5.99.2) |  |  |  |
 | **Vardhakshemi** | Vārdhakṣemi | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Vatsaraja** | Vatsarāja | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
