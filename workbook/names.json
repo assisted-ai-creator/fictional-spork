@@ -2972,7 +2972,7 @@
    "name": "Vrika",
    "iast": "Vṛka",
    "group": "Suitor",
-   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice; also a Panchala killed by Drona with his charioteer and horses on the twelfth day (7.20.11)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -4005,7 +4005,7 @@
    "name": "Shatanika",
    "iast": "Śatānīka",
    "group": "Pandava",
-   "who": "son of Draupadi and Nakula, named after a royal seer of the Kuru line; another Shatanika is Virata's younger brother (4.30.10)",
+   "who": "son of Draupadi and Nakula, named after a royal seer of the Kuru line; another Shatanika is Virata's younger brother (4.30.10); also the Matsya king's younger brother, killed by Drona on the twelfth day (7.20.20-22)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -4986,7 +4986,7 @@
    "name": "Vasudana",
    "iast": "Vasudāna",
    "group": "King",
-   "who": "a king present in Yudhishthira's hall",
+   "who": "a king present in Yudhishthira's hall; also sent to Yama's house by Drona on the twelfth day (7.20.43)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -12600,6 +12600,76 @@
    "dialogue": [],
    "flag": [],
    "ref": "7.15.32"
+  },
+  {
+   "name": "Bhumimjaya",
+   "iast": "Bhūmiṃjaya",
+   "group": "Kaurava side",
+   "who": "a warrior in the body of Drona's Garuda array",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.19.13"
+  },
+  {
+   "name": "Vrishakratha",
+   "iast": "Vṛṣakrātha",
+   "group": "Kaurava side",
+   "who": "a warrior in the body of Drona's Garuda array",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.19.13"
+  },
+  {
+   "name": "Kshemasharman",
+   "iast": "Kṣemaśarman",
+   "group": "Kaurava side",
+   "who": "a warrior in the neck of Drona's Garuda array",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.19.6"
+  },
+  {
+   "name": "Bhutavarman",
+   "iast": "Bhūtavarman",
+   "group": "Kaurava side",
+   "who": "a warrior in the neck of Drona's Garuda array",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.19.6"
+  },
+  {
+   "name": "Dridhasena",
+   "iast": "Dṛḍhasena",
+   "group": "Pandava side",
+   "who": "brought down by Drona on the twelfth day",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.20.40"
+  },
+  {
+   "name": "Kshema",
+   "iast": "Kṣema",
+   "group": "Pandava side",
+   "who": "a king killed by Drona on the twelfth day",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.20.41"
+  },
+  {
+   "name": "Kshatravarman",
+   "iast": "Kṣatravarman",
+   "group": "Pandava side",
+   "who": "pierced by Drona on the twelfth day",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.20.44"
   }
  ],
  "not_vyasa": [

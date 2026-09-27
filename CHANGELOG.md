@@ -27,6 +27,9 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   and Shalya; Drona drives at Yudhishthira; Arjuna's darkness of arrows.
 - Ch 6 *The Sworn Band* (CE 7.16–7.18): the Trigartas' oath; Arjuna leaves
   Satyajit to guard Yudhishthira; Tvashtri's weapon and the wind weapon.
+- Ch 7 *The Garuda Array* (CE 7.19–7.21): the twelfth morning from Drona's
+  side; Satyajit killed and Yudhishthira withdraws; a second Shatanika,
+  Virata's brother, killed (noted beside 6.113.24); Karna's warning.
 
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in

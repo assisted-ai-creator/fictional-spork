@@ -548,9 +548,13 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vyudhoraska** | Vyūḍhoraska | a son of Dhritarashtra, killed by Bhima on the eighth day |  |  |  |
 | **Yuyutsu** | Yuyutsu | Dhritarashtra's son by a vaishya woman |  |  |  |
 | **Adhiratha** | Adhiratha | the charioteer (suta) who raised Karna |  |  |  |
+| **Bhumimjaya** | Bhūmiṃjaya | a warrior in the body of Drona's Garuda array |  |  |  |
+| **Bhutavarman** | Bhūtavarman | a warrior in the neck of Drona's Garuda array |  |  |  |
 | **Jayadratha** | Jayadratha | king of the Sindhus; Duhshala's husband | Saindhava |  |  |
 | **Karna** | Karṇa | Kunti's first son, by the Sun, born with armour and earrings; raised by the charioteer Adhiratha and Radha; also the name of a son of Dhritarashtra (1.108.3), among Duryodhana's brothers on the sixth day (6.73.7) | Vasushena, Radheya, Vaikartana, Suta's son, Vrisha | Radheya | Karan, Karn, Vasusena |
+| **Kshemasharman** | Kṣemaśarman | a warrior in the neck of Drona's Garuda array |  |  |  |
 | **Radha** | Rādhā | Adhiratha's wife, Karna's foster mother. The only Radha in the epic (see ledger L-58) |  |  |  |
+| **Vrishakratha** | Vṛṣakrātha | a warrior in the body of Drona's Garuda array |  |  |  |
 | **Sharadandayani** | Śāradaṇḍāyanī | a hero's wife who bore three sons, Durjaya and others, by a brahmin |  |  |  |
 | **Drumaputra** | Drumaputra | ruler of the Kimpurushas |  |  |  |
 | **Ahriti** | Āhṛti | a king present in Yudhishthira's hall |  |  |  |
@@ -666,7 +670,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vapushtama** | Vapuṣṭamā | daughter of Suvarnavarman of Kashi; Janamejaya's wife |  |  |  |
 | **Varapra** | Varapra | one of eighteen kings who destroyed their own families, born among the Mahaujasas (named by Bhima) |  |  |  |
 | **Vasu** | Vasu | a proud king born among the Krimis, one of eighteen who destroyed their own families (named by Bhima) |  |  |  |
-| **Vasudana** | Vasudāna | a king present in Yudhishthira's hall |  |  |  |
+| **Vasudana** | Vasudāna | a king present in Yudhishthira's hall; also sent to Yama's house by Drona on the twelfth day (7.20.43) |  |  |  |
 | **Vasumanas** | Vasumanas | royal seer, son of Rushadashva, a grandson of Yayati through his daughter; also son of Haryashva and Madhavi (5.114.17) | Vasumat |  |  |
 | **Vedidhvaja** | Vedidhvaja | a king Bhishma names among those on the Kaurava side |  |  |  |
 | **Vigahana** | Vigāhana | one of eighteen kings who destroyed their own families, born among the Mukutas (named by Bhima) |  |  |  |
@@ -820,13 +824,16 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Prativindhya** | Prativindhya | son of Draupadi and Yudhishthira; also a king of the north defeated by Arjuna (2.23.15) |  |  |  |
 | **Sahadeva** | Sahadeva | younger of Madri's twin sons, by the Ashvins; also the name of Jarasandha's son, consecrated king of Magadha by Krishna (2.20.29; 2.22.39) |  |  | Sahdev, Sahadev |
 | **Saucitti** | Saucitti | a warrior who follows Bhima to Ghatotkacha's aid |  |  |  |
-| **Shatanika** | Śatānīka | son of Draupadi and Nakula, named after a royal seer of the Kuru line; another Shatanika is Virata's younger brother (4.30.10) |  |  |  |
+| **Shatanika** | Śatānīka | son of Draupadi and Nakula, named after a royal seer of the Kuru line; another Shatanika is Virata's younger brother (4.30.10); also the Matsya king's younger brother, killed by Drona on the twelfth day (7.20.20-22) |  |  |  |
 | **Shrutakarman** | Śrutakarman | son of Draupadi. The CE's lists differ: Arjuna's son at 1.213.76 and 3.224.10, Sahadeva's at 1.90.82 and 3.13.66 | Shrutakarma |  |  |
 | **Shrutakirti** | Śrutakīrti | son of Draupadi and Arjuna in the lists at 1.57.102, 1.90.82 and 3.13.65; the lists at 1.213.76 and 3.224.10 give Arjuna's son as Shrutakarman |  |  |  |
 | **Shrutasena** | Śrutasena | son of Draupadi and Sahadeva (1.57.103, 1.213, 3.224.10); the lists at 1.90.82 and 3.13.66 give Sahadeva's son as Shrutakarman; also a son of Diti killed by Garuda (5.103.12) |  |  |  |
 | **Sutasoma** | Sutasoma | son of Draupadi and Bhima |  |  |  |
 | **Vishoka** | Viśoka | a servant of Yudhishthira who sees to the food at the Rajasuya; also named as a charioteer, leading the others when they rejoin the Pandavas at Subahu's city (3.174.14); also Bhima's charioteer in the war (6.60.8-14) |  |  |  |
 | **Yudhishthira** | Yudhiṣṭhira | eldest son of Kunti, by Dharma; the dharma king | Ajatashatru, Dharmaraja, Kaunteya, Partha | Ajatashatru | Yudhistira, Yudhishtira, Yudhisthira, Yudhishthir, Yudhisthir |
+| **Dridhasena** | Dṛḍhasena | brought down by Drona on the twelfth day |  |  |  |
+| **Kshatravarman** | Kṣatravarman | pierced by Drona on the twelfth day |  |  |  |
+| **Kshema** | Kṣema | a king killed by Drona on the twelfth day |  |  |  |
 | **Yugandhara** | Yugaṃdhara | a warrior who holds back Drona; knocked from his chariot seat |  |  |  |
 | **Vishvagashva** | Viṣvagaśva | a Paurava king defeated by Arjuna; also an Ikshvaku, son of Prithu (3.193.3) |  |  |  |
 | **Haihayas** | Haihaya | a line of kings; a Haihaya prince kills Tarkshya's son by mistake (3.182) |  |  |  |
@@ -1117,7 +1124,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Suvarchas** | Suvarcas | name of a son of Dhritarashtra and of other suitors at Draupadi's bridegroom choice; also a hermit who assures Dyumatsena that Satyavat lives (3.282.10); also a son of Garuda (5.99.2) |  |  |  |
 | **Vardhakshemi** | Vārdhakṣemi | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Vatsaraja** | Vatsarāja | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
-| **Vrika** | Vṛka | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Vrika** | Vṛka | a king named among the suitors at Draupadi's bridegroom choice; also a Panchala killed by Drona with his charioteer and horses on the twelfth day (7.20.11) |  |  |  |
 | **Satyadharman** | Satyadharman | one of the five Trigarta brothers of the sworn band |  |  |  |
 | **Satyakarman** | Satyakarman | one of the five Trigarta brothers of the sworn band |  |  |  |
 | **Satyavarman** | Satyavarman | one of the five Trigarta brothers of the sworn band |  |  |  |
