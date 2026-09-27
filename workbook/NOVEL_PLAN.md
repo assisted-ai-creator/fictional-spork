@@ -513,7 +513,7 @@ provisional, and each row is filled in as it is drafted.
 |----|-------|----|------|
 | 1 | Karna Goes to Bhishma | 7.1–7.4 | ✅ drafted. Sañjaya comes again at night; the Kurus call for Karṇa; Karṇa at the bed of arrows and Bhīṣma's blessing (a doublet of 6.117). |
 | 2 | Drona Takes Command | 7.5–7.7 | ✅ drafted. Karṇa names Droṇa; the consecration; the cart and heron arrays; the omens; Sañjaya's summary of Droṇa's five days and his death. |
-| 3 | The Blind King's Questions | 7.8–7.10 | Dhṛtarāṣṭra's questions and grief; his speech on Kṛṣṇa's deeds. |
+| 3 | The Blind King's Questions | 7.8–7.10 | ✅ drafted. Dhṛtarāṣṭra's questions and grief; his speech on Kṛṣṇa's deeds. |
 | 4 | The Promise to Take Yudhishthira | 7.11–7.13 | Duryodhana's boon: Yudhiṣṭhira taken alive; Arjuna's answer; the eleventh day. |
 | 5 | The Sworn Band | 7.14–7.16 | Duels of the eleventh day; Vṛṣasena; evening; the Trigartas' oath to draw Arjuna away. |
 | 6 | The Garuda Array | 7.17–7.19 | The twelfth day: Arjuna against the saṃśaptakas; Droṇa's array. |

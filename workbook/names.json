@@ -3869,7 +3869,7 @@
    "name": "Anadhrishti",
    "iast": "Anādhṛṣṭi",
    "group": "Vrishni",
-   "who": "a Vrishni hero who comes to Indraprastha with Krishna; also a son of Dhritarashtra, killed by Bhima on the eighth day (6.92.26)",
+   "who": "a Vrishni hero who comes to Indraprastha with Krishna; also a son of Dhritarashtra, killed by Bhima on the eighth day (6.92.26); also Vriddhakshema's son, who carried off the daughter of the Kalingas (7.9.51)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -4974,7 +4974,7 @@
    "name": "Ketuman",
    "iast": "Ketumat",
    "group": "King",
-   "who": "a king present in Yudhishthira's hall; also a king who rides with the Kalinga king on the first day (6.17.32-37); also son of the Nishada, killed by Bhima on the second day (6.50.5, 70)",
+   "who": "a king present in Yudhishthira's hall; also a king who rides with the Kalinga king on the first day (6.17.32-37); also son of the Nishada, killed by Bhima on the second day (6.50.5, 70); also killed Prince Sudarshana at the mountain gate of the far west (7.9.40)",
    "aka": [],
    "dialogue": [],
    "flag": [
@@ -10582,7 +10582,7 @@
    "name": "Kshatradeva",
    "iast": "Kṣatradeva",
    "group": "Panchala",
-   "who": "a hero on the Pandavas' side, named after Shikhandi",
+   "who": "a hero on the Pandavas' side, named after Shikhandi; also a son of Dhrishtadyumna (7.9.49); also Shikhandi's son of the same name (7.9.59)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -11882,7 +11882,7 @@
    "name": "Kshatradharman",
    "iast": "Kṣatradharman",
    "group": "Panchala",
-   "who": "son of Dhrishtadyumna, rated half a chariot fighter by Bhishma",
+   "who": "son of Dhrishtadyumna, rated half a chariot fighter by Bhishma; also a son of Dhrishtadyumna (7.9.49)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -12450,6 +12450,86 @@
    "dialogue": [],
    "flag": [],
    "ref": "6.92.26"
+  },
+  {
+   "name": "Agavaha",
+   "iast": "Āgāvaha",
+   "group": "Vrishni",
+   "who": "a Vrishni hero named by Dhritarashtra",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.10.27"
+  },
+  {
+   "name": "Jhalli",
+   "iast": "Jhallī",
+   "group": "Vrishni",
+   "who": "a Vrishni hero named by Dhritarashtra",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.10.28"
+  },
+  {
+   "name": "Arimejaya",
+   "iast": "Arimejaya",
+   "group": "Vrishni",
+   "who": "a Vrishni hero named by Dhritarashtra",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.10.28"
+  },
+  {
+   "name": "Pralamba",
+   "iast": "Pralamba",
+   "group": "Demon",
+   "who": "a demon killed by Krishna",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.10.5"
+  },
+  {
+   "name": "Pitha",
+   "iast": "Pīṭha",
+   "group": "Demon",
+   "who": "a great demon killed by Krishna",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.10.5"
+  },
+  {
+   "name": "Panchajana",
+   "iast": "Pañcajana",
+   "group": "Demon",
+   "who": "the being in the underworld whom Krishna killed, winning the conch Panchajanya",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.10.20"
+  },
+  {
+   "name": "Kshatranjaya",
+   "iast": "Kṣatraṃjaya",
+   "group": "Panchala",
+   "who": "a son of Dhrishtadyumna, trained twelve years with Bhishma",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.9.49"
+  },
+  {
+   "name": "Vriddhakshema",
+   "iast": "Vṛddhakṣema",
+   "group": "Vrishni",
+   "who": "father of Anadhrishti",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.9.51"
   }
  ],
  "not_vyasa": [

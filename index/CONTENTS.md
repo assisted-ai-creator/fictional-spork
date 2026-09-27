@@ -2,7 +2,7 @@
 
 # Contents
 
-**323 chapters, 782,636 words.** 323 drafted
+**324 chapters, 786,490 words.** 324 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -374,5 +374,6 @@
 |---|---------|----|--------|-------|
 | 1 | [Karna Goes to Bhishma](../novel/book-07-drona/01-karna-goes-to-bhishma.md) | 7.1-4 | drafted | 3,359 |
 | 2 | [Drona Takes Command](../novel/book-07-drona/02-drona-takes-command.md) | 7.5-7 | drafted | 2,724 |
+| 3 | [The Blind King's Questions](../novel/book-07-drona/03-the-blind-kings-questions.md) | 7.8-10 | drafted | 3,854 |
 
-*Book 7 so far: 6,083 words.*
+*Book 7 so far: 9,937 words.*

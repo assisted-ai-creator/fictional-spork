@@ -375,7 +375,10 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Nikumbha** | Nikumbha | a daitya lord of Hiranyakashipu's line, father of Sunda and Upasunda |  |  |  |
 | **Nisunda** | Nisunda | a demon Krishna killed |  |  |  |
 | **Paka** | Pāka | a demon slain by Indra, who is called "chastiser of Paka" |  |  |  |
+| **Panchajana** | Pañcajana | the being in the underworld whom Krishna killed, winning the conch Panchajanya |  |  |  |
+| **Pitha** | Pīṭha | a great demon killed by Krishna |  |  |  |
 | **Prahlada** | Prahlāda | a great asura, son of Hiranyakashipu. The CE spells him Prahrada in Book 1 (1.59.18) and Prahlada in Book 2 (2.9.12); the novel follows the text. A snake named Prahlada sits in Varuna's hall (2.9.10) | Prahrada |  |  |
+| **Pralamba** | Pralamba | a demon killed by Krishna |  |  |  |
 | **Prasabha** | Prasabha | a son of Diti killed by Garuda |  |  |  |
 | **Putana** | Pūtanā | the demoness Krishna killed in his childhood, named in Shishupala's taunts |  |  |  |
 | **Rochanamukha** | Rocanāmukha | a son of Diti killed by Garuda |  |  |  |
@@ -597,7 +600,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kampana** | Kampana | a king present in Yudhishthira's hall |  |  |  |
 | **Kashika** | Kāśika | a king on the Pandava side named by Bhishma |  |  |  |
 | **Kashya** | Kāśya | the king of Kashi on the Pandava side, a chariot fighter of single worth |  |  |  |
-| **Ketuman** | Ketumat | a king present in Yudhishthira's hall; also a king who rides with the Kalinga king on the first day (6.17.32-37); also son of the Nishada, killed by Bhima on the second day (6.50.5, 70) |  |  | Ketumat |
+| **Ketuman** | Ketumat | a king present in Yudhishthira's hall; also a king who rides with the Kalinga king on the first day (6.17.32-37); also son of the Nishada, killed by Bhima on the second day (6.50.5, 70); also killed Prince Sudarshana at the mountain gate of the far west (7.9.40) |  |  | Ketumat |
 | **Kotikashya** | Koṭikāśya | son of King Suratha, a Shibi prince (Shaibya) in Jayadratha's company, who questions Draupadi; killed by Bhima | Kotika, Shaibya |  |  |
 | **Kratha** | Kratha | an overlord of kings defeated by Bhima; also a king Krishna beat at Jaruthi (3.13.27); also a monkey chief; also a king Drupada would summon, with "Kratha's son" (5.4.16, 21) |  |  |  |
 | **Krishashva** | Kṛśāśva | a royal seer watching the battle from Indra's sky chariot |  |  |  |
@@ -791,8 +794,9 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Amitaujas** | Amitaujas | a Panchala great chariot fighter on the Pandava side |  |  |  |
 | **Dhrishtadyumna** | Dhṛṣṭadyumna | Drupada's son, born from the sacrificial fire to kill Drona | Parshata |  | Dhristadyumna, Drishtadyumna |
 | **Drupada** | Drupada | king of the Panchalas, Drona's childhood friend and enemy | Yajnasena |  |  |
-| **Kshatradeva** | Kṣatradeva | a hero on the Pandavas' side, named after Shikhandi |  |  |  |
-| **Kshatradharman** | Kṣatradharman | son of Dhrishtadyumna, rated half a chariot fighter by Bhishma |  |  |  |
+| **Kshatradeva** | Kṣatradeva | a hero on the Pandavas' side, named after Shikhandi; also a son of Dhrishtadyumna (7.9.49); also Shikhandi's son of the same name (7.9.59) |  |  |  |
+| **Kshatradharman** | Kṣatradharman | son of Dhrishtadyumna, rated half a chariot fighter by Bhishma; also a son of Dhrishtadyumna (7.9.49) |  |  |  |
+| **Kshatranjaya** | Kṣatraṃjaya | a son of Dhrishtadyumna, trained twelve years with Bhishma |  |  |  |
 | **Prishata** | Pṛṣata | king of the Panchalas, Bharadvaja's friend, Drupada's father |  |  |  |
 | **Prishati** | Pṛṣatī | Drupada's queen, mother (by adoption of the fire-born twins) of Dhrishtadyumna and Draupadi |  |  |  |
 | **Satyajit** | Satyajit | one of Drupada's ten sons, named first among them |  |  |  |
@@ -1131,10 +1135,12 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vaiyaghrapadya** | Vaiyāghrapadya | the brahmin clan Yudhishthira claims as Kanka |  |  |  |
 | **Vijaya** | Vijaya | one of the five secret names Yudhishthira gives the Pandavas in Virata's city (4.5.30) |  |  |  |
 | **Vishalaksha** | Viśālākṣa | a Matsya chariot fighter; the word may be an epithet ("large-eyed"); also a descendant of Garuda, named by Narada (5.99.9-14); also a son of Dhritarashtra, killed by Bhima on the eighth day (6.84.14-25) |  |  |  |
+| **Agavaha** | Āgāvaha | a Vrishni hero named by Dhritarashtra |  |  |  |
 | **Akrura** | Akrūra | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
-| **Anadhrishti** | Anādhṛṣṭi | a Vrishni hero who comes to Indraprastha with Krishna; also a son of Dhritarashtra, killed by Bhima on the eighth day (6.92.26) |  |  |  |
+| **Anadhrishti** | Anādhṛṣṭi | a Vrishni hero who comes to Indraprastha with Krishna; also a son of Dhritarashtra, killed by Bhima on the eighth day (6.92.26); also Vriddhakshema's son, who carried off the daughter of the Kalingas (7.9.51) |  |  |  |
 | **Anakadundubhi** | Ānakadundubhi | Vasudeva, Krishna's father |  |  |  |
 | **Andhakabhoja** | Andhakabhoja | a Yadava chief whose two sons are named among the great warriors |  |  |  |
+| **Arimejaya** | Arimejaya | a Vrishni hero named by Dhritarashtra |  |  |  |
 | **Babhru** | Babhru | a Vrishni at the Rajasuya; his wife was carried off by Shishupala (2.42.10); also Babhru of Kashi, who has Krishna for his brother and master (5.28.13); also also a son of Virata on the Pandavas' side (5.56.33) |  |  |  |
 | **Balarama** | Balarāma | Krishna's elder brother, the plough-bearer | Baladeva, Rama, Samkarshana, Halayudha, Kamapala | Baladeva | Balram, Balaram |
 | **Bhangakara** | Bhaṅgakāra | a Vrishni named at the Raivataka festival (the reading is uncertain) |  |  |  |
@@ -1147,6 +1153,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Gada** | Gada | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Hridika** | Hṛdika | father of Kritavarma |  |  |  |
 | **Jambavati** | Jāmbavatī | Krishna's wife, mother of Samba |  |  |  |
+| **Jhalli** | Jhallī | a Vrishni hero named by Dhritarashtra |  |  |  |
 | **Jhilli** | Jhillī | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Kahva** | Kahva | a Vrishni great warrior |  |  |  |
 | **Kanka** | Kaṅka | a Vrishni named among the suitors at Draupadi's bridegroom choice; also the name Yudhishthira takes in Virata's court, as a dicing brahmin (4.1.20) |  |  |  |
@@ -1180,6 +1187,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vatapati** | Vātapati | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Viduratha** | Vidūratha | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Viprithu** | Vipṛthu | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Vriddhakshema** | Vṛddhakṣema | father of Anadhrishti |  |  |  |
 | **Kuntibhoja** | Kuntibhoja | Shura's cousin, who adopted Pritha, hence 'Kunti' |  |  |  |
 | **Shura** | Śūra | chief of the Yadus, father of Vasudeva and of Pritha (Kunti); also one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
 | **Vasudeva** | Vasudeva | son of Shura, father of Krishna; Pritha's brother. Not Krishna's patronymic 'Vasudeva' (Vāsudeva), which the novel avoids as a name for Krishna where it would confuse |  |  |  |

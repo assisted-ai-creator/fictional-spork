@@ -16,6 +16,10 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 - Ch 2 *Drona Takes Command* (CE 7.5–7.7): Karna names Drona; the
   consecration; the cart and heron arrays; the omens; Sanjaya's summary of
   Drona's days and his death at Dhrishtadyumna's hands.
+- Ch 3 *The Blind King's Questions* (CE 7.8–7.10): Dhritarashtra's grief for
+  Drona; who held back each Pandava hero?; his list of Krishna's deeds; Nara
+  and Narayana. Ledger L-33 notes that Putana and Govardhana are only in
+  rejected lines here (\*81, \*82).
 
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in
