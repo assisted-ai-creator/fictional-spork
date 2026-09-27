@@ -81,6 +81,8 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   yoke; Satyaki's duel with Drona.
 - Ch 29 *The Horses Drink* (CE 7.74–7.75): Vinda and Anuvinda killed; the pool
   made with an arrow; Krishna tends the horses. Ledger L-209.
+- Ch 30 *Arjuna and Duryodhana* (CE 7.76–7.78): the armour that arrows cannot
+  pierce; Duryodhana's palms. Ledger L-210 (not his fingernails).
 
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in
