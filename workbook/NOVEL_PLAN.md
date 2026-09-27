@@ -533,7 +533,7 @@ provisional, and each row is filled in as it is drafted.
 | 20 | The Night Journey | 7.57 | ✅ drafted. The dream; the flight north; Śiva on the mountain; the hymn; the lake and the two snakes; the Pāśupata and the fulfilment of the vow. |
 | 21 | The Fourteenth Morning | 7.58–7.60 | ✅ drafted. Yudhiṣṭhira's morning; Kṛṣṇa's promise; Arjuna tells of Śiva; Kṛṣṇa harnesses the chariot; Sātyaki set to guard the king. |
 | 22 | The Cart and the Needle | 7.61–7.63 | ✅ drafted. Dhṛtarāṣṭra mourns the silent camp; Sañjaya blames him; Jayadratha's guard; the cart, the lotus and the needle. |
-| 23 | Arjuna Breaks the Front | 7.64–7.65 |  |
+| 23 | Arjuna Breaks the Front | 7.64–7.65 | ✅ drafted. The omens; Durmarṣaṇa's boast; the conches; "everything has become Pārtha"; Duḥśāsana's elephants broken; he flees to Droṇa. |
 | 24 | Past Drona | 7.66–7.67 | Śrutāyudha and his mace; Sudakṣiṇa. |
 | 25 | Shrutayus and Achyutayus | 7.68–7.69 |  |
 | 26 | Duryodhana's Armour | 7.70–7.72 |  |
