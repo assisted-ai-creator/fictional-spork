@@ -49,6 +49,12 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   army; Drona's praise; Duhshasana's boast.
 - Ch 14 *Jayadratha at the Gap* (CE 7.39–7.43): Duhshasana struck down;
   Karna beaten; Jayadratha's boon from Shiva holds back the four Pandavas.
+- Ch 15 *Lakshmana* (CE 7.44–7.47) and ch 16 *The Death of Abhimanyu*
+  (CE 7.48–7.49): Lakshmana and Brihadbala killed; Drona's advice; the wheel
+  and the mace; Duhshasana's son; Yudhishthira's lament.
+- Ledger L-203 (Vyasa's consolation with the story of Death and the sixteen
+  kings is a rejected appendix here; the CE has them at 12.29 and
+  12.248–250) and L-204 ("six", not "seven", great chariot fighters).
 
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in

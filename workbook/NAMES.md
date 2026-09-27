@@ -403,6 +403,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Achala** | Acala | a son of the king of Gandhara, Shakuni's brother |  |  |  |
 | **Bala** | Bala | a son of the king of Gandhara, brother of Shakuni; named among the suitors at Draupadi's bridegroom choice; also the name of a demon slain by Indra ("slayer of Bala"); also the third son of Parikshit of Ayodhya (3.190.43) |  |  |  |
 | **Brihadbala** | Bṛhadbala | a son of the king of Gandhara, brother of Shakuni; named among the suitors at Draupadi's bridegroom choice; also a king born among the Prachetas who destroyed his family, in Bhima's list (5.72.16); also king of Kosala, lord of one of Duryodhana's akshauhinis (6.16.34) |  |  |  |
+| **Kalakeya** | Kālakeya | a son of Subala, killed by Abhimanyu with his mace |  |  |  |
 | **Shakuni** | Śakuni | Gandhari's brother, son of Subala; the dice player | Saubala | Saubala | Sakuni, Shakunee |
 | **Subala** | Subala | king of Gandhara, father of Gandhari and Shakuni; also an Ikshvaku king in Jayadratha's company (3.249.8), not Shakuni's father; also a son of Garuda (5.99.3) |  |  |  |
 | **Uluka** | Ulūka | son of Shakuni ("son of the gambler") |  |  |  |
@@ -551,14 +552,18 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Bhumimjaya** | Bhūmiṃjaya | a warrior in the body of Drona's Garuda array |  |  |  |
 | **Bhutakarman** | Bhūtakarman | lord of the assembly, killed by Nakula's son Shatanika |  |  |  |
 | **Bhutavarman** | Bhūtavarman | a warrior in the neck of Drona's Garuda array |  |  |  |
+| **Chandraketu** | Candraketu | killed by Abhimanyu |  |  |  |
 | **Chandravarman** | Candravarman | killed by Dhrishtadyumna with his sword |  |  |  |
 | **Jayadratha** | Jayadratha | king of the Sindhus; Duhshala's husband | Saindhava |  |  |
 | **Karna** | Karṇa | Kunti's first son, by the Sun, born with armour and earrings; raised by the charioteer Adhiratha and Radha; also the name of a son of Dhritarashtra (1.108.3), among Duryodhana's brothers on the sixth day (6.73.7) | Vasushena, Radheya, Vaikartana, Suta's son, Vrisha | Radheya | Karan, Karn, Vasusena |
 | **Kshemasharman** | Kṣemaśarman | a warrior in the neck of Drona's Garuda array |  |  |  |
 | **Kundabhedin** | Kuṇḍabhedin | killed by Abhimanyu on the thirteenth day |  |  |  |
 | **Lalittha** | Lalittha | a warrior who shoots at Abhimanyu |  |  |  |
+| **Meghavega** | Meghavega | killed by Abhimanyu |  |  |  |
 | **Prabahu** | Prabāhu | a warrior who shoots at Abhimanyu |  |  |  |
 | **Radha** | Rādhā | Adhiratha's wife, Karna's foster mother. The only Radha in the epic (see ledger L-58) |  |  |  |
+| **Satyashravas** | Satyaśravas | seized by Abhimanyu inside the wheel array |  |  |  |
+| **Suryabhasa** | Sūryabhāsa | killed by Abhimanyu |  |  |  |
 | **Vipata** | Vipāṭa | a brother of Karna, killed by Arjuna |  |  |  |
 | **Vrindaraka** | Vṛndāraka | a warrior who shoots at Abhimanyu |  |  |  |
 | **Vrishakratha** | Vṛṣakrātha | a warrior in the body of Drona's Garuda array |  |  |  |
@@ -721,9 +726,10 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vichitravirya** | Vicitravīrya | younger son of Shantanu and Satyavati; husband of Ambika and Ambalika |  |  | Vichitraveerya |
 | **Vidura** | Vidura | son of Vyasa and a serving woman; Dharma born as a man; wise counsellor; also a proud kshatriya woman (Vidurā) who rebukes her son Sanjaya, in the story Kunti tells; Ganguli calls her Vidula (5.131.4) | Kshattri |  |  |
 | **Rukmangada** | Rukmāṅgada | son of Shalya |  |  |  |
-| **Rukmaratha** | Rukmaratha | son of Shalya |  |  |  |
+| **Rukmaratha** | Rukmaratha | son of Shalya; also son of Shalya, killed by Abhimanyu (7.44.9-13) |  |  |  |
 | **Shalya** | Śalya | king of Madra, Madri's brother |  |  | Salya |
 | **Ambuvicha** | Ambuvīca | an ancient king of Magadha in Karna's tale, who kept his throne though helpless |  |  |  |
+| **Ashvaketu** | Aśvaketu | the young son of the Magadha king, killed by Abhimanyu |  |  |  |
 | **Asti** | Asti | Jarasandha's daughter, Kamsa's wife |  |  |  |
 | **Dibhaka** | Ḍibhaka | one of Jarasandha's two great warriors; drowned himself in the Yamuna |  |  |  |
 | **Hamsa** | Haṃsa | one of Jarasandha's two great warriors; drowned himself in the Yamuna |  |  |  |

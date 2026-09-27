@@ -3281,7 +3281,7 @@
    "name": "Rukmaratha",
    "iast": "Rukmaratha",
    "group": "Madra",
-   "who": "son of Shalya",
+   "who": "son of Shalya; also son of Shalya, killed by Abhimanyu (7.44.9-13)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -12820,6 +12820,66 @@
    "dialogue": [],
    "flag": [],
    "ref": "7.36.25"
+  },
+  {
+   "name": "Satyashravas",
+   "iast": "Satyaśravas",
+   "group": "Kaurava side",
+   "who": "seized by Abhimanyu inside the wheel array",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.44.3"
+  },
+  {
+   "name": "Chandraketu",
+   "iast": "Candraketu",
+   "group": "Kaurava side",
+   "who": "killed by Abhimanyu",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.47.15"
+  },
+  {
+   "name": "Meghavega",
+   "iast": "Meghavega",
+   "group": "Kaurava side",
+   "who": "killed by Abhimanyu",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.47.15"
+  },
+  {
+   "name": "Suryabhasa",
+   "iast": "Sūryabhāsa",
+   "group": "Kaurava side",
+   "who": "killed by Abhimanyu",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.47.15"
+  },
+  {
+   "name": "Ashvaketu",
+   "iast": "Aśvaketu",
+   "group": "Magadha",
+   "who": "the young son of the Magadha king, killed by Abhimanyu",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.47.7"
+  },
+  {
+   "name": "Kalakeya",
+   "iast": "Kālakeya",
+   "group": "Gandhara",
+   "who": "a son of Subala, killed by Abhimanyu with his mace",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.48.7"
   }
  ],
  "not_vyasa": [

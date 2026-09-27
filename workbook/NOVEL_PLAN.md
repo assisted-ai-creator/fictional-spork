@@ -525,8 +525,8 @@ provisional, and each row is filled in as it is drafted.
 | 12 | The Wheel Array | 7.33–7.35 | ✅ drafted. Abhimanyu praised; the wheel array with Lakṣmaṇa's princes; "I cannot get out" (L-39); "no fifth"; Sumitra's warning; Abhimanyu breaks in. |
 | 13 | Abhimanyu Alone | 7.36–7.38 | ✅ drafted. Abhimanyu holds back the whole army; the Aśmaka prince, Śalya's brother and others killed; Karṇa shaken; Droṇa's praise and Duryodhana's anger; Duḥśāsana's boast. |
 | 14 | Jayadratha at the Gap | 7.39–7.43 | ✅ drafted. Abhimanyu and Duḥśāsana; Karṇa's younger brother killed; Jayadratha's penance and Śiva's boon (L-153); he holds back the four Pāṇḍavas; the Vasātīya killed. |
-| 15 | Lakshmana | 7.44–7.47 |  |
-| 16 | The Death of Abhimanyu | 7.48–7.49 |  |
+| 15 | Lakshmana | 7.44–7.47 | ✅ drafted. Rukmaratha and the hundred princes; Lakṣmaṇa killed; Bṛhadbala of Kosala killed; Droṇa's advice to make him chariotless; sword, shield and the wheel. |
+| 16 | The Death of Abhimanyu | 7.48–7.49 | ✅ drafted. The mace fight with Duḥśāsana's son; "six great chariot fighters" (L-204); dusk on the field; Yudhiṣṭhira's lament; no Vyāsa consolation here (L-203). |
 | 17 | Arjuna's Vow | 7.50–7.51 | Arjuna comes back; the vow to kill Jayadratha. |
 | 18 | Jayadratha's Fear | 7.52–7.53 |  |
 | 19 | Subhadra's Grief | 7.54–7.56 |  |
