@@ -2,7 +2,7 @@
 
 # Contents
 
-**348 chapters, 841,275 words.** 348 drafted
+**349 chapters, 843,142 words.** 349 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -399,5 +399,6 @@
 | 25 | [Shrutayus and Achyutayus](../novel/book-07-drona/25-shrutayus-and-achyutayus.md) | 7.68 | drafted | 1,423 |
 | 26 | [Duryodhana's Armour](../novel/book-07-drona/26-duryodhanas-armour.md) | 7.69 | drafted | 1,728 |
 | 27 | [At the Mouth of the Array](../novel/book-07-drona/27-at-the-mouth-of-the-array.md) | 7.70, 7.71 | drafted | 1,676 |
+| 28 | [Drona and Dhrishtadyumna](../novel/book-07-drona/28-drona-and-dhrishtadyumna.md) | 7.72, 7.73 | drafted | 1,867 |
 
-*Book 7 so far: 64,722 words.*
+*Book 7 so far: 66,589 words.*

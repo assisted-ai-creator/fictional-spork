@@ -77,6 +77,8 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   binds Shiva's armour on him.
 - Ch 27 *At the Mouth of the Array* (CE 7.70–7.71): the fight at Drona's
   front; the single combats. Plan rows re-cut from ch 27 on (Book 7 now 69 rows).
+- Ch 28 *Drona and Dhrishtadyumna* (CE 7.72–7.73): Dhrishtadyumna on Drona's
+  yoke; Satyaki's duel with Drona.
 
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in
