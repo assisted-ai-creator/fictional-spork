@@ -59,6 +59,8 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   to kill Jayadratha or enter the fire (ledger L-205).
 - Ch 18 *Jayadratha's Fear* (CE 7.52–7.53): Jayadratha's terror; Drona's
   reassurance; Krishna's warning and Arjuna's answer.
+- Ch 19 *Subhadra's Grief* (CE 7.54–7.56): Subhadra's lament; the sleepless
+  night; Krishna and Daruka.
 
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in

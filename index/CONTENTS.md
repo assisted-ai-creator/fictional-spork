@@ -2,7 +2,7 @@
 
 # Contents
 
-**339 chapters, 823,681 words.** 339 drafted
+**340 chapters, 826,047 words.** 340 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -390,5 +390,6 @@
 | 16 | [The Death of Abhimanyu](../novel/book-07-drona/16-the-death-of-abhimanyu.md) | 7.48-49 | drafted | 1,812 |
 | 17 | [Arjuna's Vow](../novel/book-07-drona/17-arjunas-vow.md) | 7.50-51 | drafted | 3,061 |
 | 18 | [Jayadratha's Fear](../novel/book-07-drona/18-jayadrathas-fear.md) | 7.52-53 | drafted | 1,960 |
+| 19 | [Subhadra's Grief](../novel/book-07-drona/19-subhadras-grief.md) | 7.54-56 | drafted | 2,366 |
 
-*Book 7 so far: 47,128 words.*
+*Book 7 so far: 49,494 words.*
