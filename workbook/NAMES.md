@@ -832,6 +832,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sutasoma** | Sutasoma | son of Draupadi and Bhima |  |  |  |
 | **Vishoka** | Viśoka | a servant of Yudhishthira who sees to the food at the Rajasuya; also named as a charioteer, leading the others when they rejoin the Pandavas at Subahu's city (3.174.14); also Bhima's charioteer in the war (6.60.8-14) |  |  |  |
 | **Yudhishthira** | Yudhiṣṭhira | eldest son of Kunti, by Dharma; the dharma king | Ajatashatru, Dharmaraja, Kaunteya, Partha | Ajatashatru | Yudhistira, Yudhishtira, Yudhisthira, Yudhishthir, Yudhisthir |
+| **Akriti** | Ākṛti | father of Ruchiparvan |  |  |  |
 | **Chandradeva** | Candradeva | son of Samudrasena |  |  |  |
 | **Chitra** | Citra | a warrior with a bright chariot, banner and bow |  |  |  |
 | **Dandaketu** | Daṇḍaketu | a warrior who turns back against Drona |  |  |  |
@@ -839,6 +840,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kshatravarman** | Kṣatravarman | pierced by Drona on the twelfth day |  |  |  |
 | **Kshema** | Kṣema | a king killed by Drona on the twelfth day |  |  |  |
 | **Rathasena** | Rathasena | a warrior mad for battle |  |  |  |
+| **Ruchiparvan** | Ruciparvan | Akriti's son, killed by Bhagadatta |  |  |  |
 | **Shukla** | Śukla | a warrior all in white, banner, armour, horses and bow |  |  |  |
 | **Sukshatra** | Sukṣatra | son of the lord of Kosala |  |  |  |
 | **Yugandhara** | Yugaṃdhara | a warrior who holds back Drona; knocked from his chariot seat |  |  |  |

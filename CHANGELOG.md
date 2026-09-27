@@ -34,6 +34,12 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   heroes (their banners are only in a rejected appendix); Dhritarashtra on
   fate; the single fights. The Book 7 plan is renumbered (67 chapters):
   Bhagadatta now has two chapters.
+- Ch 9 *Bhagadatta's Elephant* (CE 7.25–7.27) and ch 10 *The Death of
+  Bhagadatta* (CE 7.28–7.29): the elephant routs the Pandavas; Arjuna torn
+  between the sworn band and his brothers; the Vaishnava weapon becomes
+  Krishna's garland; Bhagadatta killed; Shakuni's brothers and illusions.
+- Ledger L-202: Bhagadatta's drooping eyelids tied with cloth are only in
+  rejected lines (\*224–\*225).
 
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in

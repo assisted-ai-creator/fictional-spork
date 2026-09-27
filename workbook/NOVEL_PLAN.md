@@ -519,8 +519,8 @@ provisional, and each row is filled in as it is drafted.
 | 6 | The Sworn Band | 7.16–7.18 | ✅ drafted. Droṇa's shame; the Trigartas' oath; Arjuna leaves Satyajit with Yudhiṣṭhira; Tvaṣṭṛ's weapon; "Both Kṛṣṇas are dead!"; the wind weapon. |
 | 7 | The Garuda Array | 7.19–7.21 | ✅ drafted. The twelfth day from Droṇa's side; Dhṛṣṭadyumna and Durmukha; Satyajit killed and Yudhiṣṭhira withdraws; the Matsya's brother Śatānīka; Karṇa's warning. |
 | 8 | The Pandavas Turn Back | 7.22–7.24 | ✅ drafted. The horses of the Pāṇḍava heroes (their banners are only in App. @5); Dhṛtarāṣṭra on fate; the single fights: Yuyutsu cuts off Subāhu's arms; Bhūriśravas kills Maṇimat. |
-| 9 | Bhagadatta's Elephant | 7.25–7.27 | Bhīma and the elephant ranks; Bhagadatta and Supratīka rout the Pāṇḍavas; Arjuna turns from the saṃśaptakas. |
-| 10 | The Death of Bhagadatta | 7.28–7.29 | The Vaiṣṇava weapon; Bhagadatta killed. |
+| 9 | Bhagadatta's Elephant | 7.25–7.27 | ✅ drafted. Bhīma and the elephant ranks; Bhagadatta and Supratīka rout the Pāṇḍavas; Arjuna turns from the saṃśaptakas. |
+| 10 | The Death of Bhagadatta | 7.28–7.29 | ✅ drafted. The Vaiṣṇava weapon becomes the Vaijayantī garland; Kṛṣṇa's four forms and Naraka's boon; the elephant and Bhagadatta killed (no blindfold: L-202); Vṛṣaka and Acala; Śakuni's illusions. |
 | 11 | The End of the Twelfth Day | 7.30–7.32 | Bhīma, Karṇa and the rest; Duryodhana reproaches Droṇa. |
 | 12 | The Wheel Array | 7.33–7.35 | The thirteenth day; Abhimanyu knows how to enter. |
 | 13 | Abhimanyu Breaks In | 7.36–7.38 |  |
