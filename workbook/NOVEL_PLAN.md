@@ -539,7 +539,7 @@ provisional, and each row is filled in as it is drafted.
 | 26 | Duryodhana's Armour | 7.69 | ✅ drafted. "A razor smeared with honey"; Droṇa too old to follow Arjuna; Śiva's armour, given to Indra against Vṛtra, bound on Duryodhana; he sets out with the Trigartas. |
 | 27 | At the Mouth of the Array | 7.70–7.71 | ✅ drafted. The Pāṇḍavas attack Droṇa at midday; Dhṛṣṭadyumna splits the army in three; the pairings; Jayadratha's guards; Śakuni driven off. |
 | 28 | Drona and Dhrishtadyumna | 7.72–7.73 | ✅ drafted. Dhṛṣṭadyumna on Droṇa's yoke; Sātyaki cuts the killing arrow; the duel of Droṇa and Sātyaki; the fire and water weapons; the sun turns past noon. |
-| 29 | The Horses Drink | 7.74–7.75 |  |
+| 29 | The Horses Drink | 7.74–7.75 | ✅ drafted. The road cut with arrows; Vinda and Anuvinda killed; Arjuna fights on foot; the pool and the house of arrows; Kṛṣṇa tends the horses; the kings blame Duryodhana. |
 | 30 | Arjuna and Duryodhana | 7.76–7.78 |  |
 | 31 | The Banners | 7.79–7.81 |  |
 | 32 | At Drona's Front | 7.82–7.84 |  |

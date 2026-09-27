@@ -79,6 +79,8 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   front; the single combats. Plan rows re-cut from ch 27 on (Book 7 now 69 rows).
 - Ch 28 *Drona and Dhrishtadyumna* (CE 7.72–7.73): Dhrishtadyumna on Drona's
   yoke; Satyaki's duel with Drona.
+- Ch 29 *The Horses Drink* (CE 7.74–7.75): Vinda and Anuvinda killed; the pool
+  made with an arrow; Krishna tends the horses. Ledger L-209.
 
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in
