@@ -87,6 +87,8 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   Yudhishthira unhorsed by Drona.
 - Ch 32 *At Drona's Front* (CE 7.82–7.84): the single combats; Ghatotkacha
   kills Alambusa, son of Rishyashringa.
+- Ch 33 *Satyaki and Drona* (CE 7.85): Yudhishthira hears Krishna's conch and
+  begs Satyaki to go after Arjuna.
 
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in

@@ -2,7 +2,7 @@
 
 # Contents
 
-**353 chapters, 852,666 words.** 353 drafted
+**354 chapters, 854,800 words.** 354 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -404,5 +404,6 @@
 | 30 | [Arjuna and Duryodhana](../novel/book-07-drona/30-arjuna-and-duryodhana.md) | 7.76, 7.77, 7.78 | drafted | 2,812 |
 | 31 | [The Banners](../novel/book-07-drona/31-the-banners.md) | 7.79, 7.80, 7.81 | drafted | 2,419 |
 | 32 | [At Drona's Front](../novel/book-07-drona/32-at-dronas-front.md) | 7.82, 7.83, 7.84 | drafted | 2,259 |
+| 33 | [Satyaki and Drona](../novel/book-07-drona/33-satyaki-and-drona.md) | 7.85 | drafted | 2,134 |
 
-*Book 7 so far: 76,113 words.*
+*Book 7 so far: 78,247 words.*
