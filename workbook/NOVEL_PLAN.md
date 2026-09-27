@@ -527,7 +527,7 @@ provisional, and each row is filled in as it is drafted.
 | 14 | Jayadratha at the Gap | 7.39–7.43 | ✅ drafted. Abhimanyu and Duḥśāsana; Karṇa's younger brother killed; Jayadratha's penance and Śiva's boon (L-153); he holds back the four Pāṇḍavas; the Vasātīya killed. |
 | 15 | Lakshmana | 7.44–7.47 | ✅ drafted. Rukmaratha and the hundred princes; Lakṣmaṇa killed; Bṛhadbala of Kosala killed; Droṇa's advice to make him chariotless; sword, shield and the wheel. |
 | 16 | The Death of Abhimanyu | 7.48–7.49 | ✅ drafted. The mace fight with Duḥśāsana's son; "six great chariot fighters" (L-204); dusk on the field; Yudhiṣṭhira's lament; no Vyāsa consolation here (L-203). |
-| 17 | Arjuna's Vow | 7.50–7.51 | Arjuna comes back; the vow to kill Jayadratha. |
+| 17 | Arjuna's Vow | 7.50–7.51 | ✅ drafted. The silent camp; Arjuna's lament; Yuyutsu's reproach; Kṛṣṇa's comfort; Yudhiṣṭhira's account; the vow and the vow of fire (L-205). |
 | 18 | Jayadratha's Fear | 7.52–7.53 |  |
 | 19 | Subhadra's Grief | 7.54–7.56 |  |
 | 20 | The Night Journey | 7.57 | Arjuna's dream of going with Kṛṣṇa to Śiva. |

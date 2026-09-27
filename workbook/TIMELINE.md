@@ -44,7 +44,7 @@ note it and keep the text's wording in the novel.
 | Day 11 | Drona made commander; cart and heron arrays; the promise to take Yudhishthira alive; Drona's river of blood; Abhimanyu and the Paurava; Shalya and Bhima; Arjuna saves Yudhishthira; withdrawal at sunset | 7.5.36–7.6.15; 7.11–7.15.49 |
 | Night of day 11 | The Trigartas swear the samshaptaka oath | 7.16.1–36 |
 | Day 12 | The sworn band draw Arjuna south; Satyajit guards Yudhishthira and is killed; Drona's garuda array; Bhagadatta killed; Nila killed; withdrawal at sunset | 7.16.37–7.19.4; 7.20.16; 7.28.40; 7.30.25; 7.31.77 |
-| Day 13 | Duryodhana reproaches Drona at dawn; the wheel array; Abhimanyu killed | 7.32.5–20 |
+| Day 13 | Duryodhana reproaches Drona at dawn; the wheel array; Abhimanyu killed; at dusk Arjuna returns and vows to kill Jayadratha before the next sunset | 7.32.5–20; 7.33–7.51 |
 | Sanjaya returns to Dhritarashtra | after Bhishma falls, ten days in; he then tells the battle from the start | 6.14.1–11; 6.15.75 |
 | The war | Bhishma fights ten days, Drona five, Karna two, Shalya half a day; then the mace duel; that night Kritavarma, Ashvatthama and Kripa kill the sleeping Pandava army. That makes eighteen days | 1.2.26–28 |
 | The armies | eighteen akshauhinis in all, gathered at Samantapanchaka | 1.2.24–25 |

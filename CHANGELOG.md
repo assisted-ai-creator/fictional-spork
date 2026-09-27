@@ -55,6 +55,8 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 - Ledger L-203 (Vyasa's consolation with the story of Death and the sixteen
   kings is a rejected appendix here; the CE has them at 12.29 and
   12.248–250) and L-204 ("six", not "seven", great chariot fighters).
+- Ch 17 *Arjuna's Vow* (CE 7.50–7.51): Arjuna's return and grief; the vow
+  to kill Jayadratha or enter the fire (ledger L-205).
 
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in

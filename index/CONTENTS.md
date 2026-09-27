@@ -2,7 +2,7 @@
 
 # Contents
 
-**337 chapters, 818,660 words.** 337 drafted
+**338 chapters, 821,721 words.** 338 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -388,5 +388,6 @@
 | 14 | [Jayadratha at the Gap](../novel/book-07-drona/14-jayadratha-at-the-gap.md) | 7.39-43 | drafted | 2,519 |
 | 15 | [Lakshmana](../novel/book-07-drona/15-lakshmana.md) | 7.44-47 | drafted | 2,594 |
 | 16 | [The Death of Abhimanyu](../novel/book-07-drona/16-the-death-of-abhimanyu.md) | 7.48-49 | drafted | 1,812 |
+| 17 | [Arjuna's Vow](../novel/book-07-drona/17-arjunas-vow.md) | 7.50-51 | drafted | 3,061 |
 
-*Book 7 so far: 42,107 words.*
+*Book 7 so far: 45,168 words.*
