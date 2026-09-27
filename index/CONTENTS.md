@@ -2,7 +2,7 @@
 
 # Contents
 
-**331 chapters, 804,734 words.** 331 drafted
+**332 chapters, 807,720 words.** 332 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -382,5 +382,6 @@
 | 8 | [The Pandavas Turn Back](../novel/book-07-drona/08-the-pandavas-turn-back.md) | 7.22-24 | drafted | 2,944 |
 | 9 | [Bhagadatta's Elephant](../novel/book-07-drona/09-bhagadattas-elephant.md) | 7.25-27 | drafted | 2,523 |
 | 10 | [The Death of Bhagadatta](../novel/book-07-drona/10-the-death-of-bhagadatta.md) | 7.28-29 | drafted | 1,821 |
+| 11 | [The End of the Twelfth Day](../novel/book-07-drona/11-the-end-of-the-twelfth-day.md) | 7.30-32 | drafted | 2,986 |
 
-*Book 7 so far: 28,181 words.*
+*Book 7 so far: 31,167 words.*

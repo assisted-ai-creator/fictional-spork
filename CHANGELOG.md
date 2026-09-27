@@ -40,6 +40,9 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   Krishna's garland; Bhagadatta killed; Shakuni's brothers and illusions.
 - Ledger L-202: Bhagadatta's drooping eyelids tied with cloth are only in
   rejected lines (\*224–\*225).
+- Ch 11 *The End of the Twelfth Day* (CE 7.30–7.32): Nila killed; Arjuna
+  returns and kills three of Karna's brothers; Duryodhana reproaches Drona;
+  the summary of Abhimanyu's death.
 
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in

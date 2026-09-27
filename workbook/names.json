@@ -9381,7 +9381,7 @@
    "name": "Shatrunjaya",
    "iast": "Śatruṃjaya",
    "group": "Sauvira",
-   "who": "one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna; also a son of Dhritarashtra (6.75.52)",
+   "who": "one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna; also a son of Dhritarashtra (6.75.52); also a brother of Karna, killed by Arjuna (7.31.59)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -12760,6 +12760,26 @@
    "dialogue": [],
    "flag": [],
    "ref": "7.25.44"
+  },
+  {
+   "name": "Vipata",
+   "iast": "Vipāṭa",
+   "group": "Kaurava side",
+   "who": "a brother of Karna, killed by Arjuna",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.31.59"
+  },
+  {
+   "name": "Chandravarman",
+   "iast": "Candravarman",
+   "group": "Kaurava side",
+   "who": "killed by Dhrishtadyumna with his sword",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.31.63"
   }
  ],
  "not_vyasa": [

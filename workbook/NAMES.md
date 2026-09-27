@@ -551,10 +551,12 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Bhumimjaya** | Bhūmiṃjaya | a warrior in the body of Drona's Garuda array |  |  |  |
 | **Bhutakarman** | Bhūtakarman | lord of the assembly, killed by Nakula's son Shatanika |  |  |  |
 | **Bhutavarman** | Bhūtavarman | a warrior in the neck of Drona's Garuda array |  |  |  |
+| **Chandravarman** | Candravarman | killed by Dhrishtadyumna with his sword |  |  |  |
 | **Jayadratha** | Jayadratha | king of the Sindhus; Duhshala's husband | Saindhava |  |  |
 | **Karna** | Karṇa | Kunti's first son, by the Sun, born with armour and earrings; raised by the charioteer Adhiratha and Radha; also the name of a son of Dhritarashtra (1.108.3), among Duryodhana's brothers on the sixth day (6.73.7) | Vasushena, Radheya, Vaikartana, Suta's son, Vrisha | Radheya | Karan, Karn, Vasusena |
 | **Kshemasharman** | Kṣemaśarman | a warrior in the neck of Drona's Garuda array |  |  |  |
 | **Radha** | Rādhā | Adhiratha's wife, Karna's foster mother. The only Radha in the epic (see ledger L-58) |  |  |  |
+| **Vipata** | Vipāṭa | a brother of Karna, killed by Arjuna |  |  |  |
 | **Vrishakratha** | Vṛṣakrātha | a warrior in the body of Drona's Garuda array |  |  |  |
 | **Sharadandayani** | Śāradaṇḍāyanī | a hero's wife who bore three sons, Durjaya and others, by a brahmin |  |  |  |
 | **Drumaputra** | Drumaputra | ruler of the Kimpurushas |  |  |  |
@@ -907,7 +909,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kunjara** | Kuñjara | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
 | **Pratapa** | Pratāpa | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
 | **Ravi** | Ravi | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
-| **Shatrunjaya** | Śatruṃjaya | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna; also a son of Dhritarashtra (6.75.52) |  |  |  |
+| **Shatrunjaya** | Śatruṃjaya | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna; also a son of Dhritarashtra (6.75.52); also a brother of Karna, killed by Arjuna (7.31.59) |  |  |  |
 | **Supravriddha** | Supravṛddha | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
 | **Ashvapati** | Aśvapati | king of the Madras, Savitri's father, who won her by eighteen years of offerings to the goddess Savitri |  |  |  |
 | **Dalbhya** | Dālbhya | a hermit at Dyumatsena's hermitage (3.282.17) |  |  |  |
