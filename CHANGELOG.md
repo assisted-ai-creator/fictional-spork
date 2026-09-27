@@ -43,6 +43,8 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 - Ch 11 *The End of the Twelfth Day* (CE 7.30–7.32): Nila killed; Arjuna
   returns and kills three of Karna's brothers; Duryodhana reproaches Drona;
   the summary of Abhimanyu's death.
+- Ch 12 *The Wheel Array* (CE 7.33–7.35): the thirteenth day; Yudhishthira
+  asks Abhimanyu to break the wheel; "I cannot get out"; he breaks in.
 
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in
