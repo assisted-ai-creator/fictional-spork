@@ -536,7 +536,7 @@ provisional, and each row is filled in as it is drafted.
 | 23 | Arjuna Breaks the Front | 7.64–7.65 | ✅ drafted. The omens; Durmarṣaṇa's boast; the conches; "everything has become Pārtha"; Duḥśāsana's elephants broken; he flees to Droṇa. |
 | 24 | Past Drona | 7.66–7.67 | ✅ drafted. Arjuna asks Droṇa's blessing, fights him and goes round him; Kṛtavarman blocks the wheel guards; Śrutāyudha killed by his own mace; Sudakṣiṇa killed. |
 | 25 | Shrutayus and Achyutayus | 7.68 | ✅ drafted. The brothers wound Arjuna; Indra's weapon; the elephant troops of the east and the mlecchas; the river of blood; the Ambaṣṭha king killed. |
-| 26 | Duryodhana's Armour | 7.69 |  |
+| 26 | Duryodhana's Armour | 7.69 | ✅ drafted. "A razor smeared with honey"; Droṇa too old to follow Arjuna; Śiva's armour, given to Indra against Vṛtra, bound on Duryodhana; he sets out with the Trigartas. |
 | 27 | The Horses Drink | 7.73–7.75 |  |
 | 28 | Arjuna and Duryodhana | 7.76–7.78 |  |
 | 29 | The Banners | 7.79–7.81 |  |
