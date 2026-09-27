@@ -11985,7 +11985,7 @@
    "name": "Shrutayus",
    "iast": "Śrutāyus",
    "group": "King",
-   "who": "a chariot fighter ahead of Bhishma on the first day; also king of Kalinga, killed by Bhima on the second day (6.50.6, 61-68); also a Kaurava warrior who blocks Arjuna on the fourteenth day (7.66.36)",
+   "who": "a chariot fighter ahead of Bhishma on the first day; also king of Kalinga, killed by Bhima on the second day (6.50.6, 61-68); also a Kaurava warrior who blocks Arjuna on the fourteenth day (7.66.36); also also Shrutayus, brother of Achyutayus, killed by Arjuna with Indra's weapon; and Shrutayus the Ambashtha king, killed by Arjuna after striking Krishna with a mace (7.68.7-24, 56-65)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -12900,6 +12900,36 @@
    "dialogue": [],
    "flag": [],
    "ref": "7.67.44"
+  },
+  {
+   "name": "Achyutayus",
+   "iast": "Acyutāyus",
+   "group": "King",
+   "who": "brother of Shrutayus; wounds Arjuna with a trident and is killed by him on the fourteenth day",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.68.7-24"
+  },
+  {
+   "name": "Ayutayus",
+   "iast": "Ayutāyus",
+   "group": "King",
+   "who": "son of Shrutayus or Achyutayus, killed by Arjuna on the fourteenth day",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.68.27-29"
+  },
+  {
+   "name": "Dirghayus",
+   "iast": "Dīrghāyus",
+   "group": "King",
+   "who": "son of Shrutayus or Achyutayus, killed by Arjuna on the fourteenth day",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.68.27-29"
   }
  ],
  "not_vyasa": [

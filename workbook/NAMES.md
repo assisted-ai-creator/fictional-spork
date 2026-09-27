@@ -569,6 +569,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vrishakratha** | Vṛṣakrātha | a warrior in the body of Drona's Garuda array |  |  |  |
 | **Sharadandayani** | Śāradaṇḍāyanī | a hero's wife who bore three sons, Durjaya and others, by a brahmin |  |  |  |
 | **Drumaputra** | Drumaputra | ruler of the Kimpurushas |  |  |  |
+| **Achyutayus** | Acyutāyus | brother of Shrutayus; wounds Arjuna with a trident and is killed by him on the fourteenth day |  |  |  |
 | **Ahriti** | Āhṛti | a king present in Yudhishthira's hall |  |  |  |
 | **Ahuka** | Āhuka | a king present in Yudhishthira's hall |  |  |  |
 | **Ajabindu** | Ajabindu | one of eighteen kings who destroyed their own families, born among the Suviras (named by Bhima) |  |  |  |
@@ -580,6 +581,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Arkaja** | Arkaja | one of eighteen kings who destroyed their own families, born among the Balihas (named by Bhima) |  |  |  |
 | **Ashmaka** | Aśmaka | son of Madayanti by Vasishtha |  |  |  |
 | **Ashtaka** | Aṣṭaka | royal seer, a grandson of Yayati through his daughter, who questions and helps save him; also son of Vishvamitra and Madhavi (5.117.17) |  |  |  |
+| **Ayutayus** | Ayutāyus | son of Shrutayus or Achyutayus, killed by Arjuna on the fourteenth day |  |  |  |
 | **Bahula** | Bahula | one of eighteen kings who destroyed their own families, born among the Talajanghas (named by Bhima) |  |  |  |
 | **Balaksha** | Balākṣa | a royal seer watching the battle from Indra's sky chariot |  |  |  |
 | **Bali** | Bali | king who rescued Dirghatamas from the Ganga and had him father sons on his queen (not the asura Bali); also Bali, the asura son of Virochana and grandson of Prahlada (3.29); whose kingdom Vishnu took in the form of a dwarf (3.299.13); also the asura Bali, first in Bhima's list of those who destroyed their own people (5.72.12) |  |  |  |
@@ -596,6 +598,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Devarata** | Devarāta | a king present in Yudhishthira's hall |  |  |  |
 | **Dharana** | Dhāraṇa | one of eighteen kings who destroyed their own families, born among the Indravatsas (named by Bhima); also a naga of Bhogavati, named by Narada (5.101.9-16) |  |  |  |
 | **Dhautamulaka** | Dhautamūlaka | one of eighteen kings who destroyed their own families, born among the Chinas (named by Bhima) |  |  |  |
+| **Dirghayus** | Dīrghāyus | son of Shrutayus or Achyutayus, killed by Arjuna on the fourteenth day |  |  |  |
 | **Druhyu** | Druhyu | Yayati's son by Sharmishtha |  |  |  |
 | **Durmukha** | Durmukha | a king present in Yudhishthira's hall; also a son of Dhritarashtra, carried off by the gandharvas (3.231.12) |  |  |  |
 | **Dushyanta** | Duḥṣanta | Paurava king who marries Shakuntala by the gandharva rite and later denies her until a heavenly voice speaks; father of Bharata |  |  | Dushmanta, Dusyanta, Dushyant |
@@ -665,7 +668,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shibi** | Śibi | son of Ushinara, a royal seer of unequalled generosity, a grandson of Yayati through his daughter; also son of Ushinara and Madhavi (5.116.20) | Aushinara |  | Sibi |
 | **Shrutarvan** | Śrutarvan | a king whom Agastya asks for wealth |  |  |  |
 | **Shrutayudha** | Śrutāyudha | a king present in Yudhishthira's hall; also a king, son of Varuna and the river Parnasha, killed by his own mace on the fourteenth day (7.67.43-56) |  |  |  |
-| **Shrutayus** | Śrutāyus | a chariot fighter ahead of Bhishma on the first day; also king of Kalinga, killed by Bhima on the second day (6.50.6, 61-68); also a Kaurava warrior who blocks Arjuna on the fourteenth day (7.66.36) |  |  |  |
+| **Shrutayus** | Śrutāyus | a chariot fighter ahead of Bhishma on the first day; also king of Kalinga, killed by Bhima on the second day (6.50.6, 61-68); also a Kaurava warrior who blocks Arjuna on the fourteenth day (7.66.36); also also Shrutayus, brother of Achyutayus, killed by Arjuna with Indra's weapon; and Shrutayus the Ambashtha king, killed by Arjuna after striking Krishna with a mace (7.68.7-24, 56-65) |  |  |  |
 | **Sudarshana** | Sudarśana | a king, "the pride of the gods", whom Krishna freed from captivity (5.47.69); also a son of Dhritarashtra (6.73.6) |  |  |  |
 | **Sudeshna** | Sudeṣṇā | Bali's queen, mother of Anga by Dirghatamas (another Sudeshna is Virata's queen); also Virata's queen, a princess of the Kekayas, whom Draupadi serves as sairandhri (4.8.6) |  |  |  |
 | **Sudharma** | Sudharman | a king present in Yudhishthira's hall; also Sudharma, king of Dasharna, made Bhima's general (2.26.5); also wife of Matali (5.95.19) |  |  | Sudharman |

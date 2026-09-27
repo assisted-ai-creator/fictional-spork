@@ -71,6 +71,8 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   Duhshasana's divisions broken.
 - Ch 24 *Past Drona* (CE 7.66–7.67): Arjuna passes Drona; Shrutayudha and
   Sudakshina killed. Ledger L-207, L-208.
+- Ch 25 *Shrutayus and Achyutayus* (CE 7.68): Arjuna wounded and recovered;
+  the mleccha troops; the Ambashtha king killed.
 
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in
