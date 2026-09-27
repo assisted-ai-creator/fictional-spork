@@ -57,6 +57,8 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   12.248–250) and L-204 ("six", not "seven", great chariot fighters).
 - Ch 17 *Arjuna's Vow* (CE 7.50–7.51): Arjuna's return and grief; the vow
   to kill Jayadratha or enter the fire (ledger L-205).
+- Ch 18 *Jayadratha's Fear* (CE 7.52–7.53): Jayadratha's terror; Drona's
+  reassurance; Krishna's warning and Arjuna's answer.
 
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in
