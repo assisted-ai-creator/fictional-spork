@@ -606,6 +606,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Gadhi** | Gādhi | king of Kanyakubja, Vishvamitra's father; also asked Richika for a thousand black-eared horses (5.117.4) |  |  |  |
 | **Gaya** | Gaya | an ancient king, a model of dharma and truthfulness |  |  |  |
 | **Girika** | Girikā | Vasu's wife, daughter of the mountain Kolahala and the river Shuktimati |  |  |  |
+| **Govasana** | Govāsana | king of the Shibis (Shaibya), who blocks the son of Abhibhu of Kashi on the fourteenth day |  |  |  |
 | **Hayagriva** | Hayagrīva | a king born among the Videhas who destroyed his family, in Bhima's list |  |  |  |
 | **Hiranyaloman** | Hiraṇyaloman | Bhishmaka, Rukmin's father, lord of the Akritis and of the south |  |  |  |
 | **Hiranyavarma** | Hiraṇyavarman | king of the Dasharnas, whose daughter is married to Shikhandi | Hemavarma, Kanchanavarma |  |  |

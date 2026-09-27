@@ -75,6 +75,8 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   the mleccha troops; the Ambashtha king killed.
 - Ch 26 *Duryodhana's Armour* (CE 7.69): Duryodhana reproaches Drona; Drona
   binds Shiva's armour on him.
+- Ch 27 *At the Mouth of the Array* (CE 7.70–7.71): the fight at Drona's
+  front; the single combats. Plan rows re-cut from ch 27 on (Book 7 now 69 rows).
 
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in
