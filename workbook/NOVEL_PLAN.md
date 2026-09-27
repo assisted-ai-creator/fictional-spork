@@ -545,7 +545,7 @@ provisional, and each row is filled in as it is drafted.
 | 32 | At Drona's Front | 7.82–7.84 | ✅ drafted. Kṣemadhūrti, Vīradhanvan, Niramitra, Vyāghradatta and a son of Somadatta killed; Alambusa and Bhīma; Ghaṭotkaca kills Alambusa. |
 | 33 | Satyaki and Drona | 7.85 | ✅ drafted. Droṇa wears down Sātyaki; the army saves him; Pāñcajanya heard; Yudhiṣṭhira begs Sātyaki to go to Arjuna. |
 | 34 | Yudhishthira Sends Satyaki | 7.86–7.87 | ✅ drafted. Arjuna's charge to Sātyaki; Yudhiṣṭhira's guards; the forces ahead; the Kailāvata drink and the heroes' bronze; Bhīma sent back. |
-| 35 | Satyaki Breaks Through | 7.88–7.90 |  |
+| 35 | Satyaki Breaks Through | 7.88–7.90 | ✅ drafted. Droṇa's taunt; Sātyaki goes round him and through Karṇa's troops; Kṛtavarman wounds him; Dhṛtarāṣṭra's lament for his paid army; Kṛtavarman holds back the Pāṇḍavas. |
 | 36 | Satyaki Goes On | 7.91–7.94 |  |
 | 37 | The Yavanas and the Kambojas | 7.95–7.97 |  |
 | 38 | Satyaki and Duhshasana | 7.98–7.100 |  |

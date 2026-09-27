@@ -91,6 +91,8 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   begs Satyaki to go after Arjuna.
 - Ch 34 *Yudhishthira Sends Satyaki* (CE 7.86–7.87): Satyaki's doubts and his
   setting out. Ledger L-211.
+- Ch 35 *Satyaki Breaks Through* (CE 7.88–7.90): past Drona and Kritavarma;
+  Dhritarashtra's lament; Kritavarma holds the Pandavas.
 
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in
