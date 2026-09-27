@@ -2,7 +2,7 @@
 
 # Contents
 
-**342 chapters, 829,833 words.** 342 drafted
+**343 chapters, 832,129 words.** 343 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -393,5 +393,6 @@
 | 19 | [Subhadra's Grief](../novel/book-07-drona/19-subhadras-grief.md) | 7.54-56 | drafted | 2,366 |
 | 20 | [The Night Journey](../novel/book-07-drona/20-the-night-journey.md) | 7.57 | drafted | 1,908 |
 | 21 | [The Fourteenth Morning](../novel/book-07-drona/21-the-fourteenth-morning.md) | 7.58, 7.59, 7.60 | drafted | 1,878 |
+| 22 | [The Cart and the Needle](../novel/book-07-drona/22-the-cart-and-the-needle.md) | 7.61, 7.62, 7.63 | drafted | 2,296 |
 
-*Book 7 so far: 53,280 words.*
+*Book 7 so far: 55,576 words.*

@@ -532,7 +532,7 @@ provisional, and each row is filled in as it is drafted.
 | 19 | Subhadra's Grief | 7.54–7.56 | ✅ drafted. The omens; Kṛṣṇa comforts Subhadrā; her lament; Draupadī and Uttarā; the nightly offering; the sleepless camp; "Arjuna is half of my body"; Kṛṣṇa's chariot made ready. |
 | 20 | The Night Journey | 7.57 | ✅ drafted. The dream; the flight north; Śiva on the mountain; the hymn; the lake and the two snakes; the Pāśupata and the fulfilment of the vow. |
 | 21 | The Fourteenth Morning | 7.58–7.60 | ✅ drafted. Yudhiṣṭhira's morning; Kṛṣṇa's promise; Arjuna tells of Śiva; Kṛṣṇa harnesses the chariot; Sātyaki set to guard the king. |
-| 22 | The Cart and the Needle | 7.61–7.63 | Dhṛtarāṣṭra's question; Droṇa's arrays. |
+| 22 | The Cart and the Needle | 7.61–7.63 | ✅ drafted. Dhṛtarāṣṭra mourns the silent camp; Sañjaya blames him; Jayadratha's guard; the cart, the lotus and the needle. |
 | 23 | Arjuna Breaks the Front | 7.64–7.65 |  |
 | 24 | Past Drona | 7.66–7.67 | Śrutāyudha and his mace; Sudakṣiṇa. |
 | 25 | Shrutayus and Achyutayus | 7.68–7.69 |  |
