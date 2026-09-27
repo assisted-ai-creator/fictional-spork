@@ -3301,7 +3301,7 @@
    "name": "Sudakshina",
    "iast": "Sudakṣiṇa",
    "group": "Kamboja",
-   "who": "king of the Kambojas, named among the suitors at Draupadi's bridegroom choice",
+   "who": "king of the Kambojas, named among the suitors at Draupadi's bridegroom choice; also Sudakshina \"son of the king of the Kambojas\", killed by Arjuna on the fourteenth day (7.67.59-70)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -4942,7 +4942,7 @@
    "name": "Shrutayudha",
    "iast": "Śrutāyudha",
    "group": "King",
-   "who": "a king present in Yudhishthira's hall",
+   "who": "a king present in Yudhishthira's hall; also a king, son of Varuna and the river Parnasha, killed by his own mace on the fourteenth day (7.67.43-56)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -11985,7 +11985,7 @@
    "name": "Shrutayus",
    "iast": "Śrutāyus",
    "group": "King",
-   "who": "a chariot fighter ahead of Bhishma on the first day; also king of Kalinga, killed by Bhima on the second day (6.50.6, 61-68)",
+   "who": "a chariot fighter ahead of Bhishma on the first day; also king of Kalinga, killed by Bhima on the second day (6.50.6, 61-68); also a Kaurava warrior who blocks Arjuna on the fourteenth day (7.66.36)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -12890,6 +12890,16 @@
    "dialogue": [],
    "flag": [],
    "ref": "7.60.21"
+  },
+  {
+   "name": "Parnasha",
+   "iast": "Parṇāśā",
+   "group": "River",
+   "who": "the river, mother of Shrutayudha by Varuna",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "7.67.44"
   }
  ],
  "not_vyasa": [

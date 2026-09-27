@@ -480,7 +480,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shyenajit** | Śyenajit | Dala's ten-year-old son, killed by his father's arrow at Vamadeva's word (3.190.73–74) |  |  |  |
 | **Sita** | Sītā | wife of Rama Dasharathi, carried off by Ravana (3.147.30–36); her story is told at 3.258–275 | Vaidehi, Janaki |  | Seeta |
 | **Yuvanashva** | Yuvanāśva | a king who bore his son Mandhatar from his own side; also an Ikshvaku, son of Ardra (3.193.3) |  |  |  |
-| **Sudakshina** | Sudakṣiṇa | king of the Kambojas, named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Sudakshina** | Sudakṣiṇa | king of the Kambojas, named among the suitors at Draupadi's bridegroom choice; also Sudakshina "son of the king of the Kambojas", killed by Arjuna on the fourteenth day (7.67.59-70) |  |  |  |
 | **Dantavakra** | Dantavakra | a king allied to Jarasandha |  |  |  |
 | **Karusha** | Karūṣa | a king allied to Jarasandha; Shishupala carried off Bhadra of Vaishali for Karusha (2.42.11) |  |  |  |
 | **Vakra** | Vakra | lord of the Karushas who fights with magic, Jarasandha's follower |  |  |  |
@@ -664,8 +664,8 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sharmishtha** | Śarmiṣṭhā | daughter of the asura king Vrishaparvan; Devayani's rival and servant; mother of Druhyu, Anu and Puru |  |  | Sarmishtha, Sharmista |
 | **Shibi** | Śibi | son of Ushinara, a royal seer of unequalled generosity, a grandson of Yayati through his daughter; also son of Ushinara and Madhavi (5.116.20) | Aushinara |  | Sibi |
 | **Shrutarvan** | Śrutarvan | a king whom Agastya asks for wealth |  |  |  |
-| **Shrutayudha** | Śrutāyudha | a king present in Yudhishthira's hall |  |  |  |
-| **Shrutayus** | Śrutāyus | a chariot fighter ahead of Bhishma on the first day; also king of Kalinga, killed by Bhima on the second day (6.50.6, 61-68) |  |  |  |
+| **Shrutayudha** | Śrutāyudha | a king present in Yudhishthira's hall; also a king, son of Varuna and the river Parnasha, killed by his own mace on the fourteenth day (7.67.43-56) |  |  |  |
+| **Shrutayus** | Śrutāyus | a chariot fighter ahead of Bhishma on the first day; also king of Kalinga, killed by Bhima on the second day (6.50.6, 61-68); also a Kaurava warrior who blocks Arjuna on the fourteenth day (7.66.36) |  |  |  |
 | **Sudarshana** | Sudarśana | a king, "the pride of the gods", whom Krishna freed from captivity (5.47.69); also a son of Dhritarashtra (6.73.6) |  |  |  |
 | **Sudeshna** | Sudeṣṇā | Bali's queen, mother of Anga by Dirghatamas (another Sudeshna is Virata's queen); also Virata's queen, a princess of the Kekayas, whom Draupadi serves as sairandhri (4.8.6) |  |  |  |
 | **Sudharma** | Sudharman | a king present in Yudhishthira's hall; also Sudharma, king of Dasharna, made Bhima's general (2.26.5); also wife of Matali (5.95.19) |  |  | Sudharman |
@@ -913,6 +913,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vajrabahu** | Vajrabāhu | a monkey eaten by Kumbhakarna |  |  |  |
 | **Vajravega** | Vajravega | a rakshasa, Dushana's younger brother, killed by Hanuman |  |  |  |
 | **Virupaksha** | Virūpākṣa | a rakshasa who fights Sugriva (3.269.8) |  |  |  |
+| **Parnasha** | Parṇāśā | the river, mother of Shrutayudha by Varuna |  |  |  |
 | **Bhramara** | Bhramara | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
 | **Guptaka** | Guptaka | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
 | **Kuhara** | Kuhara | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |

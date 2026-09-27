@@ -69,6 +69,8 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   Sanjaya's rebuke; Drona's triple array round Jayadratha. Ledger L-206.
 - Ch 23 *Arjuna Breaks the Front* (CE 7.64–7.65): Durmarshana's and
   Duhshasana's divisions broken.
+- Ch 24 *Past Drona* (CE 7.66–7.67): Arjuna passes Drona; Shrutayudha and
+  Sudakshina killed. Ledger L-207, L-208.
 
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in
