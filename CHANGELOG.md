@@ -47,6 +47,8 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   asks Abhimanyu to break the wheel; "I cannot get out"; he breaks in.
 - Ch 13 *Abhimanyu Alone* (CE 7.36–7.38): Abhimanyu against the whole
   army; Drona's praise; Duhshasana's boast.
+- Ch 14 *Jayadratha at the Gap* (CE 7.39–7.43): Duhshasana struck down;
+  Karna beaten; Jayadratha's boon from Shiva holds back the four Pandavas.
 
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in

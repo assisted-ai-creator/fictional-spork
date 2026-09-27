@@ -2,7 +2,7 @@
 
 # Contents
 
-**334 chapters, 811,735 words.** 334 drafted
+**335 chapters, 814,254 words.** 335 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -385,5 +385,6 @@
 | 11 | [The End of the Twelfth Day](../novel/book-07-drona/11-the-end-of-the-twelfth-day.md) | 7.30-32 | drafted | 2,986 |
 | 12 | [The Wheel Array](../novel/book-07-drona/12-the-wheel-array.md) | 7.33-35 | drafted | 2,009 |
 | 13 | [Abhimanyu Alone](../novel/book-07-drona/13-abhimanyu-alone.md) | 7.36-38 | drafted | 2,006 |
+| 14 | [Jayadratha at the Gap](../novel/book-07-drona/14-jayadratha-at-the-gap.md) | 7.39-43 | drafted | 2,519 |
 
-*Book 7 so far: 35,182 words.*
+*Book 7 so far: 37,701 words.*

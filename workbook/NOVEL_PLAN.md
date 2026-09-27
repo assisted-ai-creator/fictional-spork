@@ -524,7 +524,7 @@ provisional, and each row is filled in as it is drafted.
 | 11 | The End of the Twelfth Day | 7.30–7.32 | ✅ drafted. "At Droṇa!"/"Not Droṇa!"; Aśvatthāman kills Nīla; the battle without order; Arjuna returns; Karṇa's three brothers killed; sunset. Next morning Duryodhana reproaches Droṇa; Droṇa's promise; the summary of Abhimanyu's death. |
 | 12 | The Wheel Array | 7.33–7.35 | ✅ drafted. Abhimanyu praised; the wheel array with Lakṣmaṇa's princes; "I cannot get out" (L-39); "no fifth"; Sumitra's warning; Abhimanyu breaks in. |
 | 13 | Abhimanyu Alone | 7.36–7.38 | ✅ drafted. Abhimanyu holds back the whole army; the Aśmaka prince, Śalya's brother and others killed; Karṇa shaken; Droṇa's praise and Duryodhana's anger; Duḥśāsana's boast. |
-| 14 | Jayadratha at the Gap | 7.39–7.43 | Jayadratha's boon holds back the Pāṇḍavas. |
+| 14 | Jayadratha at the Gap | 7.39–7.43 | ✅ drafted. Abhimanyu and Duḥśāsana; Karṇa's younger brother killed; Jayadratha's penance and Śiva's boon (L-153); he holds back the four Pāṇḍavas; the Vasātīya killed. |
 | 15 | Lakshmana | 7.44–7.47 |  |
 | 16 | The Death of Abhimanyu | 7.48–7.49 |  |
 | 17 | Arjuna's Vow | 7.50–7.51 | Arjuna comes back; the vow to kill Jayadratha. |
