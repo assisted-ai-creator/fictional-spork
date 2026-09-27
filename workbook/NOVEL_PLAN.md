@@ -494,7 +494,7 @@ and the whole battle is told as his answer. Days are fixed by the withdrawals
 | 30 | Krishna Runs at Bhishma | 6.99–6.102 | ✅ drafted. Bhīṣma crushes the Pāṇḍava army; the soldiers curse Duryodhana; Śakuni's horsemen cut down; Śalya and Yudhiṣṭhira; fourteen thousand Cedi, Kāśi and Karūṣa chariot fighters killed; Arjuna fights gently; Kṛṣṇa runs at Bhīṣma whip in hand and is stopped at the tenth step (L-36); sunset. |
 | 31 | How Bhishma Can Be Killed | 6.103 | ✅ drafted. Yudhiṣṭhira's despair; Kṛṣṇa offers to kill Bhīṣma himself; the unarmed visit to Bhīṣma's tent; Bhīṣma tells them to put Śikhaṇḍin in front (L-185); "I am your father's father" (L-197); Bṛhaspati's law of the assassin; the plan agreed. |
 | 32 | Shikhandi Goes First | 6.104–6.108 | ✅ drafted. The tenth day: Śikhaṇḍin at the head; "I will never fight you"; Arjuna urges Śikhaṇḍin on; Bhīṣma's debt and his hundred thousand (L-182); the pairs; Duḥśāsana holds off Arjuna; Droṇa's omens and his charge to his son. |
-| 33 | The Fall of Bhishma | 6.109–6.114 | The last fight; Bhīṣma falls. |
+| 33 | The Fall of Bhishma | 6.109–6.114 | ✅ drafted. Bhīma against ten; Bhīṣma, weary of life, asks to be killed; Duḥśāsana holds off Arjuna; Śatānīka killed; "two reasons"; the Vasus speak, heard only by Bhīṣma and Sañjaya; "not Śikhaṇḍin's arrows" (L-198); the fall, head to the east, before sunset; the swans; Bhīma dances. |
 | 34 | The Bed of Arrows | 6.115–6.117 | The pillow of arrows; the water from the earth; Karṇa comes to Bhīṣma. |
 
 ## Books 2–18: provisional sub-parvas

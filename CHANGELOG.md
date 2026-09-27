@@ -6,7 +6,7 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
-### Novel: Book 6, chapters 16–32: the second to tenth days
+### Novel: Book 6, chapters 16–33: the second to tenth days
 - Ch 16 *The Heron Array* (CE 6.46–49), ch 17 *Bhima and the Kalingas*
   (6.50–51) and ch 18 *The Third Day* (6.52–55): Duryodhana's reproach and
   Bhishma's promise; Arjuna fights gently; Krishna runs at Bhishma with his
@@ -49,6 +49,8 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 - Ch 31 *How Bhishma Can Be Killed* (6.103). Ledger: L-185 completed (Bhishma
   tells the Pandavas himself); L-197 ("I am your father's father", ✅).
 - Ch 32 *Shikhandi Goes First* (6.104–108), the tenth day to Drona's omens.
+- Ch 33 *The Fall of Bhishma* (6.109–114). Ledger L-198: "not Shikhandi's
+  arrows" (Arjuna's arrows bring him down).
 
 ### Novel: Book 6, chapters 14–15: the war begins
 - Ch 14 *Yudhishthira Asks Leave* (CE 6.41): the blessings of Bhishma, Drona,
