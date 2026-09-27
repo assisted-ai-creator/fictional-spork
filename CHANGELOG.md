@@ -6,6 +6,15 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Tools: the Gita edition in plain black and white; L-199
+- `tools/make_gita_pdf.py` now prints in black and white: speaker names in
+  capitals at each change, plain bordered explanation boxes, no colour. The
+  family tree is now simple arrow lines, a numbered table of kings, small
+  branch diagrams, and dashed boxes for what only the Bhagavata Purana says.
+- Ledger L-199: the CE names the Bharata *family* after Duhshanta's son
+  (1.69.49) but never says whom the land (*bharatam varsham*) is named after;
+  the Bhagavata Purana names it after Rishabha's son Bharata (5.4.9; 5.7.3).
+
 ### Tools: per-Book PDFs, a Gita study edition and the family tree
 - `tools/make_pdf.py` now writes one PDF per Book by default
   (`build/mahabharata-bookNN-a4.pdf`); `--combined` restores a single PDF.
