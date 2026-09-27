@@ -149,7 +149,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Krishivala** | Kṛṣīvala | named in Indra's hall (2.7) |  |  |  |
 | **Kritavega** | Kṛtavega | named in Yama's hall (2.8) |  |  |  |
 | **Kriti** | Kṛti | named in Yama's hall (2.8) |  |  |  |
-| **Kshemadhurti** | Kṣemadhūrti | a king Drupada would summon (5.4.23); also with his brother Brihanta, fights Satyaki (7.24.45) |  |  |  |
+| **Kshemadhurti** | Kṣemadhūrti | a king Drupada would summon (5.4.23); also with his brother Brihanta, fights Satyaki (7.24.45); killed by Brihatkshatra on the fourteenth day (7.82.6) |  |  |  |
 | **Kshupa** | Kṣupa | named in Yama's hall (2.8) |  |  |  |
 | **Kumara** | Kumāra | a descendant of Garuda, named by Narada; also a naga of Bhogavati, named by Narada (5.101.9-16) |  |  |  |
 | **Kundaladhara** | Kuṇḍaladhara | named in Varuna's hall (2.9) |  |  |  |
@@ -488,7 +488,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Subandhu** | Subandhu | king of Kashi, defeated by Bhima |  |  |  |
 | **Suvarnavarman** | Suvarṇavarman | king of Kashi, Vapushtama's father |  |  |  |
 | **Adityaketu** | Ādityaketu | a son of Dhritarashtra, killed by Bhima on the eighth day |  |  |  |
-| **Alambusa** | Alambusa | a rakshasa fighting for the Kauravas, who meets Ghatotkacha on the first day; called son of Rishyashringa, best of kings, at 6.59.26; also kills Iravan on the eighth day (6.86.44-70) |  |  |  |
+| **Alambusa** | Alambusa | a rakshasa fighting for the Kauravas, who meets Ghatotkacha on the first day; called son of Rishyashringa, best of kings, at 6.59.26; also kills Iravan on the eighth day (6.86.44-70); the son of Rishyashringa, Baka's brother, killed by Ghatotkacha on the fourteenth day (7.83.23; 7.84.21-24) |  |  |  |
 | **Alolupa** | Alolupa | a son of Dhritarashtra, one of the fourteen who attack Bhima on the fourth day |  |  |  |
 | **Arjava** | Ārjava | a son of Subala, killed by Iravan on the eighth day |  |  |  |
 | **Bahushali** | Bāhuśālin | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  | Bahushalin |
@@ -647,6 +647,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Munjaketu** | Muñjaketu | a king present in Yudhishthira's hall |  |  |  |
 | **Nagnajit** | Nagnajit | a king whose sons Krishna defeated among the Gandharas (5.47.69) |  |  |  |
 | **Nahusha** | Nahuṣa | son of Ayus, father of Yayati; for a time he made himself Indra; cursed by Agastya to be a serpent, he seizes Bhima and is freed by Yudhishthira's answers (3.176–178); also made king of the gods while Indra hid; demanded Shachi; yoked the seers to his carriage (5.11–17); also a naga of Bhogavati, named by Narada (5.101.9-16) |  |  | Nahush |
+| **Niramitra** | Niramitra | son of the Trigarta king, killed by Sahadeva on the fourteenth day |  |  |  |
 | **Pandya** | Pāṇḍya | the Pandya king, who comes to Yudhishthira with fighters from the lands along the sea (5.19.9) |  |  |  |
 | **Paushya** | Pauṣya | king whose queen gives her earrings to Uttanka |  |  |  |
 | **Pratardana** | Pratardana | royal seer, a grandson of Yayati through his daughter; also son of Divodasa and Madhavi (5.115.15) |  |  |  |
@@ -690,12 +691,12 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vasumanas** | Vasumanas | royal seer, son of Rushadashva, a grandson of Yayati through his daughter; also son of Haryashva and Madhavi (5.114.17) | Vasumat |  |  |
 | **Vedidhvaja** | Vedidhvaja | a king Bhishma names among those on the Kaurava side |  |  |  |
 | **Vigahana** | Vigāhana | one of eighteen kings who destroyed their own families, born among the Mukutas (named by Bhima) |  |  |  |
-| **Viradhanva** | Vīradhanvan | a Kaurava-side bowman who meets Dhrishtaketu at Drona's front on the fourteenth day |  |  |  |
+| **Viradhanva** | Vīradhanvan | a Kaurava-side bowman who meets Dhrishtaketu at Drona's front on the fourteenth day; a Trigarta, killed by Dhrishtaketu (7.82.17-18) |  |  |  |
 | **Virasena** | Vīrasena | father of Nala |  |  |  |
 | **Vivardhana** | Vivardhana | a king present in Yudhishthira's hall |  |  |  |
 | **Vriddhakshatra** | Vṛddhakṣatra | father of Jayadratha |  |  |  |
 | **Vrishaparvan** | Vṛṣaparvan | king of the asuras, Shukra's patron, father of Sharmishtha; also a royal seer whose hermitage lies below Gandhamadana, where the Pandavas leave their brahmins (3.155.17–25); the text does not say whether he is the same |  |  | Vrishaparva |
-| **Vyaghradatta** | Vyāghradatta | a splendid chariot fighter on the Pandava side |  |  |  |
+| **Vyaghradatta** | Vyāghradatta | a splendid chariot fighter on the Pandava side; son of the Magadha king, killed by Satyaki on the fourteenth day (7.82.32-33) |  |  |  |
 | **Yadu** | Yadu | Yayati's eldest son, by Devayani; ancestor of the Yadavas |  |  |  |
 | **Yauvanashva** | Yauvanāśva | an emperor of old who gave up taxes; he laid a mace at Bindusaras |  |  |  |
 | **Yayati** | Yayāti | son of Nahusha, husband of Devayani and Sharmishtha, who traded his old age for Puru's youth |  |  | Yayathi |
@@ -876,6 +877,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Krodhavashas** | Krodhavaśa | rakshasas who guard Kubera's lotus pool on Kailasa (3.151.10) |  |  |  |
 | **Puloman** | Puloman (Pulomā, m.) | the rakshasa who carries off Bhrigu's wife |  |  |  |
 | **Ravana** | Rāvaṇa | king of the rakshasas who carried off Sita; his story is told at 3.258–275 |  |  | Raavan, Ravan |
+| **Salakatankata** | Sālakaṭaṅkaṭa | ancestor of the rakshasa Alambusa |  |  |  |
 | **Aja** | Aja | an Ikshvaku king, father of Dasharatha |  |  |  |
 | **Angada** | Aṅgada | Valin's son, who leads the southern search party; also a warrior who holds back Uttamaujas (7.24.36) |  |  |  |
 | **Avindhya** | Avindhya | an old rakshasa, honoured by the elders, who wishes Rama well and sends word to Sita |  |  |  |

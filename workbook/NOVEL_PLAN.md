@@ -542,7 +542,7 @@ provisional, and each row is filled in as it is drafted.
 | 29 | The Horses Drink | 7.74–7.75 | ✅ drafted. The road cut with arrows; Vinda and Anuvinda killed; Arjuna fights on foot; the pool and the house of arrows; Kṛṣṇa tends the horses; the kings blame Duryodhana. |
 | 30 | Arjuna and Duryodhana | 7.76–7.78 | ✅ drafted. Out of Droṇa's division; Kṛṣṇa: "kill the root of the wrongs"; the arrows slide off the armour; Aśvatthāman cuts the charmed arrows; Duryodhana's palms pierced; bow and conch. |
 | 31 | The Banners | 7.79–7.81 | ✅ drafted. The eight round Arjuna; the conches; the ten banners; the afternoon at Droṇa's front; Yudhiṣṭhira's spear and the Brahma weapon; the king escapes on Sahadeva's chariot. |
-| 32 | At Drona's Front | 7.82–7.84 |  |
+| 32 | At Drona's Front | 7.82–7.84 | ✅ drafted. Kṣemadhūrti, Vīradhanvan, Niramitra, Vyāghradatta and a son of Somadatta killed; Alambusa and Bhīma; Ghaṭotkaca kills Alambusa. |
 | 33 | Satyaki and Drona | 7.85 |  |
 | 34 | Yudhishthira Sends Satyaki | 7.86–7.87 |  |
 | 35 | Satyaki Breaks Through | 7.88–7.90 |  |
