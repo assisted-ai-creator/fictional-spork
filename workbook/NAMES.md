@@ -361,6 +361,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Bana** | Bāṇa | the asura Bana, killed by Krishna, as Bhishma says |  |  |  |
 | **Dhenuka** | Dhenuka | a demon killed by Krishna, named by Vidura |  |  |  |
 | **Hiranyakashipu** | Hiraṇyakaśipu | a great asura king, ancestor of Nikumbha |  |  | Hiranyakasipu |
+| **Hiranyaksha** | Hiraṇyākṣa | the demon Vishnu fought long ago; named in a simile |  |  |  |
 | **Ilvala** | Ilvala | a daitya of Manimati who killed brahmins by feeding them his brother Vatapi |  |  |  |
 | **Jambha** | Jambha | an asura given up by the great asuras, as Kavya advised |  |  |  |
 | **Kalakaksha** | Kālakākṣa | a son of Diti killed by Garuda |  |  |  |

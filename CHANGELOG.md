@@ -20,6 +20,9 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   Drona; who held back each Pandava hero?; his list of Krishna's deeds; Nara
   and Narayana. Ledger L-33 notes that Putana and Govardhana are only in
   rejected lines here (\*81, \*82).
+- Ch 4 *The Promise to Take Yudhishthira* (CE 7.11–7.13): Drona's boon and
+  its condition; Arjuna's promise; the eleventh day; Abhimanyu against the
+  Paurava, Jayadratha and Shalya.
 
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in
