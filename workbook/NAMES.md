@@ -1234,6 +1234,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Tarantuka** | Tarantuka | a gatekeeper of Kurukshetra, marking its bounds |  |  |  |
 | **Kasheruman** | Kaśerumān | a Yavana Krishna killed |  |  |  |
 | **Mura** | Mura | one of two Yavana lords ruled by Bhagadatta; also the asura Mura, killed by Krishna on the way to Naraka (5.47.77) |  |  |  |
+| **Taraka** | Tārakā | the Tarakamaya, the war of the gods and asuras named after her |  |  |  |
 
 ## Not in Vyasa's text
 

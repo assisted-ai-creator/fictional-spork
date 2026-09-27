@@ -63,6 +63,8 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   night; Krishna and Daruka.
 - Ch 20 *The Night Journey* (CE 7.57): Arjuna's dream journey with Krishna
   to Shiva; the Pashupata weapon.
+- Ch 21 *The Fourteenth Morning* (CE 7.58–7.60): Yudhishthira's morning
+  rites; Krishna's promise; Arjuna sets out and leaves Satyaki to guard the king.
 
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in
