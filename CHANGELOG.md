@@ -111,6 +111,9 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   and reaches Arjuna; Karna's first fight with Bhima; Drona's speech on the
   dice; Duryodhana and the wheel guards. Ledger L-212 (two of Drona's chariots
   broken, not eight).
+- Ch 42 *Bhima and Karna* (CE 7.106–7.109): three rounds between Bhima and
+  Karna; Durjaya and Durmukha killed. Notes record that "look for another
+  husband" is spoken by "the Kurus" here, not Karna (\*843 is rejected).
 
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in

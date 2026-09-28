@@ -2,7 +2,7 @@
 
 # Contents
 
-**362 chapters, 876,856 words.** 362 drafted
+**363 chapters, 880,600 words.** 363 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -413,5 +413,6 @@
 | 39 | [Satyaki and Duhshasana](../novel/book-07-drona/39-satyaki-and-duhshasana.md) | 7.98, 7.99, 7.100 | drafted | 2,792 |
 | 40 | [Bhima Goes In](../novel/book-07-drona/40-bhima-goes-in.md) | 7.101, 7.102 | drafted | 3,977 |
 | 41 | [Bhima Breaks Through](../novel/book-07-drona/41-bhima-breaks-through.md) | 7.103, 7.104, 7.105 | drafted | 2,590 |
+| 42 | [Bhima and Karna](../novel/book-07-drona/42-bhima-and-karna.md) | 7.106, 7.107, 7.108, 7.109 | drafted | 3,744 |
 
-*Book 7 so far: 100,303 words.*
+*Book 7 so far: 104,047 words.*

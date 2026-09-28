@@ -507,7 +507,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Duhsaha** | Duḥsaha | a son of Dhritarashtra, present in the Kuru hall (5.46.8) |  |  |  |
 | **Duhshala** | Duḥśalā | Dhritarashtra and Gandhari's one daughter; wife of Jayadratha |  |  | Dushala, Dussala |
 | **Duhshasana** | Duḥśāsana | second son of Dhritarashtra and Gandhari |  |  | Dushasana, Dussasana, Dushashan, Dushshasana |
-| **Durjaya** | Durjaya | a son of Dhritarashtra, carried off by the gandharvas at Dvaitavana; also a king Drupada would summon (5.4.22); also fights Abhimanyu on the sixth day (6.74.24) |  |  |  |
+| **Durjaya** | Durjaya | a son of Dhritarashtra, carried off by the gandharvas at Dvaitavana; also a king Drupada would summon (5.4.22); also fights Abhimanyu on the sixth day (6.74.24); killed by Bhima on the fourteenth day, sent by Duryodhana to rescue Karna (7.108.34-39) |  |  |  |
 | **Durmada** | Durmada | a son of Dhritarashtra |  |  |  |
 | **Durmarshana** | Durmarṣaṇa | a son of Dhritarashtra |  |  |  |
 | **Durvimochana** | Durvimocana | a son of Dhritarashtra, killed by Bhima on the fourteenth day (7.102.96) |  |  |  |
@@ -604,7 +604,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Dhautamulaka** | Dhautamūlaka | one of eighteen kings who destroyed their own families, born among the Chinas (named by Bhima) |  |  |  |
 | **Dirghayus** | Dīrghāyus | son of Shrutayus or Achyutayus, killed by Arjuna on the fourteenth day |  |  |  |
 | **Druhyu** | Druhyu | Yayati's son by Sharmishtha |  |  |  |
-| **Durmukha** | Durmukha | a king present in Yudhishthira's hall; also a son of Dhritarashtra, carried off by the gandharvas (3.231.12) |  |  |  |
+| **Durmukha** | Durmukha | a king present in Yudhishthira's hall; also a son of Dhritarashtra, carried off by the gandharvas (3.231.12); killed by Bhima on the fourteenth day as he brought Karna a chariot (7.109.15-23) |  |  |  |
 | **Dushyanta** | Duḥṣanta | Paurava king who marries Shakuntala by the gandharva rite and later denies her until a heavenly voice speaks; father of Bharata |  |  | Dushmanta, Dusyanta, Dushyant |
 | **Dyumatsena** | Dyumatsena | a king present in Yudhishthira's hall; also the blind, exiled king of the Shalvas, Satyavat's father (3.278.7) |  |  |  |
 | **Gadhi** | Gādhi | king of Kanyakubja, Vishvamitra's father; also asked Richika for a thousand black-eared horses (5.117.4) |  |  |  |
