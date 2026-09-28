@@ -107,6 +107,10 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   Yudhishthira sends Bhima after Satyaki; Bhima smashes Drona's chariot and
   kills eleven of Dhritarashtra's sons. Notes record that CE 7.102.94 repeats
   the three deaths of 7.36.29, and Drona's age ("past eighty").
+- Ch 41 *Bhima Breaks Through* (CE 7.103–7.105): Bhima flings Drona's chariot
+  and reaches Arjuna; Karna's first fight with Bhima; Drona's speech on the
+  dice; Duryodhana and the wheel guards. Ledger L-212 (two of Drona's chariots
+  broken, not eight).
 
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in

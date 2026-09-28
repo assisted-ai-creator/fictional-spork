@@ -551,7 +551,7 @@ provisional, and each row is filled in as it is drafted.
 | 38 | The Yavanas and the Kambojas | 7.95–7.97 | ✅ drafted. "The rest is a shallow stream"; the charioteer's answer; the shaven-headed Kambojas, Yavanas and Śakas routed; Duryodhana's charioteer killed; Dhṛtarāṣṭra's questions; the stone fighters; Droṇa hears the noise. |
 | 39 | Satyaki and Duhshasana | 7.98–7.100 | ✅ drafted. Droṇa shames Duḥśāsana (the slave taunt is only in \*702); Vīraketu and his four brothers killed; Dhṛṣṭadyumna on Droṇa's chariot; the Trigarta chariots; Duḥśāsana spared for Bhīma's vow; Duryodhana alone against the Pāṇḍavas. |
 | 40 | Bhima Goes In | 7.101–7.102 | ✅ drafted. Droṇa kills Bṛhatkṣatra, Dhṛṣṭaketu and his son, Jarāsaṃdha's son and Kṣatradharman; "past eighty" (Ganguli: eighty-five); Drupada's curse on Duryodhana; Yudhiṣṭhira's despair; Bhīma sent after Sātyaki; "I am not Arjuna"; Droṇa's chariot smashed; eleven sons killed (three of them killed already at 7.36.29). |
-| 41 | Bhima Breaks Through | 7.103–7.105 |  |
+| 41 | Bhima Breaks Through | 7.103–7.105 | ✅ drafted. Bhīma flings Droṇa's chariot by the pole (not eight chariots: L-212); he sees Arjuna; Yudhiṣṭhira's "thank heaven Pārtha is alive"; Karṇa's first fight with Bhīma ("Rādheya gently"); Droṇa's dice speech; Duryodhana and the wheel guards. |
 | 42 | Bhima and Karna | 7.106–7.109 |  |
 | 43 | Bhima and Karna Again | 7.110–7.113 |  |
 | 44 | Karna Spares Bhima | 7.114–7.115 |  |
