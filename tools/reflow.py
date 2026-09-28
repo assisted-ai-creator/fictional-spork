@@ -4,6 +4,8 @@
 Only the narrative part is touched: the front matter, the title line, section
 breaks (---) and everything after the `<!-- notes -->` marker are left as they
 are. Paragraphs are separated by blank lines and rewrapped to WIDTH columns.
+Footnote definitions (`[^label]: ...`) are rewrapped with a four-space
+hanging indent, as Markdown footnotes need.
 
     python3 tools/reflow.py novel/book-01-adi/23-*.md
     python3 tools/reflow.py --check novel/**/*.md     # exit 1 if any would change
@@ -28,6 +30,12 @@ def reflow_text(text: str, width: int = WIDTH) -> str:
     for block in body.split("\n\n"):
         stripped = block.strip("\n")
         first = stripped.lstrip()
+        if first.startswith("[^") and "]:" in first.split("\n", 1)[0]:
+            # a footnote definition: rewrap with a hanging indent
+            words = " ".join(stripped.split())
+            out.append(textwrap.fill(words, width=width, subsequent_indent="    ",
+                                     break_long_words=False, break_on_hyphens=False))
+            continue
         if (not stripped or first.startswith(("#", "---", "|", "* ", "- ", ">"))
                 or "\n    " in stripped):
             out.append(stripped)

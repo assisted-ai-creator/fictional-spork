@@ -115,7 +115,7 @@ Samvarana married Tapati, the daughter of Vivasvat. On her he fathered Kuru.
 
 Kuru married Shubhangi, a woman of the Dasharhas. On her he fathered Viduratha.
 
-Viduratha married Samprija, a princess of Magadha. On her he fathered a son
+Viduratha married Sampriya, a princess of Magadha. On her he fathered a son
 named Arugvat.
 
 Arugvat married Amrita, a princess of Magadha. On her he fathered Parikshit.

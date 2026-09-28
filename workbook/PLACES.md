@@ -25,3 +25,22 @@ used in the novel. They are here only as orientation, marked "(trad.)".
 | Kamyaka forest | Kāmyaka | A forest of the exile | | |
 | Dvaita forest / lake | Dvaita | A forest and lake of the exile; the Yaksha's lake | | |
 | Manipura | Maṇipūra | Kingdom of Chitrangada, Arjuna's wife | 1.207 | |
+| Upaplavya | Upaplavya | A town of Virata's where the Pandavas and their allies gather after the year in hiding; their camp during the peace talks | 4.67.14; 5.8.15 | |
+| Kurujangala | Kurujāṅgala | The Kuru country, filled with Duryodhana's armies | 5.19.29 | |
+| Rohitaka forest | Rohitakāraṇya | One of the lands filled with Duryodhana's armies | 5.19.29 | |
+| Ahicchatra | Ahicchatra | One of the lands filled with Duryodhana's armies | 5.19.30 | |
+| Mahishmati | Māhiṣmatī | Nila's city in the south | 2.28; 5.19.23 | |
+| Kushasthala | Kuśasthala | First of the five villages Yudhishthira asks for | 5.31.19 | |
+| Vrikasthala | Vṛkasthala | One of the five villages Yudhishthira asks for; where Krishna rests on his way to Hastinapura | 5.31.19; 5.84.1 | |
+| Asandi | Āsandī | One of the five villages Yudhishthira asks for | 5.31.19 | |
+| Shalibhavana | Śālibhavana | A rich grain country Krishna passes through on the road to Hastinapura | 5.82.15 | |
+| Patala | Pātāla | The city at the navel of the naga world, where the asura fire burns and the gods stored the nectar | 5.97.1–6 | |
+| Hiranyapura | Hiraṇyapura | The city of the daityas and danavas below Patala, built by Vishvakarman | 5.98.1–2 | |
+| Rasatala | Rasātala | The seventh level of the earth, where Surabhi lives | 5.100.1 | |
+| Bhogavati | Bhogavatī | The city of the nagas, guarded by Vasuki | 5.101.1 | |
+| Hiranvati | Hiraṇvatī | A holy river at Kurukshetra, with good bathing places, where Krishna has the Pandava camp's moat dug | 5.149.73 | |
+| Vatsabhumi | Vatsabhūmi | The land of the Vatsas, haunted by siddhas and charanas, where Amba wanders among the bathing places and half of her becomes the river Amba | 5.187.23, 38–40 | |
+| Amba (river) | Ambā | A crooked seasonal river in Vatsabhumi, full of crocodiles and hard to cross; half of Amba became it | 5.187.39–40 | |
+| Ramahrada | Rāmahrada | "Rama's lake", one of the bathing places where Amba practises austerity | 5.187.27 | |
+| Prasthala | Prasthala | Kingdom of Susharma, who holds the left wing of Bhishma's heron array on the sixth day | 6.71.19 | |
+| Rajapura | Rājapura | City in Kalinga where Karna fought the kings for Duryodhana's sake; recalled by Bhishma | 6.117.15; 12.4.3 | |

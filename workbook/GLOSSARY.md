@@ -45,6 +45,13 @@ Add a word here before using it in a chapter.
 | kinnara | kiṃnara | Heavenly beings of the mountains, often paired with the apsarases | "the kinnaras" (context makes them heavenly beings) |
 | Yayavara | yāyāvara | An order of wandering brahmin seers; Jaratkaru's family (1.13.10) | "the Yayavaras, a wandering order" |
 | virana | vīraṇa | A fragrant grass (khus); Jaratkaru's forefathers cling to a clump of it (1.13.13) | "virana grass" |
+| yoga | yoga | Discipline; the joining of the mind to its aim; in the Gita, action done with an even mind, and the disciplines of knowledge and devotion | "yoga, discipline" (in the Gita the word is kept; "the yoga of action" etc.) |
+| Brahman | brahman | The absolute, the ground of all being; also the Veda | "Brahman, the absolute" |
+| the self | ātman | The self, the soul; the unchanging "I" in the body | "the self" (English only) |
+| strands | guṇa | The three qualities of nature: sattva (goodness, clarity), rajas (passion, activity), tamas (darkness, inertia) | "the three strands of nature, goodness, passion and darkness" |
+| nature | prakṛti | Nature, material being, as opposed to the Person (*puruṣa*) | "nature" (English only) |
+| Sankhya | sāṃkhya | "Reckoning": the path of knowledge, distinguishing the self from nature | "Sankhya, the way of knowledge" |
+| nirvana | nirvāṇa | The "blowing out": peace, release | "nirvana, the peace of release" |
 
 ## Titles and forms of address
 

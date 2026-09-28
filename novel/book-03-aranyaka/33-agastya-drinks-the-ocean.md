@@ -48,12 +48,12 @@ gods, and I will give up my own body.' When he had said this, the best of men,
 master of himself, gave up his life at once. Then the gods took the bones of the
 dead man, as they had been told.
 
-"Glad and sure of victory, the gods went to Tvashtar and told him what they
-needed. When Tvashtar heard their words, he was glad, and with great care and
+"Glad and sure of victory, the gods went to Tvashtri and told him what they
+needed. When Tvashtri heard their words, he was glad, and with great care and
 effort he made a thunderbolt, very terrible in form. When he had made it, he
 said gladly to Shakra, 'With this finest of thunderbolts, god, burn the fierce
 enemy of the gods to ashes today. Then, your enemy dead, rule all of heaven
-happily with your hosts, living in the sky.' When Tvashtar said this, Purandara
+happily with your hosts, living in the sky.' When Tvashtri said this, Purandara
 gladly and carefully took the thunderbolt.
 
 ---

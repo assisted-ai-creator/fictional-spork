@@ -2,7 +2,7 @@
 
 # Contents
 
-**231 chapters, 505,090 words.** 231 drafted
+**357 chapters, 862,739 words.** 357 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -263,3 +263,150 @@
 | 21 | [The Pandavas Revealed](../novel/book-04-virata/21-the-pandavas-revealed.md) | 4.65-67 | drafted | 1,888 |
 
 *Book 4 so far: 41,574 words.*
+
+## Book 5: Udyoga Parva, *The Effort for Peace*
+
+| # | Chapter | CE | Status | Words |
+|---|---------|----|--------|-------|
+| 1 | [The Council in Virata's Hall](../novel/book-05-udyoga/01-the-council-in-viratas-hall.md) | 5.1-6 | drafted | 3,024 |
+| 2 | [The Choice at Dvaraka](../novel/book-05-udyoga/02-the-choice-at-dvaraka.md) | 5.7-8 | drafted | 1,622 |
+| 3 | [Indra and Vritra](../novel/book-05-udyoga/03-indra-and-vritra.md) | 5.9-10 | drafted | 2,501 |
+| 4 | [Nahusha](../novel/book-05-udyoga/04-nahusha.md) | 5.11-14 | drafted | 2,324 |
+| 5 | [The Fall of Nahusha](../novel/book-05-udyoga/05-the-fall-of-nahusha.md) | 5.15-18 | drafted | 2,773 |
+| 6 | [The Armies Gather](../novel/book-05-udyoga/06-the-armies-gather.md) | 5.19-21 | drafted | 1,527 |
+| 7 | [Sanjaya's Mission](../novel/book-05-udyoga/07-sanjayas-mission.md) | 5.22-25 | drafted | 2,850 |
+| 8 | [Yudhishthira's Answer](../novel/book-05-udyoga/08-yudhishthiras-answer.md) | 5.26-28 | drafted | 2,385 |
+| 9 | [Krishna's Answer](../novel/book-05-udyoga/09-krishnas-answer.md) | 5.29-30 | drafted | 3,149 |
+| 10 | [Five Villages](../novel/book-05-udyoga/10-five-villages.md) | 5.31-32 | drafted | 1,492 |
+| 11 | [Vidura's Night Counsel](../novel/book-05-udyoga/11-viduras-night-counsel.md) | 5.33 | drafted | 2,685 |
+| 12 | [The Sleepless King](../novel/book-05-udyoga/12-the-sleepless-king.md) | 5.34-35 | drafted | 3,749 |
+| 13 | [The Swan and the Sadhyas](../novel/book-05-udyoga/13-the-swan-and-the-sadhyas.md) | 5.36-37 | drafted | 3,709 |
+| 14 | [Vidura's Last Counsel](../novel/book-05-udyoga/14-viduras-last-counsel.md) | 5.38-41 | drafted | 4,032 |
+| 15 | [Sanatsujata](../novel/book-05-udyoga/15-sanatsujata.md) | 5.42-45 | drafted | 3,594 |
+| 16 | [Arjuna's Message](../novel/book-05-udyoga/16-arjunas-message.md) | 5.46-47 | drafted | 3,759 |
+| 17 | [Nara and Narayana](../novel/book-05-udyoga/17-nara-and-narayana.md) | 5.48-49 | drafted | 2,038 |
+| 18 | [Dhritarashtra's Fear](../novel/book-05-udyoga/18-dhritarashtras-fear.md) | 5.50-53 | drafted | 2,800 |
+| 19 | [Duryodhana's Boast](../novel/book-05-udyoga/19-duryodhanas-boast.md) | 5.54-55 | drafted | 1,902 |
+| 20 | [The Pandava Army](../novel/book-05-udyoga/20-the-pandava-army.md) | 5.56-58 | drafted | 2,637 |
+| 21 | [Father and Son](../novel/book-05-udyoga/21-father-and-son.md) | 5.59-62 | drafted | 2,311 |
+| 22 | [Who Krishna Is](../novel/book-05-udyoga/22-who-krishna-is.md) | 5.63-69 | drafted | 2,473 |
+| 23 | [The Pandavas' Counsel](../novel/book-05-udyoga/23-the-pandavas-counsel.md) | 5.70-71 | drafted | 3,141 |
+| 24 | [Bhima Speaks Softly](../novel/book-05-udyoga/24-bhima-speaks-softly.md) | 5.72-75 | drafted | 2,042 |
+| 25 | [Draupadi's Hair](../novel/book-05-udyoga/25-draupadis-hair.md) | 5.76-80 | drafted | 2,571 |
+| 26 | [Krishna Sets Out](../novel/book-05-udyoga/26-krishna-sets-out.md) | 5.81-82 | drafted | 2,232 |
+| 27 | [Hastinapura Waits](../novel/book-05-udyoga/27-hastinapura-waits.md) | 5.83-86 | drafted | 1,696 |
+| 28 | [Kunti's Grief](../novel/book-05-udyoga/28-kuntis-grief.md) | 5.87-88 | drafted | 3,033 |
+| 29 | [Vidura's House](../novel/book-05-udyoga/29-viduras-house.md) | 5.89-92 | drafted | 3,238 |
+| 30 | [Krishna in the Hall](../novel/book-05-udyoga/30-krishna-in-the-hall.md) | 5.93-95 | drafted | 2,987 |
+| 31 | [The Worlds Below](../novel/book-05-udyoga/31-the-worlds-below.md) | 5.96-100 | drafted | 2,001 |
+| 32 | [Gunakeshi](../novel/book-05-udyoga/32-gunakeshi.md) | 5.101-103 | drafted | 1,950 |
+| 33 | [Galava's Fee](../novel/book-05-udyoga/33-galavas-fee.md) | 5.104-110 | drafted | 3,399 |
+| 34 | [Madhavi](../novel/book-05-udyoga/34-madhavi.md) | 5.111-117 | drafted | 3,211 |
+| 35 | [Yayati's Fall](../novel/book-05-udyoga/35-yayatis-fall.md) | 5.118-121 | drafted | 2,202 |
+| 36 | [The Elders Plead](../novel/book-05-udyoga/36-the-elders-plead.md) | 5.122-125 | drafted | 3,013 |
+| 37 | [Krishna's Anger](../novel/book-05-udyoga/37-krishnas-anger.md) | 5.126-127 | drafted | 2,337 |
+| 38 | [The Cosmic Form](../novel/book-05-udyoga/38-the-cosmic-form.md) | 5.128-129 | drafted | 1,840 |
+| 39 | [Blaze for a Moment](../novel/book-05-udyoga/39-blaze-for-a-moment.md) | 5.130-132 | drafted | 2,805 |
+| 40 | [A Mother's Counsel](../novel/book-05-udyoga/40-a-mothers-counsel.md) | 5.133-137 | drafted | 3,229 |
+| 41 | [Krishna and Karna](../novel/book-05-udyoga/41-krishna-and-karna.md) | 5.138-141 | drafted | 3,205 |
+| 42 | [Kunti and Karna](../novel/book-05-udyoga/42-kunti-and-karna.md) | 5.142-144 | drafted | 1,676 |
+| 43 | [Krishna's Report](../novel/book-05-udyoga/43-krishnas-report.md) | 5.145-148 | drafted | 3,053 |
+| 44 | [The March to Kurukshetra](../novel/book-05-udyoga/44-the-march-to-kurukshetra.md) | 5.149-151 | drafted | 2,885 |
+| 45 | [Bhishma Takes Command](../novel/book-05-udyoga/45-bhishma-takes-command.md) | 5.152-155 | drafted | 2,823 |
+| 46 | [Uluka's Message](../novel/book-05-udyoga/46-ulukas-message.md) | 5.156-159 | drafted | 2,048 |
+| 47 | [The Answer to Uluka](../novel/book-05-udyoga/47-the-answer-to-uluka.md) | 5.160-162 | drafted | 1,685 |
+| 48 | [Chariot Fighters](../novel/book-05-udyoga/48-chariot-fighters.md) | 5.163-166 | drafted | 2,944 |
+| 49 | [Bhishma Ranks the Pandavas](../novel/book-05-udyoga/49-bhishma-ranks-the-pandavas.md) | 5.167-170 | drafted | 1,882 |
+| 50 | [Amba](../novel/book-05-udyoga/50-amba.md) | 5.171-174 | drafted | 1,904 |
+| 51 | [Rama Takes Up Amba's Cause](../novel/book-05-udyoga/51-rama-takes-up-ambas-cause.md) | 5.175-178 | drafted | 3,092 |
+| 52 | [Bhishma and Rama](../novel/book-05-udyoga/52-bhishma-and-rama.md) | 5.179-183 | drafted | 3,288 |
+| 53 | [The Sleeping Weapon](../novel/book-05-udyoga/53-the-sleeping-weapon.md) | 5.184-187 | drafted | 2,528 |
+| 54 | [Amba's Vow](../novel/book-05-udyoga/54-ambas-vow.md) | 5.188-191 | drafted | 1,853 |
+| 55 | [Shikhandi](../novel/book-05-udyoga/55-shikhandi.md) | 5.192-193 | drafted | 2,243 |
+| 56 | [The Armies Move](../novel/book-05-udyoga/56-the-armies-move.md) | 5.194-197 | drafted | 1,796 |
+
+*Book 5 so far: 145,168 words.*
+
+## Book 6: Bhishma Parva, *Bhishma's Battle*
+
+| # | Chapter | CE | Status | Words |
+|---|---------|----|--------|-------|
+| 1 | [Vyasa's Gift](../novel/book-06-bhishma/01-vyasas-gift.md) | 6.1-4 | drafted | 3,328 |
+| 2 | [The Island of Jambu](../novel/book-06-bhishma/02-the-island-of-jambu.md) | 6.5-8 | drafted | 2,714 |
+| 3 | [Bharata](../novel/book-06-bhishma/03-bharata.md) | 6.9-11 | drafted | 2,371 |
+| 4 | [The Other Islands](../novel/book-06-bhishma/04-the-other-islands.md) | 6.12-13 | drafted | 1,937 |
+| 5 | [Bhishma Has Fallen](../novel/book-06-bhishma/05-bhishma-has-fallen.md) | 6.14-16 | drafted | 3,057 |
+| 6 | [The Armies Face Each Other](../novel/book-06-bhishma/06-the-armies-face-each-other.md) | 6.17-22 | drafted | 3,611 |
+| 7 | [Arjuna's Despair](../novel/book-06-bhishma/07-arjunas-despair.md) | 6.23-24 | drafted | 4,203 |
+| 8 | [Action](../novel/book-06-bhishma/08-action.md) | 6.25-27 | drafted | 4,233 |
+| 9 | [The Steady Mind](../novel/book-06-bhishma/09-the-steady-mind.md) | 6.28-29 | drafted | 2,867 |
+| 10 | [The Imperishable](../novel/book-06-bhishma/10-the-imperishable.md) | 6.30-32 | drafted | 3,721 |
+| 11 | [The Form of All](../novel/book-06-bhishma/11-the-form-of-all.md) | 6.33-34 | drafted | 2,751 |
+| 12 | [The Field and the Strands](../novel/book-06-bhishma/12-the-field-and-the-strands.md) | 6.35-37 | drafted | 2,982 |
+| 13 | [Freedom](../novel/book-06-bhishma/13-freedom.md) | 6.38-40 | drafted | 4,222 |
+| 14 | [Yudhishthira Asks Leave](../novel/book-06-bhishma/14-yudhishthira-asks-leave.md) | 6.41 | drafted | 2,364 |
+| 15 | [The First Day](../novel/book-06-bhishma/15-the-first-day.md) | 6.42-45 | drafted | 4,210 |
+| 16 | [The Heron Array](../novel/book-06-bhishma/16-the-heron-array.md) | 6.46-49 | drafted | 4,007 |
+| 17 | [Bhima and the Kalingas](../novel/book-06-bhishma/17-bhima-and-the-kalingas.md) | 6.50-51 | drafted | 3,210 |
+| 18 | [The Third Day](../novel/book-06-bhishma/18-the-third-day.md) | 6.52-55 | drafted | 5,272 |
+| 19 | [The Fourth Day](../novel/book-06-bhishma/19-the-fourth-day.md) | 6.56-60 | drafted | 5,106 |
+| 20 | [Who Krishna Is](../novel/book-06-bhishma/20-who-krishna-is.md) | 6.61-64 | drafted | 3,664 |
+| 21 | [The Fifth Day](../novel/book-06-bhishma/21-the-fifth-day.md) | 6.65-70 | drafted | 4,141 |
+| 22 | [The Sixth Day](../novel/book-06-bhishma/22-the-sixth-day.md) | 6.71-75 | drafted | 4,837 |
+| 23 | [The Seventh Day](../novel/book-06-bhishma/23-the-seventh-day.md) | 6.76-79 | drafted | 3,918 |
+| 24 | [Shrutayus](../novel/book-06-bhishma/24-shrutayus.md) | 6.80-82 | drafted | 3,311 |
+| 25 | [Iravan](../novel/book-06-bhishma/25-iravan.md) | 6.83-86 | drafted | 4,266 |
+| 26 | [Ghatotkacha](../novel/book-06-bhishma/26-ghatotkacha.md) | 6.87-89 | drafted | 2,220 |
+| 27 | [The Eighth Day Ends](../novel/book-06-bhishma/27-the-eighth-day-ends.md) | 6.90-92 | drafted | 4,094 |
+| 28 | [Duryodhana's Reproach](../novel/book-06-bhishma/28-duryodhanas-reproach.md) | 6.93-94 | drafted | 1,387 |
+| 29 | [The Ninth Day](../novel/book-06-bhishma/29-the-ninth-day.md) | 6.95-98 | drafted | 4,229 |
+| 30 | [Krishna Runs at Bhishma](../novel/book-06-bhishma/30-krishna-runs-at-bhishma.md) | 6.99-102 | drafted | 4,188 |
+| 31 | [How Bhishma Can Be Killed](../novel/book-06-bhishma/31-how-bhishma-can-be-killed.md) | 6.103 | drafted | 2,436 |
+| 32 | [Shikhandi Goes First](../novel/book-06-bhishma/32-shikhandi-goes-first.md) | 6.104-108 | drafted | 4,911 |
+| 33 | [The Fall of Bhishma](../novel/book-06-bhishma/33-the-fall-of-bhishma.md) | 6.109-114 | drafted | 8,973 |
+| 34 | [The Bed of Arrows](../novel/book-06-bhishma/34-the-bed-of-arrows.md) | 6.115-117 | drafted | 3,554 |
+
+*Book 6 so far: 126,295 words.*
+
+## Book 7: Drona Parva, *Drona's Battle*
+
+| # | Chapter | CE | Status | Words |
+|---|---------|----|--------|-------|
+| 1 | [Karna Goes to Bhishma](../novel/book-07-drona/01-karna-goes-to-bhishma.md) | 7.1-4 | drafted | 3,359 |
+| 2 | [Drona Takes Command](../novel/book-07-drona/02-drona-takes-command.md) | 7.5-7 | drafted | 2,724 |
+| 3 | [The Blind King's Questions](../novel/book-07-drona/03-the-blind-kings-questions.md) | 7.8-10 | drafted | 3,854 |
+| 4 | [The Promise to Take Yudhishthira](../novel/book-07-drona/04-the-promise-to-take-yudhishthira.md) | 7.11-13 | drafted | 3,107 |
+| 5 | [The End of the Eleventh Day](../novel/book-07-drona/05-the-end-of-the-eleventh-day.md) | 7.14-15 | drafted | 1,985 |
+| 6 | [The Sworn Band](../novel/book-07-drona/06-the-sworn-band.md) | 7.16-18 | drafted | 2,625 |
+| 7 | [The Garuda Array](../novel/book-07-drona/07-the-garuda-array.md) | 7.19-21 | drafted | 3,239 |
+| 8 | [The Pandavas Turn Back](../novel/book-07-drona/08-the-pandavas-turn-back.md) | 7.22-24 | drafted | 2,944 |
+| 9 | [Bhagadatta's Elephant](../novel/book-07-drona/09-bhagadattas-elephant.md) | 7.25-27 | drafted | 2,523 |
+| 10 | [The Death of Bhagadatta](../novel/book-07-drona/10-the-death-of-bhagadatta.md) | 7.28-29 | drafted | 1,821 |
+| 11 | [The End of the Twelfth Day](../novel/book-07-drona/11-the-end-of-the-twelfth-day.md) | 7.30-32 | drafted | 2,986 |
+| 12 | [The Wheel Array](../novel/book-07-drona/12-the-wheel-array.md) | 7.33-35 | drafted | 2,009 |
+| 13 | [Abhimanyu Alone](../novel/book-07-drona/13-abhimanyu-alone.md) | 7.36-38 | drafted | 2,006 |
+| 14 | [Jayadratha at the Gap](../novel/book-07-drona/14-jayadratha-at-the-gap.md) | 7.39-43 | drafted | 2,519 |
+| 15 | [Lakshmana](../novel/book-07-drona/15-lakshmana.md) | 7.44-47 | drafted | 2,594 |
+| 16 | [The Death of Abhimanyu](../novel/book-07-drona/16-the-death-of-abhimanyu.md) | 7.48-49 | drafted | 1,812 |
+| 17 | [Arjuna's Vow](../novel/book-07-drona/17-arjunas-vow.md) | 7.50-51 | drafted | 3,061 |
+| 18 | [Jayadratha's Fear](../novel/book-07-drona/18-jayadrathas-fear.md) | 7.52-53 | drafted | 1,960 |
+| 19 | [Subhadra's Grief](../novel/book-07-drona/19-subhadras-grief.md) | 7.54-56 | drafted | 2,366 |
+| 20 | [The Night Journey](../novel/book-07-drona/20-the-night-journey.md) | 7.57 | drafted | 1,908 |
+| 21 | [The Fourteenth Morning](../novel/book-07-drona/21-the-fourteenth-morning.md) | 7.58, 7.59, 7.60 | drafted | 1,878 |
+| 22 | [The Cart and the Needle](../novel/book-07-drona/22-the-cart-and-the-needle.md) | 7.61, 7.62, 7.63 | drafted | 2,296 |
+| 23 | [Arjuna Breaks the Front](../novel/book-07-drona/23-arjuna-breaks-the-front.md) | 7.64, 7.65 | drafted | 1,888 |
+| 24 | [Past Drona](../novel/book-07-drona/24-past-drona.md) | 7.66, 7.67 | drafted | 2,431 |
+| 25 | [Shrutayus and Achyutayus](../novel/book-07-drona/25-shrutayus-and-achyutayus.md) | 7.68 | drafted | 1,423 |
+| 26 | [Duryodhana's Armour](../novel/book-07-drona/26-duryodhanas-armour.md) | 7.69 | drafted | 1,728 |
+| 27 | [At the Mouth of the Array](../novel/book-07-drona/27-at-the-mouth-of-the-array.md) | 7.70, 7.71 | drafted | 1,676 |
+| 28 | [Drona and Dhrishtadyumna](../novel/book-07-drona/28-drona-and-dhrishtadyumna.md) | 7.72, 7.73 | drafted | 1,867 |
+| 29 | [The Horses Drink](../novel/book-07-drona/29-the-horses-drink.md) | 7.74, 7.75 | drafted | 2,034 |
+| 30 | [Arjuna and Duryodhana](../novel/book-07-drona/30-arjuna-and-duryodhana.md) | 7.76, 7.77, 7.78 | drafted | 2,812 |
+| 31 | [The Banners](../novel/book-07-drona/31-the-banners.md) | 7.79, 7.80, 7.81 | drafted | 2,419 |
+| 32 | [At Drona's Front](../novel/book-07-drona/32-at-dronas-front.md) | 7.82, 7.83, 7.84 | drafted | 2,259 |
+| 33 | [Satyaki and Drona](../novel/book-07-drona/33-satyaki-and-drona.md) | 7.85 | drafted | 2,134 |
+| 34 | [Yudhishthira Sends Satyaki](../novel/book-07-drona/34-yudhishthira-sends-satyaki.md) | 7.86, 7.87 | drafted | 2,693 |
+| 35 | [Satyaki Breaks Through](../novel/book-07-drona/35-satyaki-breaks-through.md) | 7.88, 7.89, 7.90 | drafted | 3,210 |
+| 36 | [Jalasandha](../novel/book-07-drona/36-jalasandha.md) | 7.91, 7.92 | drafted | 2,036 |
+
+*Book 7 so far: 86,186 words.*

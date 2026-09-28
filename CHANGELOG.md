@@ -6,6 +6,434 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Novel: Book 7 begins
+- Book 7 chapter plan in `workbook/NOVEL_PLAN.md` (66 provisional chapters,
+  drawn from the CE adhyaya openings and the sub-parvas at 1.2.57–58).
+- Ch 1 *Karna Goes to Bhishma* (CE 7.1–7.4): Sanjaya comes again at night;
+  the army without Bhishma; the kings call for Karna; Karna arms himself and
+  goes to the bed of arrows for Bhishma's blessing (a second telling of
+  6.117, kept as the CE keeps it).
+- Ch 2 *Drona Takes Command* (CE 7.5–7.7): Karna names Drona; the
+  consecration; the cart and heron arrays; the omens; Sanjaya's summary of
+  Drona's days and his death at Dhrishtadyumna's hands.
+- Ch 3 *The Blind King's Questions* (CE 7.8–7.10): Dhritarashtra's grief for
+  Drona; who held back each Pandava hero?; his list of Krishna's deeds; Nara
+  and Narayana. Ledger L-33 notes that Putana and Govardhana are only in
+  rejected lines here (\*81, \*82).
+- Ch 4 *The Promise to Take Yudhishthira* (CE 7.11–7.13): Drona's boon and
+  its condition; Arjuna's promise; the eleventh day; Abhimanyu against the
+  Paurava, Jayadratha and Shalya.
+- Ch 5 *The End of the Eleventh Day* (CE 7.14–7.15): the mace duel of Bhima
+  and Shalya; Drona drives at Yudhishthira; Arjuna's darkness of arrows.
+- Ch 6 *The Sworn Band* (CE 7.16–7.18): the Trigartas' oath; Arjuna leaves
+  Satyajit to guard Yudhishthira; Tvashtri's weapon and the wind weapon.
+- Ch 7 *The Garuda Array* (CE 7.19–7.21): the twelfth morning from Drona's
+  side; Satyajit killed and Yudhishthira withdraws; a second Shatanika,
+  Virata's brother, killed (noted beside 6.113.24); Karna's warning.
+- Ch 8 *The Pandavas Turn Back* (CE 7.22–7.24): the horses of the Pandava
+  heroes (their banners are only in a rejected appendix); Dhritarashtra on
+  fate; the single fights. The Book 7 plan is renumbered (67 chapters):
+  Bhagadatta now has two chapters.
+- Ch 9 *Bhagadatta's Elephant* (CE 7.25–7.27) and ch 10 *The Death of
+  Bhagadatta* (CE 7.28–7.29): the elephant routs the Pandavas; Arjuna torn
+  between the sworn band and his brothers; the Vaishnava weapon becomes
+  Krishna's garland; Bhagadatta killed; Shakuni's brothers and illusions.
+- Ledger L-202: Bhagadatta's drooping eyelids tied with cloth are only in
+  rejected lines (\*224–\*225).
+- Ch 11 *The End of the Twelfth Day* (CE 7.30–7.32): Nila killed; Arjuna
+  returns and kills three of Karna's brothers; Duryodhana reproaches Drona;
+  the summary of Abhimanyu's death.
+- Ch 12 *The Wheel Array* (CE 7.33–7.35): the thirteenth day; Yudhishthira
+  asks Abhimanyu to break the wheel; "I cannot get out"; he breaks in.
+- Ch 13 *Abhimanyu Alone* (CE 7.36–7.38): Abhimanyu against the whole
+  army; Drona's praise; Duhshasana's boast.
+- Ch 14 *Jayadratha at the Gap* (CE 7.39–7.43): Duhshasana struck down;
+  Karna beaten; Jayadratha's boon from Shiva holds back the four Pandavas.
+- Ch 15 *Lakshmana* (CE 7.44–7.47) and ch 16 *The Death of Abhimanyu*
+  (CE 7.48–7.49): Lakshmana and Brihadbala killed; Drona's advice; the wheel
+  and the mace; Duhshasana's son; Yudhishthira's lament.
+- Ledger L-203 (Vyasa's consolation with the story of Death and the sixteen
+  kings is a rejected appendix here; the CE has them at 12.29 and
+  12.248–250) and L-204 ("six", not "seven", great chariot fighters).
+- Ch 17 *Arjuna's Vow* (CE 7.50–7.51): Arjuna's return and grief; the vow
+  to kill Jayadratha or enter the fire (ledger L-205).
+- Ch 18 *Jayadratha's Fear* (CE 7.52–7.53): Jayadratha's terror; Drona's
+  reassurance; Krishna's warning and Arjuna's answer.
+- Ch 19 *Subhadra's Grief* (CE 7.54–7.56): Subhadra's lament; the sleepless
+  night; Krishna and Daruka.
+- Ch 20 *The Night Journey* (CE 7.57): Arjuna's dream journey with Krishna
+  to Shiva; the Pashupata weapon.
+- Ch 21 *The Fourteenth Morning* (CE 7.58–7.60): Yudhishthira's morning
+  rites; Krishna's promise; Arjuna sets out and leaves Satyaki to guard the king.
+- Ch 22 *The Cart and the Needle* (CE 7.61–7.63): Dhritarashtra's lament;
+  Sanjaya's rebuke; Drona's triple array round Jayadratha. Ledger L-206.
+- Ch 23 *Arjuna Breaks the Front* (CE 7.64–7.65): Durmarshana's and
+  Duhshasana's divisions broken.
+- Ch 24 *Past Drona* (CE 7.66–7.67): Arjuna passes Drona; Shrutayudha and
+  Sudakshina killed. Ledger L-207, L-208.
+- Ch 25 *Shrutayus and Achyutayus* (CE 7.68): Arjuna wounded and recovered;
+  the mleccha troops; the Ambashtha king killed.
+- Ch 26 *Duryodhana's Armour* (CE 7.69): Duryodhana reproaches Drona; Drona
+  binds Shiva's armour on him.
+- Ch 27 *At the Mouth of the Array* (CE 7.70–7.71): the fight at Drona's
+  front; the single combats. Plan rows re-cut from ch 27 on (Book 7 now 69 rows).
+- Ch 28 *Drona and Dhrishtadyumna* (CE 7.72–7.73): Dhrishtadyumna on Drona's
+  yoke; Satyaki's duel with Drona.
+- Ch 29 *The Horses Drink* (CE 7.74–7.75): Vinda and Anuvinda killed; the pool
+  made with an arrow; Krishna tends the horses. Ledger L-209.
+- Ch 30 *Arjuna and Duryodhana* (CE 7.76–7.78): the armour that arrows cannot
+  pierce; Duryodhana's palms. Ledger L-210 (not his fingernails).
+- Ch 31 *The Banners* (CE 7.79–7.81): the banners of the ten warriors;
+  Yudhishthira unhorsed by Drona.
+- Ch 32 *At Drona's Front* (CE 7.82–7.84): the single combats; Ghatotkacha
+  kills Alambusa, son of Rishyashringa.
+- Ch 33 *Satyaki and Drona* (CE 7.85): Yudhishthira hears Krishna's conch and
+  begs Satyaki to go after Arjuna.
+- Ch 34 *Yudhishthira Sends Satyaki* (CE 7.86–7.87): Satyaki's doubts and his
+  setting out. Ledger L-211.
+- Ch 35 *Satyaki Breaks Through* (CE 7.88–7.90): past Drona and Kritavarma;
+  Dhritarashtra's lament; Kritavarma holds the Pandavas.
+- Ch 36 *Jalasandha* (CE 7.91–7.92): Satyaki kills Jalasandha of Magadha and
+  routs Duryodhana. Plan re-cut from ch 36 (Book 7 now 70 rows).
+
+### Tools: the Gita edition in plain black and white; L-199
+- `tools/make_gita_pdf.py` now prints in black and white: speaker names in
+  capitals at each change, plain bordered explanation boxes, no colour. The
+  family tree is now simple arrow lines, a numbered table of kings, small
+  branch diagrams, and dashed boxes for what only the Bhagavata Purana says.
+- Ledger L-199: the CE names the Bharata *family* after Duhshanta's son
+  (1.69.49) but never says whom the land (*bharatam varsham*) is named after;
+  the Bhagavata Purana names it after Rishabha's son Bharata (5.4.9; 5.7.3).
+
+### Tools: per-Book PDFs, a Gita study edition and the family tree
+- `tools/make_pdf.py` now writes one PDF per Book by default
+  (`build/mahabharata-bookNN-a4.pdf`); `--combined` restores a single PDF.
+- New `tools/make_gita_pdf.py`: the Bhagavad Gita (Book 6, ch 7–13) as an
+  18-chapter study edition, with each speaker marked by a quiet coloured rule,
+  every explanation boxed after the passage that uses it, a contents page, an
+  explanations index, and a family tree as an appendix. It also writes the
+  tree on its own (`build/gita/the-line-of-the-moon.pdf`).
+- The tree follows CE 1.70, 1.90 and 7.119, and sets the Bhagavata Purana's
+  line (9.14–9.24: the Puru line, the kings after Parikshit down to Kshemaka,
+  and Yadu's line down to Vasudeva) beside it, marked as outside the CE.
+- `workbook/GENEALOGY.md`: Arjuna's son by Draupadi is Shrutakirti and
+  Sahadeva's is Shrutakarman (1.90.82); Iravan's mother is unnamed in the CE
+  (6.86.6; L-103); added the other wives and sons (1.90.83–95) and the whole
+  prose line from Daksha to Shantanu (1.90.7–46).
+- Book 1 ch 33: removed a duplicated notes marker; Samprija → Sampriya.
+
+### Novel: Book 6, chapters 16–34: the second to tenth days, and the bed of arrows
+- Ch 34 *The Bed of Arrows* (CE 6.115–117), which completes Book 6: Drona
+  falls from his chariot at the news; the pillow of three arrows; Bhishma
+  will wait for the sun to turn north; the surgeons sent away; Arjuna's
+  arrow brings up a stream of water; Bhishma's plea for peace; Karna is told
+  he is Kunti's son and given leave to fight.
+- Ledger: L-200 (no Ganga rising from the earth; a stream of water,
+  6.116.22–24) and L-201 (the fifty-eight nights, 13.153.27).
+- Ch 16 *The Heron Array* (CE 6.46–49), ch 17 *Bhima and the Kalingas*
+  (6.50–51) and ch 18 *The Third Day* (6.52–55): Duryodhana's reproach and
+  Bhishma's promise; Arjuna fights gently; Krishna runs at Bhishma with his
+  discus and Arjuna holds him back at the tenth step.
+- Ledger: L-36 now notes the tenth step on both days (6.55.98; 6.102.64) and
+  that the discus is named Sudarshana in the CE itself (6.55.89), while the
+  rejected \*201 adds that it flew into his hand at a thought.
+- Ch 19 *The Fourth Day* (6.56–60): Abhimanyu against five; Bhima's
+  elephant slaughter; eight of Dhritarashtra's sons killed (ledger L-194, the
+  count is eight in the CE; a ninth is rejected); Ghatotkacha's magic Airavata.
+- Names: the rakshasa is now spelled Alambusa, from the CE *alambusa* (ch 15
+  had borrowed the apsaras's spelling, Alambusha); new names for the sons of
+  Dhritarashtra killed on day 4, Samyamani and Mahapadma.
+- Ch 20 *Who Krishna Is* (6.61–64): Bhishma's night answer to Duryodhana,
+  with Brahma's hymn to Vasudeva, told in full. Ledger L-195: Gandhari's
+  "where dharma is, there is victory" for eighteen days is in the CE
+  (11.13.8–9).
+- Ch 21 *The Fifth Day* (6.65–70): Arjuna spares Ashvatthama; Bhurishravas
+  kills Satyaki's ten sons.
+- Ch 22 *The Sixth Day* (6.71–75): Bhima on foot among Duryodhana's
+  brothers; Dhrishtadyumna's bewildering weapon; Bhima cuts down Duryodhana's
+  serpent banner. The wounded princes are not said to die (noted).
+- Ch 23 *The Seventh Day* (6.76–79), the morning: Drona kills Virata's son
+  Shankha (L-193 updated); Bhishma's healing herb; Ghatotkacha runs from
+  Bhagadatta.
+- Ch 24 *Shrutayus* (6.80–82): Yudhishthira's anger; Abhimanyu spares the
+  princes, remembering Bhima's vow; Yudhishthira rebukes Shikhandi.
+- Ch 25 *Iravan* (6.83–86): Bhima kills eight more brothers (L-194); Iravan
+  killed by Alambusa (L-37 now gives the day and the killer). Ch 23's note no
+  longer calls Iravan's mother Ulupi, which the CE does not (L-103).
+- Ch 26 *Ghatotkacha* (6.87–89) and ch 27 *The Eighth Day Ends* (6.90–92):
+  Sanjaya and Bhishma shout that Ghatotkacha's magic is a trick; Arjuna's
+  grief for Iravan; Bhima's seventeen on day 8 (L-194).
+- Ch 28 *Duryodhana's Reproach* (6.93–94). Ledger L-196: Bhishma's "five
+  golden arrows" are not in the CE or Ganguli.
+- Ch 29 *The Ninth Day* (6.95–98), the morning: Abhimanyu beats Alambusa with
+  the sun weapon; Drona and Arjuna.
+- Ch 30 *Krishna Runs at Bhishma* (6.99–102): the whip, not the discus, and
+  the tenth step again (L-36); the duel repeated from 6.55 is kept and noted.
+- Ch 31 *How Bhishma Can Be Killed* (6.103). Ledger: L-185 completed (Bhishma
+  tells the Pandavas himself); L-197 ("I am your father's father", ✅).
+- Ch 32 *Shikhandi Goes First* (6.104–108), the tenth day to Drona's omens.
+- Ch 33 *The Fall of Bhishma* (6.109–114). Ledger L-198: "not Shikhandi's
+  arrows" (Arjuna's arrows bring him down).
+
+### Novel: Book 6, chapters 14–15: the war begins
+- Ch 14 *Yudhishthira Asks Leave* (CE 6.41): the blessings of Bhishma, Drona,
+  Kripa and Shalya; Karna refuses Krishna; Yuyutsu changes sides. Ch 15 *The
+  First Day* (6.42–45).
+- Ledger: L-193 (no Shveta in the CE: Uttara is killed by Shalya, and his
+  brother Shankha survives). "Iravat" corrected to the house spelling Iravan.
+
+### Novel: Book 6, the Bhagavad Gita (chapters 7–13)
+- The whole Gita (CE 6.23–40, 700 verses) told in very simple English at the
+  author's request, every verse kept, with explanatory footnotes: a plain
+  definition, an everyday example and, where one fits, a CE-cited moment from
+  the epic (Style Guide §13). Ch 7 *Arjuna's Despair* (Gita 1–2), ch 8
+  *Action* (3–5), ch 9 *The Steady Mind* (6–7), ch 10 *The Imperishable*
+  (8–10), ch 11 *The Form of All* (11–12), ch 12 *The Field and the Strands*
+  (13–15), ch 13 *Freedom* (16–18).
+- Tools: `reflow.py` wraps footnote definitions; `style_check.py` ignores
+  footnote marks when splitting sentences; `make_pdf.py` enables Markdown
+  footnotes. Glossary: yoga, Brahman, the self, strands, nature, Sankhya,
+  nirvana.
+- Ledger: L-191 (the 701st verse is a rejected passage), L-192 (the 745-verse
+  count is rejected).
+
+### Novel: Book 6 begun: plan and chapters 1–6
+- Book 6 chapter plan (34 chapters) in `NOVEL_PLAN.md`, drawn from the CE
+  adhyāya openings, with the ten days fixed by the CE's withdrawals.
+- Ch 1 *Vyasa's Gift* (CE 6.1–4), ch 2 *The Island of Jambu* (6.5–8), ch 3
+  *Bharata* (6.9–11), ch 4 *The Other Islands* (6.12–13), ch 5 *Bhishma Has
+  Fallen* (6.14–16), ch 6 *The Armies Face Each Other* (6.17–22).
+- Ledger: L-190 (Sanjaya tells the war after Bhishma's fall, not live).
+- Names: Ketuman, Kshemadhanva, Shrutayus, Shaibya, Brihadbala of Kosala.
+  "Koshala" corrected to "Kosala" (Book 3 ch 29). Timeline: day 1; Sanjaya's
+  return.
+
+### Novel: Book 5 complete: chapters 53–56 drafted
+- Ch 53 *The Sleeping Weapon* (CE 5.184–187): the Prasvapa withheld, the end of
+  the fight with Rama, Amba's twelve years and the river Amba. Ch 54 *Amba's Vow*
+  (5.188–191): Shiva's boon, the pyre, Shikhandi raised as a son and married.
+  Ch 55 *Shikhandi* (5.192–193, retitled from the plan's "Shikhandin" to match
+  `names.json`): the yaksha Sthunakarna, Kubera's curse and Bhishma's vow.
+  Ch 56 *The Armies Move* (5.194–197): the commanders' boasts, Arjuna's answer
+  and both armies on the march. Book 5 now covers CE 5.1–5.197.
+- Ledger: L-188 (Amba reborn as Shikhandi), L-189 (Shikhandi not a eunuch: the
+  yaksha's exchange). L-187 revised: Rama says he is beaten (5.186.8).
+- Names: Hiranyavarma, Pailagargya; Sthunakarna the yaksha. Places: Vatsabhumi,
+  the river Amba, Ramahrada. Timeline: the march out.
+
+### Novel: Book 5, chapters 50–52 drafted: Amba and Rama
+- Ch 50 *Amba* (CE 5.171–174): Amba's release, Shalva's refusal, her resolve
+  against Bhishma, and her grandfather Hotravahana. Ch 51 *Rama Takes Up Amba's
+  Cause* (5.175–178). Ch 52 *Bhishma and Rama* (5.179–183): the first days of
+  the twenty-three-day fight.
+- Ledger: L-186 (Amba never asks Bhishma to marry her), L-187 (twenty-three
+  days).
+- Names: Amba, Shalva, Shaikhavatya, Hotravahana, Akritavrana.
+
+### Novel: Book 5, chapters 48–49 drafted: the Rathatiratha
+- Ch 48 *Chariot Fighters* (CE 5.163–166): Bhishma's rating of the Kaurava
+  warriors, Karna rated half a chariot fighter and their quarrel, and the Pandava
+  brothers. Ch 49 *Bhishma Ranks the Pandavas* (5.167–170): the rest of the
+  Pandava side, Bhishma's refusal to fight Shikhandi, and the start of the story
+  of Amba.
+- Ledger: L-184 (Karna as *ardharatha*), L-185 (Shikhandi).
+- Names: the chariot fighters named in the count.
+
+### Novel: Book 5, chapters 45–47 drafted: the armies ready, and Uluka's embassy
+- Ch 45 *Bhishma Takes Command* (CE 5.152–155): the eleven Kaurava armies,
+  Bhishma's terms, Karna standing aside, Dhrishtadyumna and Arjuna as the Pandava
+  commanders, Balarama's pilgrimage, Rukmin refused. Ch 46 *Uluka's Message*
+  (5.156–159). Ch 47 *The Answer to Uluka* (5.160–162): Arjuna's vow to fell
+  Bhishma first, the matching of opponents, and the start of Bhishma's count.
+- Ledger: L-182 (Bhishma's terms; the sixteen thousand women), L-183 (the cat
+  fable is an appendix passage).
+
+### Novel: Book 5, chapters 43–44 drafted: the Bhagavadyana ends
+- Ch 43 *Krishna's Report* (CE 5.145–148): Krishna's second account of the
+  hall, with Bhishma's history of his vow, Gandhari's and Dhritarashtra's
+  arguments from the succession (Yadu, Devapi), and the four ways of policy.
+  Ch 44 *The March to Kurukshetra* (5.149–151): the seven leaders, the question
+  of the commander, the march and the camp by the Hiranvati, Duryodhana's orders,
+  and Yudhishthira's grief. This completes the Bhagavadyana (5.70–151).
+- Ledger: L-174 extended (the five villages in Krishna's report, 5.148.16).
+- Places: Hiranvati. Timeline: "Today is Pushya" (5.148.3).
+
+### Novel: Book 5, chapters 41–42 drafted: Karna's choice
+- Ch 41 *Krishna and Karna* (CE 5.138–141): the offer of the throne, Karna's
+  refusal, the war as a sacrifice, the new moon named for battle, and Karna's
+  omens and dreams. Ch 42 *Kunti and Karna* (5.142–144): Kunti's revelation at
+  the Ganga, the Sun's voice, Karna's reproach and his promise.
+- Ledger: L-31 revised (Karna's promise is his own; no boons asked); L-181
+  (Draupadi in Krishna's offer; Karna already knew his birth).
+- Timeline: the battle set for the new moon (5.140.18).
+
+### Novel: Book 5, chapters 39–40 drafted: Kunti's message
+- Ch 39 *Blaze for a Moment* (CE 5.130–132): Kunti's message to Yudhishthira,
+  that the king makes the age, and the story of Vidura (the CE's *vidurā*;
+  Ganguli's Vidula) rebuking her son Sanjaya. Ch 40 *A Mother's Counsel*
+  (5.133–137): the end of the story, Kunti's messages to her sons and Draupadi,
+  Krishna leaving with Karna in his chariot, and Bhishma's and Drona's last plea
+  to Duryodhana.
+- Plan: ch 39 retitled from "Vidula's Son" to follow the CE's name.
+
+### Novel: Book 5, chapters 36–38 drafted: the embassy fails
+- Ch 36 *The Elders Plead* (CE 5.122–125): Krishna, Bhishma, Drona, Vidura and
+  Dhritarashtra urge peace; Duryodhana refuses even a needle's point of land.
+  Ch 37 *Krishna's Anger* (5.126–127): Krishna's charges, Duryodhana's walkout,
+  the proposal to bind him as the Yadavas gave up Kamsa, Gandhari's rebuke.
+  Ch 38 *The Cosmic Form* (5.128–129): the plot to seize Krishna, Satyaki's
+  warning, the form in the hall, and Krishna's departure.
+- Ledger: L-30 revised (the form is CE; Dhritarashtra's sight is rejected);
+  L-180 (the needle's point, CE 5.125.26).
+
+### Novel: Book 5, chapters 33–35 drafted: Narada's tale of Galava, Madhavi and Yayati
+- Ch 33 *Galava's Fee* (CE 5.104–110): Janamejaya's question, Narada on
+  obstinacy, Vishvamitra tested by Dharma, the eight hundred black-eared
+  horses, Garuda's account of the four quarters, and the flight east.
+  Ch 34 *Madhavi* (5.111–117): Shandili and Garuda's wings, Yayati's gift of
+  his daughter, her boon and her plan, the four kings and four sons.
+  Ch 35 *Yayati's Fall* (5.118–121): Madhavi chooses the forest, Yayati's pride
+  and fall, and his rescue by his daughter's sons.
+- Ledger: L-179 (Madhavi: her boon and plan are her own; she chooses the forest).
+- Names: Shandili, Haryashva, Divodasa, Madhavi and others from the tale.
+
+### Novel: Book 5, chapters 26–32 drafted: Krishna's embassy to the hall, and Kanva's tale
+- Ch 26 *Krishna Sets Out* (CE 5.81–82): the departure in the month Kaumuda,
+  Yudhishthira's message to Kunti, the seers on the road, the portents, the
+  night at Vrikasthala. Ch 27 *Hastinapura Waits* (5.83–86): the rest halls,
+  Dhritarashtra's gifts, Vidura's warning, Duryodhana's plan to seize Krishna.
+  Ch 28 *Kunti's Grief* (5.87–88). Ch 29 *Vidura's House* (5.89–92): Krishna
+  refuses Duryodhana's food; Vidura's warning and Krishna's reasons; the drive
+  to the hall. Ch 30 *Krishna in the Hall* (5.93–95): Krishna's speech, Rama
+  Jamadagnya's tale of Dambhodbhava, Kanva's warning. Ch 31 *The Worlds Below*
+  (5.96–100) and ch 32 *Gunakeshi* (5.101–103): Matali's search, Narada's tour
+  of the worlds under the earth, Sumukha, and Garuda humbled.
+- Ledger: L-178 (Krishna at Vidura's table: the refusal is CE; the "greens"
+  exchange is \*423 and Vidura's boons are an appendix passage).
+- Names: the nagas of Bhogavati, Garuda's descendants, the cows of the
+  quarters, and others from Kanva's tale. Places: Shalibhavana, Patala,
+  Hiranyapura, Rasatala, Bhogavati. Timeline: Krishna's departure (5.81.7).
+
+### Novel: Book 5, chapters 23–25 drafted: the Bhagavadyana begins
+- Ch 23 *The Pandavas' Counsel* (CE 5.70–71): Yudhishthira on what poverty and
+  war do to a man, the five villages again, Krishna's decision to go to the
+  Kuru court, and his answer that a kshatriya does not beg. Ch 24 *Bhima Speaks
+  Softly* (5.72–75): Bhima pleads for peace and names eighteen kings who ruined
+  their families (Bali, as the CE reads, not the vulgate's Kali); Krishna goads
+  him; Bhima's answer; fate and human effort. Ch 25 *Draupadi's Hair*
+  (5.76–80): Arjuna, Nakula, Sahadeva and Satyaki; Draupadi holds out her hair
+  and asks for Duhshasana's arm; Krishna's promise.
+- Ledger: L-19 extended with 5.80.26 ("I longed for you in my mind, Govinda").
+- Names: the kings of Bhima's list (Udavarta, Ajabindu, Kusharddhika and
+  others); Vishvaksena added as a name of Krishna.
+
+### Novel: Book 5, chapters 21–22 drafted: the Yanasamdhi completed
+- Ch 21 *Father and Son* (CE 5.59–62): Dhritarashtra weighs the sides,
+  Duryodhana's claims to power over the elements, Karna's boast and his vow
+  not to fight while Bhishma fights, Vidura's fables of the fowler's two
+  birds and the honey on the cliff. Ch 22 *Who Krishna Is* (5.63–69): Arjuna's
+  last words, Vyasa and Gandhari, "where Krishna is, there is victory",
+  Duryodhana's refusal to take refuge, and the meanings of Krishna's names.
+  This completes the Yanasamdhi (5.46–69).
+- Ledger: L-177 (Karna's curse from Rama: CE, told fully at 12.3, with a worm
+  not a bee; his refusal to fight under Bhishma).
+- Names: Jalasamdha, Vedidhvaja, Bana.
+
+### Novel: Book 5, chapters 18–20 drafted: the council in the Kuru hall
+- Ch 18 *Dhritarashtra's Fear* (CE 5.50–53), Ch 19 *Duryodhana's Boast*
+  (5.54–55) and Ch 20 *The Pandava Army* (5.56–58): Dhritarashtra's fear of
+  Bhima and Arjuna, Sanjaya's reproach, Duryodhana's boasts and his "sacrifice
+  of battle", the Kaurava leaders shared out among the Pandava champions, and
+  Sanjaya's visit to Krishna and Arjuna in the inner rooms.
+- Ledger: L-176 (Krishna and Arjuna in the inner rooms); L-106 extended with
+  the rejected Hanuman line at 5.55.\*341.
+- Names: Satyajit, Uttamaujas, Yudhamanyu, Kshatradeva.
+
+### Novel: Book 5, chapters 16–17 drafted: Arjuna's message; Nara and Narayana
+- Ch 16 *Arjuna's Message* (CE 5.46–47): the kings gather at dawn and Sanjaya
+  gives Arjuna's message in full, with its refrain "then the son of
+  Dhritarashtra will repent the war", the brahmin's prophecy, Krishna's
+  deeds and the omens. Ch 17 *Nara and Narayana* (5.48–49): Bhishma on Nara
+  and Narayana, his quarrel with Karna, Sanjaya's faint, and the Pandava
+  champions.
+- Ledger: L-175 (Krishna killed Ekalavya, CE 5.47.71, 16.7.10).
+- Names: Sharabha, Karakarsha, Sudarshana, Nagnajit, Duhsaha and others.
+
+### Novel: Book 5, chapter 15 drafted: Sanatsujata
+- Ch 15 *Sanatsujata* (CE 5.42–45): the Sanatsujatiya, rendered from the CE
+  verses without the commentary that fills Ganguli's version. Notes list the
+  rejected passages Ganguli translates here, including the whole of his
+  section 5.45 (CE Appendix I No. 2). This completes the Sanatsujata
+  sub-parva (5.42–45).
+
+### Novel: Book 5, chapters 13–14 drafted: the Prajagara completed
+- Ch 13 *The Swan and the Sadhyas* (CE 5.36–37) and Ch 14 *Vidura's Last
+  Counsel* (5.38–41): Atreya's teaching as a swan, the great families, Manu's
+  seventeen fools, the five strengths, Dhritarashtra's "where there is
+  dharma, there is victory" and "my mind turns again when I meet Duryodhana",
+  and Vidura calling Sanatsujata. This completes the Prajagara (5.33–41).
+- Notes record that the advice to give up Duryodhana at birth is CE in Book 1
+  (1.107.29–32) but only a rejected reminder here (5.39.\*231).
+- Names: Sanatsujata, Atreya the swan.
+
+### Novel: Book 5, chapters 11–12 drafted: Vidura's night counsel
+- Ch 11 *Vidura's Night Counsel* (CE 5.33) and Ch 12 *The Sleepless King*
+  (5.34–35): the start of the Prajagara, Vidura's counsel to the sleepless
+  Dhritarashtra, kept saying by saying in the CE's order, with the story of
+  Virochana and Sudhanvan. The many well-known sayings that are rejected
+  lines here (for example "forgiveness is the virtue of the weak", 5.33.\*175)
+  are listed in the notes and not narrated.
+- Names: Keshini (Vidura's story).
+
+### Novel: Book 5, chapters 7–10 drafted: Sanjaya's embassy
+- Ch 7 *Sanjaya's Mission* (CE 5.22–25), Ch 8 *Yudhishthira's Answer*
+  (5.26–28), Ch 9 *Krishna's Answer* (5.29–30) and Ch 10 *Five Villages*
+  (5.31–32): Dhritarashtra's instructions and fears, Yudhishthira's
+  questions, Sanjaya's counsel to give up the kingdom, dharma in distress,
+  Krishna on action and the four classes, the deeds in the hall remembered,
+  Yudhishthira's greetings to everyone in Hastinapura, the five villages,
+  and Sanjaya's return. This completes the Sanjayayana (5.22–32).
+- Ledger: L-174 (the five villages: four named in the CE, and "any fifth");
+  L-19 extended with Krishna's words at 5.29.33 and 5.58.21.
+- Names: Bahlika son of Pratipa, Babhru of Kashi. Places: Kushasthala,
+  Vrikasthala, Asandi.
+
+### Novel: Book 5, chapters 4–6 drafted: Nahusha, his fall, the armies gather
+- Ch 4 *Nahusha* (CE 5.11–14) and Ch 5 *The Fall of Nahusha* (5.15–18):
+  Shalya's tale continues, with Nahusha made king of the gods, Shachi's
+  refuge with Brihaspati, Upashruti and the lotus stalk, the seers yoked to
+  Nahusha's carriage, Agni's search, and Agastya's curse; Shalya repeats his
+  promise about Karna and goes to Duryodhana. Ch 6 *The Armies Gather*
+  (5.19–21): seven akshauhinis for the Pandavas and eleven for Duryodhana,
+  the priest's embassy, Karna's retort, Dhritarashtra's decision to send
+  Sanjaya. This completes the Udyoga sub-parva (5.1–21).
+- Ch 3 notes corrected: the sharing out of Indra's sin is CE at 5.13.16–18,
+  not only a rejected passage.
+- Ledger: L-173 (no "Sarpa! sarpa!" in the CE).
+- Names: Upashruti, Atharvangiras, the Pandya king; Airavata now also covers
+  Indra's elephant. Places: Upaplavya, Kurujangala and other lands of 5.19.
+
+### Novel: Book 5 begun, chapters 1–3 drafted: the council, the choice at Dvaraka, Indra and Vritra
+- Checked Books 1–4 before starting: all 663 adhyayas covered, index and
+  reflow checks clean.
+- Ch 1 *The Council in Virata's Hall* (CE 5.1–6): Krishna's case for an
+  envoy, Balarama's blame of the gambler, Satyaki's anger, Drupada's list of
+  kings, the priest sent to Hastinapura. Ch 2 *The Choice at Dvaraka*
+  (5.7–8): Duryodhana and Arjuna at Krishna's bedside, the Narayanas or
+  Krishna unarmed, Shalya won by Duryodhana's halls, Yudhishthira's request
+  about Karna. Ch 3 *Indra and Vritra* (5.9–10): Shalya's tale of Trishiras,
+  Vritra, the yawn, the pact and the foam.
+- Book 5 chapter plan (57 chapters, provisional) added to `NOVEL_PLAN.md`.
+- Ledger: L-171 (the choice at Dvaraka), L-172 (Shalya won over; Karna's
+  spirit to be broken).
+- Fixed `NOVEL_PLAN.md`: the Book 4 chapter notes for chapters 5–21 had been
+  written into the wrong tables (the eighteen-Books overview, the Book 1
+  sub-parva table and Book 1 chapters 20–21). Those rows are restored and the
+  notes moved to the Book 4 table.
+- Names: Drupada's list of kings (5.4), Trishiras; Tvashtar merged into
+  Tvashtri (the three uses of "Tvashtar" in Book 3 ch 33 normalised).
+- Timeline: the council four days after the wedding.
+
 ### Novel: Book 1 (Adi Parva), chapters 1–7 drafted
 - Ch 1 *The Storyteller in the Forest* (CE 1.1.1–101); Ch 2 *When I Heard*
   (1.1.102–210); Ch 3 *The Hundred Parts* (1.2); Ch 4 *The Teacher's Pupils*

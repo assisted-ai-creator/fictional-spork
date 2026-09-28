@@ -2,7 +2,7 @@
 
 # Coverage of the Critical Edition
 
-**21,726 of 73,815 verses covered (29.43%).** A verse is covered when a chapter's `ce` spans include it.
+**37,099 of 73,815 verses covered (50.26%).** A verse is covered when a chapter's `ce` spans include it.
 
 | Book | Adhyāyas complete | Verses covered | Progress | Next uncovered |
 |------|-------------------|----------------|----------|----------------|
@@ -10,9 +10,9 @@
 | 2. Sabha | 72/72 | 2,390/2,390 | `██████████` 100.0% | none |
 | 3. Aranyaka | 299/299 | 10,316/10,316 | `██████████` 100.0% | none |
 | 4. Virata | 67/67 | 1,824/1,824 | `██████████` 100.0% | none |
-| 5. Udyoga | 0/197 | 0/6,063 | `░░░░░░░░░░` 0.0% | 5.1 |
-| 6. Bhishma | 0/117 | 0/5,406 | `░░░░░░░░░░` 0.0% | 6.1 |
-| 7. Drona | 0/173 | 0/8,152 | `░░░░░░░░░░` 0.0% | 7.1 |
+| 5. Udyoga | 197/197 | 6,063/6,063 | `██████████` 100.0% | none |
+| 6. Bhishma | 117/117 | 5,406/5,406 | `██████████` 100.0% | none |
+| 7. Drona | 92/173 | 3,904/8,152 | `████░░░░░░` 47.9% | 7.93 |
 | 8. Karna | 0/69 | 0/3,871 | `░░░░░░░░░░` 0.0% | 8.1 |
 | 9. Shalya | 0/64 | 0/3,315 | `░░░░░░░░░░` 0.0% | 9.1 |
 | 10. Sauptika | 0/18 | 0/772 | `░░░░░░░░░░` 0.0% | 10.1 |
@@ -42,3 +42,15 @@
 ### Book 4
 
 * Complete adhyāyas: 4.1–4.67
+
+### Book 5
+
+* Complete adhyāyas: 5.1–5.197
+
+### Book 6
+
+* Complete adhyāyas: 6.1–6.117
+
+### Book 7
+
+* Complete adhyāyas: 7.1–7.92
