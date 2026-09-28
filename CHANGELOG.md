@@ -103,6 +103,10 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 - Ch 39 *Satyaki and Duhshasana* (CE 7.98–7.100): Drona shames Duhshasana;
   Viraketu and his brothers killed; Satyaki spares Duhshasana for Bhima's vow;
   Duryodhana against the Pandavas. Names: Viraketu, Chitraratha (Panchala).
+- Ch 40 *Bhima Goes In* (CE 7.101–7.102): Drona's afternoon slaughter;
+  Yudhishthira sends Bhima after Satyaki; Bhima smashes Drona's chariot and
+  kills eleven of Dhritarashtra's sons. Notes record that CE 7.102.94 repeats
+  the three deaths of 7.36.29, and Drona's age ("past eighty").
 
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in

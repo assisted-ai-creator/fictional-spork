@@ -29,8 +29,8 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Varga** | Vargā | one of the five apsarases cursed to be crocodiles and freed by Arjuna |  |  |  |
 | **Varuthini** | Varūthinī | an apsaras who dances for Arjuna in Indra's hall |  |  |  |
 | **Talajangha** | Tālajaṅgha | one struck down by a brahmin's staff for failing to honour those who deserved honour, as Kuntibhoja tells Pritha |  |  |  |
-| **Anuvinda** | Anuvinda | one of the two princes of Avanti; also a son of Dhritarashtra (1.108.3), carried off by the gandharvas (3.231.8); killed by Arjuna on the fourteenth day (7.74.25-29) |  |  |  |
-| **Vinda** | Vinda | one of the two princes of Avanti; also a son of Dhritarashtra (1.108.3), carried off by the gandharvas (3.231.8); killed by Arjuna on the fourteenth day (7.74.25-29) |  |  |  |
+| **Anuvinda** | Anuvinda | one of the two princes of Avanti; also a son of Dhritarashtra (1.108.3), carried off by the gandharvas (3.231.8); killed by Arjuna on the fourteenth day (7.74.25-29); the son of Dhritarashtra killed by Bhima on the fourteenth day (7.102.98) |  |  |  |
+| **Vinda** | Vinda | one of the two princes of Avanti; also a son of Dhritarashtra (1.108.3), carried off by the gandharvas (3.231.8); killed by Arjuna on the fourteenth day (7.74.25-29); the son of Dhritarashtra killed by Bhima on the fourteenth day (7.102.98) |  |  |  |
 | **Darada** | Darada | a Bahlika king whom Shishupala says split the earth at his birth |  |  |  |
 | **Jambhaka** | Jambhaka | father of a Bhoja king spared by Krishna |  |  |  |
 | **Kamsa** | Kaṃsa | the tyrant of Mathura, Jarasandha's son-in-law, killed by Krishna and Balarama |  |  | Kansa |
@@ -319,7 +319,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vrishasena** | Vṛṣasena | named in Yama's hall (2.8) |  |  |  |
 | **Vyashva** | Vyaśva | named in Yama's hall (2.8) |  |  |  |
 | **Damaghosha** | Damaghoṣa | king of Chedi, Shishupala's father |  |  |  |
-| **Dhrishtaketu** | Dhṛṣṭaketu | king of the Chedis after Shishupala; ally of the Pandavas |  |  |  |
+| **Dhrishtaketu** | Dhṛṣṭaketu | king of the Chedis after Shishupala; ally of the Pandavas; killed by Drona on the fourteenth day, and his son after him (7.101.22-39) |  |  |  |
 | **Karakarsha** | Karakarṣa | a Chedi warrior named with Sharabha on the Pandavas' side (5.49.43) |  |  |  |
 | **Shishupala** | Śiśupāla | king of Chedi, Jarasandha's general; killed by Krishna at the Rajasuya | Sunitha |  | Sisupala |
 | **Subahu** | Subāhu | king of the Chedis, in whose city Damayanti lives with the queen mother; also Subahu, king of the Kunindas on the Himalaya, who keeps the Pandavas' servants and chariots (3.141.24–29); also a naga of Bhogavati, named by Narada (5.101.9-16); also a son of Dhritarashtra, killed by Bhima on the eighth day (6.92.26) |  |  |  |
@@ -487,6 +487,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Amba** | Ambā | eldest princess of Kashi, carried off by Bhishma; also eldest daughter of the king of Kashi; let go to Shalva, refused by him; seeks Rama's help against Bhishma (5.171.4) |  |  |  |
 | **Subandhu** | Subandhu | king of Kashi, defeated by Bhima |  |  |  |
 | **Suvarnavarman** | Suvarṇavarman | king of Kashi, Vapushtama's father |  |  |  |
+| **Abhaya** | Abhaya | a son of Dhritarashtra, killed by Bhima on the fourteenth day (7.102.96) |  |  |  |
 | **Adityaketu** | Ādityaketu | a son of Dhritarashtra, killed by Bhima on the eighth day |  |  |  |
 | **Alambusa** | Alambusa | a rakshasa fighting for the Kauravas, who meets Ghatotkacha on the first day; called son of Rishyashringa, best of kings, at 6.59.26; also kills Iravan on the eighth day (6.86.44-70); the son of Rishyashringa, Baka's brother, killed by Ghatotkacha on the fourteenth day (7.83.23; 7.84.21-24) |  |  |  |
 | **Alolupa** | Alolupa | a son of Dhritarashtra, one of the fourteen who attack Bhima on the fourth day |  |  |  |
@@ -502,13 +503,14 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Chitrasena** | Citrasena | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice; also the gandharva who teaches Arjuna music and dance in Indra's heaven (3.45.6-8) and, as king of the gandharvas, captures Duryodhana at Dvaitavana (3.230-231), and an apsaras (3.44.30). Same name, different beings: say which from context |  |  |  |
 | **Chitrashva** | Citrāśva | a son of Dhritarashtra |  |  |  |
 | **Dirghabahu** | Dīrghabāhu | a son of Dhritarashtra, killed by Bhima on the eighth day |  |  |  |
-| **Dirghalochana** | Dīrghalocana | a son of Dhritarashtra, killed by Bhima on the eighth day; also killed by Abhimanyu on the thirteenth day (7.36.29) |  |  |  |
+| **Dirghalochana** | Dīrghalocana | a son of Dhritarashtra, killed by Bhima on the eighth day; also killed by Abhimanyu on the thirteenth day (7.36.29); as Dirghanetra, killed again by Bhima on the fourteenth day (7.102.94) |  |  |  |
 | **Duhsaha** | Duḥsaha | a son of Dhritarashtra, present in the Kuru hall (5.46.8) |  |  |  |
 | **Duhshala** | Duḥśalā | Dhritarashtra and Gandhari's one daughter; wife of Jayadratha |  |  | Dushala, Dussala |
 | **Duhshasana** | Duḥśāsana | second son of Dhritarashtra and Gandhari |  |  | Dushasana, Dussasana, Dushashan, Dushshasana |
 | **Durjaya** | Durjaya | a son of Dhritarashtra, carried off by the gandharvas at Dvaitavana; also a king Drupada would summon (5.4.22); also fights Abhimanyu on the sixth day (6.74.24) |  |  |  |
 | **Durmada** | Durmada | a son of Dhritarashtra |  |  |  |
 | **Durmarshana** | Durmarṣaṇa | a son of Dhritarashtra |  |  |  |
+| **Durvimochana** | Durvimocana | a son of Dhritarashtra, killed by Bhima on the fourteenth day (7.102.96) |  |  |  |
 | **Durvishaha** | Durviṣaha | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Duryodhana** | Duryodhana | eldest son of Dhritarashtra and Gandhari; born of a portion of Kali | Suyodhana | Suyodhana | Duryodhan, Duryodan |
 | **Dushkarna** | Duṣkarṇa | a son of Dhritarashtra |  |  |  |
@@ -523,6 +525,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Nandaka** | Nandaka | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice; also a naga of Bhogavati, named by Narada (5.101.9-16); also the son of Dhritarashtra who wounds Bhima on the fourth day (6.60.6) |  |  |  |
 | **Panditaka** | Paṇḍitaka | a son of Dhritarashtra, killed by Bhima on the eighth day |  |  |  |
 | **Purochana** | Purocana | Duryodhana's minister who built the house of lac at Varanavata |  |  |  |
+| **Raudrakarma** | Raudrakarman | a son of Dhritarashtra, killed by Bhima on the fourteenth day (7.102.96) |  |  |  |
 | **Saha** | Saha | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice; also an apsaras (3.44.30) |  |  |  |
 | **Sama** | Sama | a son of Dhritarashtra, one of the fourteen who attack Bhima on the fourth day |  |  |  |
 | **Samanga** | Samaṅga | a cowherd primed by Duryodhana's party to tell Dhritarashtra the cattle are near |  |  |  |
@@ -533,10 +536,11 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shatrusaha** | Śatrusaha | a Kaurava chariot fighter who defends Karna; also a son of Dhritarashtra (6.75.52) |  |  |  |
 | **Sucharu** | Sucāru | a son of Dhritarashtra |  |  |  |
 | **Suchitra** | Sucitra | a son of Dhritarashtra |  |  |  |
+| **Suhasta** | Suhasta | a son of Dhritarashtra who attacks Bhima on the fourteenth day (7.102.70) |  |  |  |
 | **Sukundala** | Sukuṇḍala | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Sulochana** | Sulocana | a son of Dhritarashtra, killed by Bhima on the fourth day |  |  |  |
 | **Sunabha** | Sunābha | a son of Dhritarashtra, killed by Bhima on the eighth day |  |  |  |
-| **Suvarma** | Suvarman | a son of Dhritarashtra |  |  |  |
+| **Suvarma** | Suvarman | a son of Dhritarashtra; killed by Bhima on the fourteenth day (7.102.98) |  |  |  |
 | **Ugra** | Ugra | a son of Dhritarashtra, killed by Bhima on the fourth day |  |  |  |
 | **Ugrayudha** | Ugrāyudha | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Vairata** | Vairāṭa | a son of Dhritarashtra, killed by Bhima on the eighth day |  |  |  |
@@ -557,7 +561,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Jayadratha** | Jayadratha | king of the Sindhus; Duhshala's husband | Saindhava |  |  |
 | **Karna** | Karṇa | Kunti's first son, by the Sun, born with armour and earrings; raised by the charioteer Adhiratha and Radha; also the name of a son of Dhritarashtra (1.108.3), among Duryodhana's brothers on the sixth day (6.73.7) | Vasushena, Radheya, Vaikartana, Suta's son, Vrisha | Radheya | Karan, Karn, Vasusena |
 | **Kshemasharman** | Kṣemaśarman | a warrior in the neck of Drona's Garuda array |  |  |  |
-| **Kundabhedin** | Kuṇḍabhedin | killed by Abhimanyu on the thirteenth day |  |  |  |
+| **Kundabhedin** | Kuṇḍabhedin | killed by Abhimanyu on the thirteenth day; killed again, with Sushena and Dirghanetra, by Bhima on the fourteenth day (7.102.94); named again at 7.131.84 |  |  |  |
 | **Lalittha** | Lalittha | a warrior who shoots at Abhimanyu |  |  |  |
 | **Meghavega** | Meghavega | killed by Abhimanyu |  |  |  |
 | **Prabahu** | Prabāhu | a warrior who shoots at Abhimanyu |  |  |  |
@@ -565,7 +569,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Satyashravas** | Satyaśravas | seized by Abhimanyu inside the wheel array |  |  |  |
 | **Suryabhasa** | Sūryabhāsa | killed by Abhimanyu |  |  |  |
 | **Vipata** | Vipāṭa | a brother of Karna, killed by Arjuna |  |  |  |
-| **Vrindaraka** | Vṛndāraka | a warrior who shoots at Abhimanyu |  |  |  |
+| **Vrindaraka** | Vṛndāraka | a warrior who shoots at Abhimanyu; a son of Dhritarashtra, killed by Bhima on the fourteenth day (7.102.95) |  |  |  |
 | **Vrishakratha** | Vṛṣakrātha | a warrior in the body of Drona's Garuda array |  |  |  |
 | **Sharadandayani** | Śāradaṇḍāyanī | a hero's wife who bore three sons, Durjaya and others, by a brahmin |  |  |  |
 | **Drumaputra** | Drumaputra | ruler of the Kimpurushas |  |  |  |
@@ -671,7 +675,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shrutarvan** | Śrutarvan | a king whom Agastya asks for wealth |  |  |  |
 | **Shrutayudha** | Śrutāyudha | a king present in Yudhishthira's hall; also a king, son of Varuna and the river Parnasha, killed by his own mace on the fourteenth day (7.67.43-56) |  |  |  |
 | **Shrutayus** | Śrutāyus | a chariot fighter ahead of Bhishma on the first day; also king of Kalinga, killed by Bhima on the second day (6.50.6, 61-68); also a Kaurava warrior who blocks Arjuna on the fourteenth day (7.66.36); also also Shrutayus, brother of Achyutayus, killed by Arjuna with Indra's weapon; and Shrutayus the Ambashtha king, killed by Arjuna after striking Krishna with a mace (7.68.7-24, 56-65) |  |  |  |
-| **Sudarshana** | Sudarśana | a king, "the pride of the gods", whom Krishna freed from captivity (5.47.69); also a son of Dhritarashtra (6.73.6); also a king's son, "son and grandson of kings", killed by Satyaki on the fourteenth day (7.94.6-16) |  |  |  |
+| **Sudarshana** | Sudarśana | a king, "the pride of the gods", whom Krishna freed from captivity (5.47.69); also a son of Dhritarashtra (6.73.6); also a king's son, "son and grandson of kings", killed by Satyaki on the fourteenth day (7.94.6-16); the son of Dhritarashtra killed by Bhima on the fourteenth day (7.102.99) |  |  |  |
 | **Sudeshna** | Sudeṣṇā | Bali's queen, mother of Anga by Dirghatamas (another Sudeshna is Virata's queen); also Virata's queen, a princess of the Kekayas, whom Draupadi serves as sairandhri (4.8.6) |  |  |  |
 | **Sudharma** | Sudharman | a king present in Yudhishthira's hall; also Sudharma, king of Dasharna, made Bhima's general (2.26.5); also wife of Matali (5.95.19) |  |  | Sudharman |
 | **Sukanya** | Sukanyā | Sharyati's daughter, wife of Chyavana |  |  |  |
@@ -820,7 +824,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Dhrishtadyumna** | Dhṛṣṭadyumna | Drupada's son, born from the sacrificial fire to kill Drona | Parshata |  | Dhristadyumna, Drishtadyumna |
 | **Drupada** | Drupada | king of the Panchalas, Drona's childhood friend and enemy | Yajnasena |  |  |
 | **Kshatradeva** | Kṣatradeva | a hero on the Pandavas' side, named after Shikhandi; also a son of Dhrishtadyumna (7.9.49); also Shikhandi's son of the same name (7.9.59) |  |  |  |
-| **Kshatradharman** | Kṣatradharman | son of Dhrishtadyumna, rated half a chariot fighter by Bhishma; also a son of Dhrishtadyumna (7.9.49) |  |  |  |
+| **Kshatradharman** | Kṣatradharman | son of Dhrishtadyumna, rated half a chariot fighter by Bhishma; also a son of Dhrishtadyumna (7.9.49); killed by Drona on the fourteenth day (7.101.59-63) |  |  |  |
 | **Kshatranjaya** | Kṣatraṃjaya | a son of Dhrishtadyumna, trained twelve years with Bhishma |  |  |  |
 | **Prishata** | Pṛṣata | king of the Panchalas, Bharadvaja's friend, Drupada's father |  |  |  |
 | **Prishati** | Pṛṣatī | Drupada's queen, mother (by adoption of the fire-born twins) of Dhrishtadyumna and Draupadi |  |  |  |
@@ -1127,7 +1131,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Bhuri** | Bhūri | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Brihadratha** | Bṛhadratha | a king named among the suitors at Draupadi's bridegroom choice; also King Brihadratha of Magadha, Jarasandha's father (2.16.12) |  |  |  |
 | **Brihanta** | Bṛhanta | a king named among the suitors at Draupadi's bridegroom choice; also Brihanta, king of Kuluta, defeated by Arjuna (2.24.4); also with his brother Kshemadhurti, fights Satyaki (7.24.45) |  |  |  |
-| **Brihatkshatra** | Bṛhatkṣatra | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Brihatkshatra** | Bṛhatkṣatra | a king named among the suitors at Draupadi's bridegroom choice; also the eldest of the five Kekaya brothers, killed by Drona on the fourteenth day (7.101.5-21) |  |  |  |
 | **Chandrasena** | Candrasena | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Chitrayudha** | Citrāyudha | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Danda** | Daṇḍa | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
@@ -1151,7 +1155,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sukumara** | Sukumāra | a king named among the suitors at Draupadi's bridegroom choice; also son of Abhibhu, king of Kashi, a young great chariot fighter (7.22.19) |  |  |  |
 | **Sumitra** | Sumitra | a king named among the suitors at Draupadi's bridegroom choice; also Dasharatha's wife, mother of Lakshmana and Shatrughna (3.258.8) |  |  |  |
 | **Suryadhvaja** | Sūryadhvaja | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
-| **Sushena** | Suṣeṇa | a king named among the suitors at Draupadi's bridegroom choice; also Valin's father-in-law, a monkey chief; also a son of Dhritarashtra, killed by Bhima on the fourth day (6.60.24-28); also killed by Abhimanyu on the thirteenth day (7.36.29) |  |  |  |
+| **Sushena** | Suṣeṇa | a king named among the suitors at Draupadi's bridegroom choice; also Valin's father-in-law, a monkey chief; also a son of Dhritarashtra, killed by Bhima on the fourth day (6.60.24-28); also killed by Abhimanyu on the thirteenth day (7.36.29); killed again by Bhima on the fourteenth day (7.102.94) |  |  |  |
 | **Suvarchas** | Suvarcas | name of a son of Dhritarashtra and of other suitors at Draupadi's bridegroom choice; also a hermit who assures Dyumatsena that Satyavat lives (3.282.10); also a son of Garuda (5.99.2) |  |  |  |
 | **Vardhakshemi** | Vārdhakṣemi | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Vatsaraja** | Vatsarāja | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
