@@ -547,7 +547,7 @@ provisional, and each row is filled in as it is drafted.
 | 34 | Yudhishthira Sends Satyaki | 7.86–7.87 | ✅ drafted. Arjuna's charge to Sātyaki; Yudhiṣṭhira's guards; the forces ahead; the Kailāvata drink and the heroes' bronze; Bhīma sent back. |
 | 35 | Satyaki Breaks Through | 7.88–7.90 | ✅ drafted. Droṇa's taunt; Sātyaki goes round him and through Karṇa's troops; Kṛtavarman wounds him; Dhṛtarāṣṭra's lament for his paid army; Kṛtavarman holds back the Pāṇḍavas. |
 | 36 | Jalasandha | 7.91–7.92 | ✅ drafted. Sātyaki beats Kṛtavarman, scatters the elephants, kills Jalasandha of Magadha, drives off Duryodhana and fells Kṛtavarman again. |
-| 37 | Satyaki Goes On | 7.93–7.94 |  |
+| 37 | Satyaki Goes On | 7.93–7.94 | ✅ drafted. Droṇa and Sātyaki equal in speed; Sātyaki drives his own chariot; Droṇa's horses bolt and he returns to the gate of the array; "we are killing men already killed"; Sudarśana killed. |
 | 38 | The Yavanas and the Kambojas | 7.95–7.97 |  |
 | 39 | Satyaki and Duhshasana | 7.98–7.100 |  |
 | 40 | Bhima Goes In | 7.101–7.102 |  |

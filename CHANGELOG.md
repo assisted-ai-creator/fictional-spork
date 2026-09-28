@@ -95,6 +95,8 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
   Dhritarashtra's lament; Kritavarma holds the Pandavas.
 - Ch 36 *Jalasandha* (CE 7.91–7.92): Satyaki kills Jalasandha of Magadha and
   routs Duryodhana. Plan re-cut from ch 36 (Book 7 now 70 rows).
+- Ch 37 *Satyaki Goes On* (CE 7.93–7.94): Satyaki fights Drona to a
+  standstill and drives his own chariot; Drona's horses bolt; Sudarshana killed.
 
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in
