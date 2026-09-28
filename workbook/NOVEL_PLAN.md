@@ -549,7 +549,7 @@ provisional, and each row is filled in as it is drafted.
 | 36 | Jalasandha | 7.91–7.92 | ✅ drafted. Sātyaki beats Kṛtavarman, scatters the elephants, kills Jalasandha of Magadha, drives off Duryodhana and fells Kṛtavarman again. |
 | 37 | Satyaki Goes On | 7.93–7.94 | ✅ drafted. Droṇa and Sātyaki equal in speed; Sātyaki drives his own chariot; Droṇa's horses bolt and he returns to the gate of the array; "we are killing men already killed"; Sudarśana killed. |
 | 38 | The Yavanas and the Kambojas | 7.95–7.97 | ✅ drafted. "The rest is a shallow stream"; the charioteer's answer; the shaven-headed Kambojas, Yavanas and Śakas routed; Duryodhana's charioteer killed; Dhṛtarāṣṭra's questions; the stone fighters; Droṇa hears the noise. |
-| 39 | Satyaki and Duhshasana | 7.98–7.100 |  |
+| 39 | Satyaki and Duhshasana | 7.98–7.100 | ✅ drafted. Droṇa shames Duḥśāsana (the slave taunt is only in \*702); Vīraketu and his four brothers killed; Dhṛṣṭadyumna on Droṇa's chariot; the Trigarta chariots; Duḥśāsana spared for Bhīma's vow; Duryodhana alone against the Pāṇḍavas. |
 | 40 | Bhima Goes In | 7.101–7.102 |  |
 | 41 | Bhima Breaks Through | 7.103–7.105 |  |
 | 42 | Bhima and Karna | 7.106–7.109 |  |

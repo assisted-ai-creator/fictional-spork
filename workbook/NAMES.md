@@ -45,7 +45,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kaushika** | Kauśika | the brahmin who burns a crane with his look and is sent by a housewife to the hunter of Mithila (3.197–206) |  |  |  |
 | **Shamatha** | Śamaṭha | a brahmin who tells the Pandavas of King Gaya's sacrifice |  |  |  |
 | **Sudeva** | Sudeva | a brahmin, friend of Damayanti's brother, who finds her among the Chedis and carries her message to Rituparna |  |  |  |
-| **Sudhanvan** | Sudhanvan | son of Angiras, who staked his life against Virochana in Vidura's story |  |  |  |
+| **Sudhanvan** | Sudhanvan | son of Angiras, who staked his life against Virochana in Vidura's story; also a Panchala prince, brother of Viraketu, killed by Drona on the fourteenth day (7.98.37-41) |  |  |  |
 | **Adari** | Adāri | a king Drupada would summon (5.4.20) |  |  |  |
 | **Ahuti** | Āhuti | a king Krishna beat at Jaruthi |  |  |  |
 | **Aida** | Aiḍa | named in Yama's hall (2.8) |  |  |  |
@@ -86,7 +86,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Chirantaka** | Cirāntaka | a descendant of Garuda, named by Narada |  |  |  |
 | **Chiravasas** | Cīravāsas | named in Kubera's hall (2.10) |  |  |  |
 | **Chitrabarha** | Citrabarha | a descendant of Garuda, named by Narada |  |  |  |
-| **Chitravarman** | Citravarman | a king Drupada would summon (5.4.13) |  |  |  |
+| **Chitravarman** | Citravarman | a king Drupada would summon (5.4.13); also a Panchala prince, brother of Viraketu, killed by Drona on the fourteenth day (7.98.37-41) |  |  |  |
 | **Daityadvipa** | Daityadvīpa | a descendant of Garuda, named by Narada |  |  |  |
 | **Daksha** | Dakṣa | named in Brahma's hall (2.11); also a descendant of Garuda, named by Narada (5.99.9-14) |  |  |  |
 | **Danu** | Danu | named in Brahma's hall (2.11) |  |  |  |
@@ -816,6 +816,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vidyujjihva** | Vidyujjihva | a rakshasa chief with Ghatotkacha, killed by Duryodhana |  |  |  |
 | **Prakarakarna** | Prākārakarṇa | the long-lived owl of the Himalaya (3.191.4) |  |  |  |
 | **Amitaujas** | Amitaujas | a Panchala great chariot fighter on the Pandava side |  |  |  |
+| **Chitraratha** | Citraratha | a Panchala prince, brother of Viraketu, killed by Drona on the fourteenth day (7.98.37-41); not the gandharva Angaraparna, also called Chitraratha |  |  |  |
 | **Dhrishtadyumna** | Dhṛṣṭadyumna | Drupada's son, born from the sacrificial fire to kill Drona | Parshata |  | Dhristadyumna, Drishtadyumna |
 | **Drupada** | Drupada | king of the Panchalas, Drona's childhood friend and enemy | Yajnasena |  |  |
 | **Kshatradeva** | Kṣatradeva | a hero on the Pandavas' side, named after Shikhandi; also a son of Dhrishtadyumna (7.9.49); also Shikhandi's son of the same name (7.9.59) |  |  |  |
@@ -827,11 +828,12 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shikhandi** | Śikhaṇḍin | Drupada's child, born a daughter, who became a man; Amba reborn | Shikhandini (as a girl) |  | Shikhandin, Sikhandi, Shikhandee |
 | **Simhasena** | Siṃhasena | a Panchala warrior killed by Drona on the eleventh day; also a Panchala, son of Gopati, who turns back against Drona (7.22.43) |  |  |  |
 | **Uttamaujas** | Uttamaujas | a Panchala hero on the Pandavas' side |  |  |  |
+| **Viraketu** | Vīraketu | a son of the Panchala king, killed by Drona on the fourteenth day (7.98.27-35) |  |  |  |
 | **Yudhamanyu** | Yudhāmanyu | a Panchala hero on the Pandavas' side, "hard to beat" |  |  |  |
 | **Abhimanyu** | Abhimanyu | son of Arjuna and Subhadra | Saubhadra |  |  |
 | **Arjuna** | Arjuna | third son of Kunti, by Indra; the great archer; also Dhananjaya, a naga of Bhogavati (5.101.9) | Partha, Dhananjaya, Phalguna, Kiritin, Bibhatsu, Savyasachin, Gudakesha, Jishnu, Vijaya | Partha, Dhananjaya | Arjun |
 | **Bhima** | Bhīma | second son of Kunti, by Vayu the wind; immensely strong; also the name of the king of Vidarbha, Damayanti's father (3.50.5), inside Brihadashva's tale only; also the name of a son of Dhritarashtra, killed by Bhima on the fourth day (6.60.25-31) | Bhimasena, Vrikodara | Bhimasena, Vrikodara | Bheem, Bheema, Bhim |
-| **Chitraketu** | Citraketu | a lord of the Chedis who fights Bhagadatta's elephant on the eighth day |  |  |  |
+| **Chitraketu** | Citraketu | a lord of the Chedis who fights Bhagadatta's elephant on the eighth day; also a Panchala prince, brother of Viraketu, killed by Drona on the fourteenth day (7.98.37-41) |  |  |  |
 | **Draupadi** | Draupadī | daughter of Drupada, born from the sacrificial altar; wife of the five Pandavas | Krishnaa, Panchali, Yajnaseni | Panchali | Draupdi, Dropadi |
 | **Ghatotkacha** | Ghaṭotkaca | son of Bhima and the rakshasi Hidimba |  |  | Ghatotkach |
 | **Indrasena** | Indrasena | Yudhishthira's messenger and charioteer; follows the Pandavas into the forest (3.1.10); also the name of both of Nala's children, the boy Indrasena and the girl Indrasena (3.57.21) |  |  |  |

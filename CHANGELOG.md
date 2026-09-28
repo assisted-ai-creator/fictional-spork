@@ -100,6 +100,9 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 - Ch 38 *The Yavanas and the Kambojas* (CE 7.95–7.97): Satyaki routs the
   Kambojas, Yavanas and Shakas, drives off Duryodhana and his brothers, and
   breaks the mountain men who fight with stones.
+- Ch 39 *Satyaki and Duhshasana* (CE 7.98–7.100): Drona shames Duhshasana;
+  Viraketu and his brothers killed; Satyaki spares Duhshasana for Bhima's vow;
+  Duryodhana against the Pandavas. Names: Viraketu, Chitraratha (Panchala).
 
 ### Tools: the Gita edition in plain black and white; L-199
 - `tools/make_gita_pdf.py` now prints in black and white: speaker names in
