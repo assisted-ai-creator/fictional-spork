@@ -2,7 +2,7 @@
 
 # Contents
 
-**254 chapters, 564,059 words.** 254 drafted
+**258 chapters, 574,161 words.** 258 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -291,5 +291,9 @@
 | 21 | [Krishna and Arjuna at Ease](../novel/book-05-udyoga/21-krishna-and-arjuna-at-ease.md) | 5.58-60 | drafted | 1,825 |
 | 22 | [Karna Lays Down His Weapons](../novel/book-05-udyoga/22-karna-lays-down-his-weapons.md) | 5.61-64 | drafted | 1,911 |
 | 23 | [The Names of Krishna](../novel/book-05-udyoga/23-the-names-of-krishna.md) | 5.65-69 | drafted | 1,730 |
+| 24 | [Krishna Will Go](../novel/book-05-udyoga/24-krishna-will-go.md) | 5.70 | drafted | 2,139 |
+| 25 | [Bhima Speaks for Peace](../novel/book-05-udyoga/25-bhima-speaks-for-peace.md) | 5.71-75 | drafted | 2,730 |
+| 26 | [Draupadi's Hair](../novel/book-05-udyoga/26-draupadis-hair.md) | 5.76-80 | drafted | 2,438 |
+| 27 | [Krishna's Journey](../novel/book-05-udyoga/27-krishnas-journey.md) | 5.81-84 | drafted | 2,795 |
 
-*Book 5 so far: 58,969 words.*
+*Book 5 so far: 69,071 words.*
