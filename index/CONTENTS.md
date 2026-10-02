@@ -2,7 +2,7 @@
 
 # Contents
 
-**246 chapters, 546,354 words.** 246 drafted
+**254 chapters, 564,059 words.** 254 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -283,5 +283,13 @@
 | 13 | [Be Good to Your Kin](../novel/book-05-udyoga/13-be-good-to-your-kin.md) | 5.38-39 | drafted | 2,811 |
 | 14 | [Death Is Carelessness](../novel/book-05-udyoga/14-death-is-carelessness.md) | 5.40-42 | drafted | 2,089 |
 | 15 | [The Eternal One](../novel/book-05-udyoga/15-the-eternal-one.md) | 5.43-45 | drafted | 2,699 |
+| 16 | [Arjuna's Message](../novel/book-05-udyoga/16-arjunas-message.md) | 5.46-47 | drafted | 3,599 |
+| 17 | [Nara and Narayana](../novel/book-05-udyoga/17-nara-and-narayana.md) | 5.48-49 | drafted | 2,065 |
+| 18 | [Dhritarashtra's Fear](../novel/book-05-udyoga/18-dhritarashtras-fear.md) | 5.50-52 | drafted | 2,282 |
+| 19 | [Duryodhana's Boast](../novel/book-05-udyoga/19-duryodhanas-boast.md) | 5.53-54 | drafted | 1,962 |
+| 20 | [The Sacrifice of Battle](../novel/book-05-udyoga/20-the-sacrifice-of-battle.md) | 5.55-57 | drafted | 2,331 |
+| 21 | [Krishna and Arjuna at Ease](../novel/book-05-udyoga/21-krishna-and-arjuna-at-ease.md) | 5.58-60 | drafted | 1,825 |
+| 22 | [Karna Lays Down His Weapons](../novel/book-05-udyoga/22-karna-lays-down-his-weapons.md) | 5.61-64 | drafted | 1,911 |
+| 23 | [The Names of Krishna](../novel/book-05-udyoga/23-the-names-of-krishna.md) | 5.65-69 | drafted | 1,730 |
 
-*Book 5 so far: 41,264 words.*
+*Book 5 so far: 58,969 words.*
