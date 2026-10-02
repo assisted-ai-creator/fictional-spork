@@ -250,7 +250,7 @@
    "name": "Vidura",
    "iast": "Vidura",
    "group": "Kuru",
-   "who": "son of Vyasa and a serving woman; Dharma born as a man; wise counsellor",
+   "who": "son of Vyasa and a serving woman; Dharma born as a man; wise counsellor; also a proud kshatriya woman who rouses her son Sanjaya; not the steward (5.131)",
    "aka": [
     "Kshattri"
    ],
@@ -806,7 +806,7 @@
    "name": "Sanjaya",
    "iast": "Saṃjaya",
    "group": "Kuru",
-   "who": "Dhritarashtra's charioteer and counsellor, given divine sight by Vyasa; returns the kings' courtesies at the Rajasuya (2.32.5); also one of the twelve Sauvira princes who follow Jayadratha (3.249.10)",
+   "who": "Dhritarashtra's charioteer and counsellor, given divine sight by Vyasa; returns the kings' courtesies at the Rajasuya (2.32.5); also one of the twelve Sauvira princes who follow Jayadratha (3.249.10); also son of the kshatriya woman Vidura, beaten by the king of Sindhu (5.131)",
    "aka": [
     "Gavalgani"
    ],
@@ -4584,7 +4584,7 @@
    "name": "Galava",
    "iast": "Gālava",
    "group": "Seer",
-   "who": "a seer present in Yudhishthira's hall",
+   "who": "a seer present in Yudhishthira's hall; also pupil of Vishvamitra who owes eight hundred moon-white horses with one black ear (5.104)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -4776,7 +4776,7 @@
    "name": "Sumukha",
    "iast": "Sumukha",
    "group": "Seer",
-   "who": "a seer present in Yudhishthira's hall",
+   "who": "a seer present in Yudhishthira's hall; also naga, Aryaka's grandson, chosen as Gunakeshi's husband (5.101)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -5602,7 +5602,7 @@
    "name": "Divodasa",
    "iast": "Divodāsa",
    "group": "Catalogue",
-   "who": "named in Yama's hall (2.8)",
+   "who": "named in Yama's hall (2.8); also king of Kashi, father of Pratardana by Madhavi (5.115)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -6112,7 +6112,7 @@
    "name": "Muchukunda",
    "iast": "Mucukunda",
    "group": "Catalogue",
-   "who": "named in Yama's hall (2.8)",
+   "who": "named in Yama's hall (2.8); also royal seer who refused the earth as a gift from Vaishravana (5.130.8)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -10619,6 +10619,96 @@
    "dialogue": [],
    "flag": [],
    "ref": "5.48.2"
+  },
+  {
+   "name": "Madhavi",
+   "iast": "Mādhavī",
+   "group": "King",
+   "who": "daughter of Yayati, given to Galava; mother of Vasumanas, Pratardana, Shibi and Ashtaka",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.113"
+  },
+  {
+   "name": "Gunakeshi",
+   "iast": "Guṇakeśī",
+   "group": "Gods",
+   "who": "daughter of Matali, married to the naga Sumukha",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.95"
+  },
+  {
+   "name": "Aryaka",
+   "iast": "Āryaka",
+   "group": "Naga",
+   "who": "naga, grandfather of Sumukha",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.101"
+  },
+  {
+   "name": "Chikura",
+   "iast": "Cikura",
+   "group": "Naga",
+   "who": "naga, father of Sumukha, eaten by Garuda",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.101"
+  },
+  {
+   "name": "Shandili",
+   "iast": "Śāṇḍilī",
+   "group": "Seer",
+   "who": "brahmin ascetic woman on Mount Rishabha who humbles Garuda",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.111"
+  },
+  {
+   "name": "Haryashva",
+   "iast": "Haryaśva",
+   "group": "Ikshvaku",
+   "who": "king of Ayodhya, father of Vasumanas by Madhavi",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.114"
+  },
+  {
+   "name": "Jyotsnakali",
+   "iast": "Jyotsnākālī",
+   "group": "Gods",
+   "who": "daughter of Soma, wife of Varuna's son Pushkara",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.96"
+  },
+  {
+   "name": "Satyadharma",
+   "iast": "Satyadharman",
+   "group": "Panchala",
+   "who": "a Somaka fighter on the Pandava side",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.139.25"
+  },
+  {
+   "name": "Senajit",
+   "iast": "Senajit",
+   "group": "Kunti",
+   "who": "a great chariot fighter on the Pandava side",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.139.27"
   }
  ],
  "not_vyasa": [

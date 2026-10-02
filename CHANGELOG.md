@@ -6,6 +6,20 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Novel: Book 5 (Udyoga Parva), chapters 1–47 drafted (CE 5.1–148)
+- The council in Virata's hall, the embassies of Drupada's priest and
+  Sanjaya, Vidura's night of counsel and Sanatsujata, the war councils,
+  Krishna's embassy to Hastinapura with the tales of Dambhodbhava, Matali and
+  Galava, the cosmic form in the Kuru hall, Kunti's message and the story of
+  Vidura and her son, Krishna and Karna, Kunti and Karna, and Krishna's report
+  at Upaplavya. Each chapter has a source map and notes on rejected passages.
+- Ledger: L-171 to L-178 (the choosing of Krishna, Shalya's trick, Nahusha's
+  curse, the five villages, the needle's point, Karna's vow, Dhritarashtra's
+  sight, Krishna's offer to Karna); L-19 extended.
+- Names: about 75 new people in `workbook/names.json`, among them the Galava
+  story (Madhavi, Haryashva, Shandili, Gunakeshi, Sumukha) and the kshatriya
+  mother Vidura, kept apart from the steward.
+
 ### Novel: Book 1 (Adi Parva), chapters 1–7 drafted
 - Ch 1 *The Storyteller in the Forest* (CE 1.1.1–101); Ch 2 *When I Heard*
   (1.1.102–210); Ch 3 *The Hundred Parts* (1.2); Ch 4 *The Teacher's Pupils*

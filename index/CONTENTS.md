@@ -2,7 +2,7 @@
 
 # Contents
 
-**258 chapters, 574,161 words.** 258 drafted
+**278 chapters, 616,554 words.** 278 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -295,5 +295,25 @@
 | 25 | [Bhima Speaks for Peace](../novel/book-05-udyoga/25-bhima-speaks-for-peace.md) | 5.71-75 | drafted | 2,730 |
 | 26 | [Draupadi's Hair](../novel/book-05-udyoga/26-draupadis-hair.md) | 5.76-80 | drafted | 2,438 |
 | 27 | [Krishna's Journey](../novel/book-05-udyoga/27-krishnas-journey.md) | 5.81-84 | drafted | 2,795 |
+| 28 | [Krishna in Hastinapura](../novel/book-05-udyoga/28-krishna-in-hastinapura.md) | 5.85-87 | drafted | 1,331 |
+| 29 | [Kunti's Grief](../novel/book-05-udyoga/29-kuntis-grief.md) | 5.88 | drafted | 2,331 |
+| 30 | [Krishna Refuses the Feast](../novel/book-05-udyoga/30-krishna-refuses-the-feast.md) | 5.89-92 | drafted | 3,071 |
+| 31 | [Krishna's Plea](../novel/book-05-udyoga/31-krishnas-plea.md) | 5.93 | drafted | 1,426 |
+| 32 | [Dambhodbhava](../novel/book-05-udyoga/32-dambhodbhava.md) | 5.94 | drafted | 979 |
+| 33 | [Matali's Search](../novel/book-05-udyoga/33-matalis-search.md) | 5.95-99 | drafted | 2,059 |
+| 34 | [Garuda's Pride](../novel/book-05-udyoga/34-garudas-pride.md) | 5.100-103 | drafted | 2,158 |
+| 35 | [Galava's Debt](../novel/book-05-udyoga/35-galavas-debt.md) | 5.104-108 | drafted | 2,307 |
+| 36 | [Madhavi](../novel/book-05-udyoga/36-madhavi.md) | 5.109-113 | drafted | 2,414 |
+| 37 | [Madhavi's Sons](../novel/book-05-udyoga/37-madhavis-sons.md) | 5.114-117 | drafted | 1,723 |
+| 38 | [Yayati's Fall](../novel/book-05-udyoga/38-yayatis-fall.md) | 5.118-121 | drafted | 2,036 |
+| 39 | [Not a Needle's Point](../novel/book-05-udyoga/39-not-a-needles-point.md) | 5.122-125 | drafted | 2,935 |
+| 40 | [Gandhari Speaks](../novel/book-05-udyoga/40-gandhari-speaks.md) | 5.126-127 | drafted | 2,227 |
+| 41 | [The Form of Everything](../novel/book-05-udyoga/41-the-form-of-everything.md) | 5.128-129 | drafted | 1,795 |
+| 42 | [A Mother Rouses Her Son](../novel/book-05-udyoga/42-a-mother-rouses-her-son.md) | 5.130-134 | drafted | 3,965 |
+| 43 | [Kunti's Message](../novel/book-05-udyoga/43-kuntis-message.md) | 5.135-137 | drafted | 1,763 |
+| 44 | [Krishna and Karna](../novel/book-05-udyoga/44-krishna-and-karna.md) | 5.138-139 | drafted | 1,763 |
+| 45 | [Karna's Dreams](../novel/book-05-udyoga/45-karnas-dreams.md) | 5.140-141 | drafted | 1,408 |
+| 46 | [Kunti and Karna](../novel/book-05-udyoga/46-kunti-and-karna.md) | 5.142-144 | drafted | 1,657 |
+| 47 | [Krishna's Report](../novel/book-05-udyoga/47-krishnas-report.md) | 5.145-148 | drafted | 3,045 |
 
-*Book 5 so far: 69,071 words.*
+*Book 5 so far: 111,464 words.*
