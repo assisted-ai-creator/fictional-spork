@@ -167,6 +167,7 @@ well-known story. See [How to add an entry](#how-to-add-an-entry).
 | L-174 | Yudhishthira offers to settle for **just five villages**. | ✅ | CE 5.31.19–20, through Sanjaya: *kuśasthalaṃ vṛkasthalam āsandī vāraṇāvatam / avasānaṃ bhaved atra kiṃ cid eva tu pañcamam … bhrātṝṇāṃ dehi pañcānāṃ grāmān pañca suyodhana*. Four are named; the fifth is left to Duryodhana. Before this he asked for Indraprastha (5.26.28; 5.30.47). | |
 | L-175 | Duryodhana refuses to give the Pandavas **even as much land as the point of a needle** covers. | ✅ | CE twice: to Dhritarashtra, *yāvad dhi sūcyās tīkṣṇāyā vidhyed agreṇa māriṣa / tāvad apy aparityājyaṃ bhūmer naḥ pāṇḍavān prati* (5.57.18), and in the same words to Krishna (5.125.26, *mādhava*). | |
 | L-176 | Karna refuses to fight **as long as Bhishma leads** the Kaurava army. | ✅ | CE 5.61.12–14: stung by Bhishma's mockery, Karna lays down his weapons in the hall: "The grandfather will never see me in battle, only in the hall. When you are at peace, all the kings on earth will see my power." He repeats the vow later (5.165). In the same scene Karna himself tells of Rama's curse (5.61.2–3). | |
+| L-177 | When Krishna shows his cosmic form in the Kuru hall, **blind Dhritarashtra is given sight** to see it, and then asks to be blind again. | ⚠️ | Only in rejected passages \*495–\*496 (at 5.129.13–14). In the CE the divine sight is given only to Drona, Bhishma, Vidura, Sanjaya and the seers; the kings shut their eyes (5.129.12–13). | |
 
 ## F. The war (Bhīṣma, Droṇa, Karṇa, Śalya Parvas)
 
