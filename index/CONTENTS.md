@@ -2,7 +2,7 @@
 
 # Contents
 
-**239 chapters, 525,821 words.** 239 drafted
+**246 chapters, 546,354 words.** 246 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -276,5 +276,12 @@
 | 6 | [Sanjaya at Upaplavya](../novel/book-05-udyoga/06-sanjaya-at-upaplavya.md) | 5.22-24 | drafted | 2,394 |
 | 7 | [Sanjaya's Message](../novel/book-05-udyoga/07-sanjayas-message.md) | 5.25-27 | drafted | 2,367 |
 | 8 | [Krishna's Answer](../novel/book-05-udyoga/08-krishnas-answer.md) | 5.28-29 | drafted | 2,259 |
+| 9 | [The Five Villages](../novel/book-05-udyoga/09-the-five-villages.md) | 5.30-32 | drafted | 2,900 |
+| 10 | [The Sleepless King](../novel/book-05-udyoga/10-the-sleepless-king.md) | 5.33 | drafted | 2,635 |
+| 11 | [Virochana and Sudhanvan](../novel/book-05-udyoga/11-virochana-and-sudhanvan.md) | 5.34-35 | drafted | 3,727 |
+| 12 | [The Swan and the Sadhyas](../novel/book-05-udyoga/12-the-swan-and-the-sadhyas.md) | 5.36-37 | drafted | 3,672 |
+| 13 | [Be Good to Your Kin](../novel/book-05-udyoga/13-be-good-to-your-kin.md) | 5.38-39 | drafted | 2,811 |
+| 14 | [Death Is Carelessness](../novel/book-05-udyoga/14-death-is-carelessness.md) | 5.40-42 | drafted | 2,089 |
+| 15 | [The Eternal One](../novel/book-05-udyoga/15-the-eternal-one.md) | 5.43-45 | drafted | 2,699 |
 
-*Book 5 so far: 20,731 words.*
+*Book 5 so far: 41,264 words.*
