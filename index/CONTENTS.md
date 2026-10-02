@@ -2,7 +2,7 @@
 
 # Contents
 
-**231 chapters, 505,090 words.** 231 drafted
+**239 chapters, 525,821 words.** 239 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -263,3 +263,18 @@
 | 21 | [The Pandavas Revealed](../novel/book-04-virata/21-the-pandavas-revealed.md) | 4.65-67 | drafted | 1,888 |
 
 *Book 4 so far: 41,574 words.*
+
+## Book 5: Udyoga Parva, *The Effort for Peace*
+
+| # | Chapter | CE | Status | Words |
+|---|---------|----|--------|-------|
+| 1 | [The Council in Virata's Hall](../novel/book-05-udyoga/01-the-council-in-viratas-hall.md) | 5.1-6 | drafted | 3,003 |
+| 2 | [Krishna's Choice](../novel/book-05-udyoga/02-krishnas-choice.md) | 5.7-8 | drafted | 1,634 |
+| 3 | [Trishiras and Vritra](../novel/book-05-udyoga/03-trishiras-and-vritra.md) | 5.9-10 | drafted | 2,493 |
+| 4 | [Nahusha](../novel/book-05-udyoga/04-nahusha.md) | 5.11-18 | drafted | 5,011 |
+| 5 | [The Armies Gather](../novel/book-05-udyoga/05-the-armies-gather.md) | 5.19-21 | drafted | 1,570 |
+| 6 | [Sanjaya at Upaplavya](../novel/book-05-udyoga/06-sanjaya-at-upaplavya.md) | 5.22-24 | drafted | 2,394 |
+| 7 | [Sanjaya's Message](../novel/book-05-udyoga/07-sanjayas-message.md) | 5.25-27 | drafted | 2,367 |
+| 8 | [Krishna's Answer](../novel/book-05-udyoga/08-krishnas-answer.md) | 5.28-29 | drafted | 2,259 |
+
+*Book 5 so far: 20,731 words.*
