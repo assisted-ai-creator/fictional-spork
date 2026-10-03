@@ -2,7 +2,7 @@
 
 # Contents
 
-**301 chapters, 656,788 words.** 301 drafted
+**304 chapters, 661,761 words.** 304 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -345,5 +345,8 @@
 | 4 | [The Northern Kurus](../novel/book-06-bhishma/04-the-northern-kurus.md) | 6.8-9 | drafted | 1,106 |
 | 5 | [The Land of Bharata](../novel/book-06-bhishma/05-the-land-of-bharata.md) | 6.10 | drafted | 1,432 |
 | 6 | [The Outer Islands](../novel/book-06-bhishma/06-the-outer-islands.md) | 6.11-13 | drafted | 2,181 |
+| 7 | [Bhishma Has Fallen](../novel/book-06-bhishma/07-bhishma-has-fallen.md) | 6.14-15 | drafted | 2,004 |
+| 8 | [The Kaurava Array](../novel/book-06-bhishma/08-the-kaurava-array.md) | 6.16-17 | drafted | 1,697 |
+| 9 | [The Thunderbolt Array](../novel/book-06-bhishma/09-the-thunderbolt-array.md) | 6.18-19 | drafted | 1,272 |
 
-*Book 6 so far: 9,895 words.*
+*Book 6 so far: 14,868 words.*
