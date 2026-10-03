@@ -456,6 +456,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Virochana** | Virocana | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice; also the daitya, Prahlada's son, in Vidura's story (2.61.59); also son of Prahlada, who stakes his life against Sudhanvan (5.35.5) |  |  |  |
 | **Vivimshati** | Viviṃśati | one of Dhritarashtra's sons |  |  | Vivinsati |
 | **Yuyutsu** | Yuyutsu | Dhritarashtra's son by a vaishya woman |  |  |  |
+| **Samyamani** | Sāṃyamani | a king on the Kaurava side whose son Dhrishtadyumna kills on the fourth day |  |  |  |
 | **Adhiratha** | Adhiratha | the charioteer (suta) who raised Karna |  |  |  |
 | **Jayadratha** | Jayadratha | king of the Sindhus; Duhshala's husband | Saindhava |  |  |
 | **Karna** | Karṇa | Kunti's first son, by the Sun, born with armour and earrings; raised by the charioteer Adhiratha and Radha | Vasushena, Radheya, Vaikartana, Suta's son, Vrisha | Radheya | Karan, Karn, Vasusena |
@@ -760,7 +761,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Chandakaushika** | Caṇḍakauśika | son of Gautama Kakshivat; gives Brihadratha the mango |  |  |  |
 | **Chyavana** | Cyavana | son of Bhrigu, 'the Fallen One' |  |  | Chyavan |
 | **Dadhicha** | Dadhīca | seer from whose bones Indra's thunderbolt was made | Dadhichi |  |  |
-| **Damana** | Damana | a brahmin seer who gave King Bhima of Vidarbha the boon of children; also the name of Damayanti's youngest brother (3.50.9) |  |  |  |
+| **Damana** | Damana | a brahmin seer who gave King Bhima of Vidarbha the boon of children; also the name of Damayanti's youngest brother (3.50.9); also heir of the Paurava, killed by Dhrishtadyumna (6.57.20) |  |  |  |
 | **Damoshnisha** | Dāmoṣṇīṣa | a seer present in Yudhishthira's hall |  |  |  |
 | **Darbhin** | Darbhin | a seer who made the ford Avatirna and brought the four seas to it |  |  |  |
 | **Devala** | Devala | seer, Dhaumya's elder brother |  |  |  |

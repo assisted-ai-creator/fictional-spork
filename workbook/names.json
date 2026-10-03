@@ -8180,7 +8180,7 @@
    "name": "Damana",
    "iast": "Damana",
    "group": "Seer",
-   "who": "a brahmin seer who gave King Bhima of Vidarbha the boon of children; also the name of Damayanti's youngest brother (3.50.9)",
+   "who": "a brahmin seer who gave King Bhima of Vidarbha the boon of children; also the name of Damayanti's youngest brother (3.50.9); also heir of the Paurava, killed by Dhrishtadyumna (6.57.20)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -10771,6 +10771,16 @@
    "dialogue": [],
    "flag": [],
    "ref": "5.163.11"
+  },
+  {
+   "name": "Samyamani",
+   "iast": "Sāṃyamani",
+   "group": "Kaurava ally",
+   "who": "a king on the Kaurava side whose son Dhrishtadyumna kills on the fourth day",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.57.1"
   }
  ],
  "not_vyasa": [

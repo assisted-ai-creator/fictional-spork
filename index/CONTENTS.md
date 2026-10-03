@@ -2,7 +2,7 @@
 
 # Contents
 
-**332 chapters, 699,544 words.** 332 drafted
+**333 chapters, 701,178 words.** 333 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -376,5 +376,6 @@
 | 35 | [The Garuda Array](../novel/book-06-bhishma/35-the-garuda-array.md) | 6.51-52 | drafted | 1,216 |
 | 36 | [Duryodhana Taunts Bhishma](../novel/book-06-bhishma/36-duryodhana-taunts-bhishma.md) | 6.53-54 | drafted | 1,567 |
 | 37 | [Krishna Takes Up the Discus](../novel/book-06-bhishma/37-krishna-takes-up-the-discus.md) | 6.55 | drafted | 3,350 |
+| 38 | [The Son of Samyamani](../novel/book-06-bhishma/38-the-son-of-samyamani.md) | 6.56-57 | drafted | 1,634 |
 
-*Book 6 so far: 52,651 words.*
+*Book 6 so far: 54,285 words.*
