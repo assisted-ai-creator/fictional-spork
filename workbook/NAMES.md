@@ -438,19 +438,22 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Bhimabahu** | Bhīmabāhu | a son of Dhritarashtra, killed by Bhima on the fourth day |  |  |  |
 | **Bhimavegadhara** | Bhīmavegadhara | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Charuchitra** | Cārucitra | a son of Dhritarashtra |  |  |  |
+| **Chitradarshana** | Citradarśana | a son of Dhritarashtra |  |  |  |
 | **Chitrasena** | Citrasena | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice; also the gandharva who teaches Arjuna music and dance in Indra's heaven (3.45.6-8) and, as king of the gandharvas, captures Duryodhana at Dvaitavana (3.230-231), and an apsaras (3.44.30). Same name, different beings: say which from context |  |  |  |
+| **Chitrashva** | Citrāśva | a son of Dhritarashtra |  |  |  |
 | **Duhshala** | Duḥśalā | Dhritarashtra and Gandhari's one daughter; wife of Jayadratha |  |  | Dushala, Dussala |
 | **Duhshasana** | Duḥśāsana | second son of Dhritarashtra and Gandhari |  |  | Dushasana, Dussasana, Dushashan, Dushshasana |
 | **Durjaya** | Durjaya | a son of Dhritarashtra, carried off by the gandharvas at Dvaitavana |  |  |  |
 | **Durmada** | Durmada | a son of Dhritarashtra |  |  |  |
 | **Durvishaha** | Durviṣaha | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Duryodhana** | Duryodhana | eldest son of Dhritarashtra and Gandhari; born of a portion of Kali | Suyodhana | Suyodhana | Duryodhan, Duryodan |
-| **Dushkarna** | Duṣkarṇa | a son of Dhritarashtra |  |  |  |
+| **Dushkarna** | Duṣkarṇa | a son of Dhritarashtra; also killed by Shatanika on the sixth day (6.75.48) |  |  |  |
 | **Dushpradharsha** | Duṣpradharṣa | a son of Dhritarashtra |  |  |  |
 | **Dushpradharshana** | Duṣpradharṣaṇa | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Kanakadhvaja** | Kanakadhvaja | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Kanakayu** | Kanakāyu | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Kundaja** | Kuṇḍaja | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Nanda** | Nanda | a son of Dhritarashtra |  |  |  |
 | **Nandaka** | Nandaka | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Purochana** | Purocana | Duryodhana's minister who built the house of lac at Varanavata |  |  |  |
 | **Saha** | Saha | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice; also an apsaras (3.44.30) |  |  |  |
@@ -458,11 +461,14 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Samanga** | Samaṅga | a cowherd primed by Duryodhana's party to tell Dhritarashtra the cattle are near |  |  |  |
 | **Senapati** | Senāpati | a son of Dhritarashtra, killed by Bhima on the fourth day |  |  |  |
 | **Shatruntapa** | Śatruṃtapa | a king on the Kaurava side, killed by Arjuna in the cattle raid |  |  |  |
-| **Shatrusaha** | Śatrusaha | a Kaurava chariot fighter who defends Karna |  |  |  |
+| **Shatrusaha** | Śatrusaha | a Kaurava chariot fighter who defends Karna; also a son of Dhritarashtra (6.75.52) |  |  |  |
+| **Sucharu** | Sucāru | a son of Dhritarashtra |  |  |  |
+| **Suchitra** | Sucitra | a son of Dhritarashtra |  |  |  |
 | **Sukundala** | Sukuṇḍala | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Sulochana** | Sulocana | a son of Dhritarashtra, killed by Bhima on the fourth day |  |  |  |
 | **Suvarma** | Suvarman | a son of Dhritarashtra |  |  |  |
 | **Ugrayudha** | Ugrāyudha | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Upanandaka** | Upanandaka | a son of Dhritarashtra |  |  |  |
 | **Vatavega** | Vātavega | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Vikarna** | Vikarṇa | a son of Dhritarashtra who speaks for Draupadi in the hall |  |  |  |
 | **Vikata** | Vikaṭa | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
@@ -743,7 +749,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kunjara** | Kuñjara | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
 | **Pratapa** | Pratāpa | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
 | **Ravi** | Ravi | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
-| **Shatrunjaya** | Śatruṃjaya | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
+| **Shatrunjaya** | Śatruṃjaya | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna; also a son of Dhritarashtra (6.75.52) |  |  |  |
 | **Supravriddha** | Supravṛddha | one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
 | **Ashvapati** | Aśvapati | king of the Madras, Savitri's father, who won her by eighteen years of offerings to the goddess Savitri |  |  |  |
 | **Dalbhya** | Dālbhya | a hermit at Dyumatsena's hermitage (3.282.17) |  |  |  |

@@ -9389,7 +9389,7 @@
    "name": "Shatrunjaya",
    "iast": "Śatruṃjaya",
    "group": "Sauvira",
-   "who": "one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna",
+   "who": "one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna; also a son of Dhritarashtra (6.75.52)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -10098,7 +10098,7 @@
    "name": "Shatrusaha",
    "iast": "Śatrusaha",
    "group": "Kaurava",
-   "who": "a Kaurava chariot fighter who defends Karna",
+   "who": "a Kaurava chariot fighter who defends Karna; also a son of Dhritarashtra (6.75.52)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -10948,11 +10948,71 @@
    "name": "Dushkarna",
    "iast": "Duṣkarṇa",
    "group": "Kaurava",
-   "who": "a son of Dhritarashtra",
+   "who": "a son of Dhritarashtra; also killed by Shatanika on the sixth day (6.75.48)",
    "aka": [],
    "dialogue": [],
    "flag": [],
    "ref": "6.73.7"
+  },
+  {
+   "name": "Suchitra",
+   "iast": "Sucitra",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.75.22"
+  },
+  {
+   "name": "Chitrashva",
+   "iast": "Citrāśva",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.75.22"
+  },
+  {
+   "name": "Chitradarshana",
+   "iast": "Citradarśana",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.75.22"
+  },
+  {
+   "name": "Sucharu",
+   "iast": "Sucāru",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.75.22"
+  },
+  {
+   "name": "Nanda",
+   "iast": "Nanda",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.75.22"
+  },
+  {
+   "name": "Upanandaka",
+   "iast": "Upanandaka",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.75.22"
   }
  ],
  "not_vyasa": [

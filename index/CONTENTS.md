@@ -2,7 +2,7 @@
 
 # Contents
 
-**342 chapters, 715,499 words.** 342 drafted
+**343 chapters, 717,446 words.** 343 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -386,5 +386,6 @@
 | 45 | [Satyaki's Ten Sons](../novel/book-06-bhishma/45-satyakis-ten-sons.md) | 6.69-70 | drafted | 1,616 |
 | 46 | [The Crocodile and the Heron](../novel/book-06-bhishma/46-the-crocodile-and-the-heron.md) | 6.71-72 | drafted | 1,317 |
 | 47 | [The Bewildering Weapon](../novel/book-06-bhishma/47-the-bewildering-weapon.md) | 6.73 | drafted | 1,616 |
+| 48 | [The Jewelled Serpent Banner](../novel/book-06-bhishma/48-the-jewelled-serpent-banner.md) | 6.74-75 | drafted | 1,947 |
 
-*Book 6 so far: 68,606 words.*
+*Book 6 so far: 70,553 words.*
