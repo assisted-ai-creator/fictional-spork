@@ -2,7 +2,7 @@
 
 # Contents
 
-**359 chapters, 747,234 words.** 359 drafted
+**360 chapters, 749,214 words.** 360 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -403,5 +403,6 @@
 | 62 | [The River to Yama's City](../novel/book-06-bhishma/62-the-river-to-yamas-city.md) | 6.99-100 | drafted | 1,696 |
 | 63 | [Krishna with the Whip](../novel/book-06-bhishma/63-krishna-with-the-whip.md) | 6.101-102 | drafted | 2,395 |
 | 64 | [How Bhishma May Be Killed](../novel/book-06-bhishma/64-how-bhishma-may-be-killed.md) | 6.103 | drafted | 2,360 |
+| 65 | [Shikhandi in Front](../novel/book-06-bhishma/65-shikhandi-in-front.md) | 6.104-105 | drafted | 1,980 |
 
-*Book 6 so far: 100,341 words.*
+*Book 6 so far: 102,321 words.*
