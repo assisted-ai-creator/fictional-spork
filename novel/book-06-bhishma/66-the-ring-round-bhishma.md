@@ -200,7 +200,7 @@ chariot fighters, Bharata."
 | Satyaki against Alambusa and Bhagadatta | 6.107.1–16 |
 | The pairings over Bhishma's life | 6.107.17–55 |
 
-**Divergences.** The rejected lines (\*440–\*443) are not narrated.
+**Divergences.** The rejected lines (\*440–\*449) are not narrated.
 
 **Choices.**
 
