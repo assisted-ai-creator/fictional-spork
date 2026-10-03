@@ -204,6 +204,7 @@ well-known story. See [How to add an entry](#how-to-add-an-entry).
 | L-192 | On the first day **Virata's son Shveta** fights Bhishma in a great duel and is killed by him. | ⚠️ | Only in Appendix I No. 4 (after 6.45.43), which the CE rejects; there Shveta takes the place of Shankha in the verse "blazed with anger like fire with butter". In the CE it is Shankha who attacks Shalya after Uttara's death (6.45.43–52), and no Shveta fights. | The vulgate's long Shveta episode (G 6.47–48) is not narrated. |
 | L-193 | **Bhurishravas kills Satyaki's ten sons** on the fifth day, and the two fathers then face each other on foot with swords. | ✅ | 6.70.11–24: the ten sons challenge him together, he cuts their bows and then their heads. 6.70.25–29: Bhima and Duryodhana take the two men up onto their chariots. | Sets up Satyaki's later grudge against Bhurishravas. |
 | L-194 | Arjuna **spares Ashvatthama** in battle out of respect for his teacher. | ✅ | 6.69.13–15: "This is my teacher's son ... and a brahmin besides." He takes pity on him and fights others. | |
+| L-195 | Bhishma gives the wounded Duryodhana a **healing herb**. | ✅ | 6.77.10: after promising to fight, he gives him "a fine and potent herb that draws out arrows" (*viśalyakaraṇī oṣadhi*), and Duryodhana is freed of his arrows. | |
 
 ## G. After the war
 
