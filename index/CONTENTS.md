@@ -2,7 +2,7 @@
 
 # Contents
 
-**336 chapters, 706,419 words.** 336 drafted
+**337 chapters, 708,372 words.** 337 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -380,5 +380,6 @@
 | 39 | [Bhima Among the Elephants](../novel/book-06-bhishma/39-bhima-among-the-elephants.md) | 6.58 | drafted | 1,225 |
 | 40 | [Eight of Your Sons](../novel/book-06-bhishma/40-eight-of-your-sons.md) | 6.59-60 | drafted | 2,301 |
 | 41 | [Brahma's Hymn](../novel/book-06-bhishma/41-brahmas-hymn.md) | 6.61 | drafted | 1,715 |
+| 42 | [Nara and Narayana](../novel/book-06-bhishma/42-nara-and-narayana.md) | 6.62-64 | drafted | 1,953 |
 
-*Book 6 so far: 59,526 words.*
+*Book 6 so far: 61,479 words.*
