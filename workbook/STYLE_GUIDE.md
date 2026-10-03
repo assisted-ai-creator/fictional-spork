@@ -183,6 +183,12 @@ Measured by `python3 tools/style_check.py novel/...`:
 | Em dashes per 1,000 words | ≤ 3 | ≤ 6 |
 | Banned words/patterns | 0 | 0 |
 
+A chapter that is mostly a catalogue of names (the rivers and peoples of
+Bhishma 6.10, for example) may set `readability: catalogue` in its front
+matter. The Flesch and Flesch–Kincaid limits are then reported as warnings,
+since long Sanskrit names drive those scores. Sentence length and every other
+limit still apply. Use it only where the text itself is a list.
+
 The numbers are guides, not goals. A chapter that scores well but reads
 flatly still fails. Read every chapter aloud, or in your head at speaking
 pace, before marking it done.

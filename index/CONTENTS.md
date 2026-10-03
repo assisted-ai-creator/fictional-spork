@@ -2,7 +2,7 @@
 
 # Contents
 
-**298 chapters, 652,069 words.** 298 drafted
+**301 chapters, 656,788 words.** 301 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -342,5 +342,8 @@
 | 1 | [The Rules of War](../novel/book-06-bhishma/01-the-rules-of-war.md) | 6.1-2 | drafted | 1,384 |
 | 2 | [Signs of Victory](../novel/book-06-bhishma/02-signs-of-victory.md) | 6.3-4 | drafted | 1,807 |
 | 3 | [The Island of Sudarshana](../novel/book-06-bhishma/03-the-island-of-sudarshana.md) | 6.5-7 | drafted | 1,985 |
+| 4 | [The Northern Kurus](../novel/book-06-bhishma/04-the-northern-kurus.md) | 6.8-9 | drafted | 1,106 |
+| 5 | [The Land of Bharata](../novel/book-06-bhishma/05-the-land-of-bharata.md) | 6.10 | drafted | 1,432 |
+| 6 | [The Outer Islands](../novel/book-06-bhishma/06-the-outer-islands.md) | 6.11-13 | drafted | 2,181 |
 
-*Book 6 so far: 5,176 words.*
+*Book 6 so far: 9,895 words.*

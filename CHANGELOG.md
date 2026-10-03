@@ -6,6 +6,20 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
+### Novel: Book 6 (Bhishma Parva) begun, chapters 1–6 (CE 6.1–13)
+- The rules of war, Vyasa's gift of divine sight to Sanjaya, the omens and the
+  signs of victory, and Sanjaya's account of the earth (the Jambukhanda and
+  Bhumi sub-parvas): Sudarshana, Meru, the Northern Kurus, the rivers and
+  peoples of Bharata, and the outer islands.
+- Ledger: L-185 (the rules of war), L-186 (Sanjaya's sight), L-187 (the new
+  moon on the thirteenth).
+- Tools: `style_check.py` accepts `readability: catalogue` in a chapter's front
+  matter, which turns the Flesch and Flesch–Kincaid limits into warnings for
+  chapters that are mostly lists of names (STYLE_GUIDE §10). Used once, for
+  the rivers and peoples of 6.10.
+- Workbook: the Books table in `NOVEL_PLAN.md` repaired, and a Book 5 chapter
+  table added.
+
 ### Novel: Book 5 (Udyoga Parva) complete, chapters 1–64 (CE 5.1–197)
 - The council in Virata's hall, the embassies of Drupada's priest and
   Sanjaya, Vidura's night of counsel and Sanatsujata, the war councils,

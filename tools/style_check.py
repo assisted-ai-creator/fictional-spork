@@ -155,9 +155,16 @@ def check(path: Path, name_flags, watch) -> dict:
               ("fk_grade", fk <= 9, "Flesch-Kincaid grade > 9"),
               ("long_pct", long_pct < 6, "over 6% of sentences exceed 35 words"),
               ("dash_per_1000", dash_rate <= 6, "more than 6 em dashes per 1,000 words")]
-    for _, ok, msg in limits:
+    # A chapter that is mostly a catalogue of names (rivers, peoples) may set
+    # "readability: catalogue" in its front matter: the name-driven Flesch and
+    # Flesch-Kincaid limits are then reported as warnings, not errors.
+    catalogue = re.search(r"^readability:\s*catalogue\s*$", path.read_text(encoding="utf-8").split("<!-- notes -->")[0], re.M)
+    for key, ok, msg in limits:
         if not ok and n_w >= 300:
-            errors.append(f"{path.name}: {msg}")
+            if catalogue and key in ("flesch", "fk_grade"):
+                warnings.append(f"{path.name}: {msg} (catalogue chapter)")
+            else:
+                errors.append(f"{path.name}: {msg}")
     return {"path": path, "metrics": metrics, "errors": errors, "warnings": warnings}
 
 
