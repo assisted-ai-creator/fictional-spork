@@ -2,7 +2,7 @@
 
 # Contents
 
-**324 chapters, 682,696 words.** 324 drafted
+**331 chapters, 696,194 words.** 331 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -368,5 +368,12 @@
 | 27 | [Three Kinds of Faith](../novel/book-06-bhishma/27-three-kinds-of-faith.md) | 6.39 | drafted | 653 |
 | 28 | [Take Refuge in Me Alone](../novel/book-06-bhishma/28-take-refuge-in-me-alone.md) | 6.40 | drafted | 1,836 |
 | 29 | [The Blessings of the Elders](../novel/book-06-bhishma/29-the-blessings-of-the-elders.md) | 6.41 | drafted | 2,284 |
+| 30 | [The First Clash](../novel/book-06-bhishma/30-the-first-clash.md) | 6.42-43 | drafted | 2,215 |
+| 31 | [Uttara Falls](../novel/book-06-bhishma/31-uttara-falls.md) | 6.44-45 | drafted | 2,167 |
+| 32 | [The Heron Array](../novel/book-06-bhishma/32-the-heron-array.md) | 6.46-47 | drafted | 1,770 |
+| 33 | [Bhishma and Arjuna](../novel/book-06-bhishma/33-bhishma-and-arjuna.md) | 6.48-49 | drafted | 2,199 |
+| 34 | [Bhima and the Kalingas](../novel/book-06-bhishma/34-bhima-and-the-kalingas.md) | 6.50 | drafted | 2,364 |
+| 35 | [The Garuda Array](../novel/book-06-bhishma/35-the-garuda-array.md) | 6.51-52 | drafted | 1,216 |
+| 36 | [Duryodhana Taunts Bhishma](../novel/book-06-bhishma/36-duryodhana-taunts-bhishma.md) | 6.53-54 | drafted | 1,567 |
 
-*Book 6 so far: 35,803 words.*
+*Book 6 so far: 49,301 words.*
