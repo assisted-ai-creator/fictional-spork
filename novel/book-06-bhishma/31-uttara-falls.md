@@ -212,6 +212,7 @@ bull of the Bharatas."
 **Divergences.**
 
 * **Uttara's death.** Virata's son Uttara is killed by Shalya's spear on the first day (6.45.35–41). Ledger L-191.
+* **Shveta.** The vulgate's long episode of Virata's son Shveta fighting Bhishma is only in Appendix I No. 4. In the CE it is Shankha who attacks Shalya. Ledger L-192.
 * Rejected lines (\*141–\*152) add detail. Not narrated.
 
 **Choices.**
