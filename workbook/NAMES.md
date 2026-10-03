@@ -58,7 +58,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Angachuda** | Aṅgacūḍa | named in Kubera's hall (2.10) |  |  |  |
 | **Angaraka** | Aṅgāraka | named in Brahma's hall (2.11); also one of the twelve Sauvira princes who follow Jayadratha; killed by Arjuna |  |  |  |
 | **Angiras** | Aṅgiras | named in Brahma's hall (2.11) |  |  |  |
-| **Aparajita** | Aparājita | a king Drupada names among the allies to send for |  |  |  |
+| **Aparajita** | Aparājita | a king Drupada names among the allies to send for; also a son of Dhritarashtra, killed by Bhima on the eighth day (6.84.14) |  |  |  |
 | **Aripranut** | Aripraṇut | named in Yama's hall (2.8) |  |  |  |
 | **Arishta** | Ariṣṭa | named in Yama's hall (2.8) |  |  |  |
 | **Arishtanemi** | Ariṣṭanemi | named in Yama's hall (2.8) |  |  |  |
@@ -432,8 +432,10 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Amba** | Ambā | eldest princess of Kashi, carried off by Bhishma |  |  |  |
 | **Subandhu** | Subandhu | king of Kashi, defeated by Bhima |  |  |  |
 | **Suvarnavarman** | Suvarṇavarman | king of Kashi, Vapushtama's father |  |  |  |
+| **Adityaketu** | Ādityaketu | a son of Dhritarashtra, killed by Bhima on the eighth day |  |  |  |
 | **Alolupa** | Alolupa | a son of Dhritarashtra |  |  |  |
 | **Bahushali** | Bāhuśālin | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  | Bahushalin |
+| **Bahvashin** | Bahvāśin | a son of Dhritarashtra, killed by Bhima on the eighth day |  |  |  |
 | **Balaki** | Balākin | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Bhimabahu** | Bhīmabāhu | a son of Dhritarashtra, killed by Bhima on the fourth day |  |  |  |
 | **Bhimavegadhara** | Bhīmavegadhara | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
@@ -452,9 +454,12 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Dushpradharshana** | Duṣpradharṣaṇa | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Kanakadhvaja** | Kanakadhvaja | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Kanakayu** | Kanakāyu | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Kundadhara** | Kuṇḍadhāra | a son of Dhritarashtra, killed by Bhima on the eighth day |  |  |  |
 | **Kundaja** | Kuṇḍaja | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Mahodara** | Mahodara | a son of Dhritarashtra, killed by Bhima on the eighth day |  |  |  |
 | **Nanda** | Nanda | a son of Dhritarashtra |  |  |  |
 | **Nandaka** | Nandaka | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Panditaka** | Paṇḍitaka | a son of Dhritarashtra, killed by Bhima on the eighth day |  |  |  |
 | **Purochana** | Purocana | Duryodhana's minister who built the house of lac at Varanavata |  |  |  |
 | **Saha** | Saha | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice; also an apsaras (3.44.30) |  |  |  |
 | **Sama** | Sama | a son of Dhritarashtra |  |  |  |
@@ -466,6 +471,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Suchitra** | Sucitra | a son of Dhritarashtra |  |  |  |
 | **Sukundala** | Sukuṇḍala | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Sulochana** | Sulocana | a son of Dhritarashtra, killed by Bhima on the fourth day |  |  |  |
+| **Sunabha** | Sunābha | a son of Dhritarashtra, killed by Bhima on the eighth day |  |  |  |
 | **Suvarma** | Suvarman | a son of Dhritarashtra |  |  |  |
 | **Ugrayudha** | Ugrāyudha | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Upanandaka** | Upanandaka | a son of Dhritarashtra |  |  |  |
@@ -988,7 +994,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Upakichakas** | Upakīcaka | Kichaka's hundred and five younger brothers, killed by Bhima when they try to burn the sairandhri on his pyre | the Upakichaka, the Kichakas |  | Upakeechaka |
 | **Vaiyaghrapadya** | Vaiyāghrapadya | the brahmin clan Yudhishthira claims as Kanka |  |  |  |
 | **Vijaya** | Vijaya | one of the five secret names Yudhishthira gives the Pandavas in Virata's city (4.5.30) |  |  |  |
-| **Vishalaksha** | Viśālākṣa | a Matsya chariot fighter; the word may be an epithet ("large-eyed") |  |  |  |
+| **Vishalaksha** | Viśālākṣa | a Matsya chariot fighter; the word may be an epithet ("large-eyed"); also a son of Dhritarashtra, killed by Bhima on the eighth day (6.84.14) |  |  |  |
 | **Akrura** | Akrūra | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Anadhrishti** | Anādhṛṣṭi | a Vrishni hero who comes to Indraprastha with Krishna |  |  |  |
 | **Anakadundubhi** | Ānakadundubhi | Vasudeva, Krishna's father |  |  |  |

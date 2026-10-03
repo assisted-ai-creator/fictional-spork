@@ -206,6 +206,7 @@ well-known story. See [How to add an entry](#how-to-add-an-entry).
 | L-194 | Arjuna **spares Ashvatthama** in battle out of respect for his teacher. | ✅ | 6.69.13–15: "This is my teacher's son ... and a brahmin besides." He takes pity on him and fights others. | |
 | L-195 | Bhishma gives the wounded Duryodhana a **healing herb**. | ✅ | 6.77.10: after promising to fight, he gives him "a fine and potent herb that draws out arrows" (*viśalyakaraṇī oṣadhi*), and Duryodhana is freed of his arrows. | |
 | L-196 | **Virata's son Shankha** is killed by Drona on the seventh day, beside his father. | ✅ | 6.78.18–23: Virata, his chariot destroyed, climbs onto Shankha's chariot; Drona's arrow splits Shankha's heart and Virata flees. Of Virata's sons in the CE, Uttara falls on day 1 (L-191) and Shankha on day 7. | |
+| L-197 | **Bhima kills Dhritarashtra's sons** a few at a time during Bhishma's command. | ✅ | Day 4: eight (Senapati, Jalasandha, Sushena, Ugra, Bhimabahu, Bhima, Bhimaratha, Sulochana; 6.60.27–32). Day 8: Sunabha and seven more (Aparajita, Kundadhara, Panditaka, Vishalaksha, Mahodara, Adityaketu, Bahvashin; 6.84.12–28). The rest flee, believing his vow in the assembly hall (6.84.29). | |
 
 ## G. After the war
 

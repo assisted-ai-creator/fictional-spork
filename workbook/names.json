@@ -10068,7 +10068,7 @@
    "name": "Vishalaksha",
    "iast": "Viśālākṣa",
    "group": "Virata",
-   "who": "a Matsya chariot fighter; the word may be an epithet (\"large-eyed\")",
+   "who": "a Matsya chariot fighter; the word may be an epithet (\"large-eyed\"); also a son of Dhritarashtra, killed by Bhima on the eighth day (6.84.14)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -10248,7 +10248,7 @@
    "name": "Aparajita",
    "iast": "Aparājita",
    "group": "Catalogue",
-   "who": "a king Drupada names among the allies to send for",
+   "who": "a king Drupada names among the allies to send for; also a son of Dhritarashtra, killed by Bhima on the eighth day (6.84.14)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -11013,6 +11013,66 @@
    "dialogue": [],
    "flag": [],
    "ref": "6.75.22"
+  },
+  {
+   "name": "Sunabha",
+   "iast": "Sunābha",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, killed by Bhima on the eighth day",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.84.12"
+  },
+  {
+   "name": "Adityaketu",
+   "iast": "Ādityaketu",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, killed by Bhima on the eighth day",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.84.14"
+  },
+  {
+   "name": "Bahvashin",
+   "iast": "Bahvāśin",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, killed by Bhima on the eighth day",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.84.14"
+  },
+  {
+   "name": "Kundadhara",
+   "iast": "Kuṇḍadhāra",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, killed by Bhima on the eighth day",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.84.14"
+  },
+  {
+   "name": "Mahodara",
+   "iast": "Mahodara",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, killed by Bhima on the eighth day",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.84.14"
+  },
+  {
+   "name": "Panditaka",
+   "iast": "Paṇḍitaka",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, killed by Bhima on the eighth day",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.84.14"
   }
  ],
  "not_vyasa": [
