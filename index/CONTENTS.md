@@ -2,7 +2,7 @@
 
 # Contents
 
-**367 chapters, 761,141 words.** 367 drafted
+**368 chapters, 762,623 words.** 368 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -411,5 +411,6 @@
 | 70 | [Like Rain to a Man in the Heat](../novel/book-06-bhishma/70-like-rain-to-a-man-in-the-heat.md) | 6.112 | drafted | 2,802 |
 | 71 | [Shatanika Falls](../novel/book-06-bhishma/71-shatanika-falls.md) | 6.113 | drafted | 1,027 |
 | 72 | [The Fall of Bhishma](../novel/book-06-bhishma/72-the-fall-of-bhishma.md) | 6.114 | drafted | 2,466 |
+| 73 | [The Pillow of Arrows](../novel/book-06-bhishma/73-the-pillow-of-arrows.md) | 6.115 | drafted | 1,482 |
 
-*Book 6 so far: 114,248 words.*
+*Book 6 so far: 115,730 words.*
