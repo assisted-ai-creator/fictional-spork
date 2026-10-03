@@ -51,7 +51,7 @@ fighter, will range like Time in the enemy's force, king. His fighters, king of
 kings, in bright armour and weapons, will range in battle killing your enemies.
 Vrishasena, Karna's son, a great chariot fighter, the foremost of your chariot
 fighters and the best of the strong, will burn up your enemies' forces.
-Jalasamdha of great energy, king, a fine chariot fighter of yours, of Magadha,
+Jalasandha of great energy, king, a fine chariot fighter of yours, of Magadha,
 slayer of enemy heroes, will give up his life in battle. He will fight in
 battle, strong-armed one, skilled on an elephant's neck or on a chariot, wasting
 the enemy host. I think that bull among men a ratha, great king. He will give up
@@ -211,7 +211,7 @@ remembered the Pandavas' old power as they had seen it with their own eyes."
 | Scene | CE |
 |-------|----|
 | Shakuni, Ashvatthama, Drona | 5.164.1–18 |
-| The Paurava, Satyavrata, Vrishasena, Jalasamdha, Bahlika, Satyavat, Alayudha, Bhagadatta | 5.164.19–38 |
+| The Paurava, Satyavrata, Vrishasena, Jalasandha, Bahlika, Satyavat, Alayudha, Bhagadatta | 5.164.19–38 |
 | Achala and Vrishaka; Karna "half a chariot fighter"; Drona agrees | 5.165.1–8 |
 | Karna's anger and vow | 5.165.9–27 |
 | Bhishma's answer; Duryodhana asks about the Pandavas | 5.166.1–15 |

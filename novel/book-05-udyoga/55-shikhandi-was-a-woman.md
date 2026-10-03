@@ -46,7 +46,7 @@ Bharata, I think an atiratha, king, Drona's pupil, a great chariot fighter. He
 will fight in battle, slaying the enemy, like the blessed god who holds the
 Pinaka bow in his anger at the end of the age. Those who love battle say his
 line of chariots is like the sea, it is so large, like the gods' in battle. But
-Kshatradharman, king of kings, Dhrishtadyumna's son, I think half a ratha, king.
+Kshatradharma, king of kings, Dhrishtadyumna's son, I think half a ratha, king.
 He is a child and has not trained enough.
 
 "'Shishupala's son, the hero, the Chedi king, the great chariot fighter
@@ -129,7 +129,7 @@ king.'"
 | Scene | CE |
 |-------|----|
 | Draupadi's sons, Uttara, Abhimanyu, Satyaki, Uttamaujas, Yudhamanyu; Virata and Drupada | 5.167.1–14 |
-| Shikhandi, Dhrishtadyumna, Kshatradharman, Dhrishtaketu and the rest | 5.168.1–25 |
+| Shikhandi, Dhrishtadyumna, Kshatradharma, Dhrishtaketu and the rest | 5.168.1–25 |
 | Rochamana, Kuntibhoja, Ghatotkacha; Bhishma will fight them all | 5.169.1–15 |
 | Bhishma will not kill Shikhandi, who was a woman | 5.169.16–21 |
 
@@ -143,7 +143,7 @@ king.'"
 
 * 5.167.10–14: hard verses on Virata's and Drupada's kinship and loyalty; the rendering follows their words.
 * 5.168.2 *nāśayan pūrvasaṃsthitim*: Shikhandi will fight "destroying his former state", that is, his birth as a girl.
-* 5.168.7 *kṣatradharmā*: Kshatradharman, Dhrishtadyumna's son.
+* 5.168.7 *kṣatradharmā*: Kshatradharma, Dhrishtadyumna's son.
 * 5.168.14: the names of the kings are kept as listed; the text's grouping is unclear.
 * 5.168.19: Senabindu "also named Krodhahanta".
 * 5.169.12 *saṃdhyāgatāv ivārkendū*: "like the sun and moon come together at twilight".

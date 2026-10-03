@@ -165,7 +165,7 @@ the western quarter, crowded with hosts of mlecchas. The Pandavas have come
 against you with that handsome hero, the great bowman, Madri's son, Kaurava.
 Sahadeva conquered the Kashis, the Angas, the Magadhas and the Kalingas in
 battle. The Pandavas have come against you with him. Only four men on earth are
-his equal in courage: Ashvatthama, Dhrishtaketu, Pradyumna and Rukmi. The
+his equal in courage: Ashvatthama, Dhrishtaketu, Pradyumna and Rukmin. The
 Pandavas have come against you with that Sahadeva, the youngest, the hero among
 men, who brings joy to Madri.
 

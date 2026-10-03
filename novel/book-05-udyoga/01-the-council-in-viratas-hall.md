@@ -194,7 +194,7 @@ Brihadbala, great in strength, and Bahu, conqueror of enemy cities, and to King
 Samudrasena with his mighty son. Send to Adari and Nadija and King Karnaveshta,
 to Samartha and Suvira, Marjara and Kanyaka, to Mahavira and Kadru, Nikara,
 Tumula and Kratha, to Nila and Viradharman and mighty Bhumipala. Send to Durjaya
-and Dantavaktra, to Rukmi and Janamejaya, to Ashadha and Vayuvega and King
+and Dantavaktra, to Rukmin and Janamejaya, to Ashadha and Vayuvega and King
 Purvapali, to Bhuriteja and Devaka and the son of Ekalavya, to the kings of the
 Karushas and mighty Kshemadhurti. Send to Udbhava and Kshemaka and King
 Vatadhana, to Shrutayu and Dridhayu and the mighty son of Shalva, and to the

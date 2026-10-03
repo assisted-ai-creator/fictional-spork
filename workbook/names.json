@@ -3073,7 +3073,7 @@
    "name": "Jalasandha",
    "iast": "Jalasaṃdha",
    "group": "Suitor",
-   "who": "a king named among the suitors at Draupadi's bridegroom choice",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice; also a Magadha king on the Kaurava side (5.164.24)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -7395,10 +7395,12 @@
    "name": "Rukmin",
    "iast": "Rukmin",
    "group": "Bhoja",
-   "who": "son of Bhishmaka, king at Bhojakata",
+   "who": "son of Bhishmaka, king at Bhojakata; offers his help to both sides and is refused (5.155)",
    "aka": [],
    "dialogue": [],
-   "flag": [],
+   "flag": [
+    "Rukmi"
+   ],
    "ref": "2.28.40"
   },
   {
@@ -10709,6 +10711,66 @@
    "dialogue": [],
    "flag": [],
    "ref": "5.139.27"
+  },
+  {
+   "name": "Hiranyavarma",
+   "iast": "Hiraṇyavarman",
+   "group": "King",
+   "who": "king of the Dasharnas, whose daughter is married to Shikhandi; also called Hemavarma",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.190.10"
+  },
+  {
+   "name": "Shaikhavatya",
+   "iast": "Śaikhāvatya",
+   "group": "Seer",
+   "who": "brahmin ascetic who shelters Amba",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.173.11"
+  },
+  {
+   "name": "Alayudha",
+   "iast": "Alāyudha",
+   "group": "Rakshasa",
+   "who": "lord of rakshasas on the Kaurava side",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.164.33"
+  },
+  {
+   "name": "Kshatradharma",
+   "iast": "Kṣatradharman",
+   "group": "Panchala",
+   "who": "son of Dhrishtadyumna",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.168.7"
+  },
+  {
+   "name": "Vyaghradatta",
+   "iast": "Vyāghradatta",
+   "group": "Catalogue",
+   "who": "chariot fighter on the Pandava side",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.168.18"
+  },
+  {
+   "name": "Satyaratha",
+   "iast": "Satyaratha",
+   "group": "Trigarta",
+   "who": "eldest of the five Trigarta brothers",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "5.163.11"
   }
  ],
  "not_vyasa": [

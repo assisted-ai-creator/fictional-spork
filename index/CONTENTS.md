@@ -2,7 +2,7 @@
 
 # Contents
 
-**291 chapters, 640,455 words.** 291 drafted
+**295 chapters, 646,893 words.** 295 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -318,7 +318,7 @@
 | 48 | [The Pandavas March](../novel/book-05-udyoga/48-the-pandavas-march.md) | 5.149 | drafted | 1,838 |
 | 49 | [The Eleven Armies](../novel/book-05-udyoga/49-the-eleven-armies.md) | 5.150-152 | drafted | 1,690 |
 | 50 | [Bhishma Takes Command](../novel/book-05-udyoga/50-bhishma-takes-command.md) | 5.153-154 | drafted | 1,460 |
-| 51 | [Rukmi](../novel/book-05-udyoga/51-rukmi.md) | 5.155-156 | drafted | 1,164 |
+| 51 | [Rukmin](../novel/book-05-udyoga/51-rukmin.md) | 5.155-156 | drafted | 1,164 |
 | 52 | [Uluka's Message](../novel/book-05-udyoga/52-ulukas-message.md) | 5.157-160 | drafted | 2,262 |
 | 53 | [The Count of Chariot Fighters](../novel/book-05-udyoga/53-the-count-of-chariot-fighters.md) | 5.161-163 | drafted | 1,454 |
 | 54 | [Half a Chariot Fighter](../novel/book-05-udyoga/54-half-a-chariot-fighter.md) | 5.164-166 | drafted | 2,401 |
@@ -328,5 +328,9 @@
 | 58 | [Rama Challenges Bhishma](../novel/book-05-udyoga/58-rama-challenges-bhishma.md) | 5.178-179 | drafted | 1,584 |
 | 59 | [The Duel at Kurukshetra](../novel/book-05-udyoga/59-the-duel-at-kurukshetra.md) | 5.180-182 | drafted | 2,079 |
 | 60 | [The Sleeping Weapon](../novel/book-05-udyoga/60-the-sleeping-weapon.md) | 5.183-186 | drafted | 2,214 |
+| 61 | [Amba's Austerity](../novel/book-05-udyoga/61-ambas-austerity.md) | 5.187-188 | drafted | 1,326 |
+| 62 | [Shikhandini](../novel/book-05-udyoga/62-shikhandini.md) | 5.189-191 | drafted | 1,323 |
+| 63 | [Sthunakarna](../novel/book-05-udyoga/63-sthunakarna.md) | 5.192-193 | drafted | 2,117 |
+| 64 | [How Long](../novel/book-05-udyoga/64-how-long.md) | 5.194-197 | drafted | 1,672 |
 
-*Book 5 so far: 135,365 words.*
+*Book 5 so far: 141,803 words.*

@@ -6,16 +6,22 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
-### Novel: Book 5 (Udyoga Parva), chapters 1–47 drafted (CE 5.1–148)
+### Novel: Book 5 (Udyoga Parva) complete, chapters 1–64 (CE 5.1–197)
 - The council in Virata's hall, the embassies of Drupada's priest and
   Sanjaya, Vidura's night of counsel and Sanatsujata, the war councils,
   Krishna's embassy to Hastinapura with the tales of Dambhodbhava, Matali and
   Galava, the cosmic form in the Kuru hall, Kunti's message and the story of
   Vidura and her son, Krishna and Karna, Kunti and Karna, and Krishna's report
-  at Upaplavya. Each chapter has a source map and notes on rejected passages.
-- Ledger: L-171 to L-178 (the choosing of Krishna, Shalya's trick, Nahusha's
+  at Upaplavya, the march to Kurukshetra, Uluka's embassy, Bhishma's count of
+  chariot fighters, and the story of Amba and Shikhandi (5.170–193) with the
+  duel of Bhishma and Rama. Book 5 now covers all 197 adhyayas. Each chapter
+  has a source map and notes on rejected passages.
+- Ledger: L-171 to L-184 (the choosing of Krishna, Shalya's trick, Nahusha's
   curse, the five villages, the needle's point, Karna's vow, Dhritarashtra's
-  sight, Krishna's offer to Karna); L-19 extended.
+  sight, Krishna's offer to Karna, Balarama's pilgrimage, the half chariot
+  fighter, Shikhandi, Amba and Shalva, Bhishma and Rama, Amba's boon); L-19
+  extended.
+- Spelling: "Rukmi" normalised to the house form "Rukmin" and flagged.
 - Names: about 75 new people in `workbook/names.json`, among them the Galava
   story (Madhavi, Haryashva, Shandili, Gunakeshi, Sumukha) and the kshatriya
   mother Vidura, kept apart from the steward.

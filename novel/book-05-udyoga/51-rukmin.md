@@ -1,17 +1,17 @@
 ---
 book: 5
 chapter: 51
-title: Rukmi
+title: Rukmin
 ce: [5.155-156]
 status: drafted
-summary: Rukmi, son of Bhishmaka, who holds the heavenly bow Vijaya and once swore to kill Krishna for carrying off his sister Rukmini, comes to the Pandavas with an army and offers to help Arjuna if he is afraid; Arjuna laughs and lists the battles he fought alone, and Rukmi, refused, goes to Duryodhana and is refused there too, so that he and Balarama alone stay out of the war; Dhritarashtra asks Sanjaya to tell him everything, and Sanjaya says the fault is the king's own.
+summary: Rukmin, son of Bhishmaka, who holds the heavenly bow Vijaya and once swore to kill Krishna for carrying off his sister Rukmini, comes to the Pandavas with an army and offers to help Arjuna if he is afraid; Arjuna laughs and lists the battles he fought alone, and Rukmin, refused, goes to Duryodhana and is refused there too, so that he and Balarama alone stay out of the war; Dhritarashtra asks Sanjaya to tell him everything, and Sanjaya says the fault is the king's own.
 ---
 
-# Rukmi
+# Rukmin
 
 At that very time the son of great Bhishmaka came, famous in every quarter as
-Rukmi. His father was Hiranyaloman, a king who was a friend of Indra himself,
-lord of the Akritis, the very famous Bhoja, lord of the south. Rukmi had been
+Rukmin. His father was Hiranyaloman, a king who was a friend of Indra himself,
+lord of the Akritis, the very famous Bhoja, lord of the south. Rukmin had been
 the pupil of the lion of the kimpurushas who lived on Gandhamadana, and had
 learned the whole science of the bow with its four parts. The strong-armed one
 had won the great Indra's bow, equal to Gandiva in power and matched with
@@ -20,13 +20,13 @@ Sharnga, heavenly and imperishable.
 There are only three heavenly bows of those who move in the sky: Varuna's
 Gandiva, the great Indra's bow Vijaya, and Sharnga, which they call Vishnu's, a
 heavenly bow full of splendour. Krishna carried it, and it brought fear to enemy
-armies. Indra's son won Gandiva from the fire at Khandava. Rukmi of great energy
-won Vijaya from Druma. Hrishikesha won the excellent bow Sharnga when he had cut
-the nooses of Muru, killed Muru by his strength, beaten Naraka son of the earth
-and brought back the jewelled earrings, with sixteen thousand women and jewels
-of many kinds.
+armies. Indra's son won Gandiva from the fire at Khandava. Rukmin of great
+energy won Vijaya from Druma. Hrishikesha won the excellent bow Sharnga when he
+had cut the nooses of Muru, killed Muru by his strength, beaten Naraka son of
+the earth and brought back the jewelled earrings, with sixteen thousand women
+and jewels of many kinds.
 
-Rukmi, having won the bow Vijaya, which thundered like a cloud, came to the
+Rukmin, having won the bow Vijaya, which thundered like a cloud, came to the
 Pandavas, as if to frighten the world. Long before, proud of the strength of his
 arms, that hero had not borne it when wise Vasudeva carried off Rukmini. He had
 made a vow, "I will not turn back until I have killed Keshava," and set off
@@ -69,10 +69,10 @@ even to the wielder of the thunderbolt himself? I am not afraid, strong-armed
 one, and I have no need of help. Go, or stay elsewhere, as you wish and as suits
 you."
 
-Then Rukmi turned back his army, which was like the ocean, and went to
+Then Rukmin turned back his army, which was like the ocean, and went to
 Duryodhana in the same way, bull of the Bharatas. He went to him and spoke to
 him in the same way, and was refused by him too, who thought himself a hero. So
-only two left that war, great king: Rohini's son the Varshneya, and King Rukmi.
+only two left that war, great king: Rohini's son the Varshneya, and King Rukmin.
 When Rama had gone on his pilgrimage, and Bhishmaka's son as well, the Pandavas
 sat down again to take counsel. The council of the King of Dharma, crowded with
 kings, shone like the sky bright with stars and the moon, Bharata.
@@ -115,10 +115,10 @@ three ways.'"
 
 | Scene | CE |
 |-------|----|
-| Rukmi and the three heavenly bows | 5.155.1–9 |
-| Rukmi's old vow against Krishna; Bhojakata | 5.155.10–16 |
-| Rukmi offers help; Arjuna refuses | 5.155.17–33 |
-| Duryodhana refuses him too; only Rama and Rukmi stay out | 5.155.34–38 |
+| Rukmin and the three heavenly bows | 5.155.1–9 |
+| Rukmin's old vow against Krishna; Bhojakata | 5.155.10–16 |
+| Rukmin offers help; Arjuna refuses | 5.155.17–33 |
+| Duryodhana refuses him too; only Rama and Rukmin stay out | 5.155.34–38 |
 | Dhritarashtra asks Sanjaya; Sanjaya blames the king | 5.156.1–15 |
 
 **Divergences.**
@@ -131,7 +131,7 @@ three ways.'"
 * 5.155.1–2: Bhishmaka is called Hiranyaloman, "golden-haired", and lord of the Akritis; the text joins these titles to him.
 * 5.155.3 *catuṣpādam*: the science of the bow "with its four parts".
 * 5.155.5: Gandiva is called Varuna's bow; Vijaya Indra's; Sharnga Vishnu's.
-* 5.155.7 *drumāt*: Rukmi won Vijaya "from Druma", the kimpurusha lord named above.
+* 5.155.7 *drumāt*: Rukmin won Vijaya "from Druma", the kimpurusha lord named above.
 * 5.155.8: Muru's nooses, Naraka and the earrings are Krishna's deeds, named here in passing.
 * 5.156.14 *dāruyantravat*: "like a wooden puppet".
 * 5.156.15: "It is pulled three ways" renders *traidham etad vikṛṣyate*.
