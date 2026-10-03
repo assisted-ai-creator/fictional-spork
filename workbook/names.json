@@ -1363,7 +1363,7 @@
    "name": "Supratika",
    "iast": "Supratīka",
    "group": "Seer",
-   "who": "Vibhavasu's younger brother, who wanted their wealth divided; becomes the elephant",
+   "who": "Vibhavasu's younger brother, who wanted their wealth divided; becomes the elephant; also Bhagadatta's elephant (6.91.23)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -11073,6 +11073,16 @@
    "dialogue": [],
    "flag": [],
    "ref": "6.84.14"
+  },
+  {
+   "name": "Chitraketu",
+   "iast": "Citraketu",
+   "group": "Pandava ally",
+   "who": "a Chedi king on the Pandava side",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.91.39"
   }
  ],
  "not_vyasa": [

@@ -2,7 +2,7 @@
 
 # Contents
 
-**351 chapters, 732,036 words.** 351 drafted
+**352 chapters, 733,678 words.** 352 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -395,5 +395,6 @@
 | 54 | [Iravan](../novel/book-06-bhishma/54-iravan.md) | 6.85-86 | drafted | 2,588 |
 | 55 | [Ghatotkacha and Duryodhana](../novel/book-06-bhishma/55-ghatotkacha-and-duryodhana.md) | 6.87-88 | drafted | 1,415 |
 | 56 | [Ghatotkacha's Illusion](../novel/book-06-bhishma/56-ghatotkachas-illusion.md) | 6.89-90 | drafted | 1,760 |
+| 57 | [Bhagadatta and Supratika](../novel/book-06-bhishma/57-bhagadatta-and-supratika.md) | 6.91 | drafted | 1,642 |
 
-*Book 6 so far: 85,143 words.*
+*Book 6 so far: 86,785 words.*

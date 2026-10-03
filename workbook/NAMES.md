@@ -691,6 +691,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sutasoma** | Sutasoma | son of Draupadi and Bhima |  |  |  |
 | **Vishoka** | Viśoka | a servant of Yudhishthira who sees to the food at the Rajasuya; also named as a charioteer, leading the others when they rejoin the Pandavas at Subahu's city (3.174.14) |  |  |  |
 | **Yudhishthira** | Yudhiṣṭhira | eldest son of Kunti, by Dharma; the dharma king | Ajatashatru, Dharmaraja, Kaunteya, Partha | Ajatashatru | Yudhistira, Yudhishtira, Yudhisthira, Yudhishthir, Yudhisthir |
+| **Chitraketu** | Citraketu | a Chedi king on the Pandava side |  |  |  |
 | **Vishvagashva** | Viṣvagaśva | a Paurava king defeated by Arjuna; also an Ikshvaku, son of Prithu (3.193.3) |  |  |  |
 | **Haihayas** | Haihaya | a line of kings; a Haihaya prince kills Tarkshya's son by mistake (3.182) |  |  |  |
 | **Ajamidha** | Ajamīḍha | an ancestor of the Kurus; Kuru kings are called Ajamidhas after him |  |  |  |
@@ -905,7 +906,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Sujata** | Sujātā | Uddalaka's daughter, mother of Ashtavakra |  |  |  |
 | **Sumantu** | Sumantu | a seer present in Yudhishthira's hall |  |  |  |
 | **Sumukha** | Sumukha | a seer present in Yudhishthira's hall; also naga, Aryaka's grandson, chosen as Gunakeshi's husband (5.101) |  |  |  |
-| **Supratika** | Supratīka | Vibhavasu's younger brother, who wanted their wealth divided; becomes the elephant |  |  |  |
+| **Supratika** | Supratīka | Vibhavasu's younger brother, who wanted their wealth divided; becomes the elephant; also Bhagadatta's elephant (6.91.23) |  |  |  |
 | **Susaman** | Susāman | the Sama singer at the Rajasuya, of the Dhananjaya family |  |  |  |
 | **Sutyapala** | Sutyapāla | a seer present in Yudhishthira's hall |  |  |  |
 | **Suvak** | Suvāk | a seer who honours Yudhishthira at Dvaitavana |  |  |  |
