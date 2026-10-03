@@ -945,7 +945,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Kritin** | Kṛtin | king of the Shukaras, who brought elephants to the Rajasuya |  |  |  |
 | **Abhibhu** | Abhibhū | a king named among the suitors at Draupadi's bridegroom choice; also son of the Kashi king, on the Pandava side (6.89.12) |  |  |  |
 | **Amshuman** | Aṃśumat | a king named among the suitors at Draupadi's bridegroom choice |  |  | Amshumat |
-| **Bahlika** | Bāhlika | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Bahlika** | Bāhlika | a king named among the suitors at Draupadi's bridegroom choice; also Pratipa's son, Shantanu's brother (1.90.46), the old king who fights for the Kauravas |  |  |  |
 | **Bhagadatta** | Bhagadatta | a mighty king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Bhagiratha** | Bhagīratha | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Bhoja** | Bhoja | a warrior paired with Ashvatthama among the suitors at Draupadi's bridegroom choice |  |  |  |

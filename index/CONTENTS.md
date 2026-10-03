@@ -2,7 +2,7 @@
 
 # Contents
 
-**356 chapters, 740,783 words.** 356 drafted
+**357 chapters, 742,479 words.** 357 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -400,5 +400,6 @@
 | 59 | [Enough Proof](../novel/book-06-bhishma/59-enough-proof.md) | 6.93-94 | drafted | 1,374 |
 | 60 | [Guard Bhishma](../novel/book-06-bhishma/60-guard-bhishma.md) | 6.95-96 | drafted | 2,187 |
 | 61 | [The Sun Weapon](../novel/book-06-bhishma/61-the-sun-weapon.md) | 6.97-98 | drafted | 1,987 |
+| 62 | [The River to Yama's City](../novel/book-06-bhishma/62-the-river-to-yamas-city.md) | 6.99-100 | drafted | 1,696 |
 
-*Book 6 so far: 93,890 words.*
+*Book 6 so far: 95,586 words.*
