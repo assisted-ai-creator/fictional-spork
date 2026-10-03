@@ -2,7 +2,7 @@
 
 # Contents
 
-**334 chapters, 702,403 words.** 334 drafted
+**335 chapters, 704,704 words.** 335 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -378,5 +378,6 @@
 | 37 | [Krishna Takes Up the Discus](../novel/book-06-bhishma/37-krishna-takes-up-the-discus.md) | 6.55 | drafted | 3,350 |
 | 38 | [The Son of Samyamani](../novel/book-06-bhishma/38-the-son-of-samyamani.md) | 6.56-57 | drafted | 1,634 |
 | 39 | [Bhima Among the Elephants](../novel/book-06-bhishma/39-bhima-among-the-elephants.md) | 6.58 | drafted | 1,225 |
+| 40 | [Eight of Your Sons](../novel/book-06-bhishma/40-eight-of-your-sons.md) | 6.59-60 | drafted | 2,301 |
 
-*Book 6 so far: 55,510 words.*
+*Book 6 so far: 57,811 words.*

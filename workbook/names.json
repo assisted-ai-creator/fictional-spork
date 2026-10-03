@@ -382,7 +382,7 @@
    "name": "Bhima",
    "iast": "Bhīma",
    "group": "Pandava",
-   "who": "second son of Kunti, by Vayu the wind; immensely strong; also the name of the king of Vidarbha, Damayanti's father (3.50.5), inside Brihadashva's tale only",
+   "who": "second son of Kunti, by Vayu the wind; immensely strong; also the name of the king of Vidarbha, Damayanti's father (3.50.5), inside Brihadashva's tale only; also a son of Dhritarashtra, killed by Bhima on the fourth day (6.60.25)",
    "aka": [
     "Bhimasena",
     "Vrikodara"
@@ -3075,7 +3075,7 @@
    "name": "Jalasandha",
    "iast": "Jalasaṃdha",
    "group": "Suitor",
-   "who": "a king named among the suitors at Draupadi's bridegroom choice; also a Magadha king on the Kaurava side (5.164.24)",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice; also a Magadha king on the Kaurava side (5.164.24); also a son of Dhritarashtra, killed by Bhima on the fourth day (6.60.24)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -3137,7 +3137,7 @@
    "name": "Sushena",
    "iast": "Suṣeṇa",
    "group": "Suitor",
-   "who": "a king named among the suitors at Draupadi's bridegroom choice; also Valin's father-in-law, a monkey chief",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice; also Valin's father-in-law, a monkey chief; also a son of Dhritarashtra, killed by Bhima on the fourth day (6.60.24)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -4928,7 +4928,7 @@
    "name": "Bhimaratha",
    "iast": "Bhīmaratha",
    "group": "King",
-   "who": "a king present in Yudhishthira's hall",
+   "who": "a king present in Yudhishthira's hall; also a son of Dhritarashtra, killed by Bhima on the fourth day (6.60.25)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -10158,7 +10158,7 @@
    "name": "Ugra",
    "iast": "Ugra",
    "group": "Catalogue",
-   "who": "a king Drupada names among the allies to send for",
+   "who": "a king Drupada names among the allies to send for; also a son of Dhritarashtra, killed by Bhima on the fourth day (6.60.25)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -10783,6 +10783,116 @@
    "dialogue": [],
    "flag": [],
    "ref": "6.57.1"
+  },
+  {
+   "name": "Senapati",
+   "iast": "Senāpati",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, killed by Bhima on the fourth day",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.60.24"
+  },
+  {
+   "name": "Sulochana",
+   "iast": "Sulocana",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, killed by Bhima on the fourth day",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.60.24"
+  },
+  {
+   "name": "Bhimabahu",
+   "iast": "Bhīmabāhu",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, killed by Bhima on the fourth day",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.60.25"
+  },
+  {
+   "name": "Alolupa",
+   "iast": "Alolupa",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.60.25"
+  },
+  {
+   "name": "Dushpradharsha",
+   "iast": "Duṣpradharṣa",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.60.25"
+  },
+  {
+   "name": "Vivitsu",
+   "iast": "Vivitsu",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.60.25"
+  },
+  {
+   "name": "Sama",
+   "iast": "Sama",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.60.25"
+  },
+  {
+   "name": "Alambusa",
+   "iast": "Alambusa",
+   "group": "Rakshasa",
+   "who": "a rakshasa on the Kaurava side, Rishyashringa's son",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.43.39"
+  },
+  {
+   "name": "Anjana",
+   "iast": "Añjana",
+   "group": "Elephant",
+   "who": "an elephant of the quarters, conjured by Ghatotkacha",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.60.51"
+  },
+  {
+   "name": "Vamana",
+   "iast": "Vāmana",
+   "group": "Elephant",
+   "who": "an elephant of the quarters, conjured by Ghatotkacha",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.60.51"
+  },
+  {
+   "name": "Mahapadma",
+   "iast": "Mahāpadma",
+   "group": "Elephant",
+   "who": "an elephant of the quarters, conjured by Ghatotkacha",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.60.51"
   }
  ],
  "not_vyasa": [
