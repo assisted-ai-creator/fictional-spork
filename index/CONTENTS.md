@@ -2,7 +2,7 @@
 
 # Contents
 
-**323 chapters, 680,412 words.** 323 drafted
+**324 chapters, 682,696 words.** 324 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -367,5 +367,6 @@
 | 26 | [The Divine and the Demonic](../novel/book-06-bhishma/26-the-divine-and-the-demonic.md) | 6.38 | drafted | 592 |
 | 27 | [Three Kinds of Faith](../novel/book-06-bhishma/27-three-kinds-of-faith.md) | 6.39 | drafted | 653 |
 | 28 | [Take Refuge in Me Alone](../novel/book-06-bhishma/28-take-refuge-in-me-alone.md) | 6.40 | drafted | 1,836 |
+| 29 | [The Blessings of the Elders](../novel/book-06-bhishma/29-the-blessings-of-the-elders.md) | 6.41 | drafted | 2,284 |
 
-*Book 6 so far: 33,519 words.*
+*Book 6 so far: 35,803 words.*
