@@ -6,13 +6,22 @@ Versions: `0.BOOK.N`, with the minor number tracking the Book being drafted.
 
 ## [Unreleased]
 
-### Novel: Book 6 (Bhishma Parva) begun, chapters 1–6 (CE 6.1–13)
+### Novel: Book 6 (Bhishma Parva) in progress, chapters 1–48 (CE 6.1–75)
 - The rules of war, Vyasa's gift of divine sight to Sanjaya, the omens and the
   signs of victory, and Sanjaya's account of the earth (the Jambukhanda and
   Bhumi sub-parvas): Sudarshana, Meru, the Northern Kurus, the rivers and
   peoples of Bharata, and the outer islands.
+- Sanjaya's return with the news of Bhishma's fall (6.14–15), the arrays, and
+  the whole Bhagavad Gita in eighteen chapters (ch11–28, CE 6.23–40).
+- The first six days of battle (ch29–48, CE 6.41–75): Yudhishthira's visit to
+  his elders, Uttara's death, Bhima and the Kalingas, Krishna taking up the
+  discus on day 3, Bhishma's account to Duryodhana of Brahma's hymn and of
+  Nara and Narayana (6.61–64), Satyaki's ten sons, the bewildering weapon,
+  and Bhima felling Duryodhana's banner.
 - Ledger: L-185 (the rules of war), L-186 (Sanjaya's sight), L-187 (the new
-  moon on the thirteenth).
+  moon on the thirteenth), L-188 to L-194 (the Gita's ten-day delay, the
+  elders' blessings, Uttara and Shveta, Satyaki's sons, Arjuna sparing
+  Ashvatthama); L-36 extended with the tenth step on day 3.
 - Tools: `style_check.py` accepts `readability: catalogue` in a chapter's front
   matter, which turns the Flesch and Flesch–Kincaid limits into warnings for
   chapters that are mostly lists of names (STYLE_GUIDE §10). Used once, for
