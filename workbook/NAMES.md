@@ -466,6 +466,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vivimshati** | Viviṃśati | one of Dhritarashtra's sons |  |  | Vivinsati |
 | **Vivitsu** | Vivitsu | a son of Dhritarashtra |  |  |  |
 | **Yuyutsu** | Yuyutsu | Dhritarashtra's son by a vaishya woman |  |  |  |
+| **Govasana** | Govāsana | a king on the Kaurava side, leading Kamboja chiefs and cowherds |  |  |  |
 | **Samyamani** | Sāṃyamani | a king on the Kaurava side whose son Dhrishtadyumna kills on the fourth day |  |  |  |
 | **Adhiratha** | Adhiratha | the charioteer (suta) who raised Karna |  |  |  |
 | **Jayadratha** | Jayadratha | king of the Sindhus; Duhshala's husband | Saindhava |  |  |
