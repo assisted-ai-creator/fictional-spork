@@ -2,7 +2,7 @@
 
 # Contents
 
-**339 chapters, 710,950 words.** 339 drafted
+**340 chapters, 712,566 words.** 340 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -383,5 +383,6 @@
 | 42 | [Nara and Narayana](../novel/book-06-bhishma/42-nara-and-narayana.md) | 6.62-64 | drafted | 1,953 |
 | 43 | [The Crocodile and the Hawk](../novel/book-06-bhishma/43-the-crocodile-and-the-hawk.md) | 6.65-66 | drafted | 1,091 |
 | 44 | [Satyaki's Charioteer](../novel/book-06-bhishma/44-satyakis-charioteer.md) | 6.67-68 | drafted | 1,487 |
+| 45 | [Satyaki's Ten Sons](../novel/book-06-bhishma/45-satyakis-ten-sons.md) | 6.69-70 | drafted | 1,616 |
 
-*Book 6 so far: 64,057 words.*
+*Book 6 so far: 65,673 words.*
