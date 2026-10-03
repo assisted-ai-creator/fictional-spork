@@ -2,7 +2,7 @@
 
 # Contents
 
-**286 chapters, 630,130 words.** 286 drafted
+**291 chapters, 640,455 words.** 291 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -323,5 +323,10 @@
 | 53 | [The Count of Chariot Fighters](../novel/book-05-udyoga/53-the-count-of-chariot-fighters.md) | 5.161-163 | drafted | 1,454 |
 | 54 | [Half a Chariot Fighter](../novel/book-05-udyoga/54-half-a-chariot-fighter.md) | 5.164-166 | drafted | 2,401 |
 | 55 | [Shikhandi Was a Woman](../novel/book-05-udyoga/55-shikhandi-was-a-woman.md) | 5.167-169 | drafted | 1,307 |
+| 56 | [Amba](../novel/book-05-udyoga/56-amba.md) | 5.170-172 | drafted | 1,328 |
+| 57 | [Amba Seeks Rama](../novel/book-05-udyoga/57-amba-seeks-rama.md) | 5.173-177 | drafted | 3,120 |
+| 58 | [Rama Challenges Bhishma](../novel/book-05-udyoga/58-rama-challenges-bhishma.md) | 5.178-179 | drafted | 1,584 |
+| 59 | [The Duel at Kurukshetra](../novel/book-05-udyoga/59-the-duel-at-kurukshetra.md) | 5.180-182 | drafted | 2,079 |
+| 60 | [The Sleeping Weapon](../novel/book-05-udyoga/60-the-sleeping-weapon.md) | 5.183-186 | drafted | 2,214 |
 
-*Book 5 so far: 125,040 words.*
+*Book 5 so far: 135,365 words.*
