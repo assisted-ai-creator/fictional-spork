@@ -2,7 +2,7 @@
 
 # Contents
 
-**362 chapters, 752,108 words.** 362 drafted
+**363 chapters, 753,972 words.** 363 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -406,5 +406,6 @@
 | 65 | [Shikhandi in Front](../novel/book-06-bhishma/65-shikhandi-in-front.md) | 6.104-105 | drafted | 1,980 |
 | 66 | [The Ring Round Bhishma](../novel/book-06-bhishma/66-the-ring-round-bhishma.md) | 6.106-107 | drafted | 1,998 |
 | 67 | [Drona Reads the Omens](../novel/book-06-bhishma/67-drona-reads-the-omens.md) | 6.108 | drafted | 896 |
+| 68 | [Bhishma Is the Stake](../novel/book-06-bhishma/68-bhishma-is-the-stake.md) | 6.109-110 | drafted | 1,864 |
 
-*Book 6 so far: 105,215 words.*
+*Book 6 so far: 107,079 words.*
