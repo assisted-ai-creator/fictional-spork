@@ -2,7 +2,7 @@
 
 # Contents
 
-**295 chapters, 646,893 words.** 295 drafted
+**298 chapters, 652,069 words.** 298 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -334,3 +334,13 @@
 | 64 | [How Long](../novel/book-05-udyoga/64-how-long.md) | 5.194-197 | drafted | 1,672 |
 
 *Book 5 so far: 141,803 words.*
+
+## Book 6: Bhishma Parva, *Bhishma's Battle*
+
+| # | Chapter | CE | Status | Words |
+|---|---------|----|--------|-------|
+| 1 | [The Rules of War](../novel/book-06-bhishma/01-the-rules-of-war.md) | 6.1-2 | drafted | 1,384 |
+| 2 | [Signs of Victory](../novel/book-06-bhishma/02-signs-of-victory.md) | 6.3-4 | drafted | 1,807 |
+| 3 | [The Island of Sudarshana](../novel/book-06-bhishma/03-the-island-of-sudarshana.md) | 6.5-7 | drafted | 1,985 |
+
+*Book 6 so far: 5,176 words.*
