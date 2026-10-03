@@ -936,7 +936,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Yavakri** | Yavakrī | son of Bharadvaja, who won the Vedas by boon and was killed by Raibhya's demon; also called Yavakrita |  |  |  |
 | **Kshemavriddhi** | Kṣemavṛddhi | Shalva's counsellor and army commander, driven off by Samba |  |  |  |
 | **Kritin** | Kṛtin | king of the Shukaras, who brought elephants to the Rajasuya |  |  |  |
-| **Abhibhu** | Abhibhū | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Abhibhu** | Abhibhū | a king named among the suitors at Draupadi's bridegroom choice; also son of the Kashi king, on the Pandava side (6.89.12) |  |  |  |
 | **Amshuman** | Aṃśumat | a king named among the suitors at Draupadi's bridegroom choice |  |  | Amshumat |
 | **Bahlika** | Bāhlika | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Bhagadatta** | Bhagadatta | a mighty king named among the suitors at Draupadi's bridegroom choice |  |  |  |
@@ -954,11 +954,11 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Jalasandha** | Jalasaṃdha | a king named among the suitors at Draupadi's bridegroom choice; also a Magadha king on the Kaurava side (5.164.24); also a son of Dhritarashtra, killed by Bhima on the fourth day (6.60.24) |  |  |  |
 | **Jayatsena** | Jayatsena | a king named among the suitors at Draupadi's bridegroom choice; also one of the five secret names Yudhishthira gives the Pandavas in Virata's city (4.5.30); also a son of Dhritarashtra (6.73.6) |  |  |  |
 | **Maniman** | Maṇimat | a king named among the suitors at Draupadi's bridegroom choice; also a rakshasa, friend of Kubera, killed by Bhima on Gandhamadana (3.157.52–68) |  |  | Manimat |
-| **Nila** | Nīla | a king named among the suitors at Draupadi's bridegroom choice; also King Nila of Mahishmati, protected by Agni (2.28.11); also a monkey chief who kills Pramathin; also a king Drupada names among the allies to send for; King Nila of Mahishmati fights for Duryodhana (5.4.21) |  |  |  |
+| **Nila** | Nīla | a king named among the suitors at Draupadi's bridegroom choice; also King Nila of Mahishmati, protected by Agni (2.28.11); also a monkey chief who kills Pramathin; also a king Drupada names among the allies to send for; King Nila of Mahishmati fights for Duryodhana (5.4.21); also lord of Anupa, Bhima's friend, wounded by Ashvatthama (6.89.14) |  |  |  |
 | **Paundraka Vasudeva** | Pauṇḍraka Vāsudeva | king of the Pundras, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Rochamana** | Rocamāna | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Samudrasena** | Samudrasena | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
-| **Satyadhriti** | Satyadhṛti | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Satyadhriti** | Satyadhṛti | a king named among the suitors at Draupadi's bridegroom choice; also Suchitta's son, a warrior on the Pandava side (6.89.12) |  |  |  |
 | **Senabindu** | Senābindu | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Shala** | Śala | a king named among the suitors at Draupadi's bridegroom choice; also the eldest son of Parikshit of Ayodhya, killed for keeping Vamadeva's horses (3.190.43–69) |  |  |  |
 | **Shreniman** | Śreṇimat | a king named among the suitors at Draupadi's bridegroom choice |  |  | Shrenimat |
