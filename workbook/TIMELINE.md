@@ -55,6 +55,6 @@ withdrawal. The Gita and the battle are told in flashback from the tenth day
 | 5 | 6.65–70 | crocodile / hawk | Satyaki and Bhurishravas | Satyaki's ten sons (by Bhurishravas, 6.70.24) |
 | 6 | 6.71–75 | heron / crocodile | The bewildering weapon; Bhima fells Duryodhana's banner | Dushkarna (by Shatanika, 6.75.48) |
 | 7 | 6.76–82 | circle / thunderbolt | Yudhishthira's anger; an hour like heaven | Shankha (by Drona, 6.78.21) |
-| 8 | 6.83– | ocean / horned | Bhima kills eight sons; Iravan's death | Sunabha and seven more sons (by Bhima, 6.84), five sons of Subala (by Iravan), Iravan (by Alambusa, 6.86.69) |
+| 8 | 6.83–92 | ocean / horned | Bhima kills seventeen sons; Iravan's death; Ghatotkacha's illusion; Bhagadatta's elephant | Sunabha and seven more sons (by Bhima, 6.84), five sons of Subala (by Iravan), Iravan (by Alambusa, 6.86.69), nine more sons (by Bhima, 6.92.22–26) |
 
 | Night after 18 | Ashvatthama, Kripa and Kritavarma raid the camp | 1.2.28 | Book 10 |

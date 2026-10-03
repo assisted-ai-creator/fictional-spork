@@ -282,7 +282,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Damaghosha** | Damaghoṣa | king of Chedi, Shishupala's father |  |  |  |
 | **Dhrishtaketu** | Dhṛṣṭaketu | king of the Chedis after Shishupala; ally of the Pandavas |  |  |  |
 | **Shishupala** | Śiśupāla | king of Chedi, Jarasandha's general; killed by Krishna at the Rajasuya | Sunitha |  | Sisupala |
-| **Subahu** | Subāhu | king of the Chedis, in whose city Damayanti lives with the queen mother; also Subahu, king of the Kunindas on the Himalaya, who keeps the Pandavas' servants and chariots (3.141.24–29) |  |  |  |
+| **Subahu** | Subāhu | king of the Chedis, in whose city Damayanti lives with the queen mother; also Subahu, king of the Kunindas on the Himalaya, who keeps the Pandavas' servants and chariots (3.141.24–29); also a son of Dhritarashtra, killed by Bhima on the eighth day (6.92.26) |  |  |  |
 | **Virabahu** | Vīrabāhu | king of the Chedis, husband of Damayanti's mother's sister; father of Subahu |  |  |  |
 | **Dhundhu** | Dhundhu | asura son of Madhu and Kaitabha, who lies under the sands of Ujjanaka; killed by Kuvalashva (3.193–195) |  |  |  |
 | **Kalakeyas** | Kālakeya | danavas, sons of the asura woman Kalaka, who live in the flying city Hiranyapura; killed by Arjuna (3.170) |  |  |  |
@@ -443,6 +443,8 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Chitradarshana** | Citradarśana | a son of Dhritarashtra |  |  |  |
 | **Chitrasena** | Citrasena | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice; also the gandharva who teaches Arjuna music and dance in Indra's heaven (3.45.6-8) and, as king of the gandharvas, captures Duryodhana at Dvaitavana (3.230-231), and an apsaras (3.44.30). Same name, different beings: say which from context |  |  |  |
 | **Chitrashva** | Citrāśva | a son of Dhritarashtra |  |  |  |
+| **Dirghabahu** | Dīrghabāhu | a son of Dhritarashtra, killed by Bhima on the eighth day |  |  |  |
+| **Dirghalochana** | Dīrghalocana | a son of Dhritarashtra, killed by Bhima on the eighth day |  |  |  |
 | **Duhshala** | Duḥśalā | Dhritarashtra and Gandhari's one daughter; wife of Jayadratha |  |  | Dushala, Dussala |
 | **Duhshasana** | Duḥśāsana | second son of Dhritarashtra and Gandhari |  |  | Dushasana, Dussasana, Dushashan, Dushshasana |
 | **Durjaya** | Durjaya | a son of Dhritarashtra, carried off by the gandharvas at Dvaitavana |  |  |  |
@@ -452,10 +454,12 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Dushkarna** | Duṣkarṇa | a son of Dhritarashtra; also killed by Shatanika on the sixth day (6.75.48) |  |  |  |
 | **Dushpradharsha** | Duṣpradharṣa | a son of Dhritarashtra |  |  |  |
 | **Dushpradharshana** | Duṣpradharṣaṇa | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
-| **Kanakadhvaja** | Kanakadhvaja | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Kanakadhvaja** | Kanakadhvaja | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice; also a son of Dhritarashtra, killed by Bhima on the eighth day (6.92.26) |  |  |  |
 | **Kanakayu** | Kanakāyu | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Kundabheda** | Kuṇḍabheda | a son of Dhritarashtra, killed by Bhima on the eighth day |  |  |  |
 | **Kundadhara** | Kuṇḍadhāra | a son of Dhritarashtra, killed by Bhima on the eighth day |  |  |  |
 | **Kundaja** | Kuṇḍaja | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Kundalin** | Kuṇḍalin | a son of Dhritarashtra, killed by Bhima on the eighth day |  |  |  |
 | **Mahodara** | Mahodara | a son of Dhritarashtra, killed by Bhima on the eighth day |  |  |  |
 | **Nanda** | Nanda | a son of Dhritarashtra |  |  |  |
 | **Nandaka** | Nandaka | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
@@ -475,12 +479,14 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Suvarma** | Suvarman | a son of Dhritarashtra |  |  |  |
 | **Ugrayudha** | Ugrāyudha | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Upanandaka** | Upanandaka | a son of Dhritarashtra |  |  |  |
+| **Vairata** | Vairāṭa | a son of Dhritarashtra, killed by Bhima on the eighth day |  |  |  |
 | **Vatavega** | Vātavega | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Vikarna** | Vikarṇa | a son of Dhritarashtra who speaks for Draupadi in the hall |  |  |  |
 | **Vikata** | Vikaṭa | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Virochana** | Virocana | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice; also the daitya, Prahlada's son, in Vidura's story (2.61.59); also son of Prahlada, who stakes his life against Sudhanvan (5.35.5) |  |  |  |
 | **Vivimshati** | Viviṃśati | one of Dhritarashtra's sons |  |  | Vivinsati |
 | **Vivitsu** | Vivitsu | a son of Dhritarashtra |  |  |  |
+| **Vyudhoraska** | Vyūḍhoraska | a son of Dhritarashtra, killed by Bhima on the eighth day |  |  |  |
 | **Yuyutsu** | Yuyutsu | Dhritarashtra's son by a vaishya woman |  |  |  |
 | **Govasana** | Govāsana | a king on the Kaurava side, leading Kamboja chiefs and cowherds |  |  |  |
 | **Samyamani** | Sāṃyamani | a king on the Kaurava side whose son Dhrishtadyumna kills on the fourth day |  |  |  |
@@ -997,7 +1003,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vijaya** | Vijaya | one of the five secret names Yudhishthira gives the Pandavas in Virata's city (4.5.30) |  |  |  |
 | **Vishalaksha** | Viśālākṣa | a Matsya chariot fighter; the word may be an epithet ("large-eyed"); also a son of Dhritarashtra, killed by Bhima on the eighth day (6.84.14) |  |  |  |
 | **Akrura** | Akrūra | a Vrishni named among the suitors at Draupadi's bridegroom choice |  |  |  |
-| **Anadhrishti** | Anādhṛṣṭi | a Vrishni hero who comes to Indraprastha with Krishna |  |  |  |
+| **Anadhrishti** | Anādhṛṣṭi | a Vrishni hero who comes to Indraprastha with Krishna; also a son of Dhritarashtra, killed by Bhima on the eighth day (6.92.26) |  |  |  |
 | **Anakadundubhi** | Ānakadundubhi | Vasudeva, Krishna's father |  |  |  |
 | **Andhakabhoja** | Andhakabhoja | a Yadava chief whose two sons are named among the great warriors |  |  |  |
 | **Babhru** | Babhru | a Vrishni at the Rajasuya; his wife was carried off by Shishupala (2.42.10) |  |  |  |

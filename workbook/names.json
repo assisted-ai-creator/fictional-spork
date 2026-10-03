@@ -2745,7 +2745,7 @@
    "name": "Kanakadhvaja",
    "iast": "Kanakadhvaja",
    "group": "Kaurava",
-   "who": "a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice",
+   "who": "a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice; also a son of Dhritarashtra, killed by Bhima on the eighth day (6.92.26)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -3868,7 +3868,7 @@
    "name": "Anadhrishti",
    "iast": "Anādhṛṣṭi",
    "group": "Vrishni",
-   "who": "a Vrishni hero who comes to Indraprastha with Krishna",
+   "who": "a Vrishni hero who comes to Indraprastha with Krishna; also a son of Dhritarashtra, killed by Bhima on the eighth day (6.92.26)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -8272,7 +8272,7 @@
    "name": "Subahu",
    "iast": "Subāhu",
    "group": "Chedi",
-   "who": "king of the Chedis, in whose city Damayanti lives with the queen mother; also Subahu, king of the Kunindas on the Himalaya, who keeps the Pandavas' servants and chariots (3.141.24–29)",
+   "who": "king of the Chedis, in whose city Damayanti lives with the queen mother; also Subahu, king of the Kunindas on the Himalaya, who keeps the Pandavas' servants and chariots (3.141.24–29); also a son of Dhritarashtra, killed by Bhima on the eighth day (6.92.26)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -11083,6 +11083,66 @@
    "dialogue": [],
    "flag": [],
    "ref": "6.91.39"
+  },
+  {
+   "name": "Vyudhoraska",
+   "iast": "Vyūḍhoraska",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, killed by Bhima on the eighth day",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.92.22"
+  },
+  {
+   "name": "Kundalin",
+   "iast": "Kuṇḍalin",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, killed by Bhima on the eighth day",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.92.23"
+  },
+  {
+   "name": "Kundabheda",
+   "iast": "Kuṇḍabheda",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, killed by Bhima on the eighth day",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.92.26"
+  },
+  {
+   "name": "Vairata",
+   "iast": "Vairāṭa",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, killed by Bhima on the eighth day",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.92.26"
+  },
+  {
+   "name": "Dirghalochana",
+   "iast": "Dīrghalocana",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, killed by Bhima on the eighth day",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.92.26"
+  },
+  {
+   "name": "Dirghabahu",
+   "iast": "Dīrghabāhu",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra, killed by Bhima on the eighth day",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.92.26"
   }
  ],
  "not_vyasa": [
