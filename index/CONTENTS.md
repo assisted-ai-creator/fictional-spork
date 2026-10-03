@@ -2,7 +2,7 @@
 
 # Contents
 
-**345 chapters, 721,319 words.** 345 drafted
+**346 chapters, 723,512 words.** 346 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -389,5 +389,6 @@
 | 48 | [The Jewelled Serpent Banner](../novel/book-06-bhishma/48-the-jewelled-serpent-banner.md) | 6.74-75 | drafted | 1,947 |
 | 49 | [The Circle Array](../novel/book-06-bhishma/49-the-circle-array.md) | 6.76-77 | drafted | 1,460 |
 | 50 | [Shankha Falls](../novel/book-06-bhishma/50-shankha-falls.md) | 6.78-79 | drafted | 2,413 |
+| 51 | [Yudhishthira's Anger](../novel/book-06-bhishma/51-yudhishthiras-anger.md) | 6.80-81 | drafted | 2,193 |
 
-*Book 6 so far: 74,426 words.*
+*Book 6 so far: 76,619 words.*
