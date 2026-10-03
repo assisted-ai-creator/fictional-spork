@@ -2,7 +2,7 @@
 
 # Contents
 
-**304 chapters, 661,761 words.** 304 drafted
+**323 chapters, 680,412 words.** 323 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -348,5 +348,24 @@
 | 7 | [Bhishma Has Fallen](../novel/book-06-bhishma/07-bhishma-has-fallen.md) | 6.14-15 | drafted | 2,004 |
 | 8 | [The Kaurava Array](../novel/book-06-bhishma/08-the-kaurava-array.md) | 6.16-17 | drafted | 1,697 |
 | 9 | [The Thunderbolt Array](../novel/book-06-bhishma/09-the-thunderbolt-array.md) | 6.18-19 | drafted | 1,272 |
+| 10 | [Where Krishna Is](../novel/book-06-bhishma/10-where-krishna-is.md) | 6.20-22 | drafted | 1,472 |
+| 11 | [Arjuna's Despair](../novel/book-06-bhishma/11-arjunas-despair.md) | 6.23 | drafted | 967 |
+| 12 | [The Steady Mind](../novel/book-06-bhishma/12-the-steady-mind.md) | 6.24 | drafted | 1,815 |
+| 13 | [The Way of Action](../novel/book-06-bhishma/13-the-way-of-action.md) | 6.25 | drafted | 1,035 |
+| 14 | [Age after Age](../novel/book-06-bhishma/14-age-after-age.md) | 6.26 | drafted | 1,006 |
+| 15 | [Renouncing Action](../novel/book-06-bhishma/15-renouncing-action.md) | 6.27 | drafted | 716 |
+| 16 | [The Lamp out of the Wind](../novel/book-06-bhishma/16-the-lamp-out-of-the-wind.md) | 6.28 | drafted | 1,201 |
+| 17 | [Like Pearls on a Thread](../novel/book-06-bhishma/17-like-pearls-on-a-thread.md) | 6.29 | drafted | 741 |
+| 18 | [The Imperishable](../novel/book-06-bhishma/18-the-imperishable.md) | 6.30 | drafted | 726 |
+| 19 | [A Leaf, a Flower](../novel/book-06-bhishma/19-a-leaf-a-flower.md) | 6.31 | drafted | 893 |
+| 20 | [The Powers of God](../novel/book-06-bhishma/20-the-powers-of-god.md) | 6.32 | drafted | 1,003 |
+| 21 | [I Am Time](../novel/book-06-bhishma/21-i-am-time.md) | 6.33 | drafted | 1,483 |
+| 22 | [Dear to Me](../novel/book-06-bhishma/22-dear-to-me.md) | 6.34 | drafted | 488 |
+| 23 | [The Field and Its Knower](../novel/book-06-bhishma/23-the-field-and-its-knower.md) | 6.35 | drafted | 832 |
+| 24 | [The Three Qualities](../novel/book-06-bhishma/24-the-three-qualities.md) | 6.36 | drafted | 647 |
+| 25 | [The Highest Person](../novel/book-06-bhishma/25-the-highest-person.md) | 6.37 | drafted | 545 |
+| 26 | [The Divine and the Demonic](../novel/book-06-bhishma/26-the-divine-and-the-demonic.md) | 6.38 | drafted | 592 |
+| 27 | [Three Kinds of Faith](../novel/book-06-bhishma/27-three-kinds-of-faith.md) | 6.39 | drafted | 653 |
+| 28 | [Take Refuge in Me Alone](../novel/book-06-bhishma/28-take-refuge-in-me-alone.md) | 6.40 | drafted | 1,836 |
 
-*Book 6 so far: 14,868 words.*
+*Book 6 so far: 33,519 words.*
