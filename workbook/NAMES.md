@@ -468,6 +468,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Yuyutsu** | Yuyutsu | Dhritarashtra's son by a vaishya woman |  |  |  |
 | **Govasana** | Govāsana | a king on the Kaurava side, leading Kamboja chiefs and cowherds |  |  |  |
 | **Samyamani** | Sāṃyamani | a king on the Kaurava side whose son Dhrishtadyumna kills on the fourth day |  |  |  |
+| **Shatayu** | Śatāyu | a king guarding the rear of the Kaurava array |  |  |  |
 | **Adhiratha** | Adhiratha | the charioteer (suta) who raised Karna |  |  |  |
 | **Jayadratha** | Jayadratha | king of the Sindhus; Duhshala's husband | Saindhava |  |  |
 | **Karna** | Karṇa | Kunti's first son, by the Sun, born with armour and earrings; raised by the charioteer Adhiratha and Radha | Vasushena, Radheya, Vaikartana, Suta's son, Vrisha | Radheya | Karan, Karn, Vasusena |
