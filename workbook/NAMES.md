@@ -593,7 +593,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Vidura** | Vidura | son of Vyasa and a serving woman; Dharma born as a man; wise counsellor; also a proud kshatriya woman who rouses her son Sanjaya; not the steward (5.131) | Kshattri |  |  |
 | **Rukmangada** | Rukmāṅgada | son of Shalya |  |  |  |
 | **Rukmaratha** | Rukmaratha | son of Shalya |  |  |  |
-| **Shalya** | Śalya | king of Madra, Madri's brother |  |  | Salya |
+| **Shalya** | Śalya | king of Madra, Madri's brother | Artayani |  | Salya |
 | **Ambuvicha** | Ambuvīca | an ancient king of Magadha in Karna's tale, who kept his throne though helpless |  |  |  |
 | **Asti** | Asti | Jarasandha's daughter, Kamsa's wife |  |  |  |
 | **Dibhaka** | Ḍibhaka | one of Jarasandha's two great warriors; drowned himself in the Yamuna |  |  |  |
