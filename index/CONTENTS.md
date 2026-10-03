@@ -2,7 +2,7 @@
 
 # Contents
 
-**346 chapters, 723,512 words.** 346 drafted
+**347 chapters, 724,645 words.** 347 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -390,5 +390,6 @@
 | 49 | [The Circle Array](../novel/book-06-bhishma/49-the-circle-array.md) | 6.76-77 | drafted | 1,460 |
 | 50 | [Shankha Falls](../novel/book-06-bhishma/50-shankha-falls.md) | 6.78-79 | drafted | 2,413 |
 | 51 | [Yudhishthira's Anger](../novel/book-06-bhishma/51-yudhishthiras-anger.md) | 6.80-81 | drafted | 2,193 |
+| 52 | [An Hour Like Heaven](../novel/book-06-bhishma/52-an-hour-like-heaven.md) | 6.82 | drafted | 1,133 |
 
-*Book 6 so far: 76,619 words.*
+*Book 6 so far: 77,752 words.*
