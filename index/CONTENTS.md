@@ -2,7 +2,7 @@
 
 # Contents
 
-**364 chapters, 754,846 words.** 364 drafted
+**365 chapters, 757,648 words.** 365 drafted
 
 
 ## Book 1: Adi Parva, *The Beginnings*
@@ -408,5 +408,6 @@
 | 67 | [Drona Reads the Omens](../novel/book-06-bhishma/67-drona-reads-the-omens.md) | 6.108 | drafted | 896 |
 | 68 | [Bhishma Is the Stake](../novel/book-06-bhishma/68-bhishma-is-the-stake.md) | 6.109-110 | drafted | 1,864 |
 | 69 | [Weary of This Body](../novel/book-06-bhishma/69-weary-of-this-body.md) | 6.111 | drafted | 874 |
+| 70 | [Like Rain to a Man in the Heat](../novel/book-06-bhishma/70-like-rain-to-a-man-in-the-heat.md) | 6.112 | drafted | 2,802 |
 
-*Book 6 so far: 107,953 words.*
+*Book 6 so far: 110,755 words.*
