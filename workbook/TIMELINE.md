@@ -56,5 +56,7 @@ withdrawal. The Gita and the battle are told in flashback from the tenth day
 | 6 | 6.71–75 | heron / crocodile | The bewildering weapon; Bhima fells Duryodhana's banner | Dushkarna (by Shatanika, 6.75.48) |
 | 7 | 6.76–82 | circle / thunderbolt | Yudhishthira's anger; an hour like heaven | Shankha (by Drona, 6.78.21) |
 | 8 | 6.83–92 | ocean / horned | Bhima kills seventeen sons; Iravan's death; Ghatotkacha's illusion; Bhagadatta's elephant | Sunabha and seven more sons (by Bhima, 6.84), five sons of Subala (by Iravan), Iravan (by Alambusa, 6.86.69), nine more sons (by Bhima, 6.92.22–26) |
+| 9 | 6.93–103 | all-sides / (counter-array) | Duryodhana's plea; Krishna runs at Bhishma with the whip; at night Bhishma tells the Pandavas how he may be killed | |
+| 10 | 6.104–114 | (not named) / Shikhandi in front | Bhishma, weary of life, falls on the bed of arrows a little before sunset | Shatanika, Virata's brother (by Bhishma, 6.113.24); Bhishma falls (by Arjuna, behind Shikhandi, 6.114.81) |
 
 | Night after 18 | Ashvatthama, Kripa and Kritavarma raid the camp | 1.2.28 | Book 10 |
