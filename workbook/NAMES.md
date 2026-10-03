@@ -676,8 +676,8 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Satyadharma** | Satyadharman | a Somaka fighter on the Pandava side |  |  |  |
 | **Satyajit** | Satyajit | a son of Drupada |  |  |  |
 | **Shikhandi** | Śikhaṇḍin | Drupada's child, born a daughter, who became a man; Amba reborn | Shikhandini (as a girl) |  | Shikhandin, Sikhandi, Shikhandee |
-| **Uttamaujas** | Uttamaujas | a Panchala warrior on the Pandava side |  |  |  |
-| **Yudhamanyu** | Yudhāmanyu | a Panchala warrior on the Pandava side |  |  |  |
+| **Uttamaujas** | Uttamaujas | a Panchala warrior on the Pandava side; also a Panchala prince who guards Arjuna's right wheel (6.95.21) |  |  |  |
+| **Yudhamanyu** | Yudhāmanyu | a Panchala warrior on the Pandava side; also a Panchala prince who guards Arjuna's left wheel (6.95.21) |  |  |  |
 | **Abhimanyu** | Abhimanyu | son of Arjuna and Subhadra | Saubhadra |  |  |
 | **Arjuna** | Arjuna | third son of Kunti, by Indra; the great archer | Partha, Dhananjaya, Phalguna, Kiritin, Bibhatsu, Savyasachin, Gudakesha, Jishnu, Vijaya | Partha, Dhananjaya | Arjun |
 | **Bhima** | Bhīma | second son of Kunti, by Vayu the wind; immensely strong; also the name of the king of Vidarbha, Damayanti's father (3.50.5), inside Brihadashva's tale only; also a son of Dhritarashtra, killed by Bhima on the fourth day (6.60.25) | Bhimasena, Vrikodara | Bhimasena, Vrikodara | Bheem, Bheema, Bhim |
