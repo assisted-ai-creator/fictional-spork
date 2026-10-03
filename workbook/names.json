@@ -2899,7 +2899,7 @@
    "name": "Jayatsena",
    "iast": "Jayatsena",
    "group": "Suitor",
-   "who": "a king named among the suitors at Draupadi's bridegroom choice; also one of the five secret names Yudhishthira gives the Pandavas in Virata's city (4.5.30)",
+   "who": "a king named among the suitors at Draupadi's bridegroom choice; also one of the five secret names Yudhishthira gives the Pandavas in Virata's city (4.5.30); also a son of Dhritarashtra (6.73.6)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -4176,7 +4176,7 @@
    "name": "Jaya",
    "iast": "Jaya",
    "group": "Deity",
-   "who": "a god who takes up a pestle at Khandava; also a Kaurava-side player at the dice game (2.52.13); also a name of Arjuna (3.155.2); also one of the five secret names Yudhishthira gives the Pandavas in Virata's city (4.5.30); also a Kaurava warrior who defends Karna (4.49.7)",
+   "who": "a god who takes up a pestle at Khandava; also a Kaurava-side player at the dice game (2.52.13); also a name of Arjuna (3.155.2); also one of the five secret names Yudhishthira gives the Pandavas in Virata's city (4.5.30); also a Kaurava warrior who defends Karna (4.49.7); also a son of Dhritarashtra (6.73.6)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -10578,7 +10578,7 @@
    "name": "Sudarshana",
    "iast": "Sudarśana",
    "group": "Catalogue",
-   "who": "a king, the jewel of the gods, freed by Krishna from prison",
+   "who": "a king, the jewel of the gods, freed by Krishna from prison; also a son of Dhritarashtra (6.73.6)",
    "aka": [],
    "dialogue": [],
    "flag": [],
@@ -10913,6 +10913,46 @@
    "dialogue": [],
    "flag": [],
    "ref": "6.71.21"
+  },
+  {
+   "name": "Durmada",
+   "iast": "Durmada",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.73.6"
+  },
+  {
+   "name": "Charuchitra",
+   "iast": "Cārucitra",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.73.7"
+  },
+  {
+   "name": "Suvarma",
+   "iast": "Suvarman",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.73.7"
+  },
+  {
+   "name": "Dushkarna",
+   "iast": "Duṣkarṇa",
+   "group": "Kaurava",
+   "who": "a son of Dhritarashtra",
+   "aka": [],
+   "dialogue": [],
+   "flag": [],
+   "ref": "6.73.7"
   }
  ],
  "not_vyasa": [

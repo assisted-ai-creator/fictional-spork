@@ -222,7 +222,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shuchi** | Śuci | named in Yama's hall (2.8); also the leader of the caravan Damayanti joins (3.61.121) |  |  |  |
 | **Shvetabhadra** | Śvetabhadra | named in Kubera's hall (2.10) |  |  |  |
 | **Somaka** | Somaka | named in Yama's hall (2.8) |  |  |  |
-| **Sudarshana** | Sudarśana | a king, the jewel of the gods, freed by Krishna from prison |  |  |  |
+| **Sudarshana** | Sudarśana | a king, the jewel of the gods, freed by Krishna from prison; also a son of Dhritarashtra (6.73.6) |  |  |  |
 | **Sudyumna** | Sudyumna | named in Yama's hall (2.8) |  |  |  |
 | **Suhanu** | Suhanu | named in Varuna's hall (2.9) |  |  |  |
 | **Sumati** | Sumati | named in Varuna's hall (2.9) |  |  |  |
@@ -295,7 +295,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Budha** | Budha | the planet Mercury, son of the moon |  |  |  |
 | **Dhatri** | Dhātṛ | one of the gods who attack Krishna and Arjuna at Khandava |  |  |  |
 | **Dvapara** | Dvāpara | Kali's companion, who entered the dice against Nala |  |  |  |
-| **Jaya** | Jaya | a god who takes up a pestle at Khandava; also a Kaurava-side player at the dice game (2.52.13); also a name of Arjuna (3.155.2); also one of the five secret names Yudhishthira gives the Pandavas in Virata's city (4.5.30); also a Kaurava warrior who defends Karna (4.49.7) |  |  |  |
+| **Jaya** | Jaya | a god who takes up a pestle at Khandava; also a Kaurava-side player at the dice game (2.52.13); also a name of Arjuna (3.155.2); also one of the five secret names Yudhishthira gives the Pandavas in Virata's city (4.5.30); also a Kaurava warrior who defends Karna (4.49.7); also a son of Dhritarashtra (6.73.6) |  |  |  |
 | **Jayanta** | Jayanta | son of Indra and Shachi; also one of the five secret names Yudhishthira gives the Pandavas in Virata's city (4.5.30) |  |  |  |
 | **Kali** | Kali | the spirit of the losing throw at dice, who possessed Nala. Not Kali (Kālī), Satyavati's name |  |  |  |
 | **Kandarpa** | Kandarpa | the god of love |  |  |  |
@@ -437,12 +437,15 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Balaki** | Balākin | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Bhimabahu** | Bhīmabāhu | a son of Dhritarashtra, killed by Bhima on the fourth day |  |  |  |
 | **Bhimavegadhara** | Bhīmavegadhara | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
+| **Charuchitra** | Cārucitra | a son of Dhritarashtra |  |  |  |
 | **Chitrasena** | Citrasena | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice; also the gandharva who teaches Arjuna music and dance in Indra's heaven (3.45.6-8) and, as king of the gandharvas, captures Duryodhana at Dvaitavana (3.230-231), and an apsaras (3.44.30). Same name, different beings: say which from context |  |  |  |
 | **Duhshala** | Duḥśalā | Dhritarashtra and Gandhari's one daughter; wife of Jayadratha |  |  | Dushala, Dussala |
 | **Duhshasana** | Duḥśāsana | second son of Dhritarashtra and Gandhari |  |  | Dushasana, Dussasana, Dushashan, Dushshasana |
 | **Durjaya** | Durjaya | a son of Dhritarashtra, carried off by the gandharvas at Dvaitavana |  |  |  |
+| **Durmada** | Durmada | a son of Dhritarashtra |  |  |  |
 | **Durvishaha** | Durviṣaha | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Duryodhana** | Duryodhana | eldest son of Dhritarashtra and Gandhari; born of a portion of Kali | Suyodhana | Suyodhana | Duryodhan, Duryodan |
+| **Dushkarna** | Duṣkarṇa | a son of Dhritarashtra |  |  |  |
 | **Dushpradharsha** | Duṣpradharṣa | a son of Dhritarashtra |  |  |  |
 | **Dushpradharshana** | Duṣpradharṣaṇa | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Kanakadhvaja** | Kanakadhvaja | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
@@ -458,6 +461,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Shatrusaha** | Śatrusaha | a Kaurava chariot fighter who defends Karna |  |  |  |
 | **Sukundala** | Sukuṇḍala | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Sulochana** | Sulocana | a son of Dhritarashtra, killed by Bhima on the fourth day |  |  |  |
+| **Suvarma** | Suvarman | a son of Dhritarashtra |  |  |  |
 | **Ugrayudha** | Ugrāyudha | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Vatavega** | Vātavega | a son of Dhritarashtra, named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Vikarna** | Vikarṇa | a son of Dhritarashtra who speaks for Draupadi in the hall |  |  |  |
@@ -936,7 +940,7 @@ Edit [`names.json`](names.json), then run `python3 tools/build_index.py`. The na
 | **Dandadhara** | Daṇḍadhāra | a king named among the suitors at Draupadi's bridegroom choice |  |  |  |
 | **Dridhadhanva** | Dṛḍhadhanvan | a king named among the suitors at Draupadi's bridegroom choice |  |  | Dridhadhanvan |
 | **Jalasandha** | Jalasaṃdha | a king named among the suitors at Draupadi's bridegroom choice; also a Magadha king on the Kaurava side (5.164.24); also a son of Dhritarashtra, killed by Bhima on the fourth day (6.60.24) |  |  |  |
-| **Jayatsena** | Jayatsena | a king named among the suitors at Draupadi's bridegroom choice; also one of the five secret names Yudhishthira gives the Pandavas in Virata's city (4.5.30) |  |  |  |
+| **Jayatsena** | Jayatsena | a king named among the suitors at Draupadi's bridegroom choice; also one of the five secret names Yudhishthira gives the Pandavas in Virata's city (4.5.30); also a son of Dhritarashtra (6.73.6) |  |  |  |
 | **Maniman** | Maṇimat | a king named among the suitors at Draupadi's bridegroom choice; also a rakshasa, friend of Kubera, killed by Bhima on Gandhamadana (3.157.52–68) |  |  | Manimat |
 | **Nila** | Nīla | a king named among the suitors at Draupadi's bridegroom choice; also King Nila of Mahishmati, protected by Agni (2.28.11); also a monkey chief who kills Pramathin; also a king Drupada names among the allies to send for; King Nila of Mahishmati fights for Duryodhana (5.4.21) |  |  |  |
 | **Paundraka Vasudeva** | Pauṇḍraka Vāsudeva | king of the Pundras, named among the suitors at Draupadi's bridegroom choice |  |  |  |
